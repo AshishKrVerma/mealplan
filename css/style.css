@@ -405,5 +405,9 @@ h1, h2, h3 { font-family: var(--serif); line-height: 1.25; margin: 0; }
   .board { grid-template-columns: 1fr 1fr; }
   .day-col { min-height: 0; }
   .result-count { width: 100%; order: 5; }
-  .chip { padding: 8px 15px; }
+  .chip { padding: 8px 12px; }
+  /* keep Filters + Favorites + Sort on one row: the select yields its
+     natural width (longest option) and shrinks into the leftover space */
+  .toolbar { gap: 8px; }
+  #sort { flex: 1 1 0; min-width: 0; }
 }
