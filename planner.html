@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Meal Planner · Verma Family Cookbook</title>
+<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner container">
+    <a class="brand" href="index.html"><span class="brand-mark">🍳</span><span>Verma Family Cookbook</span></a>
+    <a class="back-link" href="index.html">← All recipes</a>
+  </div>
+</header>
+
+<main class="container planner-page">
+  <div class="planner-head">
+    <h1>🗓 This Week's Plan</h1>
+    <button id="clear-week" class="link-btn">Clear week</button>
+  </div>
+  <section id="board" class="board" aria-label="Weekly plan"></section>
+
+  <section class="shop-section">
+    <div class="shop-head">
+      <h2>🛒 Shopping List</h2>
+      <div class="shop-actions">
+        <button id="copy-list" class="fav-toggle">📋 Copy list</button>
+        <button id="clear-ticks" class="link-btn">Untick all</button>
+      </div>
+    </div>
+    <p id="shop-empty" class="empty" hidden>Plan some meals above and the combined shopping list appears here.</p>
+    <ul id="shop" class="shop-list"></ul>
+  </section>
+
+  <section class="data-section">
+    <h2>💾 Backup</h2>
+    <p class="data-note">Favorites, ratings, notes, cooking history and this plan live only in this browser. Export a backup file once in a while; import it to restore or move to another device.</p>
+    <div class="shop-actions">
+      <button id="export-data" class="fav-toggle">⬇ Export backup</button>
+      <button id="import-data" class="fav-toggle">⬆ Import backup</button>
+      <input type="file" id="import-file" accept="application/json" hidden>
+      <span id="data-msg" class="saved-msg"></span>
+    </div>
+  </section>
+</main>
+
+<div id="picker" class="picker" hidden>
+  <div class="picker-box">
+    <div class="picker-head">
+      <strong id="picker-title">Add a recipe</strong>
+      <button id="picker-close" class="link-btn">✕ Close</button>
+    </div>
+    <input id="picker-search" type="search" placeholder="Type to filter — dishes or ingredients…" autocomplete="off">
+    <ul id="picker-list"></ul>
+  </div>
+</div>
+
+<footer class="site-footer container">
+  <p>Made for the Verma kitchen</p>
+</footer>
+
+<script src="js/util.js"></script>
+<script src="js/store.js"></script>
+<script src="recipes/manifest.js"></script>
+<script src="js/loader.js"></script>
+<script src="js/planner.js"></script>
+</body>
+</html>

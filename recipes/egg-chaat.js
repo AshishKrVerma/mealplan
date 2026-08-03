@@ -1,0 +1,51 @@
+window.RECIPES.push({
+  id: "egg-chaat",
+  name: "Egg Chaat",
+  emoji: "🥗",
+  category: "Eggs",
+  mealType: ["Dinner", "Side Dish"],
+  veg: false,
+  description: "Boiled eggs turned into chaat: onion, tomato, chaat masala, lemon and a landslide of sev. High-protein, zero-guilt, suspiciously addictive.",
+  difficulty: "Easy",
+  equipment: ["Gas Stove"],
+  prepTimeMin: 10,
+  cookTimeMin: 12,
+  servings: "2–3",
+  onePot: true,
+  proteinLevel: "High",
+  leftoverRating: 1,
+  ingredients: [
+    "6 eggs",
+    "1 onion, finely chopped",
+    "1 tomato, deseeded and finely chopped",
+    "1 green chilli, minced",
+    "1 tsp chaat masala, 1/4 tsp roasted cumin powder, 1/4 tsp chilli powder",
+    "Juice of half a lemon",
+    "2 tbsp chopped coriander",
+    "3–4 tbsp sev (nylon sev if you can get it)",
+    "Optional: 2 tbsp green chutney or a swirl of sweet tamarind chutney",
+    "Salt to taste"
+  ],
+  shoppingList: [
+    "Eggs (1 tray)",
+    "Onion (1), Tomato (1)",
+    "Sev (1 packet)",
+    "Chaat masala (pantry check)",
+    "Lemon, green chilli, coriander",
+    "Green chutney or tamarind chutney (optional)"
+  ],
+  preparation: [
+    "Boil the eggs 10 minutes from boiling water, cool in cold water, peel and quarter them.",
+    "Chop onion, tomato, chilli and coriander while the eggs boil — the whole dish is assembly after that."
+  ],
+  steps: [
+    "Arrange the quartered eggs on a plate in one layer, yolks facing up like they're posing.",
+    "Scatter the onion, tomato and green chilli evenly over the top.",
+    "Dust with chaat masala, roasted cumin, chilli powder and a little salt — go light on salt, chaat masala already carries some.",
+    "Squeeze the lemon over everything and drizzle the chutneys if using.",
+    "Finish with coriander and a generous handful of sev at the very last second, and eat immediately while the sev still crunches."
+  ],
+  storage: "Assembled chaat doesn't keep — sev goes soggy in minutes. Boiled eggs alone keep 4 days in the fridge.",
+  reheating: "None needed; it's served at room temperature. Just assemble fresh.",
+  notes: "This is the 9 pm 'I need protein but not a project' dinner. A spoon of whisked curd over the eggs before the toppings turns it into dahi egg chaat. Doubles as a very good party starter."
+});

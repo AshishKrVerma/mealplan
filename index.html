@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Verma Family Cookbook</title>
+<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner container">
+    <a class="brand" href="index.html"><span class="brand-mark">🍳</span><span>Verma Family Cookbook</span></a>
+    <div class="search-wrap">
+      <input id="search" type="search" placeholder="Search dishes or ingredients — try bhindi, anda, paneer…" autocomplete="off" aria-label="Search recipes and ingredients">
+    </div>
+    <a class="nav-link" href="planner.html">🗓 Planner</a>
+  </div>
+</header>
+
+<main class="container">
+  <div class="toolbar">
+    <button id="filter-toggle" class="chip filter-toggle" aria-expanded="false">⚙ Filters<span id="filter-badge" class="badge" hidden></span></button>
+    <label class="fav-only chip"><input type="checkbox" id="fav-only"> ♥ Favorites</label>
+    <select id="sort" aria-label="Sort recipes">
+      <option value="name">Sort: Name</option>
+      <option value="time">Sort: Quickest first</option>
+      <option value="rating">Sort: My rating</option>
+      <option value="rotation">Sort: Not cooked in a while</option>
+    </select>
+    <p id="result-count" class="result-count"></p>
+  </div>
+
+  <section id="filters" class="filters" aria-label="Filters" hidden></section>
+
+  <section id="grid" class="grid" aria-live="polite"></section>
+  <p id="empty" class="empty" hidden>No recipes match. <button id="clear-filters" class="link-btn">Clear everything</button></p>
+</main>
+
+<footer class="site-footer container">
+  <p>Made for the Verma kitchen · Add recipes: see <strong>README.md</strong> · Favorites, ratings &amp; notes live in this browser — back them up from the <a href="planner.html">Planner</a> page</p>
+</footer>
+
+<script src="js/util.js"></script>
+<script src="js/store.js"></script>
+<script src="recipes/manifest.js"></script>
+<script src="js/loader.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
