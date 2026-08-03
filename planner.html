@@ -5,6 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Meal Planner · Verma Family Cookbook</title>
 <link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#f8f3ec">
+<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -45,6 +48,14 @@
       <span id="data-msg" class="saved-msg"></span>
     </div>
   </section>
+
+  <section class="data-section">
+    <h2>📲 App</h2>
+    <p class="data-note">This device keeps an offline copy of the site so it opens fast even without internet. New recipes and changes arrive on their own within a visit or two — or tap below to fetch everything fresh right now. Your favorites, notes and plans are never affected.</p>
+    <div class="shop-actions">
+      <button id="app-update" class="fav-toggle">⟳ Get latest version</button>
+    </div>
+  </section>
 </main>
 
 <div id="picker" class="picker" hidden>
@@ -67,5 +78,6 @@
 <script src="recipes/manifest.js"></script>
 <script src="js/loader.js"></script>
 <script src="js/planner.js"></script>
+<script src="js/update.js"></script>
 </body>
 </html>
