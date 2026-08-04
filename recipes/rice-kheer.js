@@ -32,7 +32,7 @@ window.RECIPES.push({
   ],
   preparation: [
     "Rinse and soak the rice 15 minutes; drain.",
-    "Chop the nuts. Rub 1 tsp ghee on the inside base of the cooker — it helps the milk not stick."
+    "Chop the nuts, and soak the saffron strands in 1 tbsp warm milk if using. Rub 1 tsp ghee on the inside base of the cooker — it helps the milk not stick."
   ],
   steps: [
     "Pour the milk into the ghee-rubbed pressure cooker, add the drained rice, and bring to a gentle boil on medium, stirring so nothing sticks.",

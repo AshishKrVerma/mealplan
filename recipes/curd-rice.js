@@ -15,7 +15,7 @@ window.RECIPES.push({
   proteinLevel: "Medium",
   leftoverRating: 3,
   ingredients: [
-    "2 cups cooked rice, slightly overcooked and soft (leftover rice works well)",
+    "2 cups cooked rice, slightly overcooked and soft — from 2/3 cup raw rice cooked with extra water (leftover rice works well too)",
     "1.5 cups fresh curd, whisked smooth",
     "1/4 cup milk (keeps it from turning sour)",
     "Salt to taste",
@@ -34,6 +34,7 @@ window.RECIPES.push({
     "Rice (if none left over)"
   ],
   preparation: [
+    "Cooking fresh? Boil 2/3 cup rice with extra water (about 1 : 3) until properly soft — for curd rice, mushy is correct, not a mistake.",
     "Mash the warm rice with the back of a spoon or your hand until soft and slightly creamy — grainy curd rice is a missed opportunity.",
     "Let the rice cool to just-warm before the curd goes in; hot rice splits curd."
   ],

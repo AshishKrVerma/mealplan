@@ -36,7 +36,7 @@ window.RECIPES.push({
     "Kashmiri chilli powder (pantry check)"
   ],
   preparation: [
-    "Marinate chicken strips in the tikka marinade for 15 minutes (skip entirely if using leftover tikka).",
+    "Make the tikka marinade: stir the curd, ginger-garlic paste, Kashmiri chilli powder, garam masala, kasuri methi and a good pinch of salt into a smooth paste. Coat the chicken strips and let them sit 15 minutes (skip entirely if using leftover tikka).",
     "Slice onion and toss with lemon and chaat masala; mix the curd spread. Line everything up assembly-station style."
   ],
   steps: [

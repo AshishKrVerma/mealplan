@@ -36,7 +36,7 @@ window.RECIPES.push({
     "Kashmiri chilli powder (pantry check)"
   ],
   preparation: [
-    "Mix the marinade into the chicken and let it sit 15 minutes (longer if the fridge allows).",
+    "Make the marinade: stir the curd, ginger-garlic paste, Kashmiri chilli powder, garam masala, turmeric and salt together in a bowl. Mix it into the chicken and let it sit 15 minutes (longer if the fridge allows).",
     "Slice onion and tomato thin, soften the butter, and line up bread and chutney assembly-line style."
   ],
   steps: [

@@ -35,7 +35,7 @@ window.RECIPES.push({
     "Honey"
   ],
   preparation: [
-    "Rub the chicken with the marinade and let it sit 15 minutes while you chop everything else.",
+    "Mix the ginger-garlic paste, red chilli powder, cumin powder, lemon juice and salt into a quick marinade. Rub it over the chicken and let it sit 15 minutes while you chop everything else.",
     "Whisk all dressing ingredients in a small bowl until smooth; taste — it should be tangy, lightly sweet, and something you'd happily eat with a spoon.",
     "Dice the vegetables, boil or microwave the corn, and build the base of the bowls."
   ],

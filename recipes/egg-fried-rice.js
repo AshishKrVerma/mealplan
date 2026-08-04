@@ -15,7 +15,7 @@ window.RECIPES.push({
   proteinLevel: "Medium",
   leftoverRating: 3,
   ingredients: [
-    "3 cups cooked rice, day-old and cold (fresh rice turns to mush)",
+    "3 cups cooked rice, cold — from 1 cup raw rice; day-old is ideal (hot fresh rice turns to mush)",
     "3 eggs, beaten with a pinch of salt",
     "1 small onion, finely chopped; 1/2 capsicum, small dice",
     "2 spring onions, whites and greens separated (or skip)",
@@ -34,6 +34,7 @@ window.RECIPES.push({
     "Rice (if none left over)"
   ],
   preparation: [
+    "No day-old rice? Cook 1 cup rice (1 : 1.6 water), spread it hot on a wide plate and cool completely — 20–30 minutes under a fan or 15 in the fridge — and it fries nearly as well.",
     "Break the cold rice apart with your fingers so there are no clumps — this is the whole game.",
     "Chop everything before you light the stove; once the pan is hot there is no chopping time."
   ],

@@ -15,7 +15,7 @@ window.RECIPES.push({
   proteinLevel: "Low",
   leftoverRating: 3,
   ingredients: [
-    "3 cups cooked rice, cooled and grains separated (day-old is ideal)",
+    "3 cups cooked rice, cooled and grains separated — from 1 cup raw rice (day-old is ideal)",
     "3 tbsp peanuts",
     "1 tbsp chana dal, 1 tsp urad dal",
     "1 tsp mustard seeds, 10–12 curry leaves, 2 dried red chillies, 1 green chilli chopped",
@@ -36,6 +36,7 @@ window.RECIPES.push({
     "Rice (if none left over)"
   ],
   preparation: [
+    "Starting from scratch? Cook 1 cup rice (1 : 1.6 water), then spread it out to cool completely so the grains firm up and separate.",
     "Spread the rice on a plate and break up any clumps with a fork — cold, separate grains take the tempering best.",
     "Juice the lemon and keep it ready; it goes in off the heat."
   ],

@@ -15,7 +15,7 @@ window.RECIPES.push({
   proteinLevel: "High",
   leftoverRating: 4,
   ingredients: [
-    "3 cups cooked, cooled rice (day-old is best)",
+    "3 cups cooked, cooled rice — from 1 cup raw rice (day-old is best; see prep for the same-day route)",
     "250 g boneless chicken, small dice",
     "2 eggs",
     "1 cup chopped vegetables: carrot, beans, capsicum, spring onion",
@@ -32,6 +32,7 @@ window.RECIPES.push({
     "Garlic"
   ],
   preparation: [
+    "No leftover rice? Cook 1 cup rice (1 : 1.6 water), spread it hot on a wide plate and cool completely — 20–30 minutes under the fan, or 15 in the fridge, dries the grains out nicely.",
     "Cold rice only — fresh hot rice turns to mush. Break up clumps with wet fingers.",
     "Dice chicken small so it cooks in minutes; chop all vegetables before starting."
   ],

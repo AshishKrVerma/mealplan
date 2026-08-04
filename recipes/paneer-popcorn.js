@@ -32,7 +32,7 @@ window.RECIPES.push({
     "Ketchup or mint chutney"
   ],
   preparation: [
-    "Whisk the slurry to a smooth, thick-coating consistency (like dosa batter).",
+    "Make the slurry: whisk the besan, cornflour, chilli powder, garam masala and salt with about 5 tbsp water until smooth and thick-coating (like dosa batter).",
     "Season the breadcrumbs with herbs/masala on a plate.",
     "Line up: paneer → slurry → crumbs. Coat each cube, pressing crumbs on gently."
   ],
