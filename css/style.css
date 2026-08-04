@@ -355,6 +355,13 @@ h1, h2, h3 { font-family: var(--serif); line-height: 1.25; margin: 0; }
 .shop-detail { color: var(--muted); font-size: 0.8rem; margin: 4px 0 0 27px; }
 .data-note { color: var(--muted); font-size: 0.92rem; max-width: 640px; }
 .saved-msg { color: var(--veg); font-weight: 600; }
+.app-version {
+  display: inline-block; vertical-align: middle; margin-left: 8px;
+  font-size: 0.78rem; font-weight: 700; letter-spacing: 0.02em;
+  color: var(--accent-dark); background: var(--accent-soft);
+  padding: 3px 12px; border-radius: 999px;
+}
+.app-version:empty { display: none; }
 
 /* recipe picker overlay */
 .picker {

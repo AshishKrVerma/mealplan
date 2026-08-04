@@ -13,6 +13,13 @@ A 100% static cookbook — no server, no build step. Just open `index.html` in a
 
 Refresh the page. Done.
 
+## Releasing an update
+
+Before pushing any change, bump `APP_VERSION` at the top of `js/update.js`
+(e.g. `"1.3"` → `"1.4"`). The number is shown in the Planner page's **📲 App**
+section header, so after tapping **⟳ Get latest version** on any device you can
+see at a glance that the update actually arrived.
+
 ## Recipe fields
 
 | Field | Values |
