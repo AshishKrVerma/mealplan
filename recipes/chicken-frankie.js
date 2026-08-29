@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Chicken Frankie",
   emoji: "🌯",
   category: "Chicken",
-  mealType: ["Dinner"],
+  mealType: ["Dinner", "Brunch", "Snack"],
   veg: false,
   description: "The Mumbai street roll: a chapati sealed with egg, rolled around spicy chicken filling and sharp vinegar onions. Dinner you can eat with one hand while defending your fries with the other.",
   difficulty: "Medium",

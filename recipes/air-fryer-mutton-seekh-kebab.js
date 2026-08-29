@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Air Fryer Mutton Seekh Kebab",
   emoji: "🍢",
   category: "Mutton",
-  mealType: ["Dinner"],
+  mealType: ["Dinner", "Snack"],
   veg: false,
   description: "Juicy, smoky-spiced keema kebabs with a proper browned crust — no charcoal, no deep fryer, no drama.",
   difficulty: "Easy",

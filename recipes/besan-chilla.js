@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Besan Chilla",
   emoji: "🫓",
   category: "Brunch",
-  mealType: ["Brunch"],
+  mealType: ["Brunch", "Snack"],
   veg: true,
   description: "Savoury gram-flour pancakes with onion and tomato — a protein-forward breakfast that's on the table in half an hour.",
   difficulty: "Easy",

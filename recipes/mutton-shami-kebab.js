@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Mutton Shami Kebab",
   emoji: "🧆",
   category: "Mutton",
-  mealType: ["Dinner"],
+  mealType: ["Dinner", "Snack"],
   veg: false,
   description: "Silky keema-and-chana-dal patties, crisped on the tawa. Make a big batch, freeze half, and future-you says thanks.",
   difficulty: "Medium",

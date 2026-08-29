@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Curd Rice (Thayir Sadam)",
   emoji: "🥛",
   category: "Rice & Pasta",
-  mealType: ["Dinner"],
+  mealType: ["Dinner", "Side Dish"],
   veg: true,
   description: "Cool, soft rice folded into seasoned curd with a crackling South-Indian tempering. On a 42°C Hyderabad evening, this is not a side dish — it is the answer.",
   difficulty: "Easy",

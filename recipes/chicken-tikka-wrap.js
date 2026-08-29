@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Chicken Tikka Wrap",
   emoji: "🌯",
   category: "Chicken",
-  mealType: ["Dinner"],
+  mealType: ["Dinner", "Brunch"],
   veg: false,
   description: "Chapati rolled around smoky tikka, crunchy onions and mint chutney with a curd spread. Works with fresh tikka or last night's leftovers — arguably better with the latter.",
   difficulty: "Easy",

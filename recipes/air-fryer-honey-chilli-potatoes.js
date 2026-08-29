@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Air Fryer Honey Chilli Potatoes",
   emoji: "🍟",
   category: "Vegetables",
-  mealType: ["Side Dish"],
+  mealType: ["Side Dish", "Snack"],
   veg: true,
   description: "Crispy potato fingers in a sticky honey-chilli glaze with sesame — the street classic, no kadai of boiling oil involved.",
   difficulty: "Medium",

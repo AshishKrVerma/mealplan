@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Malai Chicken Tikka",
   emoji: "🧀",
   category: "Chicken",
-  mealType: ["Dinner"],
+  mealType: ["Dinner", "Snack"],
   veg: false,
   description: "The mildest, silkiest tikka on the menu — chicken in a thick curd, cheese and cashew marinade, air-fried to golden. Zero chilli drama; even the pickiest eater goes back for seconds.",
   difficulty: "Easy",

@@ -26,11 +26,11 @@ see at a glance that the update actually arrived.
 |---|---|
 | `id` | unique, kebab-case, matches filename and image name |
 | `name`, `description`, `emoji` | free text; emoji is used for the placeholder art |
-| `category` | `Chicken`, `Mutton`, `Eggs`, `Vegetables`, `Rice & Pasta`, `Snacks`, `Treats`, `Brunch`, `Kitchen Basics` |
-| `mealType` | array of: `Brunch`, `Dinner`, `Side Dish`, `Dessert`, `Snack` |
+| `category` | `Chicken`, `Mutton`, `Eggs`, `Vegetables`, `Keto`, `Rice & Pasta`, `Snacks`, `Treats`, `Drinks`, `Brunch`, `Kitchen Basics` |
+| `mealType` | array of: `Brunch`, `Dinner`, `Side Dish`, `Dessert`, `Snack` — every recipe needs at least one, or it is invisible to the Meal Type filter |
 | `veg` | `true` / `false` (green/red dot on the card) |
 | `difficulty` | `Easy` or `Medium` |
-| `equipment` | array of: `Air Fryer`, `Gas Stove`, `Microwave`, `Pressure Cooker` (others show as text) |
+| `equipment` | array of: `Air Fryer`, `Gas Stove`, `Microwave`, `Pressure Cooker`. Anything else renders as plain text but is **not filterable** — leave the array empty for mixie-only recipes and mention the mixie in the steps |
 | `prepTimeMin`, `cookTimeMin` | numbers (minutes); total time is computed |
 | `servings` | free text, e.g. `"3–4"` |
 | `onePot` | `true` if it's a one-pot/one-appliance meal |

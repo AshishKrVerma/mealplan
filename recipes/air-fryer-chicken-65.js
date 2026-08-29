@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Air Fryer Chicken 65",
   emoji: "🌶️",
   category: "Chicken",
-  mealType: ["Dinner"],
+  mealType: ["Dinner", "Snack"],
   veg: false,
   description: "The Hyderabad classic without the vat of oil. Air-fried marinated chicken tossed in a sizzling curry leaf and green chilli tempering — crisp edges, juicy middle.",
   difficulty: "Easy",

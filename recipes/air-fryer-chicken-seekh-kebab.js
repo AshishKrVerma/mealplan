@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Air Fryer Chicken Seekh Kebab",
   emoji: "🍢",
   category: "Chicken",
-  mealType: ["Dinner"],
+  mealType: ["Dinner", "Snack"],
   veg: false,
   description: "Juicy chicken mince kebabs with browned edges from the air fryer — shape them on skewers if you own them, freeform logs if you don't. Nobody at the table checks.",
   difficulty: "Medium",

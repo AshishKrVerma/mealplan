@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Air Fryer Crispy Bhindi",
   emoji: "🌿",
   category: "Vegetables",
-  mealType: ["Side Dish"],
+  mealType: ["Side Dish", "Snack"],
   veg: true,
   description: "Kurkuri bhindi without the deep fry or the slime. Crisp, spiced okra that disappears from the bowl in minutes.",
   difficulty: "Easy",

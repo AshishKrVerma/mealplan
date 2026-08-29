@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Greek Yogurt Fruit Parfait",
   emoji: "🍓",
   category: "Treats",
-  mealType: ["Dessert", "Brunch"],
+  mealType: ["Dessert", "Brunch", "Snack"],
   veg: true,
   description: "Layered Greek yogurt, fruit and crunch. A dessert that is secretly 20 grams of protein.",
   difficulty: "Easy",

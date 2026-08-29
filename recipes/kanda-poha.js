@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Kanda Poha",
   emoji: "🥣",
   category: "Brunch",
-  mealType: ["Brunch"],
+  mealType: ["Brunch", "Snack"],
   veg: true,
   description: "Soft, lemony flattened rice with onions, peanuts and curry leaves. The definitive light weekend breakfast.",
   difficulty: "Easy",

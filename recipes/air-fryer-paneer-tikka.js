@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Air Fryer Paneer Tikka",
   emoji: "🧀",
   category: "Vegetables",
-  mealType: ["Dinner"],
+  mealType: ["Dinner", "Snack", "Side Dish"],
   veg: true,
   description: "Charred, smoky paneer tikka with capsicum and onion — restaurant starter, weeknight effort.",
   difficulty: "Easy",

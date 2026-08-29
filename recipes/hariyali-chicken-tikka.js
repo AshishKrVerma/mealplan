@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Hariyali Chicken Tikka",
   emoji: "🌿",
   category: "Chicken",
-  mealType: ["Dinner"],
+  mealType: ["Dinner", "Snack"],
   veg: false,
   description: "Green goddess of the tandoori world — chicken marinated in a mint-coriander-spinach paste and air-fried until charred at the edges. Sneaks greens past the most suspicious teenager.",
   difficulty: "Easy",

@@ -1,0 +1,47 @@
+window.RECIPES.push({
+  id: "mango-milkshake",
+  name: "Mango Milkshake",
+  emoji: "🥭",
+  category: "Treats",
+  mealType: ["Dessert", "Snack"],
+  veg: true,
+  description: "Ripe mango, cold milk, a scoop of ice cream. Lighter than the lassi and faster than everything else you could do with a mango.",
+  difficulty: "Easy",
+  equipment: [],
+  prepTimeMin: 8,
+  cookTimeMin: 0,
+  servings: "2",
+  onePot: true,
+  proteinLevel: "Low",
+  leftoverRating: 1,
+  ingredients: [
+    "2 ripe mangoes, chilled and cubed (about 2 cups)",
+    "300 ml cold milk",
+    "2 scoops vanilla ice cream",
+    "1–2 tbsp sugar, only if the mangoes need it",
+    "A pinch of cardamom powder",
+    "Chopped pistachios or almonds to top",
+    "5–6 ice cubes"
+  ],
+  shoppingList: [
+    "Ripe mangoes (2)",
+    "Milk (500 ml)",
+    "Vanilla ice cream (small tub)",
+    "Pistachios or almonds"
+  ],
+  preparation: [
+    "Chill the mangoes properly before cutting. Everything about this drink is better cold.",
+    "Cube over a bowl and tip the caught juice in as well.",
+    "Blend the mango on its own first and taste it. Banganapalli in season needs no sugar at all; a supermarket mango in October usually does."
+  ],
+  steps: [
+    "Blend the mango cubes alone for 20 seconds into a smooth pulp.",
+    "Add the milk, cardamom and sugar if needed. Blend 20 seconds more.",
+    "Add the ice cream and the ice, and pulse 3–4 times only — enough to fold it in without whipping the shake thin.",
+    "Pour into chilled glasses.",
+    "Top with chopped nuts and drink immediately."
+  ],
+  storage: "Fresh only. Mango shake separates within about 20 minutes.",
+  reheating: "Not applicable.",
+  notes: "Skip the ice cream and add another 100 ml milk for the everyday version — it is still very good. This is the milk-based cousin of the Mango Lassi in the Drinks section, which is thicker and curd-based. For a protein version, see Mango Protein Shake, also in Drinks."
+});

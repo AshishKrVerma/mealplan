@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Air Fryer Honey Chilli Chicken",
   emoji: "🍯",
   category: "Chicken",
-  mealType: ["Dinner"],
+  mealType: ["Dinner", "Snack"],
   veg: false,
   description: "Indo-Chinese takeaway favourite, minus the deep fryer. Crisp air-fried chicken tossed in a sticky honey-chilli-garlic sauce that disappears fast.",
   difficulty: "Easy",

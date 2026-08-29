@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Onion-Tomato Curry Base",
   emoji: "🧅",
   category: "Kitchen Basics",
-  mealType: [],
+  mealType: ["Side Dish"],
   veg: true,
   description: "The master gravy: cook once, refrigerate or freeze, and any curry becomes a 15-minute dish on a weekday.",
   difficulty: "Easy",

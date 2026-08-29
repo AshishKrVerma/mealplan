@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Egg Mayo Sandwich",
   emoji: "🥪",
   category: "Eggs",
-  mealType: ["Brunch"],
+  mealType: ["Brunch", "Snack"],
   veg: false,
   description: "Boiled eggs mashed into a curd-mayo blend — half the mayo, all the creaminess — then toasted crisp on the tawa. Café sandwich, home economics.",
   difficulty: "Easy",

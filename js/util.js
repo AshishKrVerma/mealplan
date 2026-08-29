@@ -5,7 +5,7 @@ window.Cookbook = window.Cookbook || {};
 (function (C) {
   "use strict";
 
-  C.CATEGORIES = ["Chicken", "Mutton", "Eggs", "Vegetables", "Rice & Pasta", "Snacks", "Treats", "Brunch", "Kitchen Basics"];
+  C.CATEGORIES = ["Chicken", "Mutton", "Eggs", "Vegetables", "Keto", "Rice & Pasta", "Snacks", "Treats", "Drinks", "Brunch", "Kitchen Basics"];
 
   /* [light gradient start, gradient end] used for placeholder cover art */
   C.CATEGORY_ART = {
@@ -13,9 +13,11 @@ window.Cookbook = window.Cookbook || {};
     "Mutton":         ["#f5e0d3", "#e2b494"],
     "Eggs":           ["#fff3c4", "#ffd97a"],
     "Vegetables":     ["#e4f2d5", "#b5dd8e"],
+    "Keto":           ["#dff0e8", "#9fd3bb"],
     "Rice & Pasta":   ["#f7edd8", "#e8d3a3"],
     "Snacks":         ["#f5ead2", "#e4c675"],
     "Treats":         ["#fde2ec", "#f9b8d4"],
+    "Drinks":         ["#ddeefb", "#a5cbee"],
     "Brunch":         ["#ffe9d6", "#ffc9a3"],
     "Kitchen Basics": ["#e5e9ef", "#c3ccd9"]
   };
@@ -121,6 +123,7 @@ window.Cookbook = window.Cookbook || {};
     "makai": "corn", "makka": "corn", "rava": "sooji", "suji": "sooji",
     "chawal": "rice", "makhan": "butter", "sabzi": "vegetable", "subzi": "vegetable",
     "meetha": "sweet", "laddu": "ladoo", "laddoo": "ladoo",
+    "protein powder": "whey", "chia seeds": "chia", "chia seed": "chia",
     "khichadi": "khichdi", "kichdi": "khichdi", "parantha": "paratha", "chapathi": "chapati"
   };
   var ALIAS_KEYS = Object.keys(ALIASES).sort(function (a, b) { return b.length - a.length; });

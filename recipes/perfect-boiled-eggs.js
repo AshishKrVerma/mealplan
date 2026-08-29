@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Perfect Boiled Eggs",
   emoji: "🥚",
   category: "Eggs",
-  mealType: ["Side Dish"],
+  mealType: ["Side Dish", "Snack", "Brunch"],
   veg: false,
   description: "The reference card: soft, jammy or hard — exact timings from boiling water, an ice bath, and shells that actually let go. Boil a batch on Sunday and the week gets easier.",
   difficulty: "Easy",

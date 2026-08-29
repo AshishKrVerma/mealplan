@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Chilli Chicken Stir-Fry",
   emoji: "🥡",
   category: "Chicken",
-  mealType: ["Dinner"],
+  mealType: ["Dinner", "Snack"],
   veg: false,
   description: "Indo-Chinese chilli chicken, restaurant flavour without deep frying — the chicken is seared in a hot pan instead.",
   difficulty: "Medium",

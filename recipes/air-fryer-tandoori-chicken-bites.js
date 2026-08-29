@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Air Fryer Tandoori Chicken Bites",
   emoji: "🍗",
   category: "Chicken",
-  mealType: ["Dinner"],
+  mealType: ["Dinner", "Snack"],
   veg: false,
   description: "Juicy tandoori-style chicken chunks with a charred edge, no tandoor needed. Great with mint chutney, in wraps, or over salad.",
   difficulty: "Easy",

@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Frozen Choco-Banana Pops",
   emoji: "🍌",
   category: "Treats",
-  mealType: ["Dessert"],
+  mealType: ["Dessert", "Snack"],
   veg: true,
   description: "Banana halves on sticks, dipped in melted chocolate, rolled in peanuts, frozen solid. A freezer treat a teenager can own start to finish.",
   difficulty: "Easy",

@@ -5,7 +5,7 @@
 
 /* Bump this with every deploy — it shows in the Planner page's App section
    header, so any device can confirm it's running the latest copy. */
-var APP_VERSION = "1.0";
+var APP_VERSION = "1.1";
 
 (function () {
   var ver = document.getElementById("app-version");

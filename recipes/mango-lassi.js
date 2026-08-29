@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "mango-lassi",
   name: "Mango Lassi",
   emoji: "🥭",
-  category: "Treats",
+  category: "Drinks",
   mealType: ["Dessert", "Brunch"],
   veg: true,
   description: "Thick, cold, properly mango-forward lassi on a Greek yogurt base. When it's mango season in Hyderabad, this is basically a civic duty.",

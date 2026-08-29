@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Chicken Tikka Sandwich",
   emoji: "🥪",
   category: "Chicken",
-  mealType: ["Dinner"],
+  mealType: ["Dinner", "Brunch"],
   veg: false,
   description: "Tawa-grilled sandwich stuffed with spiced tikka-style chicken, mint chutney and onions — the street-corner classic, upgraded with an actually generous amount of chicken.",
   difficulty: "Easy",

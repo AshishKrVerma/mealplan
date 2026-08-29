@@ -3,7 +3,7 @@ window.RECIPES.push({
   name: "Egg Chaat",
   emoji: "🥗",
   category: "Eggs",
-  mealType: ["Dinner", "Side Dish"],
+  mealType: ["Dinner", "Side Dish", "Snack"],
   veg: false,
   description: "Boiled eggs turned into chaat: onion, tomato, chaat masala, lemon and a landslide of sev. High-protein, zero-guilt, suspiciously addictive.",
   difficulty: "Easy",
