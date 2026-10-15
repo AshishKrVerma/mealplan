@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "acv-cucumber-salad",
   name: "Apple Cider Vinegar Cucumber",
   emoji: "🥒",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Side Dish"],
   veg: true,
   description: "Crunchy cucumber slices tossed with salt and apple cider vinegar — a 5-minute tangy side that cuts through dal chawal, kebabs and anything rich.",

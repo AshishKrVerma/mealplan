@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "palak-paneer-lite",
   name: "Palak Paneer (Lite)",
   emoji: "🥬",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Dinner"],
   veg: true,
   description: "Bright-green palak paneer that skips the cream and doesn't miss it — milk does the job. The restaurant version's fitter cousin.",

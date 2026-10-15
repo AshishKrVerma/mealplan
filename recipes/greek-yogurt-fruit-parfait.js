@@ -41,5 +41,5 @@ window.RECIPES.push({
   ],
   storage: "Yogurt mix alone keeps 2 days in the fridge. Assemble fresh — granola goes soft once layered.",
   reheating: "Not applicable — served cold.",
-  notes: "Winter version: banana + pomegranate + a pinch of cinnamon. Summer version: mango + cardamom = basically dessert shrikhand."
+  notes: "Winter version: banana + pomegranate + a pinch of cinnamon. Summer version: mango + cardamom = basically dessert shrikhand. Finishing touch: drizzle honey and a pinch of cinnamon on top, and add the granola at the last moment so it stays crunchy. A spoon of Chia Fruit Jam makes a great layer."
 });

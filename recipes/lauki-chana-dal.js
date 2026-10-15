@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "lauki-chana-dal",
   name: "Lauki Chana Dal",
   emoji: "🥒",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Dinner"],
   veg: true,
   description: "Bottle gourd and chana dal simmered together in the pressure cooker — deeply underrated comfort food that converts even lauki skeptics.",

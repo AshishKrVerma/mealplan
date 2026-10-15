@@ -45,5 +45,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 5 days — it tastes even better the next day.",
   reheating: "Pan on medium for a few minutes with a few drops of coconut oil.",
-  notes: "The long roast at the end is the whole point — keep going until it is really dark; pale beef fry is undercooked flavour. Classic with Kerala porotta, rice and dal, or appam. Coconut oil is traditional and makes a big difference to the flavour."
+  notes: "The long roast at the end is the whole point — keep going until it is really dark; pale beef fry is undercooked flavour. Classic with Kerala porotta, rice and dal, or appam. Coconut oil is traditional and makes a big difference to the flavour. Variation: the same roast works with mutton (same pressure time) or boneless chicken (skip the pressure cooker, cook covered 15 minutes, then roast)."
 });

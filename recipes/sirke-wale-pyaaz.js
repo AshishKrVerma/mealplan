@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "sirke-wale-pyaaz",
   name: "Sirke Wale Pyaaz (ACV Onions)",
   emoji: "🧅",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Side Dish"],
   veg: true,
   description: "Restaurant-style pickled onions made with apple cider vinegar — tangy, crunchy and far less sharp than raw onion. The classic partner for dal chawal, kebabs and tikka.",

@@ -49,5 +49,5 @@ window.RECIPES.push({
   storage: "Fridge 3 days, freezer 1 month. The flavour genuinely improves overnight.",
   reheating: "Stovetop simmer with a splash of hot water, or microwave 3 minutes, stirring halfway.",
   buffaloNote: "Use the same weight of boneless buffalo, cut into 3 cm pieces (a little smaller than mutton, because it is tougher). If you have time, marinate 2 hours or overnight in the fridge with 2 tbsp curd, 1 tsp ginger-garlic paste and salt; adding 1 tbsp raw papaya paste tenderises it a lot. Buffalo is very lean, so add 1 tbsp extra oil or ghee. Pressure time changes: 1 whistle on high, then 30–35 minutes on low (instead of 20), with 1/4 cup more water so the cooker does not run dry, natural release. If a piece is not fork-tender, give it 1–2 more whistles. Buffalo releases more liquid, so simmer uncovered a few extra minutes at the end to thicken the gravy.",
-  notes: "Make this on a relaxed evening and eat it twice more that week. Goes with rice, chapati, or pav."
+  notes: "Make this on a relaxed evening and eat it twice more that week. Goes with rice, chapati, or pav. Finishing touch: stir in 1 tsp ghee with a pinch of garam masala and a squeeze of lemon at the end. Variation: add 2 halved potatoes after opening the cooker and cook 1 more whistle for aloo gosht. For kids, use half the chilli and serve a spoon of curd on the side."
 });

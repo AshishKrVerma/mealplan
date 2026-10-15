@@ -50,5 +50,5 @@ window.RECIPES.push({
   storage: "Fridge 3 days, freezer 1 month. A dry masala dish that reheats better than most curries travel.",
   reheating: "Kadhai on medium with a spoon of water, or microwave 2–3 minutes covered.",
   buffaloNote: "Use the same weight of boneless buffalo, cut into 3 cm pieces (a little smaller than mutton, because it is tougher). If you have time, marinate 2 hours or overnight in the fridge with 2 tbsp curd, 1 tsp ginger-garlic paste and salt; adding 1 tbsp raw papaya paste tenderises it a lot. Buffalo is very lean, so add 1 tbsp extra oil or ghee. Pressure time changes: 1 whistle on high, then 30–35 minutes on low (instead of 20), with 1/4 cup more water so the cooker does not run dry, natural release. If a piece is not fork-tender, give it 1–2 more whistles. After pressure cooking, bhuno 3–4 minutes longer; lean buffalo takes the dark, clinging masala beautifully.",
-  notes: "This is roti food, not rice food — there's no gravy to spoon. Leftovers plus a fried egg on top is a genuinely great ten-minute dinner."
+  notes: "This is roti food, not rice food — there's no gravy to spoon. Leftovers plus a fried egg on top is a genuinely great ten-minute dinner. Finishing touch: a pinch of crushed kasuri methi and 1 tsp ghee in the last minute. Variation: add halved boiled eggs in the final bhuno for anda gosht."
 });

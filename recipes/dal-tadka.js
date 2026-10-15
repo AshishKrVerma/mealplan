@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "dal-tadka",
   name: "Dal Tadka",
   emoji: "🍜",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Dinner"],
   veg: true,
   description: "Everyday yellow dal elevated by a proper ghee tadka that hisses on arrival. The dinner that never lets you down.",

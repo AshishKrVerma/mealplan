@@ -7,7 +7,7 @@
 
   var GROUPS = [
     { key: "category", label: "Category", options: C.CATEGORIES,
-      test: function (r, sel) { return C.categoriesOf(r).some(function (c) { return sel.has(c); }); } },
+      test: function (r, sel) { return C.filterCategoriesOf(r).some(function (c) { return sel.has(c); }); } },
     { key: "equipment", label: "Equipment", options: ["Air Fryer", "Gas Stove", "Microwave", "Pressure Cooker"],
       test: function (r, sel) {
         return (r.equipment || []).some(function (e) { return sel.has(e); });
@@ -63,7 +63,12 @@
       state.sort = s.sort || "name";
       state.tokens = C.normalizeQuery(s.search || "").split(/\s+/).filter(Boolean);
       GROUPS.forEach(function (g) {
-        state.sel[g.key] = new Set((s.sel && s.sel[g.key]) || []);
+        /* drop values that no longer exist (e.g. a renamed category) — otherwise
+           they'd silently filter everything out with no chip left to untick */
+        var saved = (s.sel && s.sel[g.key]) || [];
+        var valid = saved.filter(function (v) { return g.options.indexOf(v) !== -1; });
+        if (valid.length !== saved.length) console.warn("Cookbook: ignoring stale saved filters", g.key, saved);
+        state.sel[g.key] = new Set(valid);
       });
       document.getElementById("search").value = s.search || "";
       document.getElementById("fav-only").checked = state.favOnly;

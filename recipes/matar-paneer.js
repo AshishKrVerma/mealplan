@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "matar-paneer",
   name: "Matar Paneer",
   emoji: "🍛",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Dinner"],
   veg: true,
   description: "Homestyle matar paneer in a proper onion-tomato gravy — the kind that shows up on Sunday lunch tables, minus the Sunday effort.",

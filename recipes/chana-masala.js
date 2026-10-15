@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "chana-masala",
   name: "Chana Masala",
   emoji: "🍛",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Dinner"],
   veg: true,
   description: "Chole minus the ceremony — weekday chana masala in the pressure cooker that still tastes like it took effort.",

@@ -46,5 +46,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 2 days. The capsicum softens, so it's best fresh.",
   reheating: "Hot pan for 2–3 minutes beats the microwave here; add a spoon of water.",
-  notes: "For extra-crispy chicken, air fry the marinated pieces at 200°C for 10 minutes and toss into the sauce at the end."
+  notes: "For extra-crispy chicken, air fry the marinated pieces at 200°C for 10 minutes and toss into the sauce at the end. Gravy version: add 3/4 cup water to the sauce and use 2 tsp cornflour in the slurry — perfect with fried rice. A few drops of sesame oil or an extra splash of vinegar right at the end brightens it. Same method works for paneer or gobi."
 });

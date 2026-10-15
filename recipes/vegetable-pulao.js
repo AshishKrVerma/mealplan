@@ -48,5 +48,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 2 days in a sealed box.",
   reheating: "Microwave with a sprinkle of water, covered, 2 minutes.",
-  notes: "Add paneer cubes or boiled eggs on top to make it a full meal. Serve with raita and papad. Rice-to-water ratio 1 : 1.6 is the keeper here."
+  notes: "Add paneer cubes or boiled eggs on top to make it a full meal. Serve with raita and papad. Rice-to-water ratio 1 : 1.6 is the keeper here. Finishing touch: fry a few cashews and sliced onion in 1 tsp ghee until golden and scatter on top with a pinch of garam masala. Variations: tawa pulao (add 1 tsp pav bhaji masala), or replace half the water with coconut milk for a mild coconut pulao."
 });

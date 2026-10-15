@@ -49,5 +49,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 3 days — the eggs actually taste better on day two.",
   reheating: "Simmer on the stove with a splash of water, or microwave 2 minutes covered.",
-  notes: "Halve the eggs before adding for maximum gravy absorption (messier, tastier). Leftover gravy + a fresh fried egg on rice is a legitimate lunch."
+  notes: "Halve the eggs before adding for maximum gravy absorption (messier, tastier). Leftover gravy + a fresh fried egg on rice is a legitimate lunch. Finishing touch: 1 tsp butter or ghee stirred in at the end. Variation: add halved boiled potatoes with the eggs for anda aloo curry."
 });

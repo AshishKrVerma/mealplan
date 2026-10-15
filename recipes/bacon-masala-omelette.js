@@ -43,5 +43,5 @@ window.RECIPES.push({
   ],
   storage: "Best eaten fresh.",
   reheating: "Not recommended — make it fresh, it takes 10 minutes.",
-  notes: "Cooking the onion briefly with the bacon first stops it being crunchy and raw in the omelette. Great in a pav or rolled into a roti with ketchup for an easy tiffin."
+  notes: "Cooking the onion briefly with the bacon first stops it being crunchy and raw in the omelette. Great in a pav or rolled into a roti with ketchup for an easy tiffin. Finishing touch: a pinch of chaat masala or a few drops of hot sauce on top. Variation: add a handful of sliced mushrooms with the onion."
 });

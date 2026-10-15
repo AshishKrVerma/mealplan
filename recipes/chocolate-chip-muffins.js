@@ -16,7 +16,7 @@ window.RECIPES.push({
   leftoverRating: 4,
   ingredients: [
     "Dry: 2 cups maida, 2/3 cup sugar, 2 tsp baking powder, 1/4 tsp baking soda, 1/4 tsp salt",
-    "Wet: 1 cup milk, 1/2 cup oil or melted butter, 1 egg, 1 tsp vanilla essence, 1 tsp lemon juice or vinegar",
+    "Wet: 1 cup milk, 1/2 cup oil or melted butter, 1 egg (or 1/4 cup curd for eggless), 1 tsp vanilla essence, 1 tsp lemon juice or vinegar",
     "3/4 cup chocolate chips (keep 2 tbsp for the tops)",
     "For a double-chocolate version: replace 1/4 cup maida with cocoa powder"
   ],

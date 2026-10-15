@@ -50,5 +50,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 3 days; freezes well for a month (freeze before adding milk if you plan ahead, but even after is fine).",
   reheating: "Gentle — microwave at 60% power 2 minutes or low flame with a splash of milk. Hard boiling can split the gravy.",
-  notes: "Tastes 90% of the restaurant version at maybe 40% of the fat. Leftovers make an excellent butter chicken pasta (again: don't knock it). Skip cashews and use 2 tbsp extra milk if the pack ran out."
+  notes: "Tastes 90% of the restaurant version at maybe 40% of the fat. Leftovers make an excellent butter chicken pasta (again: don't knock it). Skip cashews and use 2 tbsp extra milk if the pack ran out. Finishing touch: swirl in 1 tbsp cream or a small knob of butter just before serving; if the gravy tastes sharp, a pinch more sugar balances the tomatoes. Variation: the same gravy with paneer cubes added in the last 3 minutes makes paneer butter masala."
 });

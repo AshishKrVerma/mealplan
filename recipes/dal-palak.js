@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "dal-palak",
   name: "Dal Palak",
   emoji: "🥬",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Dinner"],
   veg: true,
   description: "Pressure-cooked dal simmered with fresh spinach, tomato and masalas, finished with a sizzling ghee-cumin-garlic tadka. Greens hidden in comfort food.",

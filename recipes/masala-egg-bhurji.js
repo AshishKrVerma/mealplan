@@ -42,5 +42,5 @@ window.RECIPES.push({
   ],
   storage: "Best eaten fresh. Fridge for 1 day at most.",
   reheating: "10–15 seconds in the microwave only — any more and it turns rubbery.",
-  notes: "Add a handful of grated cheese at the end for the teenager version. Half a capsicum, chopped fine, also works well in the base."
+  notes: "Add a handful of grated cheese at the end for the teenager version. Half a capsicum, chopped fine, also works well in the base. Finishing touch: stir in a small knob of butter and a pinch of pav bhaji masala at the very end — that is the street-cart taste. Variation: add a handful of chopped spinach with the tomato, or leftover shredded chicken."
 });

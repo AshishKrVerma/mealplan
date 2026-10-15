@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "air-fryer-gobi-manchurian",
   name: "Air Fryer Gobi Manchurian",
   emoji: "🥦",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Dinner", "Side Dish", "Snack"],
   veg: true,
   description: "Dry gobi manchurian with air-fried florets and a fast, glossy sauce toss — street-cart flavour, zero litres of oil.",

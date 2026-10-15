@@ -47,5 +47,5 @@ window.RECIPES.push({
   storage: "Fridge 3 days; freezes perfectly for a month in flat packs.",
   reheating: "Microwave 2 minutes or a quick pan toss. Add nothing — it reheats dry and beautiful.",
   buffaloNote: "Buffalo keema is leaner and slightly coarser. Ask the butcher for a double (fine) grind, add 1 tbsp extra ghee or oil, and after adding the peas simmer covered 15–20 minutes instead of 10, with 1/4 cup more water, so the mince turns tender. The masalas stay the same. Always cook mince through, with no pink left.",
-  notes: "Serve with chapati, or toast buttered pav on the tawa for keema pav. Also great stuffed into a grilled sandwich with cheese."
+  notes: "Serve with chapati, or toast buttered pav on the tawa for keema pav. Also great stuffed into a grilled sandwich with cheese. Finishing touch: a small knob of butter and a pinch of crushed kasuri methi right at the end. Variations: swap the peas for diced potatoes (keema aloo) or a bunch of chopped methi leaves (keema methi); a fried egg on top makes a great weekend breakfast."
 });

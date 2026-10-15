@@ -46,5 +46,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 2 days; broccoli softens but the flavour holds.",
   reheating: "Hot pan for 2 minutes beats the microwave (which steams the crunch away).",
-  notes: "The template accepts anything: swap broccoli for capsicum, beans or mushrooms depending on what the fridge offers. For meal-prep lunches, pack over rice — it reheats into a respectable one-bowl meal."
+  notes: "The template accepts anything: swap broccoli for capsicum, beans or mushrooms depending on what the fridge offers. For meal-prep lunches, pack over rice — it reheats into a respectable one-bowl meal. Finishing touch: a few drops of sesame oil and a sprinkle of toasted sesame seeds just before serving."
 });

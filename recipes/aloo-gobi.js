@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "aloo-gobi",
   name: "Aloo Gobi",
   emoji: "🥔",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Dinner", "Side Dish"],
   veg: true,
   description: "The classic dry potato-cauliflower sabzi, done the no-mush way. Comfort food with chapati and a bowl of curd.",
@@ -42,5 +42,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 3 days.",
   reheating: "Microwave 90 seconds, or re-toss in a dry pan for better texture.",
-  notes: "Air fryer shortcut: toss florets and potato cubes with oil, roast at 190°C for 12 minutes, then add to the pan masala at step 4 — halves the mush risk."
+  notes: "Air fryer shortcut: toss florets and potato cubes with oil, roast at 190°C for 12 minutes, then add to the pan masala at step 4 — halves the mush risk. Finishing touch: a pinch of crushed kasuri methi and a few drops of lemon at the end. Variation: add a handful of peas with the cauliflower."
 });

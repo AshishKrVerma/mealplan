@@ -40,5 +40,5 @@ window.RECIPES.push({
   ],
   storage: "Airtight jar on the counter, up to 1 week. If they soften, 3 minutes in the air fryer at 180°C brings the crunch back.",
   reheating: "Eat straight from the jar. Re-crisp 3 min at 180°C if needed.",
-  notes: "Double batch fits most air fryers in two rounds. Turn leftovers into 5-minute chana chaat: add chopped onion, tomato, lemon and sev."
+  notes: "Double batch fits most air fryers in two rounds. Turn leftovers into 5-minute chana chaat: add chopped onion, tomato, lemon and sev. Variations: peri-peri masala, or a pinch of sugar with chilli flakes for sweet-spicy chana."
 });

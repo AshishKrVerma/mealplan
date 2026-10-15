@@ -45,5 +45,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 2 days in an airtight box. Cool it quickly before refrigerating.",
   reheating: "Microwave 2 minutes covered, or re-toss in a hot pan.",
-  notes: "Swap chicken for paneer or extra egg for a veg night. A dash of chilli oil takes it up a level."
+  notes: "Swap chicken for paneer or extra egg for a veg night. A dash of chilli oil takes it up a level. Key tip: use the highest heat and your widest pan, and cook in two batches if needed — crowded rice steams. Finishing touch: a few drops of sesame oil. Variation: Schezwan fried rice — add 1–2 tbsp Schezwan sauce with the soy."
 });

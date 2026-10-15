@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "air-fryer-sweet-potato",
   name: "Air Fryer Sweet Potato (Shakarkandi)",
   emoji: "🍠",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Side Dish", "Snack"],
   veg: true,
   description: "Sweet potato wedges, par-cooked and air-fried until caramelised at the edges. Lovely with just salt — or turn it into Delhi-style shakarkandi chaat.",

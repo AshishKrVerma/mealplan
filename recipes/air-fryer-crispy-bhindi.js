@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "air-fryer-crispy-bhindi",
   name: "Air Fryer Crispy Bhindi",
   emoji: "🌿",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Side Dish", "Snack"],
   veg: true,
   description: "Kurkuri bhindi without the deep fry or the slime. Crisp, spiced okra that disappears from the bowl in minutes.",
@@ -41,5 +41,5 @@ window.RECIPES.push({
   ],
   storage: "Loses crispness within hours — make only what you'll eat.",
   reheating: "3 minutes at 180°C in the air fryer revives it reasonably; microwave makes it soggy.",
-  notes: "Same method works for thin-cut potato wedges and cauliflower florets. Serve as a side with dal-chawal."
+  notes: "Same method works for thin-cut potato wedges and cauliflower florets. Serve as a side with dal-chawal. Key tip: wash the bhindi and dry it completely before cutting — any moisture makes it slimy instead of crisp. Finishing touch: toss with thin raw onion rings and a squeeze of lemon. Variation: toss the crispy bhindi with a quick dry onion masala for kurkuri bhindi masala."
 });

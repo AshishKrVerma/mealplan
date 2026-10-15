@@ -47,5 +47,5 @@ window.RECIPES.push({
   ],
   storage: "The sauce alone keeps 3 days in the fridge — store it before adding eggs if planning ahead.",
   reheating: "Reheat the sauce in a pan, then poach fresh eggs in it. Cooked yolks don't reheat well.",
-  notes: "The sauce doubles as pasta sauce. Make once, brunch twice."
+  notes: "The sauce doubles as pasta sauce. Make once, brunch twice. Finishing touch: a drizzle of olive oil, a pinch of chilli flakes and a spoon of thick curd or crumbled paneer just before serving. Variations: green shakshuka (add 2 handfuls of spinach to the sauce), or a desi version with 1/2 tsp garam masala and plenty of coriander."
 });

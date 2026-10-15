@@ -50,5 +50,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 3 days; the gravy thickens overnight — thin with a splash of water or milk.",
   reheating: "Gentle heat only: microwave at medium 2 minutes, or a low simmer. Boiling hard can split the curd base.",
-  notes: "This is deliberately mild — the family-peace curry. Want more warmth? Add 1/4 tsp black pepper at the end rather than more chilli. Boiled eggs dropped into leftover gravy make a whole second dinner."
+  notes: "This is deliberately mild — the family-peace curry. Want more warmth? Add 1/4 tsp black pepper at the end rather than more chilli. Boiled eggs dropped into leftover gravy make a whole second dinner. Finishing touch: a pinch of saffron soaked in 1 tbsp warm milk, or a spoon of crushed fried onions on top, makes it feel festive."
 });

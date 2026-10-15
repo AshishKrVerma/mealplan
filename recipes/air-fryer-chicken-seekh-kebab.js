@@ -53,5 +53,5 @@ window.RECIPES.push({
   ],
   storage: "Cooked kebabs keep 3 days in the fridge. The raw shaped mix also freezes well for a month — air fry from frozen, adding 4–5 minutes.",
   reheating: "Air fryer 3–4 minutes at 170°C; microwave works but sacrifices the crust.",
-  notes: "Tomorrow's lunch: kebabs rolled in a chapati with chutney and onions is a five-minute seekh roll. Test-fry a marble-size piece first and adjust salt — the only reliable way with mince."
+  notes: "Tomorrow's lunch: kebabs rolled in a chapati with chutney and onions is a five-minute seekh roll. Test-fry a marble-size piece first and adjust salt — the only reliable way with mince. Finishing touch: brush the hot kebabs with melted butter and sprinkle chaat masala as they come out. Variation: shape the mix into flat patties for chicken burgers."
 });

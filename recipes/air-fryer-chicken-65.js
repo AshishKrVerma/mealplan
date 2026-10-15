@@ -51,5 +51,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 2 days in a closed box, but the crispness is a today thing.",
   reheating: "Air fryer 4 minutes at 180°C brings most of the crunch back; microwave works but makes it soft.",
-  notes: "Skip the final curd toss for a fully dry version that packs well in a lunchbox. Leftover pieces are great chopped into fried rice. Teen heat-check: use only Kashmiri chilli for colour without fire."
+  notes: "Skip the final curd toss for a fully dry version that packs well in a lunchbox. Leftover pieces are great chopped into fried rice. Teen heat-check: use only Kashmiri chilli for colour without fire. Variation: the same coating and tempering work for paneer 65 or gobi 65 — air fry 10–12 minutes instead."
 });

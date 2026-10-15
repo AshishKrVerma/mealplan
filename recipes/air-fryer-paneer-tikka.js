@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "air-fryer-paneer-tikka",
   name: "Air Fryer Paneer Tikka",
   emoji: "🧀",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Dinner", "Snack", "Side Dish"],
   veg: true,
   description: "Charred, smoky paneer tikka with capsicum and onion — restaurant starter, weeknight effort.",
@@ -44,5 +44,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 2 days.",
   reheating: "Air fryer 180°C for 3–4 minutes; a microwave makes paneer chewy if overdone — 40 seconds max.",
-  notes: "Leftovers → paneer tikka wrap or toss into masala for a quick paneer tikka masala. Soak paneer in warm salted water for 10 minutes first if it's from the freezer."
+  notes: "Leftovers → paneer tikka wrap or toss into masala for a quick paneer tikka masala. Soak paneer in warm salted water for 10 minutes first if it's from the freezer. Finishing touch: brush with melted butter as it comes out. Variation: the same marinade works on mushrooms and baby corn."
 });

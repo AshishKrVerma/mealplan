@@ -45,5 +45,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 2 days.",
   reheating: "Pan on medium with a splash of water, 2 minutes.",
-  notes: "The cornflour coating catches the sauce — that's what makes it sticky instead of watery. Steamed broccoli or green beans on the side make it a full meal. Honey burns faster than sugar, so keep the heat medium once the sauce goes in."
+  notes: "The cornflour coating catches the sauce — that's what makes it sticky instead of watery. Steamed broccoli or green beans on the side make it a full meal. Honey burns faster than sugar, so keep the heat medium once the sauce goes in. Variation: toss in a handful of blanched broccoli with the spring onions, or make it with chicken strips (skip the baking soda)."
 });

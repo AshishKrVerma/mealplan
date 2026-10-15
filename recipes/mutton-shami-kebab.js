@@ -49,5 +49,5 @@ window.RECIPES.push({
   storage: "Cooked: fridge 2 days. The real move: freeze raw shaped patties in a single layer, then stack with butter paper between — 1 month, fry from frozen.",
   reheating: "Tawa on medium 2 minutes per side, or air fryer 4 minutes at 170°C. Frozen raw patties fry straight from the freezer on low-medium, a minute or two longer per side.",
   buffaloNote: "Buffalo keema works very well here: shami kebabs are traditionally made with buffalo in many places. Same recipe, with two changes: pressure cook 1 whistle on high, then 20 minutes on low (instead of 15), and add 1 tbsp ghee when grinding the mixture, because buffalo is leaner. Make sure the dal and meat are completely soft before grinding.",
-  notes: "Shami between two slices of bread with green chutney is a legendary school-tiffin-grade sandwich. If the mixture is too soft to shape, work in a spoon of roasted besan."
+  notes: "Shami between two slices of bread with green chutney is a legendary school-tiffin-grade sandwich. If the mixture is too soft to shape, work in a spoon of roasted besan. Finishing touch: serve with a quick mint-curd chutney (thick curd, chopped mint, salt, a pinch of roasted cumin). Variation: chicken mince works the same way with 10 minutes on low pressure."
 });

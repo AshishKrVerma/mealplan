@@ -43,5 +43,5 @@ window.RECIPES.push({
   ],
   storage: "Batter (without vegetables) keeps 1 day in the fridge; cooked chillas keep 1 day but toughen.",
   reheating: "Back on a hot tawa for 1 minute each side; microwave makes them leathery.",
-  notes: "Grated lauki or carrot squeezed dry also works in the batter. Paneer-stuffed version is a genuinely filling dinner, not just breakfast."
+  notes: "Grated lauki or carrot squeezed dry also works in the batter. Paneer-stuffed version is a genuinely filling dinner, not just breakfast. Finishing touch: brush with a little butter and serve with green chutney. Variations: whisk 2 tbsp curd into the batter for a softer chilla, or sprinkle grated cheese on top before folding for the kids."
 });

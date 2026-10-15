@@ -41,5 +41,5 @@ window.RECIPES.push({
   ],
   storage: "Airtight jar, 2 weeks. Keep a spoon in the jar to avoid greasy fingers making it soggy.",
   reheating: "None needed. Revive in the air fryer, 2–3 minutes at 170°C, if monsoon humidity gets to them.",
-  notes: "Same coating works on cashews. A squeeze of lemon and chopped onion turns a bowlful into instant masala-peanut chaat."
+  notes: "Same coating works on cashews. A squeeze of lemon and chopped onion turns a bowlful into instant masala-peanut chaat. Variation: add a sprig of curry leaves for the last 2 minutes for a South-style mix."
 });

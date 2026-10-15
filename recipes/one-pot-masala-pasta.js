@@ -46,5 +46,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 2 days; the pasta absorbs sauce, so it thickens.",
   reheating: "Microwave with 2–3 tbsp water, covered, 2 minutes; stir halfway.",
-  notes: "Sneak in grated carrot or boiled corn along with the capsicum. For a protein hit, stir in leftover tandoori chicken pieces at the end."
+  notes: "Sneak in grated carrot or boiled corn along with the capsicum. For a protein hit, stir in leftover tandoori chicken pieces at the end. Finishing touch: stir in a small knob of butter with the cheese and a squeeze of lemon. Variation: creamy version — add 1/4 cup milk with the cheese at the end."
 });

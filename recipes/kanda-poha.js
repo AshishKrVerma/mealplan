@@ -43,5 +43,5 @@ window.RECIPES.push({
   ],
   storage: "Best fresh; keeps a few hours covered on the counter.",
   reheating: "Sprinkle 1 tsp water, microwave 45–60 seconds covered — comes back surprisingly well.",
-  notes: "Thick poha only — thin poha dissolves. Add peas or grated carrot along with the onion when you want it more substantial."
+  notes: "Thick poha only — thin poha dissolves. Add peas or grated carrot along with the onion when you want it more substantial. Finishing touch: fresh grated coconut along with the sev and lemon. Variation: Indori poha — top with pomegranate seeds and a pinch of jeeravan or chaat masala."
 });

@@ -51,5 +51,5 @@ window.RECIPES.push({
   storage: "Fridge 3 days, freezer 1 month — the petals soften overnight but the flavour deepens.",
   reheating: "Stovetop simmer with a splash of hot water, or microwave 3 minutes, stirring halfway.",
   buffaloNote: "Use the same weight of boneless buffalo, cut into 3 cm pieces (a little smaller than mutton, because it is tougher). If you have time, marinate 2 hours or overnight in the fridge with 2 tbsp curd, 1 tsp ginger-garlic paste and salt; adding 1 tbsp raw papaya paste tenderises it a lot. Buffalo is very lean, so add 1 tbsp extra oil or ghee. Pressure time changes: 1 whistle on high, then 30–35 minutes on low (instead of 20), with 1/4 cup more water so the cooker does not run dry, natural release. If a piece is not fork-tender, give it 1–2 more whistles. The second batch of onions still goes in after pressure cooking, exactly as written.",
-  notes: "Don't skip the separate petal fry — stirring raw onion chunks into the gravy is not do pyaza, it's just curry with regrets. Great with laccha paratha or jeera rice."
+  notes: "Don't skip the separate petal fry — stirring raw onion chunks into the gravy is not do pyaza, it's just curry with regrets. Great with laccha paratha or jeera rice. Finishing touch: a squeeze of lemon and a few raw onion rings on top. For a quicker weeknight version, see Chicken Do Pyaza."
 });

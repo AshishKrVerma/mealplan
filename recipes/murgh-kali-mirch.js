@@ -48,5 +48,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 3 days. The pepper mellows and rounds out overnight.",
   reheating: "Low flame, 5 minutes, splash of water. Never boil hard — the curd base will split.",
-  notes: "This is the keto answer to butter chicken: all the richness, none of the sugar or cashew paste. Serve with Cauliflower Rice. For a whiter, milder version use white pepper instead of black and skip the Kashmiri chilli entirely."
+  notes: "This is the keto answer to butter chicken: all the richness, none of the sugar or cashew paste. Serve with Cauliflower Rice. For a whiter, milder version use white pepper instead of black."
 });

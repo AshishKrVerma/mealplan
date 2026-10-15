@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "mushroom-masala",
   name: "Mushroom Masala",
   emoji: "🍄",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Dinner"],
   veg: true,
   description: "Button mushrooms in a robust onion-tomato masala — meaty enough that nobody asks where the chicken went.",

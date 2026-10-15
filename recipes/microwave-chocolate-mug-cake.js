@@ -46,5 +46,5 @@ window.RECIPES.push({
   ],
   storage: "None. A mug cake does not survive to become a leftover.",
   reheating: "Not applicable — 10 seconds in the microwave if it somehow went cold.",
-  notes: "Overcooking is the only way to fail: stop while the very top still looks slightly underdone. A scoop of vanilla ice cream on top is highly recommended science."
+  notes: "Overcooking is the only way to fail: stop while the very top still looks slightly underdone. A scoop of vanilla ice cream on top is highly recommended science. Variations: put a spoon of peanut butter or Nutella in the centre instead of chocolate, or add a pinch of instant coffee to deepen the chocolate flavour."
 });

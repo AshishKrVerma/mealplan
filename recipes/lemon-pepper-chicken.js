@@ -47,5 +47,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 3 days, sliced or whole, in a closed box.",
   reheating: "Microwave 60–90 seconds covered, or slice cold straight into a salad or wrap — genuinely good cold.",
-  notes: "The meal-prep MVP: cook double, slice, and it becomes tomorrow's wrap, sandwich or fried-rice protein. Thigh is more forgiving than breast if the timing gods aren't with you."
+  notes: "The meal-prep MVP: cook double, slice, and it becomes tomorrow's wrap, sandwich or fried-rice protein. Thigh is more forgiving than breast if the timing gods aren't with you. Finishing touch: add 2 crushed garlic cloves to the butter in step 4 for garlic-lemon-pepper chicken, and grate a little lemon zest over the top — zest carries more lemon flavour than juice."
 });

@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "beans-carrot-poriyal",
   name: "Beans & Carrot Poriyal",
   emoji: "🥕",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Side Dish"],
   veg: true,
   description: "French beans and carrot in the classic poriyal treatment — colourful, crunchy, and one of the rare vegetables that's still good on day three.",

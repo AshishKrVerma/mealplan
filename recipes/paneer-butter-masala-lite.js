@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "paneer-butter-masala-lite",
   name: "Paneer Butter Masala (Lite)",
   emoji: "🧈",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Dinner"],
   veg: true,
   description: "The takeaway favourite rebuilt for weeknights: silky cashew-milk gravy, one honest tablespoon of butter instead of half a slab.",

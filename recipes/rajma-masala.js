@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "rajma-masala",
   name: "Rajma Masala",
   emoji: "🫘",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Dinner"],
   veg: true,
   description: "Creamy-from-the-bean rajma in a slow-tasting, fast-cooking onion-tomato gravy. Rajma-chawal night is non-negotiable culture.",
@@ -44,5 +44,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 3 days, freezer a month — and it's famously better on day two.",
   reheating: "Simmer with a splash of water or microwave 2–3 minutes.",
-  notes: "Make the full batch even for two people; day-two rajma-chawal is the whole point. Leftovers also mash into a killer rajma quesadilla filling on chapati. Small dark rajma cooks faster than the big light one — adjust whistles."
+  notes: "Make the full batch even for two people; day-two rajma-chawal is the whole point. Leftovers also mash into a killer rajma quesadilla filling on chapati. Small dark rajma cooks faster than the big light one — adjust whistles. Finishing touch: a small knob of butter and a pinch of crushed kasuri methi just before serving gives the dhaba taste."
 });

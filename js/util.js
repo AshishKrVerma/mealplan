@@ -5,7 +5,7 @@ window.Cookbook = window.Cookbook || {};
 (function (C) {
   "use strict";
 
-  C.CATEGORIES = ["Chicken", "Mutton", "Buffalo", "Bacon", "Eggs", "Vegetables", "Keto", "Rice & Pasta", "Snacks", "Treats", "Drinks", "Brunch", "Kitchen Basics"];
+  C.CATEGORIES = ["Chicken", "Mutton", "Buffalo", "Bacon", "Eggs", "Vegetarian", "Keto", "Rice & Pasta", "Snacks", "Treats", "Drinks", "Brunch", "Kitchen Basics"];
 
   /* [light gradient start, gradient end] used for placeholder cover art */
   C.CATEGORY_ART = {
@@ -14,7 +14,7 @@ window.Cookbook = window.Cookbook || {};
     "Buffalo":        ["#efe1d6", "#c8977a"],
     "Bacon":          ["#fce4e0", "#f0a99a"],
     "Eggs":           ["#fff3c4", "#ffd97a"],
-    "Vegetables":     ["#e4f2d5", "#b5dd8e"],
+    "Vegetarian":     ["#e4f2d5", "#b5dd8e"],
     "Keto":           ["#dff0e8", "#9fd3bb"],
     "Rice & Pasta":   ["#f7edd8", "#e8d3a3"],
     "Snacks":         ["#f5ead2", "#e4c675"],
@@ -141,10 +141,18 @@ window.Cookbook = window.Cookbook || {};
   /* primary category plus any extra ones (alsoIn), e.g. a mutton recipe that also suits buffalo */
   C.categoriesOf = function (r) { return [r.category].concat(r.alsoIn || []); };
 
+  /* categories a recipe matches in the filter and search: its own, plus
+     "Vegetarian" for every veg recipe, so a veg guest sees all options at once */
+  C.filterCategoriesOf = function (r) {
+    var cats = C.categoriesOf(r);
+    if (r.veg && cats.indexOf("Vegetarian") === -1) cats.push("Vegetarian");
+    return cats;
+  };
+
   /* one searchable string per recipe: name, description, category, ingredients */
   C.haystack = function (r) {
     if (!r._hay) {
-      r._hay = (r.name + " " + (r.description || "") + " " + C.categoriesOf(r).join(" ") + " " +
+      r._hay = (r.name + " " + (r.description || "") + " " + C.filterCategoriesOf(r).join(" ") + " " +
         (r.ingredients || []).join(" ") + " " + (r.shoppingList || []).join(" ")).toLowerCase();
     }
     return r._hay;

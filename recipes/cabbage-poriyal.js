@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "cabbage-poriyal",
   name: "Cabbage Poriyal",
   emoji: "🥗",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Side Dish"],
   veg: true,
   description: "South-style cabbage with mustard seeds, curry leaves and fresh coconut — light, fast, and the reason cabbage deserves better PR.",

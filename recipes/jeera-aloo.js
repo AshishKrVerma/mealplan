@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "jeera-aloo",
   name: "Jeera Aloo",
   emoji: "🥔",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Side Dish", "Dinner"],
   veg: true,
   description: "Golden cumin-crusted potatoes in 20 minutes once they're boiled. The side dish that quietly outperforms the main course.",

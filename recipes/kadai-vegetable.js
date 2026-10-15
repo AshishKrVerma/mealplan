@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "kadai-vegetable",
   name: "Kadai Vegetable",
   emoji: "🍲",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Dinner"],
   veg: true,
   description: "Mixed vegetables in a freshly ground kadai masala with capsicum — the restaurant 'mix veg' done at home, minus the mystery cream.",

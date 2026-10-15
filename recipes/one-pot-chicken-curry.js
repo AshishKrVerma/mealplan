@@ -48,5 +48,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 3 days; freezes beautifully for a month in portion boxes.",
   reheating: "Microwave 2–3 minutes with a splash of water, or simmer on the stove.",
-  notes: "Double the batch and freeze half — this is the definition of a good-leftover curry. Eat with rice, chapati, or even pasta (don't knock it)."
+  notes: "Double the batch and freeze half — this is the definition of a good-leftover curry. Eat with rice, chapati, or even pasta (don't knock it). Finishing touch: stir in 1 tsp ghee and a pinch of crushed kasuri methi just before serving — it makes a plain curry taste dhaba-style. Variations: add 2 halved potatoes with the chicken for aloo chicken, or swap the curd for 1/2 cup coconut milk stirred in at the end for a milder South-style curry."
 });

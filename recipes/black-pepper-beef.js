@@ -44,5 +44,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 2 days.",
   reheating: "Hot pan 1–2 minutes; don't overcook or the meat tightens.",
-  notes: "The beef is cooked twice for only about 2.5 minutes in total — any longer and lean buffalo turns chewy. Make it a 'pepper steak sandwich' by stuffing it into a toasted bun with a cheese slice."
+  notes: "The beef is cooked twice for only about 2.5 minutes in total — any longer and lean buffalo turns chewy. Make it a 'pepper steak sandwich' by stuffing it into a toasted bun with a cheese slice. Variation: works the same with chicken strips — skip the baking-soda step. Finishing touch: scatter chopped spring onion greens over the top."
 });

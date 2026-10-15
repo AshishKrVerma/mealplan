@@ -77,7 +77,7 @@ window.RECIPE_FILES = [
   "perfect-boiled-eggs.js",
   "egg-chapati-roll.js",
   "chilli-egg.js",
-  /* ---- Vegetables ---- */
+  /* ---- Vegetarian ---- */
   "air-fryer-crispy-bhindi.js",
   "air-fryer-paneer-tikka.js",
   "aloo-gobi.js",

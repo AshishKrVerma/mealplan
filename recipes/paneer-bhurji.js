@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "paneer-bhurji",
   name: "Paneer Bhurji",
   emoji: "🧀",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Dinner", "Brunch"],
   veg: true,
   description: "Scrambled paneer with onion, tomato and a punchy bhurji masala. The honest answer to 'dinner in 15 minutes'.",

@@ -50,5 +50,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 3 days. The late onions soften by day two but the flavour deepens nicely.",
   reheating: "Microwave 2 minutes or a quick simmer with a splash of water.",
-  notes: "The petals are the whole point — adding all the onion at the start just makes ordinary curry. Goes best with chapati or laccha paratha. A squeeze of lemon at the table wakes up the leftovers."
+  notes: "The petals are the whole point — adding all the onion at the start just makes ordinary curry. Goes best with chapati or laccha paratha. A squeeze of lemon at the table wakes up the leftovers. Variation: paneer do pyaza — sear paneer cubes separately and add them with the onion petals."
 });

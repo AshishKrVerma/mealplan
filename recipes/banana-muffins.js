@@ -45,5 +45,5 @@ window.RECIPES.push({
   ],
   storage: "Room temperature 2 days in a box, fridge 5 days, freezer 2 months.",
   reheating: "Microwave 10–15 seconds — tastes freshly baked.",
-  notes: "This is the base for most simple muffins. Riper bananas = less sugar needed. For a crunchy top, sprinkle a little sugar on each before baking. Oven option: 180°C for 18–22 minutes."
+  notes: "This is the base for most simple muffins. Riper bananas = less sugar needed. For a crunchy top, sprinkle a little sugar on each before baking. Oven option: 180°C for 18–22 minutes. Variations: add 2 tbsp cocoa powder for chocolate-banana muffins, or swap 1/4 cup flour for oats. A thin slice of banana pressed on top before baking looks lovely."
 });

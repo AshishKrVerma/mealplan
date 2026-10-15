@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "garlic-broccoli-stir-fry",
   name: "Garlic Broccoli Stir-Fry",
   emoji: "🥦",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Side Dish"],
   veg: true,
   description: "Hot-wok broccoli with lots of garlic, a splash of soy and crushed peanuts — ready before the rice cooker beeps.",

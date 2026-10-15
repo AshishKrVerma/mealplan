@@ -2,7 +2,7 @@ window.RECIPES.push({
   id: "school-style-herb-potatoes",
   name: "School-Style Garlic Herb Potatoes",
   emoji: "🥔",
-  category: "Vegetables",
+  category: "Vegetarian",
   mealType: ["Side Dish", "Snack"],
   veg: true,
   description: "Crispy-outside, fluffy-inside buttery herb potatoes like the ones kids go crazy for at school. The secret is boiling in salty water, roughing them up, and adding the garlic-herb butter at the end.",

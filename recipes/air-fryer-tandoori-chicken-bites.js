@@ -48,5 +48,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge in an airtight box for up to 3 days. Freezes well for 1 month.",
   reheating: "Air fryer 180°C for 4–5 minutes brings the char back. Microwave works but softens the crust.",
-  notes: "Leftovers make a great next-day wrap: chapati + chicken + onion + curd + chutney. Thigh stays juicier than breast in the air fryer."
+  notes: "Leftovers make a great next-day wrap: chapati + chicken + onion + curd + chutney. Thigh stays juicier than breast in the air fryer. Finishing touch: brush the hot pieces with 1 tsp melted butter, then dust with chaat masala and crushed kasuri methi — that is the restaurant flavour. For a smoky tandoor taste, put a hot piece of charcoal in a small steel bowl inside the container with the chicken, pour 1/2 tsp ghee on it and cover for 2 minutes (dhungar). Variation: the same marinade works for paneer, mushrooms or fish — cut the cooking time to 8–10 minutes."
 });
