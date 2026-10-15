@@ -3,6 +3,7 @@ window.RECIPES.push({
   name: "Easy Rogan Josh",
   emoji: "🌶️",
   category: "Mutton",
+  alsoIn: ["Buffalo"],
   mealType: ["Dinner"],
   veg: false,
   description: "A simplified Kashmiri-style rogan josh: deep red from Kashmiri chilli, warm from fennel and dry ginger — colour and aroma, not fire.",
@@ -49,5 +50,6 @@ window.RECIPES.push({
   ],
   storage: "Fridge 3 days, freezer 1 month. Like all good mutton curries, day two is the better day.",
   reheating: "Stovetop simmer with a splash of hot water, or microwave 3 minutes, stirring halfway.",
+  buffaloNote: "Use the same weight of boneless buffalo, cut into 3 cm pieces (a little smaller than mutton, because it is tougher). If you have time, marinate 2 hours or overnight in the fridge with 2 tbsp curd, 1 tsp ginger-garlic paste and salt; adding 1 tbsp raw papaya paste tenderises it a lot. Buffalo is very lean, so add 1 tbsp extra oil or ghee. Pressure time changes: 1 whistle on high, then 30–35 minutes on low (instead of 20), with 1/4 cup more water so the cooker does not run dry, natural release. If a piece is not fork-tender, give it 1–2 more whistles. Rogan josh gets its red sheen from fat, so the extra tablespoon of ghee/oil really matters here.",
   notes: "Kashmiri chilli looks alarming in quantity but is genuinely mild — don't substitute regular chilli powder or you'll regret it. Eat with steamed rice; leftovers make a superb roti roll."
 });

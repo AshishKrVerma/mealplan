@@ -5,12 +5,13 @@ window.Cookbook = window.Cookbook || {};
 (function (C) {
   "use strict";
 
-  C.CATEGORIES = ["Chicken", "Mutton", "Bacon", "Eggs", "Vegetables", "Keto", "Rice & Pasta", "Snacks", "Treats", "Drinks", "Brunch", "Kitchen Basics"];
+  C.CATEGORIES = ["Chicken", "Mutton", "Buffalo", "Bacon", "Eggs", "Vegetables", "Keto", "Rice & Pasta", "Snacks", "Treats", "Drinks", "Brunch", "Kitchen Basics"];
 
   /* [light gradient start, gradient end] used for placeholder cover art */
   C.CATEGORY_ART = {
     "Chicken":        ["#ffe8cc", "#ffc78a"],
     "Mutton":         ["#f5e0d3", "#e2b494"],
+    "Buffalo":        ["#efe1d6", "#c8977a"],
     "Bacon":          ["#fce4e0", "#f0a99a"],
     "Eggs":           ["#fff3c4", "#ffd97a"],
     "Vegetables":     ["#e4f2d5", "#b5dd8e"],
@@ -137,10 +138,13 @@ window.Cookbook = window.Cookbook || {};
     return q;
   };
 
+  /* primary category plus any extra ones (alsoIn), e.g. a mutton recipe that also suits buffalo */
+  C.categoriesOf = function (r) { return [r.category].concat(r.alsoIn || []); };
+
   /* one searchable string per recipe: name, description, category, ingredients */
   C.haystack = function (r) {
     if (!r._hay) {
-      r._hay = (r.name + " " + (r.description || "") + " " + r.category + " " +
+      r._hay = (r.name + " " + (r.description || "") + " " + C.categoriesOf(r).join(" ") + " " +
         (r.ingredients || []).join(" ") + " " + (r.shoppingList || []).join(" ")).toLowerCase();
     }
     return r._hay;

@@ -61,7 +61,7 @@
       return '<li data-id="' + C.esc(r.id) + '">' +
         '<span class="diet ' + (r.veg ? "veg" : "nonveg") + '"></span> ' +
         C.esc(r.name) +
-        '<span class="day-item-meta">' + C.esc(r.category) + " · ⏱ " + C.fmtTime(C.totalTime(r)) + "</span></li>";
+        '<span class="day-item-meta">' + C.esc(C.categoriesOf(r).join(" / ")) + " · ⏱ " + C.fmtTime(C.totalTime(r)) + "</span></li>";
     }).join("") || '<li class="empty-li">No matches.</li>';
 
     ul.querySelectorAll("li[data-id]").forEach(function (li) {

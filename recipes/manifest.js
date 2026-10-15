@@ -43,6 +43,14 @@ window.RECIPE_FILES = [
   "bhuna-gosht.js",
   "mutton-shami-kebab.js",
   "mutton-stew.js",
+  /* ---- Buffalo ---- */
+  "chilli-beef.js",
+  "black-pepper-beef.js",
+  "mongolian-beef.js",
+  "beef-smash-burger.js",
+  "beef-bolognese.js",
+  "beef-keema-pav.js",
+  "kerala-beef-fry.js",
   /* ---- Bacon ---- */
   "air-fryer-bacon.js",
   "pan-fried-bacon.js",

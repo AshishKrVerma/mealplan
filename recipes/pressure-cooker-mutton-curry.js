@@ -3,6 +3,7 @@ window.RECIPES.push({
   name: "Pressure Cooker Mutton Curry",
   emoji: "🍖",
   category: "Mutton",
+  alsoIn: ["Buffalo"],
   mealType: ["Dinner"],
   veg: false,
   description: "Sunday-style mutton curry, weekday method: the pressure cooker does the slow-cooking for you.",
@@ -47,5 +48,6 @@ window.RECIPES.push({
   ],
   storage: "Fridge 3 days, freezer 1 month. The flavour genuinely improves overnight.",
   reheating: "Stovetop simmer with a splash of hot water, or microwave 3 minutes, stirring halfway.",
+  buffaloNote: "Use the same weight of boneless buffalo, cut into 3 cm pieces (a little smaller than mutton, because it is tougher). If you have time, marinate 2 hours or overnight in the fridge with 2 tbsp curd, 1 tsp ginger-garlic paste and salt; adding 1 tbsp raw papaya paste tenderises it a lot. Buffalo is very lean, so add 1 tbsp extra oil or ghee. Pressure time changes: 1 whistle on high, then 30–35 minutes on low (instead of 20), with 1/4 cup more water so the cooker does not run dry, natural release. If a piece is not fork-tender, give it 1–2 more whistles. Buffalo releases more liquid, so simmer uncovered a few extra minutes at the end to thicken the gravy.",
   notes: "Make this on a relaxed evening and eat it twice more that week. Goes with rice, chapati, or pav."
 });

@@ -35,7 +35,7 @@ window.RECIPES.push({
     "Whisk the wet ingredients (including the soured milk) in another.",
     "Pour wet into dry and fold gently with a spatula until just combined — lumpy batter is correct.",
     "Toss the chocolate chips in 1 tsp flour (stops them sinking) and fold in.",
-    "Fill cups almost to the top for bakery-style domes; press a few extra chips on top.",
+    "Fill cups three-quarters full (in an oven you can fill almost to the top for bakery-style domes, but in the air fryer tall domes get too close to the heating element). Press a few extra chips on top.",
     "Air fry at 160°C for 13–15 minutes per batch, until a toothpick comes out with no wet batter (melted chocolate is fine).",
     "Cool 5 minutes before removing."
   ],

@@ -3,6 +3,7 @@ window.RECIPES.push({
   name: "Air Fryer Mutton Seekh Kebab",
   emoji: "🍢",
   category: "Mutton",
+  alsoIn: ["Buffalo"],
   mealType: ["Dinner", "Snack"],
   veg: false,
   description: "Juicy, smoky-spiced keema kebabs with a proper browned crust — no charcoal, no deep fryer, no drama.",
@@ -47,5 +48,6 @@ window.RECIPES.push({
   ],
   storage: "Cooked kebabs: fridge 2 days. Better trick: freeze the raw shaped kebabs on a plate, then bag them — 1 month.",
   reheating: "Air fryer 3–4 minutes at 170°C brings the crust back; microwave works but softens them. Frozen raw ones go straight in, +5 minutes.",
+  buffaloNote: "Buffalo keema is very lean and dries out on its own. Ask the butcher to grind in about 10–15% fat, or knead in 2 tbsp cold butter or ghee plus 2 tbsp grated, squeezed-dry onion. Ask for a fine double grind, and chill the mix 30 minutes so it holds its shape. Cooking times stay the same, but always cut one open: no pink, juices clear.",
   notes: "Leftovers make an excellent kebab roll: rumali or chapati, chutney, onions, done. If the mix feels loose, knead in another spoon of roasted besan rather than adding egg."
 });

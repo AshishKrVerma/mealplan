@@ -39,7 +39,7 @@
       '<div class="recipe-hero">' +
         '<div class="recipe-hero-media"><img></div>' +
         '<div class="recipe-head">' +
-          '<p class="crumbs">' + C.esc(r.category) + ((r.mealType && r.mealType.length) ? " · " + r.mealType.map(C.esc).join(", ") : "") + "</p>" +
+          '<p class="crumbs">' + C.esc(C.categoriesOf(r).join(" / ")) + ((r.mealType && r.mealType.length) ? " · " + r.mealType.map(C.esc).join(", ") : "") + "</p>" +
           '<div class="recipe-title-row">' +
             "<h1>" + C.esc(r.name) + "</h1>" +
             '<span class="diet ' + (r.veg ? "veg" : "nonveg") + '" title="' + (r.veg ? "Vegetarian" : "Non-vegetarian") + '"></span>' +
@@ -88,6 +88,7 @@
             '<div class="info-card"><h3>🧊 Storage</h3><p>' + C.esc(r.storage || "—") + "</p></div>" +
             '<div class="info-card"><h3>♨️ Reheating</h3><p>' + C.esc(r.reheating || "—") + "</p></div>" +
           "</div>") +
+        (r.buffaloNote ? section("🐃 Using Buffalo Meat", '<div class="chef-notes">' + C.esc(r.buffaloNote) + "</div>") : "") +
         (r.notes ? section("Notes", '<div class="chef-notes">' + C.esc(r.notes) + "</div>") : "") +
         section("My Notes",
           '<textarea id="personal-note" placeholder="e.g. Ananya liked this. Reduce chilli next time."></textarea>' +

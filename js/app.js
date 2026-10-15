@@ -7,7 +7,7 @@
 
   var GROUPS = [
     { key: "category", label: "Category", options: C.CATEGORIES,
-      test: function (r, sel) { return sel.has(r.category); } },
+      test: function (r, sel) { return C.categoriesOf(r).some(function (c) { return sel.has(c); }); } },
     { key: "equipment", label: "Equipment", options: ["Air Fryer", "Gas Stove", "Microwave", "Pressure Cooker"],
       test: function (r, sel) {
         return (r.equipment || []).some(function (e) { return sel.has(e); });
@@ -124,7 +124,7 @@
             '<span class="diet ' + (r.veg ? "veg" : "nonveg") + '" title="' + (r.veg ? "Vegetarian" : "Non-vegetarian") + '"></span>' +
             "<h3>" + C.esc(r.name) + "</h3>" +
           "</div>" +
-          '<p class="card-meta">⏱ ' + C.fmtTime(C.totalTime(r)) + " · " + C.esc(r.difficulty) + " · " + C.esc(r.category) +
+          '<p class="card-meta">⏱ ' + C.fmtTime(C.totalTime(r)) + " · " + C.esc(r.difficulty) + " · " + C.esc(C.categoriesOf(r).join(" / ")) +
             (last ? ' · <span title="Last cooked">🍳 ' + C.relTime(last) + "</span>" : "") + "</p>" +
           (rating ? '<p class="card-stars">' + C.stars(rating) + "</p>" : "") +
           '<p class="card-equip">' + (r.equipment || []).map(C.equipIcon).join("") + "</p>" +

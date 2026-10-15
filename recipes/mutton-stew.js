@@ -3,6 +3,7 @@ window.RECIPES.push({
   name: "Kerala Mutton Stew (Ishtu)",
   emoji: "🥥",
   category: "Mutton",
+  alsoIn: ["Buffalo"],
   mealType: ["Dinner"],
   veg: false,
   description: "The gentle one: mutton and potatoes in a pale, peppery coconut-milk broth with whole spices and curry leaves. Mild, brothy, quietly excellent.",
@@ -47,5 +48,6 @@ window.RECIPES.push({
   ],
   storage: "Fridge 2 days. Coconut milk doesn't love the freezer, so this one is a cook-and-eat-this-week dish.",
   reheating: "Gently, on the stove over low heat — warm it, don't boil it, or the coconut milk splits. Microwave at 50% power, stirring twice.",
+  buffaloNote: "Use the same weight of boneless buffalo, cut into 3 cm pieces (a little smaller than mutton, because it is tougher). If you have time, marinate 2 hours or overnight in the fridge with 2 tbsp curd, 1 tsp ginger-garlic paste and salt; adding 1 tbsp raw papaya paste tenderises it a lot. Buffalo is very lean, so add 1 tbsp extra oil or ghee. Pressure time changes: 1 whistle on high, then 30–35 minutes on low (instead of 20), with 1/4 cup more water so the cooker does not run dry, natural release. If a piece is not fork-tender, give it 1–2 more whistles. Add the potatoes only after the meat is tender, as written, and keep the thick coconut milk for the very end so it does not split during the longer cook.",
   notes: "Made for appam, but soft dosa, idiyappam or plain bread all work — it's basically a hug. Add a handful of green peas with the potatoes if the teen demands more vegetables (unlikely, but be ready)."
 });

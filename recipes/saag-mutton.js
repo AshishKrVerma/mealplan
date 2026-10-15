@@ -3,6 +3,7 @@ window.RECIPES.push({
   name: "Saag Mutton",
   emoji: "🥬",
   category: "Mutton",
+  alsoIn: ["Buffalo"],
   mealType: ["Dinner"],
   veg: false,
   description: "Tender mutton folded into silky spiced palak — the dhaba classic, minus the ladle of cream.",
@@ -48,5 +49,6 @@ window.RECIPES.push({
   ],
   storage: "Fridge 3 days, freezer 1 month. The green darkens a shade overnight; the taste only improves.",
   reheating: "Stovetop on medium with a splash of hot water — avoid long boiling, which dulls the spinach.",
+  buffaloNote: "Use the same weight of boneless buffalo, cut into 3 cm pieces (a little smaller than mutton, because it is tougher). If you have time, marinate 2 hours or overnight in the fridge with 2 tbsp curd, 1 tsp ginger-garlic paste and salt; adding 1 tbsp raw papaya paste tenderises it a lot. Buffalo is very lean, so add 1 tbsp extra oil or ghee. Pressure time changes: 1 whistle on high, then 30–35 minutes on low (instead of 20), with 1/4 cup more water so the cooker does not run dry, natural release. If a piece is not fork-tender, give it 1–2 more whistles. Add the palak only once the meat is fully tender, as written, so it stays green.",
   notes: "The cold-water rinse after blanching is what keeps it green, not a restaurant secret ingredient. A spoon of whisked curd stirred in at the end stands in nicely for cream."
 });
