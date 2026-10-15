@@ -26,7 +26,7 @@ see at a glance that the update actually arrived.
 |---|---|
 | `id` | unique, kebab-case, matches filename and image name |
 | `name`, `description`, `emoji` | free text; emoji is used for the placeholder art |
-| `category` | `Chicken`, `Mutton`, `Eggs`, `Vegetables`, `Keto`, `Rice & Pasta`, `Snacks`, `Treats`, `Drinks`, `Brunch`, `Kitchen Basics` |
+| `category` | `Chicken`, `Mutton`, `Bacon`, `Eggs`, `Vegetables`, `Keto`, `Rice & Pasta`, `Snacks`, `Treats`, `Drinks`, `Brunch`, `Kitchen Basics` |
 | `mealType` | array of: `Brunch`, `Dinner`, `Side Dish`, `Dessert`, `Snack` — every recipe needs at least one, or it is invisible to the Meal Type filter |
 | `veg` | `true` / `false` (green/red dot on the card) |
 | `difficulty` | `Easy` or `Medium` |
