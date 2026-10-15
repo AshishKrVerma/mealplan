@@ -18,3 +18,6 @@ bacon-egg-cheese-sandwich.jpg   (c) Serious Eats (Amanda Suarez) - https://www.s
 bacon-garlic-green-beans.jpg    (c) oursaltykitchen.com - https://oursaltykitchen.com/wp-content/uploads/2019/11/green-beans-with-bacon.jpg - user-chosen, personal use
 bacon-jeera-aloo.jpg            (c) kuchpakrahahai.in - https://www.kuchpakrahahai.in/wp-content/uploads/2015/08/Jeera-Aloo-Cumin-Potatoes.jpg - user-chosen, personal use
 bacon-grease-guide.jpg          "Bacon texture" - CC BY 2.0 - https://commons.wikimedia.org/wiki/File:Bacon_texture.jpg
+apple-cinnamon-oats-muffins.jpg "Apple & Cinnamon Muffin - Muffin Break 2026-05-30" - CC0 - https://commons.wikimedia.org/wiki/File:Apple_%26_Cinnamon_Muffin_-_Muffin_Break_2026-05-30.jpg
+atta-jaggery-muffins.jpg        "Vegan Apple Cinnamon Muffins (3879653091)" - CC BY 2.0 - https://commons.wikimedia.org/wiki/File:Vegan_Apple_Cinnamon_Muffins_(3879653091).jpg
+cheese-corn-muffins.jpg         "Солени мафини со сирење" (savoury cheese muffins) - CC BY-SA 4.0 - https://commons.wikimedia.org/wiki/File:Солени_мафини_со_сирење.jpg

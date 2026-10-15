@@ -107,6 +107,7 @@ window.RECIPE_FILES = [
   "dal-khichdi.js",
   "white-sauce-pasta.js",
   /* ---- Snacks ---- */
+  "cheese-corn-muffins.js",
   "cheesy-garlic-bread.js",
   "air-fryer-masala-chana.js",
   "masala-roasted-peanuts.js",
@@ -141,6 +142,8 @@ window.RECIPE_FILES = [
   "banana-muffins.js",
   "chocolate-chip-muffins.js",
   "vanilla-muffins.js",
+  "atta-jaggery-muffins.js",
+  "apple-cinnamon-oats-muffins.js",
   "microwave-chocolate-mug-cake.js",
   "greek-yogurt-fruit-parfait.js",
   "fruit-custard.js",
