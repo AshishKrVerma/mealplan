@@ -37,12 +37,17 @@ window.RECIPES.push({
   ],
   steps: [
     "Heat oil in the open pressure cooker on medium. Splutter cumin and hing, add onion and green chilli, cook 3–4 minutes until soft.",
-    "Add ginger-garlic paste for 30 seconds, then tomato, turmeric, coriander powder and chilli powder; cook 2–3 minutes until the tomato softens.",
-    "Add drained chana dal, lauki, salt and 1.5 cups water. Stir once.",
+    "Add ginger-garlic paste and stir 30–60 seconds until the raw smell is gone. Add tomato, turmeric, coriander powder and chilli powder; cook 3–4 minutes until the tomato is mushy and oil starts to show at the edges.",
+    "Add drained chana dal, lauki, salt and 1.25 cups water. Stir once. Don't add more water: the lauki releases plenty of its own as it cooks.",
     "Close the lid, pressure cook 3 whistles on medium, then let the pressure release on its own (about 10 minutes, all unattended).",
-    "Open, mash a few lauki pieces against the side for body, simmer 2 minutes and finish with garam masala and coriander. Eat with rice or phulka."
+    "Open and check the dal: a grain should squash easily between your fingers but still hold its shape. If it's still hard, add 1/4 cup water and give it 1 more whistle.",
+    "Mash a few lauki pieces against the side for body. If it's too thick, add a splash of hot water. Simmer 2–3 minutes and finish with garam masala and coriander. Eat with rice or phulka."
   ],
   storage: "Fridge up to 3 days; thickens overnight like all good dals.",
   reheating: "Microwave 2 minutes with a splash of water, or loosen on the stove.",
-  notes: "The dal should hold its shape, not disappear — three whistles, no more. Leftovers blitz into a surprisingly good soup with a squeeze of lemon. Ghee tadka with dried red chilli on top upgrades it to guest-worthy."
+  notes: "The dal should hold its shape, not disappear — three whistles, no more.\n\nOptional — ghee tadka (Hebbar): heat 2 tsp ghee, add 1/2 tsp cumin and 2 chopped garlic cloves until the garlic turns light golden, take it off the heat, add a dried red chilli and a pinch of chilli powder, and pour over the dal. Upgrades it to guest-worthy.\n\nOptional — lemon: a squeeze of lemon or lime stirred in after cooking brightens the whole pot.\n\nOptional — kasuri methi: crush 1 tsp between your palms and stir in with the garam masala.\n\nLeftovers blitz into a surprisingly good soup with a squeeze of lemon.",
+  references: [
+    { title: "Hebbar's Kitchen — Lauki Chana Dal", url: "https://hebbarskitchen.com/lauki-chana-dal-recipe-healthy-dudhi/" },
+    { title: "Piping Pot Curry — Lauki Chana Dal", url: "https://pipingpotcurry.com/lauki-chana-dal-pressure-cooker/" }
+  ]
 });

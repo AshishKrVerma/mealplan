@@ -5,11 +5,11 @@ window.RECIPES.push({
   category: "Drinks",
   mealType: ["Brunch", "Snack"],
   veg: true,
-  description: "The actual ratios, written down once so nobody has to guess again. Strong, milky, properly spiced, and it takes eight minutes.",
+  description: "The actual ratios, written down once so nobody has to guess again. Strong, milky, properly spiced, and it takes ten minutes.",
   difficulty: "Easy",
   equipment: ["Gas Stove"],
   prepTimeMin: 3,
-  cookTimeMin: 8,
+  cookTimeMin: 10,
   servings: "2 cups",
   onePot: true,
   proteinLevel: "Low",
@@ -21,7 +21,7 @@ window.RECIPES.push({
     "2 tsp sugar, or to taste",
     "1 inch ginger, crushed",
     "3 green cardamoms, crushed",
-    "1 clove and a tiny piece of cinnamon (optional)",
+    "1 clove, a tiny piece of cinnamon and 2 black peppercorns, lightly crushed (optional)",
     "2 tulsi leaves (optional)"
   ],
   shoppingList: [
@@ -38,12 +38,17 @@ window.RECIPES.push({
   ],
   steps: [
     "Boil the water with the ginger and whole spices for 2 minutes. This is the step most people skip, and it is the one that makes chai taste like chai.",
-    "Add the tea leaves and sugar and boil hard for 1 minute, until the water goes deep reddish-brown.",
+    "Add the tea leaves and sugar and boil on medium for 2–3 minutes, until the water goes a deep, dark reddish-brown. Don't rush this: milk poured into pale tea gives a weak, milky cup.",
     "Pour in the milk and bring it back to a boil on medium heat.",
-    "Let it rise up the pan and pull it off the flame just as it climbs. Do this three times — each rise deepens the colour and the strength.",
+    "Let it rise up the pan and pull it off the flame just as it climbs. Do this three times (about 2 minutes in all) — each rise deepens the colour and the strength. It's ready when it is a rich tan colour, a thin skin of cream forms on top and the raw-milk smell is gone.",
     "Strain into cups from a height, which gives it a little froth on top. Serve immediately; chai left standing turns bitter."
   ],
   storage: "None. Chai is made and drunk. Reboiled chai tastes like tannin.",
-  reheating: "Do not. Make a fresh cup — it takes eight minutes.",
-  notes: "For a chai masala powder to keep in a jar: grind 2 tbsp cardamom, 1 tbsp dry ginger, 1 tsp each cloves, black pepper and cinnamon, and use 1/4 tsp per cup. For a lighter afternoon cup, cut the milk to half. Adrak chai for a cold, elaichi chai for guests, both from this same base."
+  reheating: "Do not. Make a fresh cup — it takes ten minutes.",
+  notes: "For a chai masala powder to keep in a jar: grind 2 tbsp cardamom, 1 tbsp dry ginger, 1 tsp each cloves, black pepper and cinnamon, and use 1/4 tsp per cup. For a lighter afternoon cup, cut the milk to half. Adrak chai for a cold, elaichi chai for guests, both from this same base.\n\nOptional — street-style pull: before straining, ladle the chai up and pour it back into the pan from about a foot high, 4–5 times. It breaks up the cream skin and makes the cup smoother and frothier.\n\nOptional — stronger cup: if it still looks pale after the milk goes in, add 1/2 tsp more tea and let it rise once more.",
+  references: [
+    { title: "Indian Healthy Recipes (Swasthi) — Masala Chai", url: "https://www.indianhealthyrecipes.com/wprm_print/masala-chai-recipe-indian-masala-tea" },
+    { title: "Hebbar's Kitchen — Masala Chai", url: "https://hebbarskitchen.com/chai-recipe-masala-tea-indian-masala-chai-recipe/" },
+    { title: "Tea for Turmeric — Masala Chai", url: "https://www.teaforturmeric.com/masala-chai/" }
+  ]
 });

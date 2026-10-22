@@ -39,12 +39,17 @@ window.RECIPES.push({
   steps: [
     "In a big bowl, whisk the flour, baking powder, soda, salt, oregano, chilli flakes and pepper.",
     "Stir in the cheese, corn, capsicum and coriander so they are coated in flour (this stops them sinking).",
-    "Whisk the milk, curd, oil and egg separately, then pour into the dry mix and fold until just combined.",
+    "Preheat the air fryer at 160°C for 3 minutes.",
+    "Whisk the milk, curd, oil and egg separately, then pour into the dry mix and fold with a spatula only 10–15 strokes, just until no dry flour shows. The batter should be thick and lumpy — lumps are fine; over-mixing makes tough, rubbery muffins.",
     "Fill cups three-quarters full and top with the reserved cheese.",
-    "Air fry at 160°C for 13–15 minutes per batch, until golden and a toothpick comes out clean.",
-    "Cool 5 minutes; best eaten warm."
+    "Air fry at 160°C for 13–15 minutes per batch, until domed, golden and a toothpick in the centre comes out clean. If the tops are browning before the centre is done, lay a piece of foil loosely over them for the last few minutes.",
+    "Cool in the cups for 5 minutes, then lift out onto a rack or plate so the bottoms don't go soggy. Best eaten warm."
   ],
   storage: "Fridge up to 4 days, freezer 1 month.",
   reheating: "Air fryer 160°C for 3 minutes, or microwave 15 seconds.",
-  notes: "Swap-ins: chopped bacon or leftover chicken (non-veg version), paneer cubes, spinach, or olives. Serve warm with ketchup or a bowl of tomato soup. Oven option: 180°C for 18–20 minutes."
+  notes: "Cheese: cheddar or processed cheese gives the most flavour. Mozzarella alone melts well but tastes bland, so mix it with one of those.\n\nOptional — garlic-butter tops: melt 1 tbsp butter with 1 grated garlic clove and brush it over the muffins as soon as they come out.\n\nSwap-ins: chopped bacon or leftover chicken (non-veg version), paneer cubes, spinach, or olives. Keep add-ins to about 1 cup in total so the muffins still rise.\n\nServe warm with ketchup or a bowl of tomato soup. Oven option: 180°C for 18–20 minutes.",
+  references: [
+    { title: "RecipeTin Eats — Savoury Cheese Muffins", url: "https://www.recipetineats.com/cheese-garlic-muffins/" },
+    { title: "Raksha's Kitchen — Savory Veggie Corn Cheese Muffins", url: "https://www.rakshaskitchen.com/savory-veggie-corn-cheese-muffins/" }
+  ]
 });

@@ -19,7 +19,8 @@ window.RECIPES.push({
     "3 tbsp besan (gram flour)",
     "1 tbsp rice flour (extra crunch, optional)",
     "1 tbsp oil",
-    "1 tsp chilli powder, 1/2 tsp turmeric, 1 tsp chaat masala, pinch of hing",
+    "1 tsp Kashmiri chilli powder, 1/2 tsp turmeric, 1/4 tsp garam masala, pinch of hing",
+    "1 tsp chaat masala (half in the coating, half to finish)",
     "Salt, 2–3 tsp water to bind"
   ],
   shoppingList: [
@@ -30,16 +31,22 @@ window.RECIPES.push({
   ],
   preparation: [
     "Rinse peanuts and drain — slightly damp is good, the coating needs it to stick.",
-    "Mix besan, rice flour, all spices and salt in a big bowl.",
-    "Toss peanuts with oil first, then with the flour-spice mix, sprinkling water a teaspoon at a time until each peanut has a thin, clumpy coat."
+    "Mix besan, rice flour, chilli powder, turmeric, garam masala, hing, half the chaat masala and salt in a big bowl.",
+    "Toss peanuts with oil first, then with the flour-spice mix. Sprinkle water a teaspoon at a time, tossing between each, only until the flour clings and looks dry and slightly sticky. Don't let it become a batter: a wet coat slides off in the air fryer.",
+    "Break up any clumps with your fingers so the peanuts sit separately. Clumped peanuts stay stuck together and don't roast evenly."
   ],
   steps: [
     "Preheat the air fryer at 180°C for 3 minutes. Line the basket with a perforated liner or lightly oil it.",
     "Spread peanuts in a single layer (two batches if needed).",
-    "Air fry at 180°C for 10–12 minutes, shaking every 4 minutes, until the coating is dry, golden and crisp.",
-    "Cool completely — they crisp up further as they cool — then jar."
+    "Air fry at 180°C for 10–12 minutes, shaking every 4 minutes, until the coating is dry, golden and crisp and smells toasty. Test one: cool it for a minute and bite. The peanut inside should taste roasted, not raw or chewy; if not, give them 1–2 minutes more.",
+    "Tip onto a plate and sprinkle the remaining chaat masala straight away so it sticks to the warm coating.",
+    "Cool completely on the plate — they crisp up further as they cool — then jar."
   ],
   storage: "Airtight jar, 2 weeks. Keep a spoon in the jar to avoid greasy fingers making it soggy.",
   reheating: "None needed. Revive in the air fryer, 2–3 minutes at 170°C, if monsoon humidity gets to them.",
-  notes: "Same coating works on cashews. A squeeze of lemon and chopped onion turns a bowlful into instant masala-peanut chaat. Variation: add a sprig of curry leaves for the last 2 minutes for a South-style mix."
+  notes: "Same coating works on cashews. A squeeze of lemon and chopped onion turns a bowlful into instant masala-peanut chaat.\n\nVariation — South-style: add a sprig of curry leaves for the last 2 minutes.\n\nOptional — tangier: add 1/2 tsp amchur and 1/2 tsp black salt to the finishing sprinkle.\n\nOptional — garlicky: rub 1 tsp ginger-garlic paste into the damp peanuts before the flour goes in.",
+  references: [
+    { title: "My Ginger Garlic Kitchen — Masala Peanuts", url: "https://mygingergarlickitchen.com/masala-peanuts" },
+    { title: "Flavours Treat — Masala Peanuts (Air Fryer)", url: "https://www.flavourstreat.com/wprm_print/masala-peanuts-recipe-air-fryer" }
+  ]
 });

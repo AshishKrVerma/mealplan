@@ -36,10 +36,13 @@ window.RECIPES.push({
     "Curl one par-cooked strip around the inside wall of each cup, forming a ring.",
     "Sprinkle a little cheese and capsicum into each ring.",
     "Crack one egg into each cup (for scrambled-style, whisk the eggs first and pour in until two-thirds full). Top with pepper and the remaining cheese.",
-    "Air fry at 165°C: 10–12 minutes for a jammy yolk, 13–14 minutes for fully set.",
+    "Air fry at 165°C: 10–12 minutes for a jammy yolk, 13–14 minutes for fully set. Start checking at 10 minutes, because air fryers vary. The whites should be fully white and firm with no clear, wobbly jelly near the yolk. For the whisked version, a toothpick pushed into the centre should come out clean.",
     "Rest 2 minutes, then run a knife around the edge and pop them out."
   ],
   storage: "Fridge up to 3 days (whisked version keeps better than whole-egg).",
   reheating: "Air fryer 160°C for 3 minutes, or microwave 20–30 seconds.",
-  notes: "Variation of Air Fryer Egg Muffins — for a filling breakfast, put a spoon of leftover cooked potato or a small square of toast at the bottom of each cup. Pierce a whole yolk with a toothpick before reheating in the microwave or it can pop."
+  notes: "Variation of Air Fryer Egg Muffins — for a filling breakfast, put a spoon of leftover cooked potato or a small square of toast at the bottom of each cup.\n\nDon't over-fill with extras — too many add-ins and the egg won't set.\n\nPierce a whole yolk with a toothpick before reheating in the microwave or it can pop.",
+  references: [
+    { title: "Life Made Sweeter — Bacon Egg Cups", url: "https://lifemadesweeter.com/bacon-egg-cups/" }
+  ]
 });

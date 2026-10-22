@@ -90,6 +90,11 @@
           "</div>") +
         (r.buffaloNote ? section("🐃 Using Buffalo Meat", '<div class="chef-notes">' + C.esc(r.buffaloNote) + "</div>") : "") +
         (r.notes ? section("Notes", '<div class="chef-notes">' + C.esc(r.notes) + "</div>") : "") +
+        (r.references && r.references.length
+          ? section("References", '<ul class="refs">' + r.references.map(function (ref) {
+              return '<li><a href="' + C.esc(ref.url) + '" target="_blank" rel="noopener">' + C.esc(ref.title || ref.url) + "</a></li>";
+            }).join("") + "</ul>")
+          : "") +
         section("My Notes",
           '<textarea id="personal-note" placeholder="e.g. Ananya liked this. Reduce chilli next time."></textarea>' +
           '<p class="note-hint">Saved automatically on this device. <span class="saved" id="note-saved">✓ Saved</span></p>') +

@@ -36,13 +36,16 @@ window.RECIPES.push({
     "Soak the saffron in 2 tbsp of warm milk for 10 minutes. Dropped in dry, it gives you neither the colour nor the smell."
   ],
   steps: [
-    "Grind the peeled almonds with a little milk into a completely smooth paste. Take your time — gritty paste means gritty milk.",
+    "Grind the peeled almonds with 1/2 cup of COLD milk into a completely smooth paste, in short bursts. Cold milk stops the mixie heating the paste. Rub a little between your fingers — if it still feels gritty, grind longer, because gritty paste means gritty milk.",
     "Bring the rest of the milk to a boil, then lower the heat.",
     "Stir in the almond paste and simmer 8–10 minutes, stirring often so it does not catch at the bottom. It thickens noticeably.",
     "Add the sugar, cardamom, nutmeg and the saffron with its soaking milk. Simmer 2 more minutes.",
-    "Serve hot in winter, or cool and chill for 2 hours and serve cold over ice."
+    "Serve hot in winter. For cold badam milk, cover the pan as it cools (this stops a thick malai skin forming), chill for 2 hours, and whisk well before pouring over ice."
   ],
   storage: "Fridge up to 3 days in a covered bottle. It thickens when cold — loosen with a splash of milk.",
   reheating: "Low flame, stirring, 3 minutes. Do not boil hard or it will catch and taste burnt.",
-  notes: "Twenty almonds across three glasses gives a real, if modest, protein and healthy-fat bump — this is a genuinely good drink to give the kids. For badam milk masala to keep in a jar, grind the nuts, cardamom and saffron dry and stir 2 tsp into hot milk whenever you want a cup."
+  notes: "Twenty almonds across three glasses gives a real, if modest, protein and healthy-fat bump — this is a genuinely good drink to give the kids. For badam milk masala to keep in a jar, grind the nuts, cardamom and saffron dry and stir 2 tsp into hot milk whenever you want a cup.\n\nOptional — still gritty: if the finished milk feels grainy, pour it through a fine strainer.\n\nWhy not jaggery: jaggery can split hot milk. Stick to sugar, or mishri (rock sugar) for the traditional taste.\n\nOptional — lighter version: Swasthi simmers only 2–3 minutes after the paste goes in, for a thinner, fresher-tasting drink.",
+  references: [
+    { title: "Swasthi's Recipes — Badam Milk", url: "https://www.indianhealthyrecipes.com/badam-milk/" }
+  ]
 });

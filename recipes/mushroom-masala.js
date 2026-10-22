@@ -9,7 +9,7 @@ window.RECIPES.push({
   difficulty: "Easy",
   equipment: ["Gas Stove"],
   prepTimeMin: 10,
-  cookTimeMin: 25,
+  cookTimeMin: 30,
   servings: "3",
   onePot: true,
   proteinLevel: "Low",
@@ -18,7 +18,7 @@ window.RECIPES.push({
     "400 g button mushrooms, halved (quartered if large)",
     "2 onions, finely chopped; 2 tomatoes, pureed",
     "1 tbsp ginger-garlic paste",
-    "1 tsp cumin seeds, 1 bay leaf",
+    "1 tsp cumin seeds, 1 bay leaf, 2 green cardamoms, 2 cloves, 1 inch cinnamon",
     "1/2 tsp turmeric, 1.5 tsp coriander powder, 1 tsp Kashmiri chilli powder, 1/2 tsp garam masala, 1 tsp kasuri methi",
     "3 tbsp curd, whisked",
     "2.5 tbsp oil, salt, fresh coriander"
@@ -29,20 +29,24 @@ window.RECIPES.push({
     "Curd (small cup)",
     "Ginger-garlic paste",
     "Fresh coriander",
-    "Kashmiri chilli powder, kasuri methi, bay leaf (pantry check)"
+    "Kashmiri chilli powder, kasuri methi, bay leaf, cardamom, cloves, cinnamon (pantry check)"
   ],
   preparation: [
     "Wipe mushrooms with a damp cloth or give them the quickest rinse and pat dry — they're sponges, don't soak them.",
     "Halve the mushrooms; whisk the curd smooth so it doesn't split in the gravy."
   ],
   steps: [
-    "Heat 1 tbsp oil in a kadai on HIGH. Sear mushrooms 4–5 minutes until browned and their water has evaporated; remove and set aside. Crowded, wet mushrooms boil — work in two batches if needed.",
-    "Add remaining oil to the same kadai on medium. Splutter cumin and bay leaf, add onions with a pinch of salt and cook 6–7 minutes until golden.",
-    "Add ginger-garlic paste for 1 minute, then tomato puree, turmeric, coriander powder and chilli powder. Cook 5 minutes until oil separates.",
-    "Lower the flame, stir in the whisked curd, then return the mushrooms with 1/2 cup hot water and salt. Simmer 5 minutes.",
-    "Finish with garam masala, crushed kasuri methi and coriander. Serve with chapati, or with rice if the gravy runs loose."
+    "Heat 1 tbsp oil in a kadai on HIGH. Sear mushrooms 4–5 minutes until browned and their water has evaporated; remove and set aside. Don't salt them yet (salt pulls out water and stops the browning). Crowded, wet mushrooms boil — work in two batches if needed.",
+    "Add remaining oil to the same kadai on medium. Add cumin, bay leaf, cardamom, cloves and cinnamon; when the cumin sizzles and the spices smell fragrant (about 20 seconds), add onions with a pinch of salt. Cook 8–10 minutes, stirring often, until deep golden and very soft.",
+    "Add ginger-garlic paste and cook 1 minute until the raw smell goes; if it sticks, splash in 2 tbsp water and scrape the pan. Add turmeric, coriander powder and chilli powder, stir 30 seconds, then the tomato puree. Cook 5–7 minutes until the masala is thick, glossy and oil separates at the edges.",
+    "Lower the flame to the minimum and stir in the whisked curd, stirring constantly for 1 minute so it doesn't split. Return the mushrooms with 1/2 cup hot water and salt. Cover and simmer 5–6 minutes until the mushrooms are tender and the gravy coats them.",
+    "Finish with garam masala, crushed kasuri methi and coriander. Taste: if it's sharp from the tomatoes, a pinch of sugar rounds it out. Serve with chapati, or with rice if the gravy runs loose."
   ],
   storage: "Fridge up to 2 days.",
   reheating: "Microwave 90 seconds or a quick simmer on the stove.",
-  notes: "The hard sear in step 1 is the difference between mushroom masala and rubber masala — don't skip it. Add half a cup of peas at step 4 to stretch it, or fold leftovers into a frankie wrap."
+  notes: "The hard sear in step 1 is the difference between mushroom masala and rubber masala — don't skip it. Add half a cup of peas at step 4 to stretch it, or fold leftovers into a frankie wrap.\n\nOptional — restaurant-smooth gravy: after step 3, cool the masala, blend it smooth with the curd and a splash of water (fish out the whole spices first), then return it to the pan and carry on with the mushrooms.\n\nOptional — richer (Swasthi's style): blend 10–12 cashews soaked in hot water into a paste and stir it in with the curd. Skip it on regular weeknights.\n\nOptional — lemon: a squeeze of lemon at the end brightens it.\n\nTip — cleaning: Ranveer Brar tosses the mushrooms with a spoon of atta and a little water, then rinses quickly. The flour lifts the grit. Dry them well before searing.",
+  references: [
+    { title: "Swasthi's Recipes — Mushroom Masala", url: "https://www.indianhealthyrecipes.com/wprm_print/mushroom-curry-mushroom-masala-recipe" },
+    { title: "Ranveer Brar — Mushroom Masala", url: "https://ranveerbrar.com/recipes/mushroom-masala/" }
+  ]
 });

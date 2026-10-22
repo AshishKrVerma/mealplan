@@ -28,3 +28,23 @@ beef-smash-burger.jpg           (c) Well Plated - https://www.wellplated.com/sma
 beef-bolognese.jpg              (c) RecipeTin Eats - https://www.recipetineats.com/spaghetti-bolognese/ - personal use
 beef-keema-pav.jpg              (c) Sanjeev Kapoor - https://sanjeevkapoor.com/recipe/Keema-Pav-.html - personal use
 kerala-beef-fry.jpg             (c) Paint The Kitchen Red - https://www.paintthekitchenred.com/kerala-beef-fry/ - personal use
+rava-upma.jpg                   (c) Swasthi's Recipes - https://www.indianhealthyrecipes.com/upma-recipe-how-to-make-upma/ - personal use
+rava-uttapam.jpg                (c) Cook with Manali - https://www.cookwithmanali.com/suji-uttapam-rava-uttapam-recipe/ - personal use
+misal-pav.jpg                   (c) Swasthi's Recipes - https://www.indianhealthyrecipes.com/misal-pav-recipe/ - personal use
+green-chutney.jpg               (c) Cook with Manali - https://www.cookwithmanali.com/cilantro-yogurt-chutney/ - personal use
+coconut-chutney.jpg             (c) Swasthi's Recipes - https://www.indianhealthyrecipes.com/coconut-chutney-recipe/ - personal use
+onion-tomato-chutney.jpg        (c) Hebbar's Kitchen - https://hebbarskitchen.com/onion-tomato-chutney-recipe/ - personal use
+pav-bhaji.jpg                   (c) Ranveer Brar - https://ranveerbrar.com/recipes/street-style-pav-bhaji/ - personal use
+dal-makhani.jpg                 (c) Swasthi's Recipes - https://www.indianhealthyrecipes.com/dal-makhani-recipe/ - personal use
+baingan-bharta.jpg              (c) Swasthi's Recipes - https://www.indianhealthyrecipes.com/baingan-bharta/ - personal use
+railway-mutton-curry.jpg        (c) Ranveer Brar - https://ranveerbrar.com/recipes/railway-mutton-curry/ - personal use
+kosha-mangsho.jpg               (c) Ranveer Brar - https://ranveerbrar.com/recipes/kosha-mangsho-bengali-mutton-curry/ - personal use
+aglio-e-olio.jpg                (c) RecipeTin Eats - https://www.recipetineats.com/aglio-e-olio-garlic-spaghetti/ - personal use
+chicken-biryani.jpg             (c) Swasthi's Recipes - https://www.indianhealthyrecipes.com/chicken-biryani-recipe/ - personal use
+chicken-chettinad.jpg           (c) Swasthi's Recipes - https://www.indianhealthyrecipes.com/chicken-chettinad/ - personal use
+thai-basil-chicken.jpg          (c) RecipeTin Eats - https://www.recipetineats.com/thai-basil-chicken-stir-fry/ - personal use
+banana-bread.jpg                (c) RecipeTin Eats - https://www.recipetineats.com/banana-bread/ - personal use
+no-knead-sandwich-loaf.jpg      (c) King Arthur Baking - https://www.kingarthurbaking.com/recipes/classic-sandwich-bread-recipe - personal use
+ladi-pav.jpg                    (c) Hebbar's Kitchen - https://hebbarskitchen.com/eggless-ladi-pav-recipe-pav-bread-recipe/ - personal use
+garlic-pull-apart-rolls.jpg     (c) Yummy Tummy Aarthi - https://www.yummytummyaarthi.com/garlic-pull-apart-rolls-recipe-garlic-rolls-recipe/ - personal use
+tawa-garlic-naan.jpg            (c) Hebbar's Kitchen - https://hebbarskitchen.com/garlic-naan-recipe-garlic-butter-naan-recipe-tawa-stove-top/ - personal use

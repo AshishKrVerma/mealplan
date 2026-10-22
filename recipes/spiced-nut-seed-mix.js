@@ -30,10 +30,10 @@ window.RECIPES.push({
   ],
   preparation: [
     "Mix ghee, spices and salt in a large bowl.",
-    "Add nuts and seeds; toss until every piece has a thin sheen."
+    "Add nuts and seeds; toss until every piece has a thin sheen. Then lift the almonds and cashews into the basket and leave the seeds in the bowl. Small seeds roast faster and burn if they go in at the start."
   ],
   steps: [
-    "Air fry at 160°C — LOW heat is the trick, nuts burn fast — for 8–10 minutes, shaking every 3 minutes.",
+    "Air fry the almonds and cashews at 160°C — LOW heat is the trick, nuts burn fast — shaking every 3 minutes. After 5 minutes, add the seeds and give it a shake. Air fry 3–5 minutes more (8–10 minutes in total).",
     "They're done when fragrant and one shade darker; they crisp more while cooling.",
     "If using honey, toss it through in the last 2 minutes only.",
     "Cool completely on a plate (not in the basket), then jar."

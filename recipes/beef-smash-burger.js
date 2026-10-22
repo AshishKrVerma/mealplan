@@ -35,14 +35,17 @@ window.RECIPES.push({
     "Mix the burger sauce. Butter and toast the cut sides of the buns in the pan; set aside."
   ],
   steps: [
-    "Heat a heavy pan or tawa on high for 3–4 minutes until very hot. Add a few drops of oil.",
-    "Place 2 balls in the pan and immediately smash each one flat (about 1 cm) with a sturdy spatula or the base of a steel bowl, pressing hard for 10 seconds. A square of baking paper on top stops sticking.",
-    "Season the top with salt and pepper. Cook 2 minutes without moving, until the edges are deep brown and crispy.",
-    "Scrape under the patty with the spatula, flip, and put a cheese slice on one of each pair. Cook 1–1.5 minutes more, until no pink remains in the middle.",
+    "Heat a heavy iron tawa or steel pan (not non-stick) on high for 3–4 minutes until a drop of water sizzles away instantly. Wipe on 1 tsp oil with a paper towel.",
+    "Place 2 balls in the pan and within the first 30 seconds smash each one flat (about 1 cm) with a sturdy spatula or the base of a steel bowl, pressing hard for 10 seconds. A square of baking paper on top stops sticking. Smash ONCE only — pressing again later squeezes out the juices.",
+    "Season the top with salt and pepper. Cook about 2 minutes without moving, until the edges are deep brown and crispy and the top looks pale with pink spots turning grey.",
+    "Scrape firmly under the patty with the edge of the spatula (it will stick — take your time so the crust comes up with it), flip, and put a cheese slice on one of each pair. Cover with a lid for 1–1.5 minutes, until the cheese melts and no pink remains in the middle.",
     "Stack the plain patty on top of the cheesy one. Repeat with the rest.",
     "Build: bun, sauce, lettuce, double patty, tomato, onion, sauce, top bun."
   ],
-  storage: "Uncooked patties: freeze between baking paper up to 1 month. Cooked burgers are best fresh.",
+  storage: "Uncooked balls: fridge up to 1 day (season only when cooking), or freeze between baking paper up to 1 month. Cooked patties: fridge up to 2 days; burgers are best fresh.",
   reheating: "Air fryer 170°C for 3 minutes (patty only).",
-  notes: "Smash burgers suit lean buffalo perfectly — thin patties cook through fast and the crust gives the flavour that fat normally would. Unlike a US steak, always cook buffalo mince fully (no pink). Air fryer option for thicker patties: shape 4 patties 1.5 cm thick with a dimple in the centre, air fry at 190°C for 10–12 minutes, flipping halfway."
+  notes: "Smash burgers suit lean buffalo perfectly — thin patties cook through fast and the crust gives the flavour that fat normally would. Unlike a US steak, always cook buffalo mince fully (no pink). Air fryer option for thicker patties: shape 4 patties 1.5 cm thick with a dimple in the centre, air fry at 190°C for 10–12 minutes, flipping halfway.\n\nWhy loose balls and late salt: roll the balls loosely so the edges go lacy and crisp when smashed; salting the mince early firms it up and makes it dense, so salt goes on in the pan.\n\nOptional — sweet relish: swap the chopped pickle in the sauce for sweet gherkin relish for a classic diner taste.",
+  references: [
+    { title: "Jessica Gavin — Smash Burger", url: "https://www.jessicagavin.com/best-smash-burger-recipe/" }
+  ]
 });

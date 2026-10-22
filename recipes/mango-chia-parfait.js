@@ -33,7 +33,7 @@ window.RECIPES.push({
     "Honey"
   ],
   preparation: [
-    "Set the chia the night before: milk, honey, vanilla, chia, stir, wait 5 minutes, stir hard again, then refrigerate. That second stir is what stops it setting in lumps.",
+    "Set the chia the night before: milk, honey, vanilla, chia, stir, wait 5 minutes, stir hard again, then refrigerate at least 4 hours (overnight is best) until it is thick and spoonable. That second stir is what stops it setting in lumps.",
     "Use clear glasses. The whole appeal of a parfait is that you can see the layers.",
     "Chill everything before you assemble. A warm layer will bleed into a cold one and you lose the stripes."
   ],
@@ -46,5 +46,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 2 days, covered. The layers blur together but the taste holds.",
   reheating: "None — cold dessert.",
-  notes: "Off-season, tinned mango pulp works fine; cut the honey since it is already sweetened. Strawberries, pomegranate or the Chia Fruit Jam in Kitchen Basics all work as the fruit layer. Genuinely healthy for a dessert — fruit, curd, chia, and honey doing all the sweetening."
+  notes: "Off-season, tinned mango pulp works fine; cut the honey since it is already sweetened.\n\nVariation — other fruit: strawberries, pomegranate or the Chia Fruit Jam in Kitchen Basics all work as the fruit layer.\n\nGenuinely healthy for a dessert — fruit, curd, chia, and honey doing all the sweetening."
 });

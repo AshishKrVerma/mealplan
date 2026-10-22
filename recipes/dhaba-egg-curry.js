@@ -9,7 +9,7 @@ window.RECIPES.push({
   difficulty: "Easy",
   equipment: ["Gas Stove"],
   prepTimeMin: 10,
-  cookTimeMin: 25,
+  cookTimeMin: 30,
   servings: "3–4",
   onePot: false,
   proteinLevel: "High",
@@ -19,7 +19,8 @@ window.RECIPES.push({
     "2 large onions, finely chopped",
     "2 tomatoes, chopped (or 3 tbsp tomato puree)",
     "1 tbsp ginger-garlic paste",
-    "1 tsp cumin seeds, 1 bay leaf",
+    "1–2 green chillies, slit",
+    "1 tsp cumin seeds, 1 bay leaf, 2 green cardamom, 2 cloves, 1 inch cinnamon",
     "1/2 tsp turmeric, 1 tsp Kashmiri chilli powder, 2 tsp coriander powder, 1 tsp garam masala",
     "2 tbsp oil + 1 tsp for the eggs",
     "1 tsp kasuri methi, crushed",
@@ -31,7 +32,8 @@ window.RECIPES.push({
     "Ginger-garlic paste",
     "Kasuri methi (pantry check)",
     "Kashmiri chilli powder (pantry check)",
-    "Bay leaf (pantry check)",
+    "Bay leaf, cardamom, cloves, cinnamon (pantry check)",
+    "Green chillies (1–2)",
     "Fresh coriander"
   ],
   preparation: [
@@ -41,13 +43,18 @@ window.RECIPES.push({
   ],
   steps: [
     "In a kadai on medium, heat 1 tsp oil and lightly fry the boiled eggs with a pinch of turmeric and chilli powder until blistered golden, 2 minutes. Set aside.",
-    "Add 2 tbsp oil to the same kadai. Sizzle cumin and bay leaf, then cook onions with a pinch of salt for 8–10 minutes until properly brown — this colour IS the dhaba flavour, don't rush it.",
-    "Add ginger-garlic paste for 1 minute, then tomatoes and all powdered spices. Cook 4–5 minutes until the masala is glossy and oil peeks out at the edges.",
-    "Pour in 1 cup hot water, season with salt, and simmer 5 minutes to a medium-thick gravy.",
+    "Add 2 tbsp oil to the same kadai. Add cumin, bay leaf, cardamom, cloves and cinnamon and let them sizzle 20–30 seconds until fragrant. Then add the onions, green chillies and a pinch of salt and cook on medium for 8–10 minutes until deep golden brown. This colour IS the dhaba flavour, so don't rush it.",
+    "Add ginger-garlic paste and cook 1 minute until the raw smell is gone. Lower the heat, add turmeric, chilli powder and coriander powder with 2 tbsp water, and stir 1 minute so the spices cook without burning.",
+    "Add the tomatoes and cook 5–6 minutes, mashing them, until they melt into a glossy masala and oil peeks out at the edges.",
+    "Pour in 1 cup hot water, season with salt, cover and simmer 5–6 minutes to a medium-thick gravy with a thin layer of oil on top.",
     "Slide in the eggs, crush the kasuri methi over the top, and simmer 3–4 minutes so they soak up the gravy.",
     "Finish with garam masala and coriander. Serve with chapati, rice, or jeera rice."
   ],
   storage: "Fridge up to 3 days — the eggs actually taste better on day two.",
   reheating: "Simmer on the stove with a splash of water, or microwave 2 minutes covered.",
-  notes: "Halve the eggs before adding for maximum gravy absorption (messier, tastier). Leftover gravy + a fresh fried egg on rice is a legitimate lunch. Finishing touch: 1 tsp butter or ghee stirred in at the end. Variation: add halved boiled potatoes with the eggs for anda aloo curry."
+  notes: "Halve the eggs before adding for maximum gravy absorption (messier, tastier).\n\nLeftover gravy + a fresh fried egg on rice is a legitimate lunch.\n\nFinishing touch: 1 tsp butter or ghee stirred in at the end.\n\nVariation — anda aloo: add halved boiled potatoes with the eggs.\n\nOptional — mustard oil: cook the masala in mustard oil instead of regular oil for a sharper highway-dhaba taste. Heat it until it just smokes, then cool it for a minute before adding the whole spices.\n\nOptional — raw egg trick: once the boiled eggs are in, crack 1 raw egg into the gravy and stir quickly so it breaks into fine shreds. This thickens the gravy, dhaba style.\n\nOptional — tang and finish: stir 2–3 tbsp whisked curd into the masala on low heat after the tomatoes are cooked. Add a few ginger juliennes with the eggs.",
+  references: [
+    { title: "My Food Story — Dhaba Style Egg Curry", url: "https://myfoodstory.com/?p=41445" },
+    { title: "Cook with Kushi — Egg Curry Dhaba Style", url: "https://www.cookwithkushi.com/egg-curry-recipe-dhaba-style/" }
+  ]
 });

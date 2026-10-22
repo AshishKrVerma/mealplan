@@ -35,12 +35,16 @@ window.RECIPES.push({
   ],
   steps: [
     "Melt the chocolate in the microwave in 20-second bursts, stirring between each one. Chocolate scorches fast and burnt chocolate is unusable — stop while a few lumps remain and stir them out in the residual heat.",
-    "Cool the melted chocolate to just barely warm. Hot chocolate into cold cream seizes into hard specks.",
-    "Whip the cream with the icing sugar, vanilla and salt to soft peaks — the point where the peak flops over when you lift the beater. Do not go to stiff peaks or the mousse turns grainy.",
-    "Fold a third of the whipped cream into the chocolate first to loosen it, then fold that back into the rest. Fold gently with a spatula, cutting down and lifting over; stirring knocks all the air out.",
-    "Spoon into small cups and chill at least 3 hours. Top with grated chocolate before serving."
+    "Cool the melted chocolate for about 10 minutes, until it feels just barely warm on your lip but still pours easily. Too hot and it melts the cream; too cold and it seizes into hard specks when the cold cream hits it. If it thickens, microwave 5 seconds and stir.",
+    "Whip the cream with the icing sugar, vanilla and salt to firm peaks — the cream holds its shape and the peak stands up with just the tip curling over when you lift the beater. Stop right there: a few seconds more and it turns grainy, then buttery.",
+    "Fold a third of the whipped cream into the chocolate first to loosen it, then fold that back into the rest. Fold gently with a spatula, cutting down and lifting over, turning the bowl as you go, only until no white streaks remain; stirring knocks all the air out.",
+    "Spoon into small cups and chill at least 3 hours (overnight gives the firmest set). Top with grated chocolate before serving."
   ],
   storage: "Fridge up to 4 days, covered. Freezes well too, and eats like a semifreddo straight from the freezer.",
   reheating: "None. Serve cold.",
-  notes: "Small cups, not big bowls — this is rich and a little goes a long way. Dark chocolate makes it a grown-up dessert, milk chocolate makes it the kids' version. A spoon of instant coffee dissolved into the melted chocolate deepens it considerably without tasting of coffee."
+  notes: "Small cups, not big bowls — this is rich and a little goes a long way. Dark chocolate makes it a grown-up dessert, milk chocolate makes it the kids' version.\n\nChocolate choice: real chocolate (a dark chocolate bar or couverture) tastes and sets best. Cheap \"compound\" baking slabs work but taste flatter.\n\nOptional — coffee: a spoon of instant coffee dissolved into the melted chocolate deepens it considerably without tasting of coffee.",
+  references: [
+    { title: "RecipeTin Eats — Chocolate Mousse", url: "https://www.recipetineats.com/chocolate-mousse/" },
+    { title: "Cook with Manali — Eggless Chocolate Mousse", url: "https://www.cookwithmanali.com/eggless-chocolate-mousse/" }
+  ]
 });

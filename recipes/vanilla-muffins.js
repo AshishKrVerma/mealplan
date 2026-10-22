@@ -31,17 +31,23 @@ window.RECIPES.push({
   ],
   preparation: [
     "Grease or line the muffin cups.",
-    "Have the curd, milk and egg at room temperature — cold ingredients make a dense muffin."
+    "Have the curd, milk and egg at room temperature (take them out 30 minutes early) — cold ingredients make a dense muffin.",
+    "Measure the flour by spooning it into the cup and levelling it off. Scooping straight from the bag packs in extra flour and gives dry muffins."
   ],
   steps: [
-    "Whisk the sugar, curd, milk, oil, egg and vanilla until smooth.",
-    "Add the flour, baking powder and salt and fold gently until just combined.",
-    "Toss the add-in with 1 tsp flour and fold in.",
-    "Fill cups three-quarters full.",
-    "Air fry at 160°C for 12–14 minutes per batch, until golden and a toothpick comes out clean.",
-    "Cool 5 minutes before removing."
+    "Whisk the flour, baking powder and salt in a separate bowl so the baking powder spreads evenly. If making lemon muffins, add the zest here.",
+    "In a big bowl, whisk the sugar, curd, milk, oil, egg and vanilla until smooth and the sugar has mostly dissolved.",
+    "Add the flour mix to the wet bowl and fold gently with a spatula until just combined. A few lumps and a streak or two of flour are fine. Overmixing gives tough, flat muffins.",
+    "Toss tutti-frutti or blueberries with 1 tsp flour and fold in with 2–3 strokes. If using frozen blueberries, add them straight from the freezer; thawed ones turn the batter purple.",
+    "Preheat the air fryer at 180°C for 3 minutes. Fill cups three-quarters full; don't under-fill, or they bake flat.",
+    "Air fry at 180°C for 3 minutes (this burst of heat lifts the tops into domes), then lower to 160°C for 9–11 minutes without opening the basket in between. They're done when the tops are light golden, spring back when pressed lightly, and a toothpick comes out clean or with a few moist crumbs.",
+    "Cool 5 minutes in the cups, then on a rack."
   ],
   storage: "Room temperature 2 days, fridge 5 days, freezer 2 months.",
   reheating: "Microwave 10 seconds.",
-  notes: "Same batter, different muffins: tutti-frutti is the Indian bakery classic kids love; lemon zest + a lemon-sugar glaze makes lemon muffins; a spoon of jam pushed into the centre before baking makes jam-filled muffins. Oven option: 180°C for 18–20 minutes."
+  notes: "Same batter, different muffins: tutti-frutti is the Indian bakery classic kids love; lemon zest + a lemon-sugar glaze makes lemon muffins; a spoon of jam pushed into the centre before baking makes jam-filled muffins. Oven option: 180°C for 18–20 minutes.\n\nOptional — taller domes: cover the batter and rest it in the fridge for 20–30 minutes before filling the cups.\n\nOptional — cinnamon-sugar tops: brush the warm muffins with a little melted butter and dip the tops in cinnamon sugar (3 tbsp sugar + 1 tsp cinnamon).\n\nVariation — chocolate chip: fold in 1/2 cup chocolate chips as the add-in.",
+  references: [
+    { title: "Urban Farmie — Vanilla Muffins", url: "https://urbanfarmie.com/vanilla-muffins/" },
+    { title: "Crumb Top Baking — Air Fryer Muffins", url: "https://www.crumbtopbaking.com/air-fryer-muffins/" }
+  ]
 });

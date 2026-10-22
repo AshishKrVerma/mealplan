@@ -277,7 +277,10 @@ h1, h2, h3 { font-family: var(--serif); line-height: 1.25; margin: 0; }
 .chef-notes {
   background: var(--accent-soft); border-radius: var(--radius);
   padding: 16px 20px; font-size: 0.97rem;
+  white-space: pre-line; /* blank lines in notes become paragraph breaks */
 }
+.refs { margin: 0; padding-left: 20px; }
+.refs a { color: var(--accent); overflow-wrap: anywhere; }
 
 /* personal notes */
 #personal-note {

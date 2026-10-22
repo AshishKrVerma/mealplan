@@ -22,7 +22,8 @@ window.RECIPES.push({
     "1 onion, cut into petals; 1 capsicum, cut into squares; 3–4 green chillies, slit",
     "1 tbsp chopped garlic, 1 tsp chopped ginger",
     "Sauce: 1.5 tbsp soy sauce, 1.5 tbsp red chilli sauce, 1 tbsp tomato ketchup, 1 tsp vinegar, 1/2 tsp sugar, 1 tsp cornflour mixed in 1/4 cup water",
-    "2 spring onions, chopped"
+    "2 spring onions — whites and greens chopped separately",
+    "To finish: 1/2 tsp black pepper, salt only if needed, 1/2 tsp sesame oil (optional)"
   ],
   shoppingList: [
     "Boneless buffalo meat (400 g)",
@@ -37,14 +38,18 @@ window.RECIPES.push({
     "Mix in all the marinade ingredients, adding the cornflour last, so each strip is lightly coated."
   ],
   steps: [
-    "Fry the strips: shallow fry in hot oil in batches for 2–3 minutes until crisp and golden. Air fryer option: spray with oil and air fry at 200°C for 8–10 minutes, shaking halfway.",
-    "In a wok, heat 1 tbsp oil on high. Add garlic, ginger and green chillies for 30 seconds.",
-    "Add onion and capsicum and stir-fry 1–2 minutes on high — they should stay crunchy.",
+    "Fry the strips: heat about 1 cm oil in a wok on medium-high — a test strip should sizzle at once. Fry in small batches (crowding makes them steam and go soggy), separating the strips as they go in, 2–3 minutes until crisp and golden. Drain on paper. Air fryer option: spray with oil and air fry at 200°C for 8–10 minutes in a single layer, shaking halfway.",
+    "Pour off all but 1 tbsp oil and keep the wok on high. Add garlic, ginger, green chillies and the spring onion whites and stir 30 seconds until fragrant — don't let the garlic brown.",
+    "Add onion and capsicum and stir-fry 1–2 minutes on high — the onion petals should just turn translucent at the edges and the capsicum stay crunchy.",
     "Pour in the sauce ingredients (except the cornflour slurry) and let it bubble 30 seconds.",
     "Stir the slurry, add it and cook until the sauce turns glossy and thick, about 30 seconds.",
-    "Toss in the fried beef and spring onions, coat quickly and serve immediately so it stays crisp."
+    "Toss in the fried beef, black pepper and spring onion greens and coat quickly (about 30 seconds). Taste — soy and chilli sauces are salty, so add salt only if needed. Drizzle the sesame oil if using and serve immediately so it stays crisp."
   ],
   storage: "Fridge up to 2 days (the coating softens).",
   reheating: "Air fryer 180°C for 4 minutes, or a hot wok for 1–2 minutes.",
-  notes: "For a gravy version to have with fried rice or noodles, use 3/4 cup water in the sauce with 2 tsp cornflour. Never skip the slicing across the grain and the baking-soda step — without them buffalo strips turn chewy. Less spicy for kids: skip green chillies and use half chilli sauce, half ketchup."
+  notes: "Never skip the slicing across the grain and the baking-soda step — without them buffalo strips turn chewy.\n\nWhy it works: a very hot wok, small batches and a quick final toss keep the beef crisp and the vegetables crunchy. The sauce should just coat the beef, not pool.\n\nGravy version (for fried rice or noodles): use 3/4 cup water in the sauce with 2 tsp cornflour.\n\nOptional — Kerala-style kick: fry 4–5 broken dried red chillies in the oil before the garlic, and stir 1 tsp Kashmiri chilli powder in with the slurry for colour and heat.\n\nLess spicy for kids: skip green chillies and use half chilli sauce, half ketchup.",
+  references: [
+    { title: "Recipes Are Simple — Beef Chilli Fry (Fast and Hot)", url: "https://recipesaresimple.com/recipe/beef-chilli-fry-fast-and-hot/" },
+    { title: "Celebration in My Kitchen — Indo-Chinese Chilli Beef", url: "https://www.celebrationinmykitchen.com/indo-chinese-chilli-beef" }
+  ]
 });

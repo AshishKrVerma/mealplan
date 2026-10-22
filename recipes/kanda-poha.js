@@ -19,7 +19,8 @@ window.RECIPES.push({
     "1 large onion, chopped",
     "1 potato, small dice (optional)",
     "2 tbsp peanuts",
-    "1 tsp mustard seeds, 8–10 curry leaves, 1–2 green chillies chopped",
+    "3/4 tsp mustard seeds, 1/2 tsp cumin seeds, a pinch of hing",
+    "8–10 curry leaves, 1–2 green chillies chopped",
     "1/2 tsp turmeric, 1 tsp sugar, salt",
     "2 tbsp oil, half a lemon, fresh coriander",
     "Sev for topping (optional, correct)"
@@ -32,16 +33,23 @@ window.RECIPES.push({
     "Green chillies"
   ],
   preparation: [
-    "Put poha in a colander, rinse under running water for 20–30 seconds, then let it sit 10 minutes. It should be soft but not soggy — never soak it in standing water.",
-    "Sprinkle the turmeric, salt and sugar over the rinsed poha and toss gently."
+    "Put poha in a colander and rinse it quickly under running water, turning it with your fingers, just until all of it is wet (about 20 seconds). Drain well. Never soak it in standing water.",
+    "Cover and let it sit 5–10 minutes. Test: press a flake between thumb and finger. It should be soft and break easily, not hard and not mushy. Still hard? Sprinkle a little water, cover and wait 2–3 more minutes.",
+    "Sprinkle the salt and sugar over the softened poha and toss gently with your fingers, breaking up any lumps."
   ],
   steps: [
-    "Heat oil; fry peanuts until golden, then splutter mustard seeds, curry leaves and green chilli.",
-    "Add onion (and potato if using); cook until onion is soft and potato is tender, 5–6 minutes covered.",
-    "Add the seasoned poha, mix gently with a light hand, cover and steam on low for 2–3 minutes.",
-    "Off the heat: lemon juice, coriander, and sev on top. Serve hot."
+    "Heat oil in a kadhai and fry the peanuts on medium until golden and crunchy, 2–3 minutes. Lift them out and keep aside so they stay crunchy.",
+    "In the same oil add mustard seeds; when they crackle add cumin, then hing, curry leaves and green chilli (stand back, the leaves splutter). Add the onion and sauté 2–3 minutes until soft and translucent, not brown.",
+    "If using potato, add it now with a pinch of salt, cover and cook on LOW 5–6 minutes until a knife goes through easily. Sprinkle 1 tbsp water if it sticks.",
+    "Add turmeric and stir 30 seconds. Add the poha and fold gently with a light hand until evenly yellow.",
+    "Cover and cook on very low for 2–3 minutes, until the poha is hot all the way through. If it looks dry, sprinkle 1–2 tbsp water first.",
+    "Off the heat: taste for salt, then add lemon juice, coriander and the fried peanuts. Top with sev and serve hot."
   ],
   storage: "Best fresh; keeps a few hours covered on the counter.",
   reheating: "Sprinkle 1 tsp water, microwave 45–60 seconds covered — comes back surprisingly well.",
-  notes: "Thick poha only — thin poha dissolves. Add peas or grated carrot along with the onion when you want it more substantial. Finishing touch: fresh grated coconut along with the sev and lemon. Variation: Indori poha — top with pomegranate seeds and a pinch of jeeravan or chaat masala."
+  notes: "Thick poha only — thin poha dissolves. New packet? Rinse one spoonful first; if it turns to mush, it's too thin for this dish.\n\nWhy lemon off the heat: cooked lemon juice turns flat and slightly bitter; added at the end it stays fresh.\n\nAdd peas or grated carrot along with the onion when you want it more substantial.\n\nFinishing touch: fresh grated coconut along with the sev and lemon.\n\nOptional — make-ahead: cook the tempering (steps 1–3) the night before and refrigerate. In the morning rinse the poha, reheat the tempering and carry on from step 4.\n\nVariation: Indori poha — top with pomegranate seeds and a pinch of jeeravan or chaat masala.",
+  references: [
+    { title: "Swasthi's Recipes — Poha", url: "https://www.indianhealthyrecipes.com/poha-recipe/" },
+    { title: "Hebbar's Kitchen — Kanda Poha", url: "https://hebbarskitchen.com/kanda-poha-recipe-maharashtrian-poha/" }
+  ]
 });

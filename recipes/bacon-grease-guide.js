@@ -34,5 +34,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 1 month (keep 3 months in the freezer). Not at room temperature in Indian weather.",
   reheating: "Use straight from the jar — it melts in seconds in a hot pan.",
-  notes: "Where to use it (1 tsp replaces oil or butter): scrambled or fried eggs; Bacon Fried Rice; Bacon Jeera Aloo or roasted potatoes in the air fryer; sautéed beans, cabbage or mushrooms; toasting bread for sandwiches; a spoon in the tadka for dal; popcorn. It is salty and smoky, so reduce salt in whatever you cook. Never pour it down the sink — it sets solid and blocks pipes; throw old grease in the bin in a sealed bag or container."
+  notes: "Where to use it (1 tsp replaces oil or butter): scrambled or fried eggs; Bacon Fried Rice; Bacon Jeera Aloo or roasted potatoes in the air fryer; sautéed beans, cabbage or mushrooms; toasting bread for sandwiches; a spoon in the tadka for dal; popcorn.\n\nIt is salty and smoky, so reduce salt in whatever you cook.\n\nNever pour it down the sink — it sets solid and blocks pipes; throw old grease in the bin in a sealed bag or container."
 });

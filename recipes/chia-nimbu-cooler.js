@@ -33,7 +33,8 @@ window.RECIPES.push({
   ],
   preparation: [
     "Soak the chia in 1/2 cup of the water for 15 minutes, stirring after the first 2 minutes so they separate.",
-    "The seeds are ready when each one has a clear gel coat and they float rather than sink.",
+    "The seeds are ready when each one has a clear gel coat and they no longer clump together.",
+    "Roll the lemons firmly on the counter before cutting, and squeeze gently. Squeezing hard pulls bitterness out of the white pith and seeds.",
     "Crush the mint between your palms instead of chopping it — bruising releases the oil, chopping just makes it black at the edges."
   ],
   steps: [

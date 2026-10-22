@@ -33,16 +33,19 @@ window.RECIPES.push({
   ],
   preparation: [
     "Chop the onion, chilli and coriander finely — big chunks tear the omelette when you fold it.",
-    "Beat 2 eggs per omelette with the milk, spices, salt and half the chopped mix until slightly frothy, a good 30 seconds of whisking."
+    "Make one omelette at a time: beat 2 eggs with half the milk, spices, salt and half the chopped mix until slightly frothy, a good 30 seconds of whisking. Keep the other half for the second omelette."
   ],
   steps: [
-    "Heat a nonstick pan (20–24 cm) on medium for a full minute, then add the oil and swirl to coat.",
-    "Pour in the egg mix and immediately tilt the pan so it spreads into an even round.",
-    "Drop the heat to low. Cook 2–3 minutes until the edges lift and the top is nearly set but still glossy — resist the urge to poke.",
+    "Heat a nonstick pan (20–24 cm) on medium for a full minute, then add the oil and swirl to coat. It's ready when a drop of water sizzles straight away.",
+    "Whisk the egg mix once more (the onion sinks to the bottom), pour it in, and immediately tilt the pan so it spreads into an even round.",
+    "Drop the heat to low. Cook 2–3 minutes until the edges lift, the underside is light golden (lift an edge to peek) and the top is nearly set but still glossy. Resist the urge to poke. High heat makes it tough and brown before the middle sets.",
     "Fold in half with a flat spatula, press gently for 20 seconds, and slide onto the plate.",
     "Repeat for the second omelette. Serve hot with buttered toast or squished into pav with ketchup — the correct way."
   ],
   storage: "Doesn't store. An omelette's life is short and glorious.",
   reheating: "Don't. Make a fresh one — it takes 4 minutes.",
-  notes: "Grated cheese in the fold is the teen upgrade. Chopped tomato works, but squeeze the seeds out first or the omelette goes soggy. Two of these plus toast is a full dinner, no shame."
+  notes: "Grated cheese in the fold is the teen upgrade.\n\nChopped tomato works, but squeeze the seeds out first or the omelette goes soggy.\n\nOptional — street style: instead of folding, flip the whole omelette and cook the second side for only 10–15 seconds so it stays soft.\n\nVariation — extra veg: add 2 tbsp each finely chopped capsicum and grated carrot to the egg mix.\n\nTwo of these plus toast is a full dinner, no shame.",
+  references: [
+    { title: "Sailu's Food — Masala Omelette", url: "https://www.sailusfood.com/masala-omelette-recipe-breakfast-india/" }
+  ]
 });

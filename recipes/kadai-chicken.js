@@ -15,7 +15,7 @@ window.RECIPES.push({
   proteinLevel: "High",
   leftoverRating: 4,
   ingredients: [
-    "550 g boneless chicken, large chunks",
+    "550 g boneless chicken, large chunks (thigh stays juiciest)",
     "2 tbsp coriander seeds + 3 dried red chillies + 1 tsp cumin seeds + 1/2 tsp peppercorns (kadai masala)",
     "2 onions — 1 finely chopped, 1 in chunks",
     "1 large capsicum, chunks",
@@ -35,18 +35,22 @@ window.RECIPES.push({
     "Kashmiri chilli powder (pantry check)"
   ],
   preparation: [
-    "Dry-roast coriander seeds, dried chillies, cumin and peppercorns in the kadai on low for 2 minutes until fragrant. Cool, then crush COARSELY — mortar or one short mixie pulse. Gritty, not powder.",
+    "Dry-roast coriander seeds, dried chillies, cumin and peppercorns in the kadai on low for 2–3 minutes, stirring, until the coriander seeds turn a shade darker and smell nutty and the chillies are crisp (not blackened). Tip onto a plate, cool 5 minutes, then crush COARSELY — mortar or one short mixie pulse. Gritty, not powder.",
     "Chop everything: one onion fine, one in chunks, capsicum in chunks, tomatoes chopped."
   ],
   steps: [
     "Heat 1/2 tbsp oil in the kadhai on high; blister the onion chunks and capsicum 2–3 minutes with charred spots. Remove and set aside.",
     "Add remaining oil on medium; cook the chopped onion with a pinch of salt 6–7 minutes to golden.",
-    "Add ginger-garlic paste for 1 minute, then tomatoes, turmeric, chilli powder and HALF the crushed kadai masala. Cook 5–6 minutes until soft and oily at the edges.",
-    "Add chicken, sear 4 minutes on medium-high, then add 1/3 cup water, cover, and simmer 10 minutes until cooked through.",
+    "Add ginger-garlic paste and stir 1 minute until the raw smell is gone, then tomatoes, turmeric, chilli powder and HALF the crushed kadai masala. Cook 5–6 minutes, mashing the tomatoes with the spoon, until they break down and the masala shows oil at the edges.",
+    "Add chicken, sear 4 minutes on medium-high until it turns opaque all over, then add 1/3 cup water, cover, and simmer 10–12 minutes until cooked through. Uncover and cook off any extra liquid so the masala is thick, not runny.",
     "Return the capsicum and onion, sprinkle the remaining kadai masala, kasuri methi and garam masala. Toss on high 2–3 minutes — the gravy should be thick and rough-textured, hugging the chicken.",
     "Finish with ginger julienne and coriander. Serve hot with chapati or naan-style parathas."
   ],
   storage: "Fridge up to 3 days; the crushed spices keep it aromatic on day two.",
   reheating: "Low flame with a splash of water, or microwave 2 minutes.",
-  notes: "Adding the kadai masala in two rounds is the trick — early for depth, late for aroma. Make double masala and jar it; kadai paneer on a veg night is then a 20-minute job."
+  notes: "Adding the kadai masala in two rounds is the trick — early for depth, late for aroma. Make double masala and jar it; kadai paneer on a veg night is then a 20-minute job.\n\nKeep the capsicum crunchy: it goes back in only for the final 2–3 minutes. Cooked longer, it goes limp and loses its smoky edge.\n\nOptional — sour tomatoes: if the masala tastes sharp, add a pinch of sugar with the tomatoes to round it off.\n\nOptional — more aromatic masala: add 1 tsp fennel seeds, 2 cloves, 2 green cardamom and a small piece of cinnamon (Swasthi's style) or 1 black cardamom (Ranveer Brar's style) to the roast.\n\nOptional — bone-in: use 800 g bone-in curry cut and simmer 20–25 minutes in step 4.\n\nOptional — garnish: a couple of slit green chillies with the ginger julienne for a fresh bite.",
+  references: [
+    { title: "Swasthi's Recipes — Kadai Chicken (Chicken Karahi)", url: "https://www.indianhealthyrecipes.com/wprm_print/kadai-chicken-recipe-chicken-karahi" },
+    { title: "Ranveer Brar — Peshawari Chicken Karahi", url: "https://ranveerbrar.com/recipes/peshawari-chicken-karahi/" }
+  ]
 });

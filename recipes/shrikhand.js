@@ -32,8 +32,8 @@ window.RECIPES.push({
     "Charoli seeds (optional)"
   ],
   preparation: [
-    "Soak the saffron in warm milk for 10 minutes until the milk turns golden.",
-    "If your Greek yogurt has any visible whey, tip it off — thicker in means silkier out. (Regular curd needs 4–6 hours hanging in a muslin cloth; Greek yogurt is the entire shortcut.)"
+    "Crush the saffron strands between your fingers, then soak them in the warm milk for 10 minutes until the milk turns golden. Crushing releases far more colour and aroma.",
+    "Use full-fat yogurt that isn't sour. If your Greek yogurt has any visible whey, tip it off — thicker in means silkier out. If it looks loose rather than thick like cream cheese, tie it in a muslin cloth and let it drain in a strainer in the fridge for 1 hour first; leftover whey makes shrikhand runny. (Regular curd needs to hang overnight in the fridge; Greek yogurt is the entire shortcut.)"
   ],
   steps: [
     "Put the Greek yogurt in a bowl and whisk 1–2 minutes until completely smooth and glossy.",
@@ -44,5 +44,8 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 3 days, covered. It arguably improves on day two as the saffron deepens.",
   reheating: "Never. This is a strictly cold operation.",
-  notes: "Mango version (amrakhand): fold in 1/2 cup mango pulp and cut the sugar. Because it's all Greek yogurt, a bowl of this has more protein than most dinners — cite this fact freely when taking seconds. Powdered sugar only; granular sugar stays gritty."
+  notes: "Because it's all Greek yogurt, a bowl of this has more protein than most dinners — cite this fact freely when taking seconds.\n\nSugar: powdered sugar only; granular sugar stays gritty. Best is to grind regular sugar in the mixer jar yourself; store-bought icing sugar contains cornflour and can taste slightly starchy. Don't swap in honey or syrup, which make it runny.\n\nOptional — fresher cardamom: grind 3–4 green cardamom pods with the sugar instead of using cardamom powder. Use green cardamom, never black.\n\nVariation — mango (amrakhand): fold in 1/2 cup thick mango pulp and cut the sugar.\n\nVariation — rose: whisk in 1 tbsp rose syrup and 1 tbsp gulkand instead of saffron.\n\nShortcut for regular curd: tie it in muslin, wrap the bundle in a thick towel, put it on a plate and weigh it down with a heavy pan in the fridge for 1–2 hours.",
+  references: [
+    { title: "Swasthi's Recipes — Shrikhand", url: "https://www.indianhealthyrecipes.com/shrikhand-recipe/" }
+  ]
 });

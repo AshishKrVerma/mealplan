@@ -37,8 +37,8 @@ window.RECIPES.push({
     "Mustard sauce (optional)"
   ],
   preparation: [
-    "Hard-boil the eggs (10 minutes from boiling water), cool in cold water and peel.",
-    "Mash the eggs roughly with a fork — chunky, not paste. Mix in mayo, curd, mustard, onion, chilli, pepper, chaat masala and salt.",
+    "Hard-boil the eggs (lower them into boiling water, 10 minutes), then straight into cold water for 5 minutes — this stops the grey ring round the yolk and makes peeling easier. Peel.",
+    "Mash the eggs roughly with a fork — chunky, not paste. Mix in mayo, curd, mustard, onion, chilli, pepper and chaat masala. Add salt last and lightly — mayo and chaat masala are already salty.",
     "Taste the filling and fix it now; you can't season a sealed sandwich."
   ],
   steps: [
@@ -49,5 +49,8 @@ window.RECIPES.push({
   ],
   storage: "The filling keeps 1 day in an airtight box in the fridge. Assembled sandwiches go soggy — store the filling, toast fresh.",
   reheating: "Re-crisp a toasted sandwich on the tawa for a minute a side. Don't microwave; it turns to sponge.",
-  notes: "The curd-mayo blend is the trick — creamier than straight mayo and lighter too. Untoasted with the crusts cut off, it's a proper tea-time sandwich. The filling on crackers is a solid evening snack."
+  notes: "The curd-mayo blend is the trick — creamier than straight mayo and lighter too. Untoasted with the crusts cut off, it's a proper tea-time sandwich. The filling on crackers is a solid evening snack.\n\nOptional — herbs and zing: 2 tbsp chopped coriander, a pinch of chilli flakes or oregano, and a few drops of lemon in the filling.\n\nFood safety: eat within 2 hours of making, or keep the filling chilled.",
+  references: [
+    { title: "Swasthi's Recipes — Egg Mayo Sandwich", url: "https://www.indianhealthyrecipes.com/egg-mayo-sandwich/" }
+  ]
 });

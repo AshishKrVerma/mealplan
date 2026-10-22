@@ -22,9 +22,10 @@ window.RECIPES.push({
     "2 tbsp ginger-garlic paste",
     "3 tbsp ghee or butter",
     "2 green chillies, slit",
-    "1 tsp cumin seeds, 2 green cardamoms, 1 bay leaf",
+    "1 tsp cumin seeds, 3 green cardamoms, 3 cloves, 1-inch cinnamon stick, 1 bay leaf",
     "1 tsp kasuri methi, crushed between the palms",
-    "Salt to taste"
+    "1 tsp lemon juice, salt to taste",
+    "1/2 inch ginger, cut into thin juliennes (optional, to garnish)"
   ],
   shoppingList: [
     "Chicken (700 g)",
@@ -32,21 +33,29 @@ window.RECIPES.push({
     "Fresh cream (small pack)",
     "Whole black peppercorns (to crush fresh)",
     "Green chillies",
-    "Kasuri methi (pantry check)"
+    "Lemon (1), ginger",
+    "Kasuri methi, cloves, cinnamon, green cardamom (pantry check)"
   ],
   preparation: [
     "Hang the curd in a muslin cloth for 30 minutes, or use Greek yogurt straight from the tub. Loose curd will split in the pan.",
     "Crush the peppercorns coarsely in a mortar or under a rolling pin — pre-ground pepper powder tastes flat and dusty here.",
-    "Marinate the chicken in half the hung curd, the ginger-garlic paste, 1 tbsp of the pepper and salt for at least 20 minutes."
+    "Marinate the chicken in half the hung curd, the ginger-garlic paste, 1 tbsp of the pepper, the lemon juice and salt for at least 20 minutes (up to overnight in the fridge).",
+    "Take the remaining hung curd out of the fridge when you start marinating, so it is at room temperature when it goes in the pan. Cold curd hitting hot ghee is the main reason it splits."
   ],
   steps: [
-    "Heat the ghee in a heavy pan. Add cumin, cardamom and bay leaf and let them crackle for 30 seconds.",
+    "Heat the ghee in a heavy pan on medium. Add cumin, cardamom, cloves, cinnamon and bay leaf and let them crackle for 30–40 seconds, until fragrant. Don't let them go dark.",
     "Add the marinated chicken and sear on high 5 minutes until the outside turns opaque and catches a little colour.",
     "Lower the heat to minimum and add the remaining hung curd a spoon at a time, stirring constantly. Rushing this is exactly how the gravy curdles.",
     "Cover and cook 12–15 minutes on low until the chicken is tender and ghee floats at the edges. Add a splash of hot water only if it is catching.",
-    "Stir in the cream, the rest of the pepper, the slit chillies and kasuri methi. Simmer 3 minutes uncovered and taste — it should be assertively peppery, not shy."
+    "Add the slit chillies and the rest of the pepper (keep back a pinch for garnish). Adding most of the pepper late keeps it fragrant; long cooking makes it dull and slightly bitter. Simmer 2 minutes.",
+    "Turn the heat to its lowest. Stir in the cream and kasuri methi and warm through for 1–2 minutes without letting it boil. Taste — it should be assertively peppery, not shy.",
+    "Turn off the heat, scatter the reserved pepper and the ginger juliennes, and serve."
   ],
   storage: "Fridge up to 3 days. The pepper mellows and rounds out overnight.",
   reheating: "Low flame, 5 minutes, splash of water. Never boil hard — the curd base will split.",
-  notes: "This is the keto answer to butter chicken: all the richness, none of the sugar or cashew paste. Serve with Cauliflower Rice. For a whiter, milder version use white pepper instead of black."
+  notes: "This is the keto answer to butter chicken: all the richness, none of the sugar or cashew paste. Serve with Cauliflower Rice. For a whiter, milder version use white pepper instead of black.\n\nWhy no onion base: most restaurant versions build the gravy on fried onion paste plus cashew or mawa. This one skips those to keep the carbs down, so the hung curd and cream do all the work.\n\nOptional — onion base (less strict keto): boil 1 small onion for 5 minutes, blend it smooth and fry it in the ghee right after the whole spices for 4–5 minutes, until the oil separates. Then add the chicken. It gives a rounder, slightly sweet gravy for about 2–3 g extra carbs per serving.\n\nOptional — chaat masala: a pinch stirred in at the end adds a tangy lift.",
+  references: [
+    { title: "My Food Story — Creamy Chicken Kali Mirch", url: "https://myfoodstory.com/chicken-kali-mirch/" },
+    { title: "Sanjeev Kapoor — Chicken Kali Mirch", url: "https://sanjeevkapoor.com/Recipe/Chicken-Kali-Mirch.html" }
+  ]
 });

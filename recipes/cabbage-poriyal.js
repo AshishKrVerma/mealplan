@@ -31,16 +31,21 @@ window.RECIPES.push({
   ],
   preparation: [
     "Shred the cabbage thin and even — thin shreds cook in minutes and stay sweet; chunky pieces steam into sulkiness.",
+    "If you rinse the cabbage after shredding, drain it very well in a colander — wet cabbage stews and turns mushy.",
     "Keep coconut thawed and everything measured by the stove; the tadka takes 60 seconds."
   ],
   steps: [
     "Heat oil in a wide kadai on medium. Splutter mustard seeds, then add urad dal and stir until it turns biscuit-gold.",
     "Add curry leaves, red chillies and hing — stand back, they crackle.",
-    "Add the cabbage, turmeric and salt. Toss well to coat in the tadka.",
-    "Cover and cook on LOW 6–8 minutes, tossing once midway. The cabbage should be just tender with a slight bite, not translucent surrender.",
+    "Add the cabbage and turmeric — no salt yet. Raise the flame to medium-high and toss well to coat in the tadka.",
+    "Keep tossing uncovered for 4–5 minutes, until the cabbage has wilted a little, the raw smell is gone and it still has a slight bite — not translucent surrender. (If your cabbage is old and tough, cover on low for 2–3 minutes here.)",
+    "Now add the salt and toss 1 more minute on high. Taste and adjust.",
     "Off the heat, stir in the coconut. Serve with rasam-rice, dal-rice, or curd rice."
   ],
   storage: "Fridge up to 2 days.",
   reheating: "Microwave 60 seconds, or a 2-minute toss in a dry pan.",
-  notes: "Coconut always goes in off the heat — cooked coconut loses its freshness. A handful of thawed peas at step 3 makes it lunchbox-heartier. Same method works with grated carrot in a hurry."
+  notes: "Coconut always goes in off the heat — cooked coconut loses its freshness. A handful of thawed peas at step 3 makes it lunchbox-heartier. Same method works with grated carrot in a hurry.\n\nWhy salt goes in last: salt pulls water out of cabbage. Added early, the cabbage sits in its own liquid and goes soggy; added at the end, it stays crisp-tender.\n\nOptional — moong dal version (Tamil-style): soak 3 tbsp yellow moong dal for 1 hour and drain. Add it right after the tadka, cover and cook on low 3–4 minutes (sprinkle 1 tbsp water if dry) until just soft, then add the cabbage. Adds protein and a nice bite.",
+  references: [
+    { title: "Swasthi's Recipes — Cabbage Poriyal", url: "https://www.indianhealthyrecipes.com/cabbage-poriyal/" }
+  ]
 });

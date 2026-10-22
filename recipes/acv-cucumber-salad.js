@@ -38,5 +38,5 @@ window.RECIPES.push({
   ],
   storage: "Best eaten within a few hours; it goes watery in the fridge.",
   reheating: "Serve cold — no reheating.",
-  notes: "A tiny pinch of sugar or honey balances the vinegar's sharpness and makes it taste much rounder. Variations: (1) Desi — add finely chopped onion, green chilli, coriander and chaat masala; (2) Asian — sesame oil, a few drops of soy sauce, chilli flakes and sesame seeds; (3) Creamy — stir in 2 tbsp hung curd with mint for a quick raita-salad. For extra crunch, salt the cucumber for 10 minutes first, squeeze off the water, then add the vinegar."
+  notes: "A tiny pinch of sugar or honey balances the vinegar's sharpness and makes it taste much rounder.\n\nVariations: (1) Desi — add finely chopped onion, green chilli, coriander and chaat masala; (2) Asian — sesame oil, a few drops of soy sauce, chilli flakes and sesame seeds; (3) Creamy — stir in 2 tbsp hung curd with mint for a quick raita-salad.\n\nFor extra crunch, salt the cucumber for 10 minutes first, squeeze off the water, then add the vinegar."
 });

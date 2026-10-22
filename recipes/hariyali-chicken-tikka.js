@@ -15,36 +15,43 @@ window.RECIPES.push({
   proteinLevel: "High",
   leftoverRating: 4,
   ingredients: [
-    "500 g boneless chicken, 4 cm cubes",
-    "1/2 cup fresh coriander leaves + 1/4 cup mint leaves",
+    "500 g boneless chicken thigh, 4 cm cubes (breast works but dries out faster)",
+    "1/2 cup fresh coriander leaves with tender stems + 1/4 cup mint leaves",
     "A small handful of spinach leaves (8–10)",
     "1–2 green chillies (use 1 for mild)",
     "1 tbsp ginger-garlic paste",
     "1/2 cup thick curd or Greek yogurt (hung curd is even better)",
     "1 tbsp besan (gram flour), lightly roasted",
-    "1 tsp garam masala, 1/2 tsp cumin powder, 1/2 tsp chaat masala",
+    "1 tsp garam masala, 1/2 tsp cumin powder, 1/2 tsp chaat masala, 1 tsp kasuri methi",
     "Juice of half a lemon, salt to taste",
-    "1 tbsp oil"
+    "1 tbsp oil (half in the marinade, half for brushing)"
   ],
   shoppingList: [
-    "Boneless chicken 500 g",
+    "Boneless chicken thigh 500 g",
     "Coriander, mint and spinach (one bunch each)",
     "Greek yogurt or thick curd",
     "Besan (small packet)",
     "Green chillies, lemon",
-    "Ginger-garlic paste, chaat masala (pantry check)"
+    "Ginger-garlic paste, chaat masala, kasuri methi (pantry check)"
   ],
   preparation: [
+    "Pat the chicken cubes dry with a kitchen towel so the marinade clings.",
+    "Dry-roast the besan in a small pan on low for 1–2 minutes, stirring, until it smells nutty and turns a shade darker. Tip it into a bowl so it doesn't keep cooking.",
     "Blitz coriander, mint, spinach, green chilli and ginger-garlic paste with 1 tbsp curd into a smooth green paste — no water, or the marinade goes runny.",
-    "Mix the paste with the rest of the curd, besan, spices, lemon juice, salt and oil. Coat the chicken and marinate at least 30 minutes in the fridge (2 hours if you planned ahead, which, respect)."
+    "Mix the paste with the rest of the curd, besan, spices, kasuri methi (crushed between your palms), lemon juice, salt and half the oil. Coat the chicken and marinate at least 30 minutes in the fridge (2 hours if you planned ahead, which, respect)."
   ],
   steps: [
     "Preheat the air fryer to 190°C for 3 minutes.",
     "Shake excess marinade off each piece and arrange in a single layer with a little breathing room — crowding steams, spacing chars.",
-    "Air fry 8 minutes, flip the pieces, then 5–6 more minutes until the edges have dark green-brown charred spots and the thickest piece is white inside when cut.",
-    "Rest 2 minutes, then sprinkle chaat masala and a squeeze of lemon. Serve with sliced onions and green chutney."
+    "Air fry 8 minutes, then flip the pieces and brush the tops with the remaining oil (this is what gives the charred edges). Air fry 4 more minutes.",
+    "Turn up to 200°C for the last 2–3 minutes, until the edges have dark green-brown charred spots and the thickest piece is white inside with clear juices when cut.",
+    "Rest 3–5 minutes so the juices settle, then sprinkle chaat masala and a squeeze of lemon. Serve with sliced onions and green chutney."
   ],
   storage: "Fridge up to 3 days in a covered box.",
   reheating: "Air fryer 3–4 minutes at 170°C, or microwave 60–90 seconds (softer but still good).",
-  notes: "Leftovers make an elite wrap with chapati and curd dressing, or chop into a salad bowl. Paneer works with the exact same marinade for a veg night. Don't skip the besan — it keeps the marinade clinging instead of dripping."
+  notes: "Leftovers make an elite wrap with chapati and curd dressing, or chop into a salad bowl. Paneer works with the exact same marinade for a veg night. Don't skip the besan — it keeps the marinade clinging instead of dripping.\n\nOptional — skewers: thread the pieces on short wooden skewers that fit your basket; they're easier to flip and look like proper tikka.\n\nOptional — overnight: marinating overnight in the fridge gives noticeably more flavour; take it out 20 minutes before cooking.",
+  references: [
+    { title: "Indiaphile — Hariyali Chicken Tikka", url: "https://indiaphile.info/hariyali-chicken-tikka" },
+    { title: "Rachna Cooks — Air Fryer Hariyali Chicken Tikka", url: "https://rachnacooks.com/air-fryer-hariyali-chicken-tikka/" }
+  ]
 });

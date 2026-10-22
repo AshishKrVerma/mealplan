@@ -29,7 +29,8 @@ window.RECIPES.push({
     "Garlic"
   ],
   preparation: [
-    "If using regular curd: hang it in a muslin cloth (or a fine sieve) over a bowl in the fridge for 2–4 hours until thick. Greek yogurt skips this entirely.",
+    "If using regular curd: use fresh, chilled curd — sour curd gets even sourer when strained. Tip it into a muslin cloth set in a sieve over a bowl, gather the cloth, squeeze gently and knot it. Put a small weight on top (a bowl works) and leave it in the fridge for 3–4 hours until thick and creamy with no whey running out. Straining in the fridge, not on the counter, stops it turning sour. Greek yogurt skips this entirely.",
+    "Keep the whey (the liquid that drips out) — use it to knead roti dough or drink it.",
     "Cut veggie sticks; store them in a box of cold water in the fridge — they stay crisp for days."
   ],
   steps: [
@@ -40,5 +41,8 @@ window.RECIPES.push({
   ],
   storage: "Dip keeps 4 days refrigerated in an airtight box. Veggie sticks in water: 3–4 days.",
   reheating: "Not applicable — served cold.",
-  notes: "Variations: mash in half an avocado when they're cheap, or a spoon of peri-peri masala for a spicy version. Also doubles as a sandwich spread and a tikka-wrap sauce."
+  notes: "Variations: mash in half an avocado when they're cheap, or a spoon of peri-peri masala for a spicy version. Also doubles as a sandwich spread and a tikka-wrap sauce.",
+  references: [
+    { title: "Swasthi's Recipes — Hung Curd", url: "https://www.indianhealthyrecipes.com/hung-curd-hung-yogurt/" }
+  ]
 });

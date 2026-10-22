@@ -20,10 +20,10 @@ window.RECIPES.push({
     "1 onion, cut into 2 cm squares and layers separated",
     "3 garlic cloves and 1 tsp ginger, finely chopped",
     "1–2 green chillies, slit",
-    "1.5 tbsp soy sauce, 2 tbsp tomato ketchup, 1 tsp red chilli sauce, 1 tsp vinegar",
+    "1.5 tbsp soy sauce, 2 tbsp tomato ketchup, 1 tsp red chilli sauce, 1 tsp vinegar, 1/2 tsp sugar",
     "1 tsp cornflour mixed in 1/4 cup water",
     "2 tbsp oil, 1/2 tsp black pepper",
-    "1 tbsp cornflour for dusting the eggs",
+    "1 tbsp cornflour + a pinch each of salt, pepper and chilli powder, for dusting the eggs",
     "Spring onion greens to finish (optional), salt"
   ],
   shoppingList: [
@@ -36,8 +36,8 @@ window.RECIPES.push({
     "Green chillies (1–2)"
   ],
   preparation: [
-    "Hard-boil the eggs (10 minutes from boiling water), cool, peel and halve lengthwise. Pat them dry and dust the cut sides lightly with cornflour — that's what makes them crisp instead of stick.",
-    "Stir the soy, ketchup, chilli sauce and vinegar together in a cup. Mix the cornflour slurry separately.",
+    "Hard-boil the eggs (10 minutes from boiling water), cool, peel and halve lengthwise. Pat them completely dry (wet eggs spatter in hot oil), then dust them all over with the seasoned cornflour. This seasons the egg itself and makes it crisp instead of sticking.",
+    "Stir the soy, ketchup, chilli sauce, vinegar and sugar together in a cup until the sugar dissolves. The pinch of sugar balances the sour vinegar and salty soy. Mix the cornflour slurry separately.",
     "Chop all vegetables before you start; the wok stage takes 6 minutes flat."
   ],
   steps: [
@@ -50,5 +50,9 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 2 days. The sauce thickens; loosen with a spoon of water when reheating.",
   reheating: "Gently in a pan with a splash of water, or 90 seconds in the microwave covered. The eggs lose their crispness but none of their charm.",
-  notes: "For a gravy version to pour over rice, double the slurry and add 1/2 cup water with the sauces. Teen heat-check: skip the green chillies and it's still plenty flavourful from the sauce. Also works with paneer cubes on a veg day — same sauce, same method."
+  notes: "For a gravy version to pour over rice, double the slurry and add 1/2 cup water with the sauces.\n\nTeen heat-check: skip the green chillies and it's still plenty flavourful from the sauce.\n\nAlso works with paneer cubes on a veg day — same sauce, same method.\n\nOptional — restaurant finish (Ranveer Brar): toss in 1/2 tsp sesame oil or chilli oil right at the end, and scatter a few toasted sesame seeds with the spring onion.\n\nOptional — extra-crisp coating: instead of the dry dusting, dip the halves in a thick batter of 2 tbsp maida, 2 tbsp cornflour, a pinch of salt and 2–3 tbsp water, then shallow-fry in 3–4 tbsp oil until golden. The cornflour is what makes it crisp. It's crispier but heavier.",
+  references: [
+    { title: "Ranveer Brar — Egg Chilli", url: "https://ranveerbrar.com/?p=4901" },
+    { title: "Yummy Tummy Aarthi — Chilli Egg (Dry & Gravy)", url: "https://yummytummyaarthi.com/wprm_print/chilli-egg-recipe-how-to-make-egg-chilli-recipe-dry-gravy" }
+  ]
 });

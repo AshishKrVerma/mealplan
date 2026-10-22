@@ -40,12 +40,15 @@ window.RECIPES.push({
   ],
   steps: [
     "Heat oil in a wide heavy tawa or pan on medium-high until shimmering.",
-    "Lay the chicken pieces in without crowding — you should hear a confident sizzle. Do two batches if needed.",
-    "Cook 4–5 minutes undisturbed until deeply golden underneath, then flip and cook 4–5 minutes more. Juices should run clear when you cut the thickest piece.",
+    "Let excess marinade drip off each piece (thick blobs of curd and garlic burn before the chicken browns), then lay the pieces in without crowding — you should hear a confident sizzle. Do two batches if needed.",
+    "Cook 4–5 minutes undisturbed until deeply golden underneath, then flip and cook 4–5 minutes more. If the underside is darkening too fast, drop the flame to medium. Juices should run clear when you cut the thickest piece.",
     "Flame off; add the butter to the hot pan and roll the chicken through it with an extra crack of pepper.",
     "Rest 3 minutes before slicing (this keeps it juicy), then shower with coriander or mint and a final squeeze of lemon."
   ],
   storage: "Fridge up to 3 days, sliced or whole, in a closed box.",
   reheating: "Microwave 60–90 seconds covered, or slice cold straight into a salad or wrap — genuinely good cold.",
-  notes: "The meal-prep MVP: cook double, slice, and it becomes tomorrow's wrap, sandwich or fried-rice protein. Thigh is more forgiving than breast if the timing gods aren't with you. Finishing touch: add 2 crushed garlic cloves to the butter in step 4 for garlic-lemon-pepper chicken, and grate a little lemon zest over the top — zest carries more lemon flavour than juice."
+  notes: "The meal-prep MVP: cook double, slice, and it becomes tomorrow's wrap, sandwich or fried-rice protein. Thigh is more forgiving than breast if the timing gods aren't with you. Finishing touch: add 2 crushed garlic cloves to the butter in step 4 for garlic-lemon-pepper chicken, and grate a little lemon zest over the top — zest carries more lemon flavour than juice.",
+  references: [
+    { title: "Cooking Classy — Lemon Pepper Chicken", url: "https://www.cookingclassy.com/lemon-pepper-chicken/" }
+  ]
 });

@@ -37,11 +37,11 @@ window.RECIPES.push({
   steps: [
     "Butter the bread or buns and toast them in a pan or the air fryer (180°C, 2 minutes) until golden.",
     "In the bacon grease, cook the eggs on medium: either fried with a slightly runny yolk, or whisked and folded into a square that fits the bread.",
-    "Place a cheese slice on each egg while still in the pan, cover with a lid for 30 seconds so the cheese melts.",
+    "Place a cheese slice on each egg while still in the pan. Splash 1 tsp water into the pan beside (not on) the egg and cover with a lid for 30 seconds — the steam melts the cheese evenly without overcooking the egg.",
     "Spread the sauce on the toast, add the egg and cheese, then 2 bacon strips (break them in half to fit), plus lettuce and tomato if using.",
     "Close the sandwich, press lightly and serve hot."
   ],
   storage: "Best eaten fresh.",
   reheating: "If needed, air fryer 160°C for 3 minutes, wrapped in foil.",
-  notes: "Folded-egg version is less messy for kids. For a breakfast-on-the-go, wrap it in foil — it stays warm for 20 minutes. Try it with a hash brown inside for a weekend treat."
+  notes: "Folded-egg version is less messy for kids.\n\nFor a breakfast-on-the-go, wrap it in foil — it stays warm for 20 minutes.\n\nVariation — try it with a hash brown inside for a weekend treat."
 });

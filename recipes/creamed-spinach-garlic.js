@@ -41,10 +41,14 @@ window.RECIPES.push({
     "Melt the butter in a wide pan and fry the garlic slices on low for 2–3 minutes until pale gold and fragrant. Low heat, or they turn bitter.",
     "Add the green chilli, then the palak in handfuls, letting each lot wilt before adding the next.",
     "Cook uncovered on medium 6–8 minutes. The spinach releases a lot of water and you want all of it gone — keep going until the pan is dry.",
-    "Turn the heat low and stir in the cream, cheese, pepper, nutmeg and salt.",
-    "Simmer 3 minutes until it thickens into a spoonable, glossy mass. Salt only at the end, because cheese brings its own."
+    "Turn the heat to low and stir in the cream, pepper and nutmeg. Let it bubble gently for 2 minutes — small lazy bubbles only. A hard boil can split the cream.",
+    "Stir in the cheese and cook 1–2 minutes more, stirring, until it melts and everything thickens into a spoonable, glossy mass that clings to the spoon. Taste and salt only now, because cheese brings its own."
   ],
   storage: "Fridge up to 3 days. It thickens further when cold.",
   reheating: "Low flame with 1 tbsp cream or water, 3 minutes. High heat will split the cream.",
-  notes: "This is Palak Paneer with the paneer taken out and the richness dialled up — drop 150 g cubed paneer in at the end and you have a full keto main. Palak is genuinely low carb, so eat as much of this as you like."
+  notes: "This is Palak Paneer with the paneer taken out and the richness dialled up — drop 150 g cubed paneer in at the end and you have a full keto main. Palak is genuinely low carb, so eat as much of this as you like.\n\nOptional — greener, never watery: instead of wilting raw palak in the pan, drop it into boiling salted water for 1 minute until bright green, move it to a bowl of cold water, then squeeze out as much water as you can with your hands and chop. Add it after the garlic and go straight to the cream. It stays bright green and can't turn soupy.\n\nOptional — heat: a pinch of chilli flakes with the garlic.",
+  references: [
+    { title: "Cooking with Cocktail Rings — Creamed Spinach", url: "https://cookingwithcocktailrings.com/creamed-spinach/" },
+    { title: "Dude That Cookz — Quick & Easy Creamed Spinach", url: "https://dudethatcookz.com/quick-easy-creamed-spinach/" }
+  ]
 });

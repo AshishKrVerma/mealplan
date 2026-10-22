@@ -35,12 +35,15 @@ window.RECIPES.push({
     "Chop onion, tomato, chilli, coriander."
   ],
   steps: [
-    "Steam or boil the sprouts 4–5 minutes — tender but still with bite. (Microwave: 3 minutes covered with a splash of water.)",
-    "Drain and cool slightly.",
-    "Toss with onion, tomato, chilli, chaat masala, cumin, salt and lemon.",
-    "Top with coriander and whatever toppings you fancy. Eat immediately."
+    "Steam or boil the sprouts with a pinch of salt for 4–5 minutes — they should be tender but still hold their shape, with a slight bite and no raw, beany taste. (Microwave: 3 minutes covered with a splash of water.)",
+    "Drain well and cool slightly. Extra water makes the chaat soggy.",
+    "Just before eating, toss with onion, tomato, chilli, chaat masala, cumin, salt and lemon. Taste and add more lemon or chaat masala if it's flat. Salt and lemon pull water out of the tomato, so don't mix ahead.",
+    "Top with coriander and whatever toppings you fancy, adding sev last so it stays crunchy. Eat immediately."
   ],
   storage: "Steamed plain sprouts keep 3 days in the fridge — assemble the chaat fresh in 2 minutes whenever hunger hits.",
   reheating: "Eat cold or briefly rewarm the plain sprouts; add the fresh stuff after.",
-  notes: "The meal-prep pattern: steam a big batch Sunday, then it's a 2-minute snack all week. A boiled egg chopped on top turns it into a light dinner."
+  notes: "The meal-prep pattern: steam a big batch Sunday, then it's a 2-minute snack all week. A boiled egg chopped on top turns it into a light dinner.\n\nOptional — tempered version (warm, South-style): heat 1 tsp oil, crackle 1/4 tsp mustard and 1/4 tsp cumin seeds, add a little chopped ginger, green chilli, curry leaves and a pinch of turmeric. Add the sprouts, salt and 2–3 tbsp water, cover and cook until just soft but holding their shape. Off the heat, stir in lemon and coriander, then top with onion, tomato and chaat masala.\n\nOptional — chutney: a drizzle of green (mint-coriander) chutney over the top makes it taste like street chaat.\n\nVariation: add a boiled, cubed potato or a handful of sweet corn to make it more filling.",
+  references: [
+    { title: "Archana's Kitchen — Sprouted Moong Chaat", url: "https://www.archanaskitchen.com/recipe/sprouted-moong-chaat-recipe" }
+  ]
 });

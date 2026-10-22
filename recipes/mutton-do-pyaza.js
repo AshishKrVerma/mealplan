@@ -21,8 +21,9 @@ window.RECIPES.push({
     "2 tomatoes, chopped",
     "1/2 cup curd, whisked",
     "1.5 tbsp ginger-garlic paste",
-    "3 tbsp oil, plus 1 tsp for the petals",
-    "1 tsp cumin seeds, 2 bay leaves, 4 cloves",
+    "3 tbsp oil, plus 2 tsp for the petals",
+    "1 tsp cumin seeds, 2 bay leaves, 4 cloves, 1 black cardamom, 8 black peppercorns",
+    "For the petals: 2–3 dry Kashmiri red chillies (torn), 2 green chillies (slit)",
     "2 tsp coriander powder, 1 tsp turmeric, 1.5 tsp Kashmiri chilli powder, 1 tsp garam masala",
     "1 tsp kasuri methi, salt, fresh coriander"
   ],
@@ -31,7 +32,8 @@ window.RECIPES.push({
     "Onions (5), Tomatoes (2)",
     "Curd (small cup)",
     "Ginger-garlic paste",
-    "Whole spices (cumin, bay, clove) (pantry check)",
+    "Whole spices (cumin, bay, clove, black cardamom, peppercorns) (pantry check)",
+    "Dry Kashmiri red chillies, green chillies",
     "Kasuri methi (pantry check)",
     "Kashmiri chilli powder (pantry check)",
     "Fresh coriander"
@@ -41,15 +43,19 @@ window.RECIPES.push({
     "Whisk the curd smooth so it doesn't split."
   ],
   steps: [
-    "Heat 3 tbsp oil in the pressure cooker; crackle cumin, bay and cloves. Add the sliced onions with a pinch of salt and cook 8–10 minutes to deep golden.",
-    "Add ginger-garlic paste (1 minute), then tomatoes and all the powdered spices except garam masala. Cook until oil separates.",
-    "Add mutton and bhuno on medium-high 5 minutes. Off the flame, stir in the curd, return to low heat for 2 minutes.",
+    "Heat 3 tbsp oil in the pressure cooker; crackle cumin, bay, cloves, black cardamom and peppercorns for 30 seconds. Add the sliced onions with a pinch of salt and cook 8–10 minutes to deep golden.",
+    "Add ginger-garlic paste and cook 1 minute until the raw smell goes, then tomatoes and all the powdered spices except garam masala. Cook 5–6 minutes until the tomato is mushy and oil separates.",
+    "Add mutton and bhuno on medium-high 5–6 minutes until the pieces lose their raw pink and the masala clings. Off the flame, stir in the curd a spoonful at a time, then return to low heat and stir 2–3 minutes until it looks smooth, not split.",
     "Add 3/4 cup hot water and salt, close the lid: 1 whistle on high, then 20 minutes on low. Natural release.",
-    "While it cooks, heat 1 tsp oil in a small pan on high and toss the onion petals 2–3 minutes until edge-charred but still crunchy.",
-    "Open the cooker, simmer to your thickness, then fold in the petals, kasuri methi (crushed between palms) and garam masala. Coriander on top."
+    "While it cooks, heat 2 tsp oil in a small pan on high. Add the torn dry red chillies for a few seconds until they darken slightly, then the onion petals, green chillies and a pinch of salt. Toss 2–3 minutes until the petals are edge-charred but still crunchy.",
+    "Open the cooker and simmer to your thickness. Fold in the petals and simmer together 2–3 minutes so they pick up the gravy but keep their bite. Add kasuri methi (crushed between palms) and garam masala, then coriander on top."
   ],
   storage: "Fridge 3 days, freezer 1 month — the petals soften overnight but the flavour deepens.",
   reheating: "Stovetop simmer with a splash of hot water, or microwave 3 minutes, stirring halfway.",
   buffaloNote: "Use the same weight of boneless buffalo, cut into 3 cm pieces (a little smaller than mutton, because it is tougher). If you have time, marinate 2 hours or overnight in the fridge with 2 tbsp curd, 1 tsp ginger-garlic paste and salt; adding 1 tbsp raw papaya paste tenderises it a lot. Buffalo is very lean, so add 1 tbsp extra oil or ghee. Pressure time changes: 1 whistle on high, then 30–35 minutes on low (instead of 20), with 1/4 cup more water so the cooker does not run dry, natural release. If a piece is not fork-tender, give it 1–2 more whistles. The second batch of onions still goes in after pressure cooking, exactly as written.",
-  notes: "Don't skip the separate petal fry — stirring raw onion chunks into the gravy is not do pyaza, it's just curry with regrets. Great with laccha paratha or jeera rice. Finishing touch: a squeeze of lemon and a few raw onion rings on top. For a quicker weeknight version, see Chicken Do Pyaza."
+  notes: "Don't skip the separate petal fry — stirring raw onion chunks into the gravy is not do pyaza, it's just curry with regrets.\n\nGreat with laccha paratha or jeera rice.\n\nFinishing touch: a squeeze of lemon and a few raw onion rings on top.\n\nOptional — mustard oil: use mustard oil for the gravy. Heat it until it just smokes, then lower the flame before adding the whole spices.\n\nOptional — bone-in: 750 g curry-cut mutton with bone gives a fuller gravy. Give it 1–2 more whistles than boneless.\n\nFor a quicker weeknight version, see Chicken Do Pyaza.",
+  references: [
+    { title: "Ranveer Brar — Mutton Do Pyaaza", url: "https://ranveerbrar.com/recipes/mutton-do-pyaaza/" },
+    { title: "Archana's Kitchen — Mutton Do Pyaza", url: "https://www.archanaskitchen.com/recipe/mutton-do-pyaza-recipe" }
+  ]
 });

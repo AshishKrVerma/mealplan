@@ -31,6 +31,7 @@ window.RECIPES.push({
   ],
   preparation: [
     "Pit the dates; soak briefly if they're firm, then squeeze dry.",
+    "Optional but worth it (skip if you bought roasted seeds): dry-roast the mixed seeds in a pan on low heat for 2–3 minutes, stirring, until they smell nutty and the sesame starts to pop. Tip onto a plate and cool. Raw seeds taste flat in the balls.",
     "Pulse peanuts in a mixer until coarsely ground — stop before it becomes butter (unless using peanut butter)."
   ],
   steps: [
@@ -41,5 +42,8 @@ window.RECIPES.push({
   ],
   storage: "Airtight box in the fridge, 2 weeks. They also freeze for 2 months.",
   reheating: "None — eat straight from the fridge.",
-  notes: "One ball before badminton/gym is genuinely good fuel. Swap peanuts for almonds, or add a spoon of oats to stretch the batch."
+  notes: "One ball before badminton/gym is genuinely good fuel. Swap peanuts for almonds, or add a spoon of oats to stretch the batch.\n\nOptional — more crunch: add 2 tbsp chopped almonds or pistachios, or 2 chopped dried figs (anjeer), with the seeds.",
+  references: [
+    { title: "Hebbar's Kitchen — Energy Balls (Protein Ladoo)", url: "https://hebbarskitchen.com/energy-balls-recipe-protein-balls-recipe/" }
+  ]
 });

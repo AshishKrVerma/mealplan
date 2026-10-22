@@ -35,10 +35,13 @@ window.RECIPES.push({
     "Cook the chopped bacon in a cold pan on medium for 6–7 minutes until crisp. Lift out, leaving about 1.5 tbsp grease.",
     "Turn the heat up to medium-high, add the beans and toss to coat. Cook 3 minutes until bright green with a few blistered spots.",
     "Add 2 tbsp water and cover for 2–3 minutes so the beans become tender but still crunchy.",
-    "Uncover, add garlic and chilli flakes and cook 1 minute until the garlic is golden.",
+    "Uncover and let any leftover water bubble away (about 30 seconds). Add garlic and chilli flakes and stir 30–60 seconds, until the garlic smells fragrant and is just turning light golden. Don't let it brown, or it turns bitter.",
     "Toss the bacon back in, season with pepper (taste before salting), finish with lemon and serve."
   ],
   storage: "Fridge up to 2 days.",
   reheating: "Hot pan 2 minutes.",
-  notes: "Cabbage version: shred half a cabbage thinly, skip the covered steam step, and stir-fry on high 5–6 minutes until it wilts with some browned edges — delicious with dal chawal. Add the garlic late so it doesn't burn in the hot bacon fat."
+  notes: "Cabbage version: shred half a cabbage thinly, skip the covered steam step, and stir-fry on high 5–6 minutes until it wilts with some browned edges — delicious with dal chawal. Add the garlic late so it doesn't burn in the hot bacon fat.\n\nOptional — blanch first (for the brightest green): boil the beans for 2 minutes, drop them into a bowl of ice-cold water, then drain and pat them completely dry. Sauté them in the bacon grease for 3 minutes and skip the covered steam step.",
+  references: [
+    { title: "Delicious Meets Healthy — Green Beans with Bacon", url: "https://www.deliciousmeetshealthy.com/green-beans-with-bacon/" }
+  ]
 });

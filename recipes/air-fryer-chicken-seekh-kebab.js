@@ -8,7 +8,7 @@ window.RECIPES.push({
   description: "Juicy chicken mince kebabs with browned edges from the air fryer — shape them on skewers if you own them, freeform logs if you don't. Nobody at the table checks.",
   difficulty: "Medium",
   equipment: ["Air Fryer", "Gas Stove"],
-  prepTimeMin: 25,
+  prepTimeMin: 40,
   cookTimeMin: 15,
   servings: "3–4 (makes 8–10 kebabs)",
   onePot: true,
@@ -20,7 +20,7 @@ window.RECIPES.push({
     "3 tbsp chopped coriander + 1 tbsp chopped mint",
     "1 tbsp ginger-garlic paste, 2 green chillies minced",
     "1 tsp each: coriander powder, cumin powder, garam masala",
-    "1/2 tsp Kashmiri chilli powder, 1/2 tsp crushed pepper, salt",
+    "1/2 tsp Kashmiri chilli powder, 1/2 tsp crushed pepper, 1/2 tsp chaat masala, salt",
     "2 tbsp besan, dry-roasted 2 minutes until nutty",
     "1 tbsp curd (only if the mix feels dry)",
     "1 tbsp oil for brushing",
@@ -35,13 +35,14 @@ window.RECIPES.push({
     "Lemon",
     "Wooden or metal skewers (optional)",
     "Curd (1 tbsp, if the mix feels dry)",
-    "Kashmiri chilli powder (pantry check)",
+    "Kashmiri chilli powder, chaat masala (pantry check)",
     "Green chutney (to serve)"
   ],
   preparation: [
     "Dry-roast the besan in a small pan on low for 2 minutes until it smells nutty; cool. This binds the kebabs and stops sogginess.",
-    "Squeeze the chopped onion hard to remove water — wet onion is the number one cause of kebabs falling apart.",
-    "Knead mince with everything (except oil) for a full 2 minutes until sticky and paste-like. Chill 15 minutes; a cold mix shapes far better.",
+    "Squeeze the chopped onion hard to remove water — wet onion is the number one cause of kebabs falling apart. Wash the coriander and mint, pat them completely dry, then chop finely for the same reason.",
+    "If using wooden skewers, soak them in water for 30 minutes so they don't burn, then wipe dry.",
+    "Knead mince with everything (except oil) for a full 2 minutes until sticky and paste-like. Cover and chill at least 30 minutes (up to 4 hours); a cold mix holds on the skewer far better.",
     "With oiled hands, press the mix around skewers into long kebabs, or roll into finger-thick logs."
   ],
   steps: [
@@ -53,5 +54,9 @@ window.RECIPES.push({
   ],
   storage: "Cooked kebabs keep 3 days in the fridge. The raw shaped mix also freezes well for a month — air fry from frozen, adding 4–5 minutes.",
   reheating: "Air fryer 3–4 minutes at 170°C; microwave works but sacrifices the crust.",
-  notes: "Tomorrow's lunch: kebabs rolled in a chapati with chutney and onions is a five-minute seekh roll. Test-fry a marble-size piece first and adjust salt — the only reliable way with mince. Finishing touch: brush the hot kebabs with melted butter and sprinkle chaat masala as they come out. Variation: shape the mix into flat patties for chicken burgers."
+  notes: "Tomorrow's lunch: kebabs rolled in a chapati with chutney and onions is a five-minute seekh roll. Test-fry a marble-size piece first and adjust salt — the only reliable way with mince.\n\nFinishing touch: brush the hot kebabs with melted butter and sprinkle a little more chaat masala as they come out.\n\nOptional — richer kebab (Swasthi's style): swap the raw onion for 1/4 cup crushed store-bought fried onions (birista) and add 2–3 tbsp finely chopped cashews or almonds. Roast the coriander and cumin powders in a dry pan for 1 minute first for a deeper flavour.\n\nOptional — no shaping: spread the mix 1 inch thick in a small greased dish that fits the basket, score it into fingers and air fry 14–16 minutes at 180°C, brushing with oil after 5 minutes. Cut into logs to serve.\n\nVariation: shape the mix into flat patties for chicken burgers.",
+  references: [
+    { title: "Swasthi's Recipes — Chicken Seekh Kabab", url: "https://www.indianhealthyrecipes.com/wprm_print/163530" },
+    { title: "Rachna Cooks — Air Fryer Chicken Seekh Kebab", url: "https://rachnacooks.com/wprm_print/air-fryer-chicken-seekh-kebab" }
+  ]
 });

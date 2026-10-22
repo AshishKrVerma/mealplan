@@ -38,12 +38,15 @@ window.RECIPES.push({
   ],
   steps: [
     "Peel and chop the eggs into rough 1 cm pieces. Leave them chunky; this is a salad, not a spread.",
-    "In a bowl, mix the mayonnaise, mustard, pepper, chilli powder and lemon into a smooth dressing before the eggs go anywhere near it.",
-    "Fold in the eggs, chilli and spring onion gently, with a spatula, in as few strokes as you can manage.",
+    "In a bowl, mix 2 tbsp of the mayonnaise with the mustard, pepper, chilli powder, a pinch of salt and the lemon into a smooth dressing before the eggs go anywhere near it.",
+    "Fold in the eggs, chilli and spring onion gently, with a spatula, in as few strokes as you can manage. Add the last tbsp of mayo only if it looks dry; it is easy to overdo and impossible to take back.",
     "Taste and adjust salt — boiled eggs soak up more salt than you expect.",
     "Chill 15 minutes before eating. It tastes noticeably better cold and set than straight from the bowl."
   ],
   storage: "Fridge up to 3 days in a sealed box. Do not leave it out on the counter — it is a mayo salad.",
   reheating: "None. This is a cold dish by design.",
-  notes: "Eat it with cucumber slices, capsicum strips or straight with a spoon. Add crumbled crisp bacon or shredded chicken to make it a full meal. For the non-keto crowd in the house, the same mix goes into a sandwich — see Egg Mayo Sandwich."
+  notes: "Eat it with cucumber slices, capsicum strips or straight with a spoon. Add crumbled crisp bacon or shredded chicken to make it a full meal. For the non-keto crowd in the house, the same mix goes into a sandwich — see Egg Mayo Sandwich.\n\nUse fine table salt rather than coarse salt; it dissolves into the dressing instead of crunching.",
+  references: [
+    { title: "A Family Feast — Classic Egg Salad", url: "https://www.afamilyfeast.com/classic-egg-salad/" }
+  ]
 });

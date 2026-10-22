@@ -33,11 +33,14 @@ window.RECIPES.push({
   steps: [
     "Pour the hot water into the upper chamber, put the lid on, and leave it. It drips for 20–30 minutes, or overnight.",
     "Boil the milk properly — filter coffee needs boiling milk, not warm milk.",
-    "Into each tumbler put 3–4 tbsp of decoction, then sugar, then top up with the boiling milk. The usual ratio is 1 part decoction to 3 parts milk.",
-    "Now pull it: pour back and forth between the tumbler and the davara from as much height as you dare. Six or seven pulls gives it the froth and cools it to drinking temperature.",
+    "Into each tumbler put 3–4 tbsp of decoction, stir in the sugar so it dissolves, then top up with the boiling milk. The usual ratio is 1 part decoction to 3 parts milk. Don't boil the decoction with the milk — it turns bitter.",
+    "Now pull it: pour back and forth between the tumbler and the davara from as much height as you dare. Stop once there is a thick froth on top (3–5 pulls) — keep going and it goes lukewarm.",
     "Drink it hot, straight away."
   ],
   storage: "Decoction keeps 2 days in the fridge in a covered jar — that is the whole convenience of making it. Mixed coffee does not keep.",
   reheating: "Warm the decoction and milk separately, then mix. Reheating mixed coffee kills the froth.",
-  notes: "Chicory is what gives Indian filter coffee its body and slight bitterness; 80:20 is the standard, 70:30 is stronger still. Leftover decoction goes into the Cold Coffee Protein Shake — use 3 tbsp in place of the instant coffee."
+  notes: "Chicory is what gives Indian filter coffee its body and slight bitterness; 80:20 is the standard, 70:30 is stronger still. Leftover decoction goes into the Cold Coffee Protein Shake — use 3 tbsp in place of the instant coffee.\n\nOptional — second decoction: pour fresh hot water over the used grounds for a lighter second decoction. Use it for a milder cup, or mix it with the first.\n\nWhy press firmly but not hard: tamped too loose, the water rushes through and the decoction is thin; packed rock-hard, it barely drips. Thick (full-fat) milk gives the best flavour.",
+  references: [
+    { title: "Hebbar's Kitchen — Filter Coffee", url: "https://hebbarskitchen.com/filter-coffee-recipe-filter-kaapi-recipe/" }
+  ]
 });

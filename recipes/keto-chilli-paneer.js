@@ -23,7 +23,7 @@ window.RECIPES.push({
     "3 green chillies, slit",
     "2 tbsp oil, 1 tbsp butter",
     "1 tbsp soy sauce, 1 tsp vinegar, 1 tsp red chilli sauce (check it has no sugar)",
-    "1 tsp black pepper, salt to taste"
+    "1 tsp crushed black pepper, salt to taste"
   ],
   shoppingList: [
     "Paneer (300 g)",
@@ -41,11 +41,15 @@ window.RECIPES.push({
   steps: [
     "Heat the oil in a wide pan until it is properly hot. Fry the paneer fingers 2 minutes a side until golden and lightly blistered, then lift them out.",
     "In the same pan add the butter, garlic, ginger and spring onion whites. Fry 40 seconds on high — this is where all the smell comes from.",
-    "Throw in the onion petals and capsicum. Toss on the highest flame 2–3 minutes; you want char marks, not softness.",
-    "Add soy sauce, vinegar, chilli sauce, pepper and the slit chillies. It will sizzle hard and reduce in under a minute.",
-    "Return the paneer, toss for 1 minute until every piece is coated and glossy, scatter the spring onion greens and serve straight away."
+    "Throw in the onion petals, capsicum and slit chillies. Toss on the highest flame 2–3 minutes; you want char marks, not softness.",
+    "Add soy sauce, vinegar, chilli sauce and 2 tbsp water (the water stops the soy scorching and lets the sauce coat evenly). It will sizzle hard and reduce to a sticky glaze in about a minute.",
+    "Turn the heat to low. Return the paneer with the black pepper and toss 30–60 seconds, just until every piece is coated and glossy. Longer on the heat turns paneer hard and chewy. Scatter the spring onion greens and serve straight away."
   ],
   storage: "Fridge up to 2 days. The paneer firms up cold, so it is best fresh.",
   reheating: "Hot pan, 2 minutes, no water. Add 1 tsp butter to bring back the shine.",
-  notes: "Without cornflour there is no thick sauce clinging — it stays a dry toss, which is what you want on a keto plate anyway. Check your chilli sauce label: most shop bottles are largely sugar. Same method works with chicken; sear it 6 minutes instead of 4."
+  notes: "Without cornflour there is no thick sauce clinging — it stays a dry toss, which is what you want on a keto plate anyway. Check your chilli sauce label: most shop bottles are largely sugar. Same method works with chicken; sear it 6 minutes instead of 4.\n\nCheck the soy sauce label too: some \"light\" or low-sodium soy sauces have added sugar. A naturally brewed one is the safest pick.\n\nOptional — softer paneer: if your paneer is firm or straight from the fridge, soak the fingers in warm salted water for 10 minutes, then pat them completely dry before frying.\n\nVariation — more veg: sliced mushrooms or zucchini can go in with the capsicum for bulk without many carbs.",
+  references: [
+    { title: "Swasthi's Recipes — Chilli Paneer", url: "https://www.indianhealthyrecipes.com/chilli-paneer-recipe/" },
+    { title: "Headbangers Kitchen — Keto Chilli Paneer", url: "https://headbangerskitchen.com/?p=59790" }
+  ]
 });

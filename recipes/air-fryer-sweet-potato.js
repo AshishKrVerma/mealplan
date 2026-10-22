@@ -33,10 +33,13 @@ window.RECIPES.push({
   steps: [
     "Microwave the pieces in a covered bowl with 1 tbsp water for 3–4 minutes, until just tender but still firm.",
     "Pat dry, then toss with oil, cornflour and salt until evenly coated.",
-    "Air fry at 200°C for 10 minutes in a single layer, shake, then 5–8 minutes more until the edges caramelise and darken.",
+    "Air fry at 200°C for 10 minutes in a single layer, shake, then 5–8 minutes more until the edges caramelise and darken and a fork slides into the centre easily. Small cubes finish sooner, so check them at 12 minutes.",
     "Serve with salt as is, or toss with the chaat masala, cumin, black salt, lemon and coriander while hot."
   ],
   storage: "Fridge up to 2 days.",
   reheating: "Air fryer 180°C for 3–4 minutes.",
-  notes: "Sweet potato burns faster than regular potato because of its natural sugar — keep an eye on it in the last few minutes. Flavour ideas: (1) Shakarkandi chaat — the classic Delhi street version above, very good; (2) Smoky — smoked paprika, garlic powder and a little chilli; (3) Sweet — a drizzle of honey and a pinch of cinnamon in the last 2 minutes (kids like this one); (4) Dip — serve with hung curd mixed with garlic, salt and mint."
+  notes: "Sweet potato burns faster than regular potato because of its natural sugar — keep an eye on it in the last few minutes.\n\nNo time to microwave? Skip it: cut 2 cm cubes, toss with oil and salt, and air fry at 200°C for 12–15 minutes, shaking halfway, until tender.\n\nOptional — loaded chaat: top the chaat version with a spoon each of green chutney, imli (tamarind) chutney and whisked curd, then sev, pomegranate and chopped onion. Assemble right before eating so the sev stays crisp.\n\nFlavour ideas: (1) Shakarkandi chaat — the classic Delhi street version above, very good; (2) Smoky — smoked paprika, garlic powder and a little chilli; (3) Sweet — a drizzle of honey and a pinch of cinnamon in the last 2 minutes (kids like this one); (4) Dip — serve with hung curd mixed with garlic, salt and mint.",
+  references: [
+    { title: "J Cooking Odyssey — Sweet Potato Chaat (Shakarkandi Chaat)", url: "https://www.jcookingodyssey.com/wprm_print/sweet-potato-chaat-shakarkandi-chaat" }
+  ]
 });

@@ -28,7 +28,7 @@ window.RECIPES.push({
     "Sweet corn, capsicum (optional)"
   ],
   preparation: [
-    "If using plain bread, mash together the garlic butter ingredients.",
+    "If using plain bread, mash together the garlic butter ingredients. Use fresh garlic grated very fine (jarred paste tastes sour). If your butter is salted, like Amul, skip the added salt.",
     "Cut slices about 1 inch thick so they stay soft inside and crisp at the base."
   ],
   steps: [
@@ -40,5 +40,8 @@ window.RECIPES.push({
   ],
   storage: "Best eaten fresh.",
   reheating: "Air fryer 160°C for 2 minutes.",
-  notes: "Your version is already the quick way to do it. Ideas to try: (1) Chilli cheese toast — add sweet corn, capsicum and green chilli under the cheese, very popular with kids; (2) Pav garlic bread — split pav buns, garlic butter, cheese; soft, cheap and quick; (3) Pull-apart loaf — cut a crisscross into a round loaf, push garlic butter and cheese into the gaps, cover with foil and air fry 160°C for 8 minutes, then uncover for 3. Tip: grate the mozzarella and press it down lightly — loose shreds can blow around in the air fryer fan."
+  notes: "Your version is already the quick way to do it. Ideas to try: (1) Chilli cheese toast — add sweet corn, capsicum and green chilli under the cheese, very popular with kids; (2) Pav garlic bread — split pav buns, garlic butter, cheese; soft, cheap and quick; (3) Pull-apart loaf — cut a crisscross into a round loaf, push garlic butter and cheese into the gaps, cover with foil and air fry 160°C for 8 minutes, then uncover for 3. Tip: grate the mozzarella and press it down lightly — loose shreds can blow around in the air fryer fan.",
+  references: [
+    { title: "RecipeTin Eats — Garlic Bread", url: "https://www.recipetineats.com/garlic-bread/" }
+  ]
 });

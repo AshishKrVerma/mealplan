@@ -34,12 +34,15 @@ window.RECIPES.push({
   ],
   steps: [
     "Heat oil in your widest pan or kadai on HIGH until it just smokes.",
-    "Add broccoli in a single layer and leave it untouched for 90 seconds to char the edges; toss and repeat once more.",
+    "Add broccoli in a single layer and leave it untouched for 90 seconds to char the edges; toss and repeat once more. Bite a stem piece: it should be tender with a slight crunch.",
     "Push the broccoli aside, drop garlic and chilli flakes into the oil pocket and stir 30 seconds until golden — not brown, brown garlic is bitter garlic.",
     "Pour the soy mix over everything, toss on high for 30 seconds so it coats and evaporates to a glaze.",
     "Off the heat: crushed peanuts, a crack of pepper, and taste for salt (soy carries some). Serve hot beside dal-rice or noodles."
   ],
   storage: "Fridge up to 2 days.",
   reheating: "1–2 minutes in a hot pan; microwave softens the char but is acceptable at 60 seconds.",
-  notes: "Frozen broccoli works — skip blanching, thaw and dry very well. Toss with leftover boiled noodles and an extra dash of soy for a five-minute lunch. Cashews instead of peanuts when you're feeling rich."
+  notes: "Frozen broccoli works — skip blanching, thaw and dry very well.\n\nOptional — no-blanch method (Swasthi): skip step 1 of preparation. Stir-fry the raw florets with a pinch of salt on medium-high for 2–3 minutes, then add 2–3 tbsp water at a time (about 1/4 cup in all) and keep tossing on high for 6–8 minutes until tender-crisp. Then carry on from step 3.\n\nOptional — lemon: a squeeze of lemon off the heat brightens it, especially if you skip the vinegar.\n\nToss with leftover boiled noodles and an extra dash of soy for a five-minute lunch. Cashews instead of peanuts when you're feeling rich.",
+  references: [
+    { title: "Swasthi's Recipes — Garlic Broccoli", url: "https://www.indianhealthyrecipes.com/garlic-broccoli/" }
+  ]
 });

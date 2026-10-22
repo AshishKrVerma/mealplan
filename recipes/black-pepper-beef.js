@@ -8,7 +8,7 @@ window.RECIPES.push({
   description: "Tender buffalo strips stir-fried with onion and capsicum in a glossy, buttery black pepper sauce — like an American pepper steak, ready in 10 minutes once the meat is prepped.",
   difficulty: "Easy",
   equipment: ["Gas Stove"],
-  prepTimeMin: 40,
+  prepTimeMin: 60,
   cookTimeMin: 10,
   servings: "3",
   onePot: true,
@@ -20,7 +20,7 @@ window.RECIPES.push({
     "Marinade: 1 tbsp soy sauce, 1 tsp oil, 1 tbsp cornflour",
     "1 large onion, thickly sliced; 1 green + 1 red capsicum (or 2 green), cut into strips",
     "4 garlic cloves, chopped",
-    "Sauce: 2 tbsp soy sauce, 1 tbsp oyster sauce (or 1 more tbsp soy + 1/2 tsp sugar), 1.5 tsp coarsely crushed black pepper, 1 tsp cornflour, 1/3 cup water",
+    "Sauce: 2 tbsp soy sauce, 1 tbsp oyster sauce (or 1 more tbsp soy + an extra 1/2 tsp sugar), 1.5 tsp coarsely crushed black pepper, 1/2 tsp sugar, 1 tsp cornflour, 1/3 cup water",
     "2 tbsp oil + 1 tbsp butter"
   ],
   shoppingList: [
@@ -32,17 +32,21 @@ window.RECIPES.push({
   preparation: [
     "Freeze the meat 30–40 minutes, then slice thinly (3–4 mm) ACROSS the grain.",
     "Toss with baking soda and 1 tbsp water, leave 20–30 minutes, rinse and pat dry.",
-    "Mix with the marinade. Crush the peppercorns coarsely in a mortar — freshly crushed pepper is the whole flavour of this dish.",
+    "Mix with the soy sauce and cornflour, massaging until the slices feel sticky with no loose liquid, then mix in the oil so the slices don't clump in the pan. Leave it on the counter for 10 minutes while you cut the vegetables (ice-cold meat seizes and toughens in the pan). Crush the peppercorns coarsely in a mortar — freshly crushed pepper is the whole flavour of this dish.",
     "Mix the sauce ingredients in a cup."
   ],
   steps: [
     "Heat 1.5 tbsp oil in a wok or large pan until very hot. Spread the beef in a single layer and leave it 1 minute to sear, then stir-fry 1 more minute until just browned. Remove to a plate (do two batches if your pan is small — crowding makes it stew and toughen).",
     "Add the remaining oil, then onion and capsicum on high heat for 2 minutes until slightly charred but crunchy.",
     "Add garlic for 30 seconds.",
-    "Stir the sauce and pour it in; it thickens in about 30 seconds.",
+    "Stir the sauce well (the cornflour settles at the bottom) and pour it in; it thickens in about 30 seconds.",
     "Return the beef, add the butter and toss for 30 seconds until glossy. Serve with rice, noodles or in a sandwich."
   ],
   storage: "Fridge up to 2 days.",
   reheating: "Hot pan 1–2 minutes; don't overcook or the meat tightens.",
-  notes: "The beef is cooked twice for only about 2.5 minutes in total — any longer and lean buffalo turns chewy. Make it a 'pepper steak sandwich' by stuffing it into a toasted bun with a cheese slice. Variation: works the same with chicken strips — skip the baking-soda step. Finishing touch: scatter chopped spring onion greens over the top."
+  notes: "The beef is cooked twice for only about 2.5 minutes in total — any longer and lean buffalo turns chewy. Make it a 'pepper steak sandwich' by stuffing it into a toasted bun with a cheese slice. Variation: works the same with chicken strips — skip the baking-soda step. Finishing touch: scatter chopped spring onion greens over the top.\n\nOptional — restaurant colour and aroma: add 1 tsp dark soy sauce to the sauce for a deeper brown, a pinch of white pepper to the marinade, a few thin ginger slices with the garlic, and a few drops of sesame oil at the very end.\n\nWhy the pan must be smoking hot: if it isn't, the meat releases its juices and boils instead of searing.",
+  references: [
+    { title: "Jo Cooks — Black Pepper Beef Stir-Fry", url: "https://www.jocooks.com/wprm_print/black-pepper-beef-stir-fry" },
+    { title: "Wok and Kin — Black Pepper Beef Stir Fry", url: "https://www.wokandkin.com/wprm_print/black-pepper-beef-stir-fry-%e9%bb%91%e6%a4%92%e7%89%9b%e6%9f%b3" }
+  ]
 });

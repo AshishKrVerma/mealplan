@@ -44,5 +44,5 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 5 days, covered. It is arguably better on day two.",
   reheating: "None — eat it cold.",
-  notes: "Five tablespoons of chia across three cups is a serious amount of fibre and omega-3 for something that tastes like chocolate pudding. Layer it with curd and fruit in a glass for a smarter-looking dessert. For a keto version, use unsweetened almond milk or cream-and-water and sweeten with stevia."
+  notes: "Five tablespoons of chia across three cups is a serious amount of fibre and omega-3 for something that tastes like chocolate pudding.\n\nVariation — parfait: layer it with curd and fruit in a glass for a smarter-looking dessert.\n\nVariation — keto: for a keto version, use unsweetened almond milk or cream-and-water and sweeten with stevia."
 });

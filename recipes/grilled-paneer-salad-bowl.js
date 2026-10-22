@@ -34,11 +34,11 @@ window.RECIPES.push({
   ],
   preparation: [
     "Deseed the tomato — the seeds and jelly are what turn a salad watery within ten minutes.",
-    "Blend the dressing ingredients into a smooth green sauce and keep it in the fridge until the moment of assembly.",
+    "For the dressing, blend the mint, green chilli, lemon juice and salt with 1 tbsp of the curd into a smooth paste, then whisk it into the rest of the curd in a bowl. Blending all the curd turns it thin and runny. Keep it in the fridge until the moment of assembly.",
     "Chill the cucumber and greens. The temperature contrast with hot paneer is most of what makes this bowl work."
   ],
   steps: [
-    "Toss the paneer cubes with chilli powder, cumin powder and salt.",
+    "Pat the paneer cubes dry with a kitchen towel (wet paneer spits and won't brown), then toss them with the chilli powder, cumin powder and salt.",
     "Heat the oil in a pan on high and sear the paneer 4–5 minutes, turning, until several faces are golden. Do not stir constantly or nothing browns.",
     "Layer the cold vegetables in a wide bowl — greens at the bottom, cucumber, tomato and onion over them.",
     "Put the hot paneer straight on top and spoon the mint-curd dressing over it.",

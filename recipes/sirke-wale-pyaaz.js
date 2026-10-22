@@ -5,37 +5,55 @@ window.RECIPES.push({
   category: "Vegetarian",
   mealType: ["Side Dish"],
   veg: true,
-  description: "Restaurant-style pickled onions made with apple cider vinegar — tangy, crunchy and far less sharp than raw onion. The classic partner for dal chawal, kebabs and tikka.",
+  description: "Restaurant-style pickled baby onions in a spiced vinegar brine — bay leaf, black pepper, cinnamon, garlic, green chilli and lemon peel — finished with a dhaba-style mint masala. Tangy, crunchy and fragrant. The classic partner for dal chawal, kebabs and tikka.",
   difficulty: "Easy",
   equipment: [],
-  prepTimeMin: 5,
+  prepTimeMin: 15,
   cookTimeMin: 0,
-  servings: "3–4",
+  servings: "4–6",
   onePot: true,
   proteinLevel: "Low",
   leftoverRating: 5,
   ingredients: [
-    "8–10 small pearl/sambar onions, or 2 medium red onions sliced into rings",
-    "Quick bowl: 1–2 tsp apple cider vinegar. Jar batch: 1/4 cup apple cider vinegar + 1/4 cup water",
-    "1/2 tsp salt, 1/2 tsp sugar",
-    "Optional: 1–2 slit green chillies, a slice of beetroot (for the pink restaurant colour), black pepper, chaat masala"
+    "250 g small red (baby/sambar) onions — about 15–20",
+    "Brine: 1/2 cup apple cider vinegar + 1/2 cup water (top up with equal parts of both if the onions aren't covered)",
+    "1 tsp salt, 1 tsp sugar",
+    "Whole spices: 1–2 bay leaves, 1/2 tsp black peppercorns, a tiny piece of cinnamon (about 1 cm — more makes it taste odd)",
+    "Peel of 1/2 lemon (yellow part only, no juice)",
+    "4–5 garlic cloves, peeled",
+    "1–2 green chillies, slit lengthwise",
+    "1/4 small beetroot, peeled and cut into small pieces (for the pink colour)",
+    "Mint masala (for serving): 1 tbsp dried mint (crushed to a powder), 1/2 tsp black salt (kala namak), 1/4 tsp hing"
   ],
   shoppingList: [
-    "Small onions or red onions",
+    "Small red onions (baby/sambar onions)",
     "Apple cider vinegar",
-    "Beetroot (optional, 1 small)"
+    "Bay leaves, black peppercorns, cinnamon stick",
+    "Lemon",
+    "Garlic",
+    "Green chillies",
+    "Beetroot (1 small)",
+    "Dried mint (pudina) — or dry fresh mint at home",
+    "Black salt (kala namak), hing"
   ],
   preparation: [
-    "Peel the onions. If using small onions, cut a cross on top (not all the way through) so the vinegar gets inside.",
-    "For sliced onions, soak the rings in ice water for 10 minutes first — it takes away the harsh bite and makes them extra crunchy."
+    "Peel the onions: trim the top, make a shallow nick and pull off the outer papery layer. Leave the root end on so the onion holds together.",
+    "Wash the peeled onions well under running water. Peeling releases a milky juice that carries the harsh smell — rinsing it off makes the onions milder.",
+    "Cut a cross on top of each onion, only about halfway down. Too deep and it falls apart. This lets the vinegar and beetroot colour soak right to the centre. Tip: keep the onion standing on its root end and cut downward from the top — it's steadier and safer than cutting toward your hand.",
+    "Peel the lemon with a peeler, taking only the yellow skin (the white pith is bitter). Keep the lemon itself for another dish."
   ],
   steps: [
-    "Quick version: toss sliced onion with salt and 1–2 tsp apple cider vinegar, leave 10 minutes, finish with chaat masala or pepper.",
-    "Jar version: put the onions, green chillies and beetroot slice in a clean glass jar.",
-    "Mix the vinegar, water, salt and sugar until dissolved and pour over the onions so they are fully covered.",
-    "Close and leave at least 1 hour (overnight is best) — they turn pink and mellow."
+    "In a glass jar or bowl, mix the vinegar, water, salt and sugar until fully dissolved.",
+    "Add the bay leaves, peppercorns, cinnamon, lemon peel and beetroot pieces. Stir.",
+    "Add the onions, garlic and slit green chillies. Press down so everything is under the brine. If anything sticks out, top up with a little more vinegar and water in equal amounts.",
+    "Close the lid. Leave at room temperature or in the fridge for at least 12 hours. 24–48 hours is best — the onions turn fully pink right through and lose their raw smell.",
+    "Make the mint masala: mix the crushed dried mint, black salt and hing. Store it in a small dry jar.",
+    "To serve: lift out the onions (and a chilli or two), sprinkle a little mint masala on top and serve. This masala is the restaurant 'secret' — don't skip it."
   ],
-  storage: "Jar version keeps 2 weeks in the fridge. Always use a dry spoon.",
+  storage: "Keeps up to 1 month in the fridge in a glass jar, fully covered in brine. Always use a dry spoon. When the onions run out, the brine can be reused 2–3 times: add a splash of fresh vinegar and a new batch of onions.",
   reheating: "Serve cold — no reheating.",
-  notes: "Same idea as the ACV cucumber, but onions get better with time, so make a jar on Sunday and use it all week. Small onions stay crunchier than sliced ones. Use a glass jar, not steel — vinegar reacts with metal."
+  notes: "Why baby red onions: they hold together whole (big onions split into layers) and have more bite than white ones. Bigger red onions also work: cut them into quarters or thick rings, but they'll be softer.\n\nVinegar: apple cider vinegar is milder and slightly fruity. White vinegar (what most restaurants use) is sharper and gives a crisper, more 'dhaba' taste. Either works with the same amounts.\n\nNo dried mint? Spread a handful of fresh mint leaves on a plate under the fan for a day or two until crisp, then crush them between your fingers.\n\nHing is strong — start with 1/4 tsp in the masala. The original recipe uses double this, so add more if you like it.\n\nQuick version (no waiting): slice 1 red onion into rings, soak in ice water for 10 minutes, drain, then toss with 1–2 tsp vinegar and a pinch of salt. Leave 10 minutes and sprinkle with the mint masala.\n\nUse a glass jar, not steel — vinegar reacts with metal.",
+  references: [
+    { title: "Jaisalmer hotel-style vinegar onion with special masala (Hindi, YouTube)", url: "https://www.youtube.com/watch?v=iUmYDLIzAxk" }
+  ]
 });

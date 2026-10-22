@@ -21,29 +21,34 @@ window.RECIPES.push({
     "2 sprigs curry leaves (15–20 leaves, non-negotiable)",
     "2 green chillies, slit",
     "1/2 tsp turmeric, 2 tsp red chilli powder (reduce to 1 tsp for milder tastes), 1.5 tsp coriander powder",
-    "1 tsp garam masala, 1/2 tsp black pepper, coarsely crushed",
+    "1 tsp garam masala (split: half with the powders, half to finish), 1/2 tsp black pepper, coarsely crushed",
     "2.5 tbsp oil, salt to taste",
-    "Juice of half a lemon"
+    "Juice of half a lemon",
+    "2 tbsp chopped fresh coriander"
   ],
   shoppingList: [
     "Boneless chicken 500 g",
     "Onions (2)",
     "Curry leaves (2 sprigs)",
-    "Green chillies, lemon",
+    "Green chillies, lemon, coriander",
     "Ginger-garlic paste"
   ],
   preparation: [
     "Marinate the chicken with turmeric, half the chilli powder, ginger-garlic paste and salt for 15 minutes while you slice the onions.",
-    "Slit the green chillies and keep curry leaves washed and dry — they'll splutter into hot oil."
+    "Slit the green chillies. Wash the curry leaves and pat them completely dry — wet leaves make hot oil spit. Keep one sprig aside for the end."
   ],
   steps: [
-    "Heat oil in a wide kadhai on medium-high. Add curry leaves and green chillies — stand back, they pop — then the sliced onions with a pinch of salt. Cook 6–7 minutes until golden-brown, not just soft.",
-    "Add the marinated chicken and sear on high 3–4 minutes, stirring so pieces brown rather than stew.",
-    "Add remaining chilli powder and coriander powder, splash in 1/4 cup water, cover and cook on medium 8–10 minutes until the chicken is done.",
-    "Now the vepudu part: uncover, raise the heat and roast 5–6 minutes, stirring often, until all moisture is gone and the masala darkens and clings to every piece. The pan bottom should look toasty, not burnt.",
-    "Finish with garam masala, crushed pepper and lemon juice. One last toss, off the heat."
+    "Heat oil in a wide kadhai on medium-high. Add one sprig of curry leaves and the green chillies — stand back, they pop — then the sliced onions with a pinch of salt. Cook 6–7 minutes until golden-brown, not just soft.",
+    "Add the marinated chicken and sear on high 3–4 minutes, stirring so pieces brown rather than stew, until they turn white all over.",
+    "Add remaining chilli powder, coriander powder and half the garam masala; stir 1 minute until the raw spice smell goes. Splash in 1/4 cup water, cover and cook on medium-low 8–10 minutes until the chicken is tender and a cut piece shows no pink.",
+    "Now the vepudu part: uncover, raise the heat, add the reserved sprig of curry leaves and roast 5–6 minutes, stirring often, until all moisture is gone, the leaves turn crisp and the masala darkens and clings to every piece. The pan bottom should look toasty, not burnt. Stop as soon as it's dry and aromatic; frying longer makes the chicken hard and chewy.",
+    "Finish with the remaining garam masala, crushed pepper, lemon juice and coriander. One last toss, off the heat."
   ],
   storage: "Fridge up to 3 days — dry dishes keep beautifully.",
   reheating: "A hot pan for 2–3 minutes revives it best; microwave 90 seconds works too.",
-  notes: "This is meant to be hot — but the recipe survives halving the chilli powder just fine, so calibrate for the table. Eat with curd rice or rasam rice for the classic fire-and-cooling combo. Leftovers make a killer filling for dosa or a sandwich."
+  notes: "This is meant to be hot — but the recipe survives halving the chilli powder just fine, so calibrate for the table. Deseeding the green chillies or using Kashmiri chilli powder also tames it.\n\nEat with curd rice or rasam rice for the classic fire-and-cooling combo. Leftovers make a killer filling for dosa or a sandwich.\n\nOptional — cashew finish (Swasthi's style): powder 10–12 cashews in the mixie and sprinkle them in at the start of the dry-roast. Stir until they smell nutty; they thicken the masala so it clings even better.\n\nOptional — onion-tomato version: add 1 chopped tomato after the onions and cook until mushy before the chicken goes in. It gives a softer, slightly tangy masala.\n\nMake-ahead: cook it through step 3, cool and refrigerate (up to 2 days), then do the dry-roast just before serving.",
+  references: [
+    { title: "Swasthi's Recipes — Andhra Chicken Fry (Kodi Vepudu)", url: "https://www.indianhealthyrecipes.com/chicken-fry/" },
+    { title: "Cooking 4 All Seasons — Andhra Chicken Fry", url: "https://www.cooking4allseasons.com/wprm_print/andhra-chicken-fry-how-to-make-kodi-vepudu" }
+  ]
 });

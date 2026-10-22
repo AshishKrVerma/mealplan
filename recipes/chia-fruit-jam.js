@@ -40,9 +40,12 @@ window.RECIPES.push({
     "When it has broken down into a rough pulp, stir in the honey and lemon juice and cook 2 more minutes.",
     "Take it off the heat and stir in the chia seeds and vanilla.",
     "Let it stand 10 minutes. It will look far too runny at this point — that is normal, and the chia is still working.",
-    "Stir again and pour into the jar. It sets fully in the fridge over about 2 hours."
+    "Stir again and pour into the jar. It sets fully in the fridge over about 2 hours. Too thin once set? Stir in 1 more tsp chia and wait 15 minutes. Too thick? Loosen with a spoonful of water."
   ],
   storage: "Fridge up to 2 weeks in a sealed jar. Freezes 3 months in small boxes. It has far less sugar than shop jam, so it will not keep on a shelf at room temperature.",
   reheating: "None needed. Warm it gently if you want it pourable over ice cream.",
-  notes: "Spread it on toast, swirl it into curd, layer it into the Mango Chia Parfait or the Greek Yogurt Fruit Parfait, or spoon it over the Fruit Custard. Adjust the sweetener to the fruit — strawberries need more, ripe mango needs almost none. Overripe fruit that nobody will eat raw is exactly what this recipe is for."
+  notes: "Spread it on toast, swirl it into curd, layer it into the Mango Chia Parfait or the Greek Yogurt Fruit Parfait, or spoon it over the Fruit Custard.\n\nAdjust the sweetener to the fruit — strawberries need more, ripe mango needs almost none. Overripe fruit that nobody will eat raw is exactly what this recipe is for. Frozen berries work too; cook them straight from frozen.\n\nOptional — smooth jam with no seeds visible: grind the chia to a powder in the small mixer jar first, then stir it in at step 3. Kids who pick out \"the little black bits\" won't notice them.",
+  references: [
+    { title: "Meatified — Mixed Berry Chia Jam", url: "https://meatified.com/mixed-berry-chia-jam" }
+  ]
 });

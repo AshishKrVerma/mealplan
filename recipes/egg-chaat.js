@@ -47,5 +47,8 @@ window.RECIPES.push({
   ],
   storage: "Assembled chaat doesn't keep — sev goes soggy in minutes. Boiled eggs alone keep 4 days in the fridge.",
   reheating: "None needed; it's served at room temperature. Just assemble fresh.",
-  notes: "This is the 9 pm 'I need protein but not a project' dinner. A spoon of whisked curd over the eggs before the toppings turns it into dahi egg chaat. Doubles as a very good party starter."
+  notes: "This is the 9 pm 'I need protein but not a project' dinner.\n\nA spoon of whisked curd over the eggs before the toppings turns it into dahi egg chaat.\n\nDoubles as a very good party starter.\n\nOptional — masala-fried eggs (Sanjeev Kapoor): heat 1 tbsp oil, stir in 1/2 tsp chilli powder, a pinch of turmeric, 1/2 tsp cumin powder and the green chilli. Add the halved eggs with a pinch of salt and turn them for 1–2 minutes until coated, then top as usual.\n\nOptional — pomegranate: a spoon of pomegranate seeds over the top adds sweet, juicy pops against the tang.",
+  references: [
+    { title: "Sanjeev Kapoor — Egg Chaat", url: "https://www.sanjeevkapoor.com/recipe/Egg-Chaat---SK-Khazana.html" }
+  ]
 });

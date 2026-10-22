@@ -17,7 +17,7 @@ window.RECIPES.push({
   ingredients: [
     "1 medium cauliflower, cut into medium florets",
     "2 tbsp olive oil or melted ghee",
-    "1 tsp Kashmiri chilli powder, 1 tsp coriander powder",
+    "1 tsp Kashmiri chilli powder, 1 tsp coriander powder, 1/2 tsp cumin powder",
     "1/2 tsp turmeric, 1/2 tsp garam masala, 1/2 tsp amchur",
     "1 tsp crushed pepper",
     "1 tsp salt",
@@ -44,5 +44,8 @@ window.RECIPES.push({
   ],
   storage: "Fridge up to 3 days, though it softens.",
   reheating: "Air fryer 180°C for 4 minutes crisps it right back up.",
-  notes: "Eat it as a side with any keto main, or straight out of the basket as a snack. Grated cheese thrown on in the last 2 minutes turns it into something the kids will fight over. Broccoli works exactly the same way — cut the time to 12 minutes total."
+  notes: "Eat it as a side with any keto main, or straight out of the basket as a snack. Grated cheese thrown on in the last 2 minutes turns it into something the kids will fight over. Broccoli works exactly the same way — cut the time to 12 minutes total.\n\nOptional — chaat masala: a pinch over the hot florets with the lemon gives a tangy, street-snack finish.",
+  references: [
+    { title: "Easy Indian Cookbook — Air Fryer Cauliflower (Masala Gobi)", url: "https://easyindiancookbook.com/air-fryer-cauliflower/" }
+  ]
 });

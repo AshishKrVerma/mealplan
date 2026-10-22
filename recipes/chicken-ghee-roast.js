@@ -8,7 +8,7 @@ window.RECIPES.push({
   description: "Mangalorean classic: chicken cooked down in ghee with a roasted dry-chilli paste until it is dark, glossy and clinging. Naturally keto — the recipe was always fat and chilli.",
   difficulty: "Medium",
   equipment: ["Gas Stove"],
-  prepTimeMin: 20,
+  prepTimeMin: 25,
   cookTimeMin: 30,
   servings: "3–4",
   onePot: true,
@@ -34,18 +34,23 @@ window.RECIPES.push({
     "Garlic (1 bulb)"
   ],
   preparation: [
-    "Marinate the chicken in curd, turmeric and salt for 30 minutes minimum.",
-    "Dry roast the chillies and whole spices separately on low heat until fragrant — chillies take barely a minute and burn in seconds, so pull them early.",
-    "Grind the roasted spices with the garlic, tamarind and a splash of water into a thick, smooth paste. A coarse paste means a gritty gravy."
+    "Marinate the chicken in curd, turmeric and salt for 30 minutes minimum; 2 hours (or overnight) in the fridge is better. Take it out 30 minutes before cooking so it isn't fridge-cold when it hits the pan.",
+    "Dry roast the coriander, cumin, fenugreek and peppercorns on low heat for 2–3 minutes, stirring, until fragrant and a shade darker. Tip onto a plate. Then roast the chillies on low for 1–2 minutes, stirring constantly, until they turn crisp and slightly darker. They burn in seconds, so pull them early — burnt chillies make the whole dish bitter.",
+    "Let everything cool completely, then grind with the garlic and tamarind, adding water one teaspoon at a time, into a thick, smooth paste. A coarse paste means a gritty gravy; too much water means a long wait while it fries off."
   ],
   steps: [
-    "Heat 3 tbsp ghee in a kadhai and fry the marinated chicken on high 6–7 minutes until sealed and browned. Take it out and set aside.",
+    "Heat 3 tbsp ghee in a kadhai and fry the marinated chicken on high 6–7 minutes until sealed and browned, in two batches if the pan is crowded (crowded chicken stews instead of browning). Take it out and set aside.",
     "Add the remaining 3 tbsp ghee to the same pan, then the ground masala paste. Now be patient: fry it on low for 8–10 minutes, stirring often.",
-    "You are waiting for one signal — the paste darkens and ghee clearly separates around the edges. Under-fried masala tastes raw and sour.",
-    "Return the chicken, add salt, and mix so every piece is coated. Cover and cook on low 12–15 minutes, stirring occasionally.",
+    "You are waiting for one signal — the paste turns a deep reddish-maroon, the raw garlic smell is gone, and ghee clearly separates around the edges. Under-fried masala tastes raw and sour.",
+    "Return the chicken and any juices, add salt, and mix so every piece is coated. Cover and cook on low 12–15 minutes, stirring occasionally. If the masala starts catching on the bottom, add 2–3 tbsp water. The chicken is done when the meat pulls away from the bone and a cut piece shows no pink.",
     "Uncover and cook 3–4 minutes more until the masala is dry and glued to the chicken with no watery gravy left. Throw in the curry leaves, toss once, off the heat."
   ],
   storage: "Fridge up to 4 days — it genuinely improves on day two. Freezes 1 month.",
   reheating: "Pan on low with 1 tsp ghee, 4–5 minutes. It is a dry dish, so do not add water.",
-  notes: "Kashmiri chillies do the colour, the hotter ones do the work — adjust the ratio between them but keep the total count the same so the paste volume holds. Eats best with Cauliflower Rice, or straight off the plate as a starter."
+  notes: "Kashmiri chillies do the colour, the hotter ones do the work — adjust the ratio between them but keep the total count the same so the paste volume holds. Byadgi chillies (sold in most Indian supermarkets) are the traditional Mangalorean choice and do both jobs at once if you can find them.\n\nWhy no jaggery: most traditional versions add a small piece of jaggery or sugar to round off the tamarind. It is left out here to keep it keto; if the masala tastes too sharp, use a smaller piece of tamarind next time.\n\nOptional — marinate with masala: mix 2 tbsp of the ground paste into the curd marinade for deeper colour and flavour in the meat itself.\n\nEats best with Cauliflower Rice, or straight off the plate as a starter.",
+  references: [
+    { title: "My Food Story — Chicken Ghee Roast", url: "https://myfoodstory.com/chicken-ghee-roast/" },
+    { title: "Kunal Kapur — Ghee Roast Chicken", url: "https://www.chefkunalkapur.com/?p=1019" },
+    { title: "Ranveer Brar — Kundapur Chicken Ghee Roast", url: "https://ranveerbrar.com/recipes/chicken-ghee-roast/" }
+  ]
 });

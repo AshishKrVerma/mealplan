@@ -5,7 +5,7 @@ window.Cookbook = window.Cookbook || {};
 (function (C) {
   "use strict";
 
-  C.CATEGORIES = ["Chicken", "Mutton", "Buffalo", "Bacon", "Eggs", "Vegetarian", "Keto", "Rice & Pasta", "Snacks", "Treats", "Drinks", "Brunch", "Kitchen Basics"];
+  C.CATEGORIES = ["Chicken", "Mutton", "Buffalo", "Bacon", "Eggs", "Vegetarian", "Keto", "Rice & Pasta", "Snacks", "Treats", "Breads", "Drinks", "Brunch", "Kitchen Basics"];
 
   /* [light gradient start, gradient end] used for placeholder cover art */
   C.CATEGORY_ART = {
@@ -20,6 +20,7 @@ window.Cookbook = window.Cookbook || {};
     "Snacks":         ["#f5ead2", "#e4c675"],
     "Treats":         ["#fde2ec", "#f9b8d4"],
     "Drinks":         ["#ddeefb", "#a5cbee"],
+    "Breads":         ["#f6e7cf", "#e2c08f"],
     "Brunch":         ["#ffe9d6", "#ffc9a3"],
     "Kitchen Basics": ["#e5e9ef", "#c3ccd9"]
   };

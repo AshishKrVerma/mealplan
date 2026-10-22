@@ -2,6 +2,8 @@
    and add the filename below. Order doesn't matter. */
 window.RECIPE_FILES = [
   /* ---- Chicken ---- */
+  "thai-basil-chicken.js",
+  "chicken-chettinad.js",
   "air-fryer-tandoori-chicken-bites.js",
   "one-pot-chicken-curry.js",
   "chilli-chicken-stir-fry.js",
@@ -33,6 +35,8 @@ window.RECIPE_FILES = [
   "soy-honey-glazed-chicken.js",
   "achari-chicken.js",
   /* ---- Mutton ---- */
+  "kosha-mangsho.js",
+  "railway-mutton-curry.js",
   "pressure-cooker-mutton-curry.js",
   "keema-matar.js",
   "easy-rogan-josh.js",
@@ -78,6 +82,9 @@ window.RECIPE_FILES = [
   "egg-chapati-roll.js",
   "chilli-egg.js",
   /* ---- Vegetarian ---- */
+  "baingan-bharta.js",
+  "dal-makhani.js",
+  "pav-bhaji.js",
   "air-fryer-crispy-bhindi.js",
   "air-fryer-paneer-tikka.js",
   "aloo-gobi.js",
@@ -103,6 +110,8 @@ window.RECIPE_FILES = [
   "rajma-masala.js",
   "chana-masala.js",
   /* ---- Rice & Pasta ---- */
+  "chicken-biryani.js",
+  "aglio-e-olio.js",
   "vegetable-pulao.js",
   "chicken-fried-rice.js",
   "one-pot-masala-pasta.js",
@@ -171,6 +180,12 @@ window.RECIPE_FILES = [
   "chocolate-mousse.js",
   "chocolate-chia-pudding.js",
   "mango-chia-parfait.js",
+  /* ---- Breads ---- */
+  "tawa-garlic-naan.js",
+  "garlic-pull-apart-rolls.js",
+  "ladi-pav.js",
+  "no-knead-sandwich-loaf.js",
+  "banana-bread.js",
   /* ---- Drinks ---- */
   "mango-lassi.js",
   "whey-protein-shake.js",
@@ -191,9 +206,15 @@ window.RECIPE_FILES = [
   "badam-milk.js",
   "bulletproof-ghee-coffee.js",
   /* ---- Brunch ---- */
+  "misal-pav.js",
+  "rava-uttapam.js",
+  "rava-upma.js",
   "kanda-poha.js",
   "besan-chilla.js",
   /* ---- Kitchen Basics ---- */
+  "onion-tomato-chutney.js",
+  "coconut-chutney.js",
+  "green-chutney.js",
   "onion-tomato-curry-base.js",
   "chia-fruit-jam.js"
 ];

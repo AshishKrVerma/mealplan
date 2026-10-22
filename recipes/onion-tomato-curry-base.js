@@ -9,7 +9,7 @@ window.RECIPES.push({
   difficulty: "Easy",
   equipment: ["Gas Stove"],
   prepTimeMin: 15,
-  cookTimeMin: 30,
+  cookTimeMin: 45,
   servings: "Base for 3–4 future curries",
   onePot: true,
   proteinLevel: "Low",
@@ -34,12 +34,17 @@ window.RECIPES.push({
     "Keep 3–4 small freezer boxes ready."
   ],
   steps: [
-    "Heat oil in your biggest kadhai. Splutter cumin, add onions with 1 tsp salt, and cook on medium 15 minutes until deep golden — the colour of the base decides the colour of every future curry.",
+    "Heat oil in your biggest kadhai. Splutter cumin, add onions with 1 tsp salt (it draws out their water so they soften faster). Cook on medium 15–20 minutes, stirring every few minutes, until deep golden. If they catch on the bottom, sprinkle 1–2 tbsp water and scrape. The colour of the base decides the colour of every future curry, and 10 minutes of onion gives a noticeably flatter taste.",
     "Add ginger-garlic paste; cook 2 minutes until the raw smell goes.",
-    "Add tomato puree and all powdered spices. Cook 10–12 minutes, stirring, until the masala thickens and oil visibly separates at the edges.",
-    "Cool completely, portion into boxes (about 3/4 cup each) and refrigerate or freeze."
+    "Turn the flame to low. Add the powdered spices with 2–3 tbsp water and stir 30 seconds. The water stops them burning; burnt spices make the whole batch bitter.",
+    "Add tomato puree and the rest of the salt. Cook on medium 15–20 minutes, stirring often (it splutters, so half-cover), until the masala turns a deeper red, thickens into a paste that leaves the sides of the pan, and oil visibly separates at the edges. Fresh tomato puree that is undercooked tastes sour in every curry you make with it.",
+    "Cool completely. For a smooth restaurant-style base, blend it once cool; leave it as is for dals and chana. Portion into boxes (about 3/4 cup each) or silicone ice-cube trays, and refrigerate or freeze."
   ],
   storage: "Fridge 5 days, freezer 2 months. Label with the date.",
-  reheating: "Use straight from the fridge; from frozen, microwave 1 minute to loosen.",
-  notes: "Weekday math: base + chicken + water + garam masala = chicken curry. Base + boiled eggs = egg curry. Base + paneer + cream = paneer masala. Base + boiled chana = chana masala. This one recipe is why the freezer exists."
+  reheating: "Use straight from the fridge; frozen cubes can go straight into the pan, or microwave 1 minute to loosen.",
+  notes: "Weekday math: base + chicken + water + garam masala = chicken curry. Base + boiled eggs = egg curry. Base + paneer + cream = paneer masala. Base + boiled chana = chana masala. This one recipe is why the freezer exists.\n\nHow to use a portion: heat 1 tsp oil, splutter cumin (or any whole spice the dish wants), add the base with a splash of water and let it bubble 2 minutes, then add the main ingredient and water. Finish with garam masala, kasuri methi and coriander; the base is kept plain so it suits every dish.\n\nFreezer tip: freeze in ice-cube trays, then pop the cubes into a zip bag. Two or three cubes is about right for a dal.\n\nWhy so much oil: it carries the flavour and helps the base keep. Curries made from it need little or no extra oil.",
+  references: [
+    { title: "Simple Indian Meals — Indian Curry Sauce (Bhuna Masala)", url: "https://simpleindianmeals.com/easy-indian-curry-sauce-recipe/" },
+    { title: "Sandhya Hariharan — Bhuna Sauce (Indian Curry Base)", url: "https://sandhyahariharan.co.uk/indian-curry-sauce/" }
+  ]
 });

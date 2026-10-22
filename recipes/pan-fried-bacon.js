@@ -9,14 +9,14 @@ window.RECIPES.push({
   difficulty: "Easy",
   equipment: ["Gas Stove"],
   prepTimeMin: 2,
-  cookTimeMin: 12,
+  cookTimeMin: 15,
   servings: "2–3",
   onePot: true,
   proteinLevel: "Medium",
   leftoverRating: 3,
   ingredients: [
     "200–250 g strip (streaky) bacon",
-    "2 tbsp water (optional, see steps)"
+    "About 1/4 cup water (see steps)"
   ],
   shoppingList: [
     "Strip bacon (200–250 g)"
@@ -27,13 +27,16 @@ window.RECIPES.push({
   ],
   steps: [
     "Lay the strips in a COLD pan in a single layer. Starting cold lets the fat melt out slowly before the meat tightens, so the strips stay flat and crisp evenly.",
-    "Optional trick: add 2 tbsp water. It simmers away in the first few minutes and helps the fat render even more gently.",
-    "Turn the heat to medium. Once it starts sizzling, cook 4–5 minutes until the underside is golden.",
-    "Flip with tongs and cook another 3–5 minutes. Lower the heat if the fat starts smoking.",
+    "Pour in about 1/4 cup water — just enough to barely cover the strips. The water keeps the pan gentle while the fat melts out, so the bacon ends up crisp but not brittle, with less splatter.",
+    "Turn the heat to medium. The water will simmer and then disappear (about 4–6 minutes). Once it's gone you'll hear the bacon start to sizzle in its own fat — cook 3–4 minutes more until the underside is golden.",
+    "Flip with tongs and cook another 3–5 minutes, until both sides are golden-brown and the white fat has turned see-through and crisp. Lower the heat if the fat starts smoking.",
     "Take the bacon out just before it looks perfect — it keeps crisping on the paper for a minute.",
     "While the grease is still warm (not smoking hot), strain it into the jar. Leave a spoonful in the pan to scramble your eggs in."
   ],
   storage: "Cooked bacon keeps 4–5 days in the fridge.",
   reheating: "Dry pan on medium for 1 minute, or air fryer 180°C for 1–2 minutes.",
-  notes: "Scrambled eggs cooked in the leftover bacon fat taste far better than in butter — that's the classic diner pairing. Pour off excess grease halfway if there is a lot, so the bacon fries instead of deep-frying. Never pour bacon grease down the sink; it sets and blocks the pipes."
+  notes: "Why water: the water simmers first, so the fat melts out slowly before the meat gets hot enough to tighten and toughen. By the time it evaporates, most of the fat has rendered and the bacon simply crisps in it.\n\nScrambled eggs cooked in the leftover bacon fat taste far better than in butter — that's the classic diner pairing.\n\nPour off excess grease halfway if there is a lot, so the bacon fries instead of deep-frying.\n\nNever pour bacon grease down the sink; it sets and blocks the pipes.",
+  references: [
+    { title: "America's Test Kitchen — Crispy Bacon (add water)", url: "https://www.americastestkitchen.com/articles/3347-want-crispy-tender-bacon-add-water" }
+  ]
 });
