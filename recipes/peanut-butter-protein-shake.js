@@ -31,15 +31,15 @@ window.RECIPES.push({
     "Dates (small pack)"
   ],
   preparation: [
-    "Measure the peanut butter with a wet spoon and it slides straight off instead of sticking.",
-    "If you are using oats, soak them in a little of the milk for 5 minutes first. Dry oats blend gritty.",
-    "Take the peanut butter out of the fridge in advance if you keep it there — cold peanut butter refuses to blend and just balls up."
+    "Take the peanut butter out of the fridge in advance if you keep it there — cold peanut butter refuses to blend and just balls up.",
+    "Measure the peanut butter (1.5 tbsp) with a wet spoon and it slides straight off instead of sticking.",
+    "If you are using oats (2 tbsp), soak them in a little of the milk for 5 minutes first. Dry oats blend gritty."
   ],
   steps: [
-    "Milk into the mixie jar first, then the soaked oats.",
-    "Add the peanut butter, whey, banana and date.",
+    "Milk (rest of the 300 ml) into the mixie jar first, then the soaked oats (2 tbsp).",
+    "Add the peanut butter (1.5 tbsp), whey (1 scoop), banana (1/2) and date (1).",
     "Blend 40–50 seconds. This one is thick, so stop and scrape the sides down once.",
-    "Add the ice and pulse 3–4 times — pulsing crushes the ice without whipping all the air out.",
+    "Add the ice (4–5 cubes) and pulse 3–4 times — pulsing crushes the ice without whipping all the air out.",
     "Pour into a tall glass. If it is too thick to drink through a straw, splash in more milk and pulse once."
   ],
   storage: "Drink fresh. The oats keep absorbing and it turns into porridge inside half an hour.",

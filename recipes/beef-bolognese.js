@@ -37,17 +37,17 @@ window.RECIPES.push({
     "Stock cube (pantry check)"
   ],
   preparation: [
-    "Chop the onion, carrot and celery very fine — they melt into the sauce and kids won't notice them.",
-    "Take the mince out of the fridge 15 minutes early so it browns instead of steaming."
+    "Chop the onion (1 large), carrot (1) and celery (1 stalk) very fine — they melt into the sauce and kids won't notice them.",
+    "Take the mince (500 g) out of the fridge 15 minutes early so it browns instead of steaming."
   ],
   steps: [
-    "Heat the oil and butter in a heavy pan on medium. Cook the onion, carrot and celery with a pinch of salt for 8–10 minutes, stirring now and then, until very soft, sweet-smelling and just starting to turn golden at the edges. Don't rush this — it is the flavour base of the sauce.",
-    "Add garlic for 1 minute, then turn the heat to high and add the mince. Break it up and cook 6–8 minutes until no pink remains, the water has dried and the meat starts to sizzle and catch brown bits on the pan base. (If your pan is small, brown the mince in two batches — crowded mince stews instead of browning.)",
-    "Stir in the tomato paste for 1 minute until it darkens slightly, then add the milk and scrape up the brown bits from the base. Simmer 3–4 minutes until the milk is mostly absorbed — milk is the classic trick that makes the mince tender.",
-    "Dissolve the stock cube in 1/2 cup hot water. Add it with the tomato puree, herbs, bay leaf, salt, pepper and chilli flakes. Bring to a bubble, then cover and simmer on low for 25–30 minutes, stirring now and then, until the mince is tender. Uncover for the last 5–10 minutes so the sauce thickens and turns from bright red to a deeper brick red. Add a splash of water if it dries out.",
-    "Taste: add salt if needed, and the sugar only if it tastes sharp or sour. Remove the bay leaf.",
-    "Meanwhile boil the spaghetti in well-salted water for 1 minute LESS than the packet says. Save 1/2 cup of the pasta water before draining.",
-    "Add the spaghetti to the sauce with a few spoons of pasta water and toss over medium heat for 1.5–2 minutes, until the sauce turns glossy and clings to every strand. Serve with plenty of cheese and a little parsley."
+    "Heat the oil (2 tbsp) and butter (1 tbsp) in a heavy pan on medium. Cook the onion (1 large), carrot (1) and celery (1 stalk) with a pinch of salt for 8–10 minutes, stirring now and then, until very soft, sweet-smelling and just starting to turn golden at the edges. Don't rush this — it is the flavour base of the sauce.",
+    "Add garlic (5 cloves) for 1 minute, then turn the heat to high and add the mince (500 g). Break it up and cook 6–8 minutes until no pink remains, the water has dried and the meat starts to sizzle and catch brown bits on the pan base. (If your pan is small, brown the mince in two batches — crowded mince stews instead of browning.)",
+    "Stir in the tomato paste (2 tbsp) for 1 minute until it darkens slightly, then add the milk (1/2 cup) and scrape up the brown bits from the base. Simmer 3–4 minutes until the milk is mostly absorbed — milk is the classic trick that makes the mince tender.",
+    "Dissolve the stock cube (1) in 1/2 cup hot water. Add it with the tomato puree (400 g), herbs (1 tsp dried oregano, 1/2 tsp dried basil or mixed herbs), bay leaf (1), salt (about 1/2 tsp), pepper (1/2 tsp) and chilli flakes (1/2 tsp). Bring to a bubble, then cover and simmer on low for 25–30 minutes, stirring now and then, until the mince is tender. Uncover for the last 5–10 minutes so the sauce thickens and turns from bright red to a deeper brick red. Add a splash of water if it dries out.",
+    "Taste: add salt if needed, and the sugar (1/2 tsp) only if it tastes sharp or sour. Remove the bay leaf.",
+    "Meanwhile boil the spaghetti (300 g) in well-salted water for 1 minute LESS than the packet says. Save 1/2 cup of the pasta water before draining.",
+    "Add the spaghetti (300 g) to the sauce with a few spoons of pasta water and toss over medium heat for 1.5–2 minutes, until the sauce turns glossy and clings to every strand. Serve with plenty of cheese and a little parsley."
   ],
   storage: "Sauce: fridge 3 days, freezer 3 months in portions.",
   reheating: "Simmer with a splash of water, or microwave 2–3 minutes.",

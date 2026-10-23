@@ -31,17 +31,17 @@ window.RECIPES.push({
     "Kashmiri chilli powder, amchur, kasuri methi, bay leaf (pantry check)"
   ],
   preparation: [
-    "The night before: rinse rajma and soak in 4 cups water. No soak = hard centres and a sad dinner; the 5-minute quick-soak hacks don't really work for rajma.",
+    "The night before: rinse rajma (1 cup) and soak in 4 cups water. No soak = hard centres and a sad dinner; the 5-minute quick-soak hacks don't really work for rajma.",
     "Morning-of shortcut if you forgot: soak in boiling-hot water for 2 hours minimum and add 2 extra whistles.",
-    "Drain the soaked rajma and puree the tomatoes before starting."
+    "Drain the soaked rajma (1 cup) and puree the tomatoes (3) before starting."
   ],
   steps: [
-    "Cook the beans first, on their own: put the drained rajma in the pressure cooker with 3 cups fresh water and 1/2 tsp salt. Close the lid: 5–6 whistles on medium, then let the pressure drop on its own (about 15 unattended minutes). Beans go in alone because tomato's acidity stops them softening.",
+    "Cook the beans first, on their own: put the drained rajma (1 cup) in the pressure cooker with 3 cups fresh water and 1/2 tsp salt. Close the lid: 5–6 whistles on medium, then let the pressure drop on its own (about 15 unattended minutes). Beans go in alone because tomato's acidity stops them softening.",
     "Open and check: a bean should squash silkily between two fingers, soft right to the centre. If it resists, 2 more whistles — never use undercooked rajma (see notes). Tip the beans and their cooking water into a bowl; keep every drop of that water.",
-    "Wipe the cooker and heat oil in it, open, on medium. Splutter cumin and bay leaf, add onions and green chilli with a pinch of salt and cook 7–8 minutes until properly brown — pale onions make pale rajma.",
-    "Add ginger-garlic paste for 1 minute until the raw smell goes, then tomato puree, turmeric, coriander powder and chilli powder. Cook 8–10 minutes on medium-low, stirring often, until the masala is thick, glossy and oil separates at the edges. Don't rush this; it's where the flavour comes from.",
-    "Add the beans with their cooking water, salt, and 1/2 cup hot water if it looks thick (always hot, never cold). Simmer uncovered on low-medium for 15–20 minutes, stirring now and then. Halfway through, mash a ladleful of beans against the side and stir back in to make it creamy.",
-    "Finish with garam masala, amchur, kasuri methi crushed between your palms, ghee and coriander. It thickens as it rests, so loosen with a splash of boiling water if needed. Serve over rice, obviously."
+    "Wipe the cooker and heat oil (2 tbsp) in it, open, on medium. Splutter cumin (1 tsp) and bay leaf (1), add onions (2) and green chilli (1) with a pinch of salt and cook 7–8 minutes until properly brown — pale onions make pale rajma.",
+    "Add ginger-garlic paste (1 tbsp) for 1 minute until the raw smell goes, then tomato puree (3 tomatoes), turmeric (1/2 tsp), coriander powder (2 tsp) and chilli powder (1 tsp). Cook 8–10 minutes on medium-low, stirring often, until the masala is thick, glossy and oil separates at the edges. Don't rush this; it's where the flavour comes from.",
+    "Add the beans (1 cup) with their cooking water, salt, and 1/2 cup hot water if it looks thick (always hot, never cold). Simmer uncovered on low-medium for 15–20 minutes, stirring now and then. Halfway through, mash a ladleful of beans against the side and stir back in to make it creamy.",
+    "Finish with garam masala (1 tsp), amchur (1/2 tsp), kasuri methi (1 tsp) crushed between your palms, ghee (1 tsp) and coriander. It thickens as it rests, so loosen with a splash of boiling water if needed. Serve over rice, obviously."
   ],
   storage: "Fridge up to 3 days, freezer a month — and it's famously better on day two.",
   reheating: "Simmer with a splash of water or microwave 2–3 minutes.",

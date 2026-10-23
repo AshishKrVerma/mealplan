@@ -29,15 +29,15 @@ window.RECIPES.push({
     "Cardamom powder (pantry check)"
   ],
   preparation: [
-    "Chill the mango before cubing. Warm mango into cold milk gives you a lukewarm shake nobody wants.",
+    "Chill the mango (1) before cubing. Warm mango into cold milk gives you a lukewarm shake nobody wants.",
     "Cube it over a bowl so you catch the juice, and put the juice in too.",
     "In season, cube and freeze a few mangoes. Frozen mango replaces the ice entirely and the shake gets thicker instead of weaker."
   ],
   steps: [
-    "Blend the mango alone for 20 seconds into a smooth pulp, and taste it — that tells you whether honey is needed at all.",
-    "Add the milk, whey and cardamom.",
+    "Blend the mango (1, about 1 cup) alone for 20 seconds into a smooth pulp, and taste it. Only if the mango disappoints, add the honey (1 tsp).",
+    "Add the milk (250 ml), whey (1 scoop) and cardamom (a pinch).",
     "Blend 30 seconds until smooth and pale gold.",
-    "Add the ice, pulse 3 times, and pour into a chilled glass.",
+    "Add the ice (5–6 cubes), pulse 3 times, and pour into a chilled glass.",
     "Drink straight away, while it is still thick."
   ],
   storage: "Fresh only. Mango and whey both go off quickly once blended.",

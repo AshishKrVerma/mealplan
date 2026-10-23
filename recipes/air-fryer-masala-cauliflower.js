@@ -31,16 +31,16 @@ window.RECIPES.push({
     "Coriander (1 bunch)"
   ],
   preparation: [
-    "Cut florets of roughly equal size with a flat side each — the flat side is what makes contact and browns.",
+    "Cut florets (1 medium cauliflower) of roughly equal size with a flat side each — the flat side is what makes contact and browns.",
     "Soak in hot salted water for 10 minutes, then drain and dry completely. Wet florets steam instead of roasting.",
-    "Mix the oil and all the spices into a paste first, then rub it over the florets with your hands so each one is properly coated."
+    "Mix the oil (2 tbsp) and all the spices (1 tsp Kashmiri chilli powder, 1 tsp coriander powder, 1/2 tsp cumin powder, 1/2 tsp turmeric, 1/2 tsp garam masala, 1/2 tsp amchur, 1 tsp crushed pepper, 1 tsp salt) into a paste first, then rub it over the florets with your hands so each one is properly coated."
   ],
   steps: [
     "Preheat the air fryer to 190°C for 3 minutes.",
-    "Spread the florets in a single layer. If they overlap they will steam each other — do two batches instead.",
+    "Spread the florets (1 medium cauliflower) in a single layer. If they overlap they will steam each other — do two batches instead.",
     "Air fry 190°C for 10 minutes.",
     "Shake the basket well and go another 6–8 minutes until the tips are dark brown and slightly charred. Those burnt edges are the best part, so do not pull it early.",
-    "Toss with lemon juice and coriander while it is still hot."
+    "Toss with lemon juice (a squeeze) and coriander while it is still hot."
   ],
   storage: "Fridge up to 3 days, though it softens.",
   reheating: "Air fryer 180°C for 4 minutes crisps it right back up.",

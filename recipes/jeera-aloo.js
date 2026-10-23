@@ -29,15 +29,15 @@ window.RECIPES.push({
     "Amchur, hing (if the dabba is empty)"
   ],
   preparation: [
-    "Boil potatoes until just done — a knife should slide in with slight resistance. Overboiled potatoes turn this into jeera mash. Pressure cooker: whole potatoes with 1 cup water, 2 whistles on medium, then let the pressure drop on its own.",
+    "Boil potatoes (4 medium) until just done — a knife should slide in with slight resistance. Overboiled potatoes turn this into jeera mash. Pressure cooker: whole potatoes with 1 cup water, 2 whistles on medium, then let the pressure drop on its own.",
     "Cool, peel and cut into chunks. Day-old boiled potatoes from the fridge are actually better here; they crisp harder."
   ],
   steps: [
-    "Heat oil in a wide pan on medium until it shimmers. Add cumin seeds and let them sizzle and darken a shade — this flavours the whole dish, give it 20 full seconds. Add the hing and stir once.",
-    "Add ginger and green chilli, stir 30 seconds.",
-    "Add the potatoes and spread them in one layer. Leave them alone for 3–4 minutes to build a golden crust before the first toss.",
-    "Turn the flame down to medium-low so the powders don't burn. Sprinkle turmeric, coriander powder, chilli powder and salt; toss gently and pan-roast another 4–5 minutes until the edges are properly crisp.",
-    "Finish with amchur, coriander and a squeeze of lemon. Serve with dal-chawal, puri, or straight from the pan while standing suspiciously close to it."
+    "Heat oil (2.5 tbsp) in a wide pan on medium until it shimmers. Add cumin seeds (1.5 tsp) and let them sizzle and darken a shade — this flavours the whole dish, give it 20 full seconds. Add the hing (a pinch) and stir once.",
+    "Add ginger (1 inch) and green chilli (1), stir 30 seconds.",
+    "Add the potatoes (4 medium) and spread them in one layer. Leave them alone for 3–4 minutes to build a golden crust before the first toss.",
+    "Turn the flame down to medium-low so the powders don't burn. Sprinkle turmeric (1/2 tsp), coriander powder (1 tsp), chilli powder (1/2 tsp) and salt; toss gently and pan-roast another 4–5 minutes until the edges are properly crisp.",
+    "Finish with amchur (1/2 tsp), coriander and a squeeze of lemon (half a lemon). Serve with dal-chawal, puri, or straight from the pan while standing suspiciously close to it."
   ],
   storage: "Fridge up to 3 days.",
   reheating: "Re-crisp in a pan for 3 minutes or air fryer 180°C for 4 minutes; microwave works but the crust surrenders.",

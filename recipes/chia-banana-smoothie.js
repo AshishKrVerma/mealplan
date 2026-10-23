@@ -32,14 +32,14 @@ window.RECIPES.push({
     "Honey"
   ],
   preparation: [
-    "Soak the chia in the water for 15 minutes, stirring once after 2 minutes. That first stir is what stops them clumping into a single lump at the bottom.",
+    "Soak the chia (2 tbsp) in the water (1/4 cup) for 15 minutes, stirring once after 2 minutes. That first stir is what stops them clumping into a single lump at the bottom.",
     "Soaked chia should look like frogspawn — each seed in its own little jelly coat. That is exactly right, and it means they will not swell later inside you.",
     "Never blend chia dry into a drink. Dry seeds absorb liquid in the glass and turn it to sludge while you watch."
   ],
   steps: [
-    "Blend the bananas, curd, milk, honey and cinnamon for 30 seconds until smooth.",
-    "Add the ice and pulse a few times.",
-    "Now stir the soaked chia in with a spoon — do not blend it, or you lose the little beads that make the drink interesting.",
+    "Blend the bananas (2), curd (1/2 cup), milk (250 ml), honey (1 tbsp) and cinnamon (a pinch) for 30 seconds until smooth.",
+    "Add the ice (5–6 cubes) and pulse a few times.",
+    "Now stir the soaked chia (2 tbsp) in with a spoon — do not blend it, or you lose the little beads that make the drink interesting.",
     "Pour into glasses and let it stand 2 minutes so the chia distributes evenly.",
     "Serve with a wide straw or a spoon."
   ],

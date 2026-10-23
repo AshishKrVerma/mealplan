@@ -38,16 +38,16 @@ window.RECIPES.push({
     "Ginger-garlic paste"
   ],
   preparation: [
-    "Pat the chicken dry. Toss with soy sauce, ginger-garlic paste, pepper and salt, then add cornflour and maida and toss until every piece has a dry-ish coating with no wet patches. Rest 10 minutes while the air fryer preheats.",
-    "Chop garlic and ginger, cut onion and capsicum into squares, and mix the sauce (honey, soy, ketchup, vinegar, chilli flakes) in one bowl so the stovetop part is just pouring.",
-    "Toast the sesame seeds in a dry pan on low for 1–2 minutes until light golden; tip them out."
+    "Pat the chicken (500 g) dry. Toss with soy sauce (1 tbsp), ginger-garlic paste (1 tsp), pepper (1/4 tsp) and salt (a pinch), then add cornflour (3 tbsp) and maida (1 tbsp) and toss until every piece has a dry-ish coating with no wet patches. Rest 10 minutes while the air fryer preheats.",
+    "Chop garlic (4 cloves) and ginger (1/2 inch), cut onion (1 small) and capsicum (1) into squares, and mix the sauce (2 tbsp honey, 1.5 tbsp soy, 1 tbsp ketchup, 1 tsp vinegar, 1 tsp chilli flakes) in one bowl so the stovetop part is just pouring.",
+    "Toast the sesame seeds (1 tsp) in a dry pan on low for 1–2 minutes until light golden; tip them out."
   ],
   steps: [
-    "Preheat the air fryer to 200°C for 3 minutes. Arrange chicken in a single layer, brush or spray with 1 tsp oil (cover any white flour spots, or they stay powdery), and air fry 12–14 minutes, shaking the basket halfway, until golden and crisp at the edges and no pink shows inside a cut piece.",
-    "While the chicken cooks, heat 1 tbsp oil in a kadhai on medium-high. Add garlic and ginger and stir 30 seconds — fragrant, not brown. Burnt garlic turns the sauce bitter.",
-    "Add onion and capsicum squares; stir-fry 2 minutes on high so they stay crunchy.",
-    "Pour in the mixed sauce, let it bubble 30 seconds, then stir the cornflour slurry (it settles) and add it. Cook 1 minute until glossy and thick enough to coat a spoon. Don't add the chicken until it's this thick, or the coating goes soggy.",
-    "Tip in the air-fried chicken, toss on high heat for 30–60 seconds so every piece is lacquered, and finish with spring onion greens and toasted sesame. Serve immediately — the crunch waits for no one."
+    "Preheat the air fryer to 200°C for 3 minutes. Arrange chicken (500 g) in a single layer, brush or spray with 1 tsp oil (cover any white flour spots, or they stay powdery), and air fry 12–14 minutes, shaking the basket halfway, until golden and crisp at the edges and no pink shows inside a cut piece.",
+    "While the chicken cooks, heat 1 tbsp oil in a kadhai on medium-high. Add garlic (4 cloves) and ginger (1/2 inch) and stir 30 seconds — fragrant, not brown. Burnt garlic turns the sauce bitter.",
+    "Add onion and capsicum squares (1 small onion, 1 capsicum); stir-fry 2 minutes on high so they stay crunchy.",
+    "Pour in the mixed sauce, let it bubble 30 seconds, then stir the cornflour slurry (1 tsp cornflour in 1/4 cup water; it settles) and add it. Cook 1 minute until glossy and thick enough to coat a spoon. Don't add the chicken until it's this thick, or the coating goes soggy.",
+    "Tip in the air-fried chicken (500 g), toss on high heat for 30–60 seconds so every piece is lacquered, and finish with spring onion greens and toasted sesame (1 tsp). Serve immediately — the crunch waits for no one."
   ],
   storage: "Fridge up to 2 days in an airtight box; the coating softens but the flavour holds.",
   reheating: "Air fryer 4–5 minutes at 180°C brings back most of the crisp; microwave works but makes it saucy-soft.",

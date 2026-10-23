@@ -21,8 +21,8 @@ window.RECIPES.push({
     "1 green chilli, chopped",
     "1 tsp ginger-garlic paste",
     "1/2 tsp cumin seeds",
-    "1/4 tsp turmeric, 1 tsp Kashmiri chilli powder, 1.5 tsp pav bhaji masala (plus a pinch for the fried eggs)",
-    "2 tbsp butter + 1 tbsp oil, plus 1 tsp butter for the fried eggs (butter is non-negotiable here)",
+    "1/4 tsp turmeric, 1 tsp Kashmiri chilli powder, 1.5 tsp pav bhaji masala (plus a pinch each for the fried eggs and the pav)",
+    "2 tbsp butter + 1 tbsp oil, plus 1 tsp butter for the fried eggs and about 1 tbsp for toasting the pav (butter is non-negotiable here)",
     "Salt, fresh coriander, half a lemon",
     "4–6 pav for serving"
   ],
@@ -38,16 +38,16 @@ window.RECIPES.push({
   ],
   preparation: [
     "Hard-boil 2 eggs (10 minutes from boiling water), cool in cold water for 5 minutes, peel, and grate on the large holes of a grater.",
-    "Chop onion, tomato and chilli finely — this moves fast once the butter melts.",
+    "Chop onion (1 large), tomato (2) and chilli (1) finely — this moves fast once the butter melts.",
     "Beat 2 eggs in a bowl with a pinch of salt; keep the last 2 whole for frying on top."
   ],
   steps: [
-    "Melt the butter with the oil in a wide pan on medium. Add cumin; when it sizzles (10 seconds), add onion, chilli and a pinch of salt. Cook 4–5 minutes until soft and light golden. Add ginger-garlic paste and stir 1 minute until the raw smell is gone.",
-    "Add tomatoes, turmeric, chilli powder, pav bhaji masala and salt. Cover and cook 3–4 minutes, then uncover and mash with a potato masher or the back of a ladle until thick and glossy, with butter showing at the edges. Sprinkle 2–3 tbsp water if it sticks.",
+    "Melt the butter (2 tbsp) with the oil (1 tbsp) in a wide pan on medium. Add cumin (1/2 tsp); when it sizzles (10 seconds), add onion (1 large), chilli (1) and a pinch of salt. Cook 4–5 minutes until soft and light golden. Add ginger-garlic paste (1 tsp) and stir 1 minute until the raw smell is gone.",
+    "Add tomatoes (2), turmeric (1/4 tsp), chilli powder (1 tsp), pav bhaji masala (1.5 tsp) and salt. Cover and cook 3–4 minutes, then uncover and mash with a potato masher or the back of a ladle until thick and glossy, with butter showing at the edges. Sprinkle 2–3 tbsp water if it sticks.",
     "Lower the heat to medium-low. Pour the 2 beaten eggs into the masala, wait 20 seconds, then scramble them into it until just set — soft, not dry.",
-    "Fold in the grated boiled eggs (keep a spoonful for the top) and most of the coriander. Stir 1 minute, taste for salt, squeeze in half the lemon and tip it onto a plate.",
+    "Fold in the grated boiled eggs (2; keep a spoonful for the top) and most of the coriander. Stir 1 minute, taste for salt, squeeze in half the lemon and tip it onto a plate.",
     "Wipe the pan, melt 1 tsp butter on medium-low and crack in the 2 whole eggs. Sprinkle salt, a pinch of pav bhaji masala and some coriander. Cook 2–3 minutes until the whites are fully set but the yolks still wobble.",
-    "Slide the fried eggs onto the masala and scatter the reserved grated egg on top. Now the ghotala move: break the yolks and roughly mash everything together, so streaks of runny yolk go through the masala. Serve with pav toasted in butter on the same pan, with a pinch of pav bhaji masala."
+    "Slide the fried eggs onto the masala and scatter the reserved grated egg (a spoonful) on top. Now the ghotala move: break the yolks and roughly mash everything together, so streaks of runny yolk go through the masala. Serve with pav (4–6) toasted in butter (about 1 tbsp) on the same pan, with a pinch of pav bhaji masala."
   ],
   storage: "Fridge for 1 day at most — like all scrambled egg dishes, it lives fast.",
   reheating: "15–20 seconds in the microwave, covered, no more.",

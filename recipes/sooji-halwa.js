@@ -32,15 +32,15 @@ window.RECIPES.push({
     "Saffron (optional)"
   ],
   preparation: [
-    "Heat the water with the sugar and saffron in a small pan until the sugar dissolves; keep it hot on the side. Hot liquid into roasted sooji = no lumps.",
+    "Heat the water (1.5 cups) with the sugar (1/3 cup) and saffron (a few strands) in a small pan until the sugar dissolves; keep it hot on the side. Hot liquid into roasted sooji = no lumps.",
     "Keep everything measured — this recipe moves fast once it starts."
   ],
   steps: [
-    "Melt the ghee in a kadhai on medium-low. Fry the cashews and raisins until the cashews are golden and the raisins puff; scoop them out and set aside.",
-    "Add the sooji to the same ghee. Roast on low-medium, stirring constantly, 7–9 minutes. Doneness cues: it turns light golden, smells toasty, and the ghee starts separating at the edges. Pale sooji makes pasty, raw-tasting halwa — wait for the colour. Don't push it to dark brown either, or it turns bitter.",
+    "Melt the ghee (4 tbsp) in a kadhai on medium-low. Fry the cashews and raisins (8–10) until the cashews are golden and the raisins puff; scoop them out and set aside.",
+    "Add the sooji (1/2 cup) to the same ghee. Roast on low-medium, stirring constantly, 7–9 minutes. Doneness cues: it turns light golden, smells toasty, and the ghee starts separating at the edges. Pale sooji makes pasty, raw-tasting halwa — wait for the colour. Don't push it to dark brown either, or it turns bitter.",
     "Lower the flame fully, stand back, and pour in the hot sugar-water in 2–3 parts, stirring hard the whole time with a long-handled spoon — it will bubble and spit dramatically, this is normal.",
     "Cook 2–3 minutes, stirring, until the halwa absorbs the liquid, thickens, starts leaving the sides of the pan in one soft mass, and a little ghee shines at the edges. Take it off while it is still soft and slightly loose; it firms up within a few minutes.",
-    "Stir in the cardamom and the fried nuts and raisins. Serve warm — this is a warm dessert, full stop."
+    "Stir in the cardamom (1/4 tsp) and the fried nuts and raisins (8–10). Serve warm — this is a warm dessert, full stop."
   ],
   storage: "Fridge up to 2 days in a covered box; it firms up when cold.",
   reheating: "Microwave 40–60 seconds with a teaspoon of water or milk; stir and it turns soft and glossy again.",

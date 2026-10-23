@@ -31,10 +31,10 @@ window.RECIPES.push({
     "Keep the scoop dry. A wet scoop back in the tub turns the whole thing into a brick over a few weeks."
   ],
   steps: [
-    "Pour the water into the shaker.",
-    "Add the whey scoop on top, then close the lid tight — check it twice, the alternative is protein on the ceiling.",
+    "Pour the water (250–300 ml) into the shaker.",
+    "Add the whey scoop (about 30 g) on top, with the salt (a pinch) and lemon (a squeeze) if using, then close the lid tight — check it twice, the alternative is protein on the ceiling.",
     "Shake hard for 20–30 seconds. Short and vigorous beats long and gentle.",
-    "Let it stand for 30 seconds so the foam settles, then swirl once and drink.",
+    "Let it stand for 30 seconds so the foam settles, then swirl once, drop in the ice cubes (3–4) and drink.",
     "Rinse the shaker immediately. Whey that dries in a bottle is a genuinely unpleasant thing to deal with later."
   ],
   storage: "Drink within 20 minutes of mixing. Made and left in the fridge it separates and, more to the point, it is a warm-weather bacteria problem.",

@@ -35,13 +35,13 @@ window.RECIPES.push({
     "Bread for serving"
   ],
   preparation: [
-    "Chop onion, capsicum and tomatoes.",
-    "Take eggs out of the fridge so they poach evenly."
+    "Chop onion (1), capsicum (1) and tomatoes (4).",
+    "Take eggs (4–5) out of the fridge so they poach evenly."
   ],
   steps: [
-    "Heat oil in a wide pan with a lid on medium. Add onion and capsicum and cook about 5 minutes until the onion is soft and translucent.",
-    "Add garlic, cumin powder and paprika/Kashmiri chilli. Stir for 1 minute on low-medium until fragrant. The spices bloom in the oil this way; keep stirring so they don't scorch.",
-    "Add tomatoes, sugar, salt and pepper, breaking the tomatoes down with the spoon. Simmer 8–10 minutes, stirring now and then, until thick enough that a spoon dragged through leaves a clear path that slowly closes. It should still be saucy, not a dry paste. If it gets too thick, splash in 2–3 tbsp water.",
+    "Heat oil (2 tbsp) in a wide pan with a lid on medium. Add onion (1) and capsicum (1) and cook about 5 minutes until the onion is soft and translucent.",
+    "Add garlic (3 cloves), cumin powder (1 tsp) and paprika/Kashmiri chilli (1 tsp). Stir for 1 minute on low-medium until fragrant. The spices bloom in the oil this way; keep stirring so they don't scorch.",
+    "Add tomatoes (4), sugar (a pinch), salt and pepper, breaking the tomatoes down with the spoon. Simmer 8–10 minutes, stirring now and then, until thick enough that a spoon dragged through leaves a clear path that slowly closes. It should still be saucy, not a dry paste. If it gets too thick, splash in 2–3 tbsp water.",
     "Make 4–5 wells with the back of a spoon. Crack each egg into a small cup first (no shell bits, no broken yolk), then tip it into a well. Season the tops with a pinch of salt.",
     "Cook UNCOVERED on low-medium for 1–2 minutes until the edges of the whites turn opaque. Then cover and cook on low 3–5 minutes. Check at 3 minutes: done when the whites are fully white with no clear jelly left around the yolk, and the yolk still jiggles. Turn the heat off a little early, because the eggs keep cooking in the hot sauce.",
     "Scatter coriander (and paneer if using). Serve straight from the pan with toasted bread."

@@ -36,15 +36,15 @@ window.RECIPES.push({
     "Fresh coriander"
   ],
   preparation: [
-    "Optional but worth it: marinate mutton in the curd, 1 tbsp ginger-garlic paste, 1/2 tsp turmeric, 1/2 tsp of the chilli powder and 1/2 tsp salt for at least 30 minutes; overnight in the fridge is best (more tender, more flavour). Take it out 30 minutes before cooking so it isn't fridge-cold.",
-    "Slice onions thin and even — they are the body of this gravy."
+    "Optional but worth it: marinate mutton (600 g) in the curd (1/2 cup), 1 tbsp ginger-garlic paste, 1/2 tsp turmeric, 1/2 tsp of the chilli powder and 1/2 tsp salt for at least 30 minutes; overnight in the fridge is best (more tender, more flavour). Take it out 30 minutes before cooking so it isn't fridge-cold.",
+    "Slice onions (3) thin and even — they are the body of this gravy."
   ],
   steps: [
-    "Heat oil in the pressure cooker on medium, add whole spices and stir 30 seconds until fragrant, then onions with a pinch of salt. Cook 10–12 minutes, stirring now and then, to a deep golden brown — don't rush this step; well-browned onions give the curry its colour and depth.",
-    "Add ginger-garlic paste (1 minute, until the raw smell is gone), then tomatoes and powdered spices (except garam masala). Cook 6–8 minutes, mashing the tomatoes, until they turn pulpy and the oil separates at the edges. If it sticks, add a splash of hot water.",
-    "Turn the heat to low and add the mutton with its marinade (if you skipped marinating, add the whisked curd now, a little at a time, stirring so it doesn't split). Then raise to medium-high and bhuno — stir and sear for 6–8 minutes until the meat changes colour, the masala thickens and clings to the pieces, and oil shows again at the edges.",
+    "Heat oil (3 tbsp) in the pressure cooker on medium, add whole spices (2 bay leaves, 4 cloves, 3 green cardamom, 1 black cardamom, 1 inch cinnamon) and stir 30 seconds until fragrant, then onions (3) with a pinch of salt. Cook 10–12 minutes, stirring now and then, to a deep golden brown — don't rush this step; well-browned onions give the curry its colour and depth.",
+    "Add the ginger-garlic paste (1 tbsp, or all 2 tbsp if you didn't marinate) and stir 1 minute until the raw smell is gone. Add the tomatoes (2) and the powdered spices except garam masala: coriander powder (2 tsp), turmeric (1/2 tsp, or 1 tsp if you didn't marinate) and Kashmiri chilli powder (1 tsp, or 1.5 tsp if you didn't marinate). Cook 6–8 minutes, mashing the tomatoes, until they turn pulpy and the oil separates at the edges. If it sticks, add a splash of hot water.",
+    "Turn the heat to low and add the mutton (600 g) with its marinade. If you didn't marinate, add the mutton and then the whisked curd (1/2 cup) a little at a time, stirring so it doesn't split. Then raise to medium-high and bhuno — stir and sear for 6–8 minutes until the meat changes colour, the masala thickens and clings to the pieces, and oil shows again at the edges.",
     "Add 1 cup hot water (hot, so the cooking doesn't stall) and salt to taste (go easy if the marinade already had salt), close the lid. Cook 1 whistle on high, then 20–25 minutes on low. Let the pressure drop by itself.",
-    "Open, check the meat is fork-tender (if not, 1 more whistle). Simmer uncovered to your preferred thickness, finish with garam masala and coriander. Rest covered for 10–15 minutes before serving so the flavours settle."
+    "Open, check the meat is fork-tender (if not, 1 more whistle). Simmer uncovered to your preferred thickness, finish with garam masala (1 tsp) and coriander. Rest covered for 10–15 minutes before serving so the flavours settle."
   ],
   storage: "Fridge 3 days, freezer 1 month. The flavour genuinely improves overnight.",
   reheating: "Stovetop simmer with a splash of hot water, or microwave 3 minutes, stirring halfway.",

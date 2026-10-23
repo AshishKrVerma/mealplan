@@ -34,14 +34,14 @@ window.RECIPES.push({
     "Butter"
   ],
   preparation: [
-    "Whisk eggs, milk, onion, chilli, coriander, spices and salt in a wide, shallow bowl a slice of bread can lie flat in, until frothy and evenly yellow with no streaks of white.",
-    "Chop the onion genuinely fine — big pieces fall off the bread and burn on the tawa alone."
+    "Chop the onion (1 small) genuinely fine — big pieces fall off the bread and burn on the tawa alone.",
+    "Whisk eggs (4), milk (1/4 cup), onion (1 small), chilli (1), coriander (2 tbsp), spices (1/4 tsp turmeric, 1/4 tsp chilli powder, 1/4 tsp black pepper) and salt in a wide, shallow bowl a slice of bread can lie flat in, until frothy and evenly yellow with no streaks of white."
   ],
   steps: [
     "Heat the tawa or a wide nonstick pan on medium and add about 1 tsp butter. Wait until it melts and foams. Bread going onto a cold tawa soaks up fat and goes greasy instead of crisp.",
     "Give the egg mix a quick stir (the onion sinks). Dip a bread slice for 5–10 seconds per side, so it is soaked through but not falling apart. Lift it and let the excess drip off for a second.",
     "Lay it on the tawa and spoon 1–2 spoonfuls of the onion bits from the bowl on top. Dot a little butter on the top side. Cook 1½–2 minutes on medium until golden brown underneath, then flip and cook the other side the same way. It's done when both sides are golden and the centre feels springy when pressed, not soggy.",
-    "Repeat with remaining slices; divide any leftover egg mix over the last dips so nothing is wasted.",
+    "Repeat with remaining slices (5); divide any leftover egg mix over the last dips so nothing is wasted.",
     "Serve hot, stacked, with ketchup or green chutney. A slice of cheese melted between two slices makes it brunch royalty."
   ],
   storage: "Doesn't keep — the crisp exterior is the whole show. Eat within the hour.",

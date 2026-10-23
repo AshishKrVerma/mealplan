@@ -36,16 +36,16 @@ window.RECIPES.push({
     "Green chillies (1–2)"
   ],
   preparation: [
-    "Hard-boil the eggs (10 minutes from boiling water), cool, peel and halve lengthwise. Pat them completely dry (wet eggs spatter in hot oil), then dust them all over with the seasoned cornflour. This seasons the egg itself and makes it crisp instead of sticking.",
-    "Stir the soy, ketchup, chilli sauce, vinegar and sugar together in a cup until the sugar dissolves. The pinch of sugar balances the sour vinegar and salty soy. Mix the cornflour slurry separately.",
-    "Chop all vegetables before you start; the wok stage takes 6 minutes flat."
+    "Hard-boil the eggs (6; 10 minutes from boiling water), cool, peel and halve lengthwise. Pat them completely dry (wet eggs spatter in hot oil), then dust them all over with the seasoned cornflour (1 tbsp cornflour + a pinch each of salt, pepper and chilli powder). This seasons the egg itself and makes it crisp instead of sticking.",
+    "Stir the soy (1.5 tbsp), ketchup (2 tbsp), chilli sauce (1 tsp), vinegar (1 tsp) and sugar (1/2 tsp) together in a cup until the sugar dissolves. The sugar balances the sour vinegar and salty soy. Mix the cornflour slurry (1 tsp cornflour in 1/4 cup water) separately.",
+    "Chop all vegetables (1 capsicum, 1 onion, 3 garlic cloves, 1 tsp ginger, 1–2 green chillies) before you start; the wok stage takes 6 minutes flat."
   ],
   steps: [
-    "Heat 1 tbsp oil in a wide nonstick pan on medium-high. Lay the egg halves cut-side down and leave them alone for 2–3 minutes until golden and crisp. Turn gently, blister the rounded side 1 minute, and set aside.",
-    "Add the remaining oil to the same pan. On high heat, stir-fry garlic, ginger and green chilli for 30 seconds, then onion and capsicum for 2 minutes — they should stay crunchy with charred edges.",
+    "Heat 1 tbsp oil in a wide nonstick pan on medium-high. Lay the egg halves (6 eggs) cut-side down and leave them alone for 2–3 minutes until golden and crisp. Turn gently, blister the rounded side 1 minute, and set aside.",
+    "Add the remaining oil (1 tbsp) to the same pan. On high heat, stir-fry garlic (3 cloves), ginger (1 tsp) and green chilli (1–2) for 30 seconds, then onion (1) and capsicum (1) for 2 minutes — they should stay crunchy with charred edges.",
     "Pour in the sauce mix and let it bubble for 30 seconds.",
-    "Add the cornflour slurry and cook 1 minute until the sauce turns glossy and coats the back of the spoon. Season with pepper; go easy on salt — soy brings its own.",
-    "Return the eggs, toss gently so the yolks stay in their seats, and switch off. Finish with spring onion greens.",
+    "Add the cornflour slurry and cook 1 minute until the sauce turns glossy and coats the back of the spoon. Season with pepper (1/2 tsp); go easy on salt — soy brings its own.",
+    "Return the eggs (6), toss gently so the yolks stay in their seats, and switch off. Finish with spring onion greens.",
     "Serve hot with fried rice, plain rice, or noodles."
   ],
   storage: "Fridge up to 2 days. The sauce thickens; loosen with a spoon of water when reheating.",

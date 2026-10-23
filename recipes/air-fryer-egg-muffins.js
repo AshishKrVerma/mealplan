@@ -32,15 +32,15 @@ window.RECIPES.push({
     "Fresh cream (small pack)"
   ],
   preparation: [
-    "Chop the vegetables really fine — big pieces sink to the bottom and leave the top half plain egg.",
-    "Sauté the onion, capsicum and chilli in 1 tsp butter on medium for 3–4 minutes, until soft and no longer wet-looking. Let them cool for 5 minutes. Raw veg releases water in the cup and gives you soggy, watery bottoms.",
+    "Chop the vegetables (1/2 capsicum, 1 small onion, 1 green chilli) really fine — big pieces sink to the bottom and leave the top half plain egg.",
+    "Sauté the onion (1 small), capsicum (1/2) and chilli (1) in 1 tsp butter on medium for 3–4 minutes, until soft and no longer wet-looking. Let them cool for 5 minutes. Raw veg releases water in the cup and gives you soggy, watery bottoms.",
     "Grease the silicone cups properly with butter, including the sides, or you will be scraping egg out of the ridges.",
-    "Whisk the eggs with cream, salt and pepper until completely uniform, with no streaks of white. Don't whip hard: big air bubbles puff up and then collapse into a dense, cratered muffin."
+    "Whisk the eggs (6) with cream (2 tbsp), salt (1/2 tsp) and pepper (1/2 tsp) until completely uniform, with no streaks of white. Don't whip hard: big air bubbles puff up and then collapse into a dense, cratered muffin."
   ],
   steps: [
-    "Stir the cooled sautéed vegetables and half the cheese into the beaten egg.",
+    "Stir the cooled sautéed vegetables (1/2 capsicum, 1 small onion, 1 green chilli) and half the cheese (1/4 cup) into the beaten egg.",
     "Pour into the cups, filling each only two-thirds — they rise a lot and will overflow if you top them up.",
-    "Top each with the remaining cheese.",
+    "Top each with the remaining cheese (1/4 cup).",
     "Air fry at 165°C for 12–14 minutes. They puff up dramatically and then settle as they cool, which is exactly what should happen.",
     "Check with a toothpick in the centre: it should come out clean, and the centre should not wobble when you nudge the cup. If it does, give it 2 more minutes. Cool 2 minutes, then pop them out of the cups."
   ],

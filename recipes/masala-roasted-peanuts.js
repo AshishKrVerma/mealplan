@@ -30,16 +30,16 @@ window.RECIPES.push({
     "Chaat masala, hing (pantry check)"
   ],
   preparation: [
-    "Rinse peanuts and drain — slightly damp is good, the coating needs it to stick.",
-    "Mix besan, rice flour, chilli powder, turmeric, garam masala, hing, half the chaat masala and salt in a big bowl.",
-    "Toss peanuts with oil first, then with the flour-spice mix. Sprinkle water a teaspoon at a time, tossing between each, only until the flour clings and looks dry and slightly sticky. Don't let it become a batter: a wet coat slides off in the air fryer.",
+    "Rinse peanuts (2 cups) and drain — slightly damp is good, the coating needs it to stick.",
+    "Mix besan (3 tbsp), rice flour (1 tbsp), chilli powder (1 tsp), turmeric (1/2 tsp), garam masala (1/4 tsp), hing (a pinch), half the chaat masala (1/2 tsp) and salt in a big bowl.",
+    "Toss peanuts (2 cups) with oil (1 tbsp) first, then with the flour-spice mix. Sprinkle water (2–3 tsp) a teaspoon at a time, tossing between each, only until the flour clings and looks dry and slightly sticky. Don't let it become a batter: a wet coat slides off in the air fryer.",
     "Break up any clumps with your fingers so the peanuts sit separately. Clumped peanuts stay stuck together and don't roast evenly."
   ],
   steps: [
     "Preheat the air fryer at 180°C for 3 minutes. Line the basket with a perforated liner or lightly oil it.",
-    "Spread peanuts in a single layer (two batches if needed).",
+    "Spread peanuts (2 cups) in a single layer (two batches if needed).",
     "Air fry at 180°C for 10–12 minutes, shaking every 4 minutes, until the coating is dry, golden and crisp and smells toasty. Test one: cool it for a minute and bite. The peanut inside should taste roasted, not raw or chewy; if not, give them 1–2 minutes more.",
-    "Tip onto a plate and sprinkle the remaining chaat masala straight away so it sticks to the warm coating.",
+    "Tip onto a plate and sprinkle the remaining chaat masala (1/2 tsp) straight away so it sticks to the warm coating.",
     "Cool completely on the plate — they crisp up further as they cool — then jar."
   ],
   storage: "Airtight jar, 2 weeks. Keep a spoon in the jar to avoid greasy fingers making it soggy.",

@@ -34,16 +34,16 @@ window.RECIPES.push({
     "Sugar-free chilli sauce (read the label)"
   ],
   preparation: [
-    "Cut the paneer into thick fingers, not cubes — thick pieces survive high heat without crumbling.",
-    "Pat the paneer dry and salt it lightly. No cornflour coating in this version, so a dry surface is what gives you the browning.",
-    "Cut the capsicum into big squares. They should stay crunchy; small pieces go limp."
+    "Cut the paneer (300 g) into thick fingers, not cubes — thick pieces survive high heat without crumbling.",
+    "Pat the paneer (300 g) dry and salt it lightly. No cornflour coating in this version, so a dry surface is what gives you the browning.",
+    "Cut the capsicum (2) into big squares. They should stay crunchy; small pieces go limp."
   ],
   steps: [
-    "Heat the oil in a wide pan until it is properly hot. Fry the paneer fingers 2 minutes a side until golden and lightly blistered, then lift them out.",
-    "In the same pan add the butter, garlic, ginger and spring onion whites. Fry 40 seconds on high — this is where all the smell comes from.",
-    "Throw in the onion petals, capsicum and slit chillies. Toss on the highest flame 2–3 minutes; you want char marks, not softness.",
-    "Add soy sauce, vinegar, chilli sauce and 2 tbsp water (the water stops the soy scorching and lets the sauce coat evenly). It will sizzle hard and reduce to a sticky glaze in about a minute.",
-    "Turn the heat to low. Return the paneer with the black pepper and toss 30–60 seconds, just until every piece is coated and glossy. Longer on the heat turns paneer hard and chewy. Scatter the spring onion greens and serve straight away."
+    "Heat the oil (2 tbsp) in a wide pan until it is properly hot. Fry the paneer fingers (300 g) 2 minutes a side until golden and lightly blistered, then lift them out.",
+    "In the same pan add the butter (1 tbsp), garlic (1 tbsp), ginger (1 tsp) and spring onion whites (4). Fry 40 seconds on high — this is where all the smell comes from.",
+    "Throw in the onion petals (1 onion), capsicum (2) and slit chillies (3). Toss on the highest flame 2–3 minutes; you want char marks, not softness.",
+    "Add soy sauce (1 tbsp), vinegar (1 tsp), chilli sauce (1 tsp) and 2 tbsp water (the water stops the soy scorching and lets the sauce coat evenly). It will sizzle hard and reduce to a sticky glaze in about a minute.",
+    "Turn the heat to low. Return the paneer (300 g) with the black pepper (1 tsp) and toss 30–60 seconds, just until every piece is coated and glossy. Longer on the heat turns paneer hard and chewy. Scatter the spring onion greens (4) and serve straight away."
   ],
   storage: "Fridge up to 2 days. The paneer firms up cold, so it is best fresh.",
   reheating: "Hot pan, 2 minutes, no water. Add 1 tsp butter to bring back the shine.",

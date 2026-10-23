@@ -35,13 +35,13 @@ window.RECIPES.push({
   preparation: [
     "Check your tin: put the empty tin in the air fryer basket. You want about 1–2 cm of gap on all sides so hot air can flow around it, and at least 6–7 cm (2.5 inches) between the rim of the tin and the heating element above, because the dough domes up above the rim before and during baking.",
     "Grease the loaf tin well with oil or butter, including the corners.",
-    "Warm the milk and water together until lukewarm — about 15–20 seconds in the microwave. It should feel just warm on the inside of your wrist, like a baby's bath, not hot. Hot liquid kills yeast.",
-    "Melt the butter (microwave 20–30 seconds) and let it cool slightly.",
-    "Measure the flour by spooning it into the cup and levelling it — scooping packs in extra flour and gives a dry, heavy loaf. A kitchen scale (220 g) is even better."
+    "Warm the milk (1/3 cup / 80 ml) and water (1/3 cup / 80 ml) together until lukewarm — about 15–20 seconds in the microwave. It should feel just warm on the inside of your wrist, like a baby's bath, not hot. Hot liquid kills yeast.",
+    "Melt the butter (2 tbsp; microwave 20–30 seconds) and let it cool slightly.",
+    "Measure the flour (1 3/4 cups) by spooning it into the cup and levelling it — scooping packs in extra flour and gives a dry, heavy loaf. A kitchen scale (220 g) is even better."
   ],
   steps: [
-    "In a big bowl, whisk the flour, instant yeast, sugar and salt with a fork so the yeast is spread evenly.",
-    "Pour in the lukewarm milk-water and the melted butter. Stir with a sturdy spoon or spatula for 1–2 minutes until there is no dry flour left and you have a shaggy, sticky, lumpy dough. It will look rough — that's fine. Cover the bowl and leave it 15 minutes (the flour soaks up the liquid and gluten starts forming on its own).",
+    "In a big bowl, whisk the flour (1 3/4 cups / 220 g), instant yeast (1 tsp), sugar (1 tbsp) and salt (3/4 tsp) with a fork so the yeast is spread evenly.",
+    "Pour in the lukewarm milk-water and the melted butter (2 tbsp). Stir with a sturdy spoon or spatula for 1–2 minutes until there is no dry flour left and you have a shaggy, sticky, lumpy dough. It will look rough — that's fine. Cover the bowl and leave it 15 minutes (the flour soaks up the liquid and gluten starts forming on its own).",
     "Fold #1 (replaces kneading): wet or oil your hand. Grab the edge of the dough furthest from you, stretch it up until it resists, and fold it over to the opposite side. Turn the bowl a quarter turn and repeat — 8–10 folds in total, about 30 seconds. Cover and rest 15 minutes.",
     "Fold #2: repeat the same 8–10 folds. You'll notice the dough is already smoother, stretchier and less sticky. Shape it roughly into a ball, put it in a lightly oiled bowl and cover tightly.",
     "First rise — choose one: SAME DAY: leave the covered bowl in a warm spot for 1–2 hours (often just 45–60 minutes in Indian summer) until about doubled in size and puffy. OVERNIGHT (mix tonight, bake tomorrow): put the covered bowl straight in the fridge for 8–24 hours. It rises slowly in the cold to roughly double and develops a better flavour; cold dough is also less sticky and easier to shape.",
@@ -49,7 +49,7 @@ window.RECIPES.push({
     "Shape: oil your hands and the counter lightly. Tip the dough out and gently press it into a rectangle about as wide as your tin is long (about 7 inches / 18 cm) and roughly 10 inches long. Starting from the short end nearest you, roll it up firmly like a mat, pressing each turn down with your thumbs. Pinch the seam closed and tuck the ends under. (For a 6-inch round tin, fold the edges into the middle and flip it into a round ball instead.)",
     "Put it seam-side down in the greased tin. Cover loosely with oiled cling film or a shower cap.",
     "Second rise: leave in a warm spot for 45–75 minutes (1.5–2.5 hours if the dough came from the fridge), until the dough has risen to about 1–2 cm above the rim of the tin and the top is domed and puffy. Poke test again at the side: the dent should spring back slowly and leave a slight dimple — bake now. If it springs back fast, wait 10–15 minutes more. If the dent doesn't come back at all or the dough sighs and deflates, it's over-risen — bake it straight away anyway (it'll just be a bit flatter).",
-    "About 10 minutes before the rise is done, preheat the air fryer at 160°C for 3–5 minutes. Gently brush the top with milk (optional — gives a golden top).",
+    "About 10 minutes before the rise is done, preheat the air fryer at 160°C for 3–5 minutes. Gently brush the top with milk (1 tbsp; optional — gives a golden top).",
     "Bake at 160°C for 25–30 minutes. Look in after 12–15 minutes: once the top is golden brown, cover the tin loosely with foil (tuck the edges under the rim so the fan doesn't blow it off) and keep baking.",
     "Check it's done: turn the loaf out of the tin (use oven gloves). It should slide out easily, be golden on top, and the sides should be light golden and firm, not pale and soft. Knock on the bottom — it should sound hollow. A thin skewer pushed into the centre from the bottom should come out clean and dry, with no sticky dough.",
     "Crisp the bottom and sides: air fryers brown the bottom less, so put the loaf back in the basket out of the tin, on its side or upside down, and air fry 3–5 minutes more at 160°C until the sides and bottom are golden and firm.",

@@ -18,7 +18,7 @@ window.RECIPES.push({
     "400 g boneless buffalo meat",
     "Tenderising: 1/2 tsp baking soda",
     "Marinade: 1 tbsp soy sauce, 1/2 tsp black pepper, 1/2 tsp salt, 1 tsp ginger-garlic paste, 1 egg white (optional), 3 tbsp cornflour",
-    "Oil for shallow frying (or 1 tbsp for air frying)",
+    "Oil for shallow frying (or 1 tbsp for air frying, plus 1 tbsp for the wok)",
     "1 onion, cut into petals; 1 capsicum, cut into squares; 3–4 green chillies, slit",
     "1 tbsp chopped garlic, 1 tsp chopped ginger",
     "Sauce: 1.5 tbsp soy sauce, 1.5 tbsp red chilli sauce, 1 tbsp tomato ketchup, 1 tsp vinegar, 1/2 tsp sugar, 1 tsp cornflour mixed in 1/4 cup water",
@@ -32,18 +32,18 @@ window.RECIPES.push({
     "Baking soda (pantry check)"
   ],
   preparation: [
-    "Freeze the meat for 30–40 minutes until firm — this makes thin slicing easy.",
+    "Freeze the meat (400 g) for 30–40 minutes until firm — this makes thin slicing easy.",
     "Slice ACROSS the grain (look for the lines in the meat and cut at a right angle to them) into thin strips, about 3–4 mm thick. Thin slices across the grain are what make buffalo tender in a quick cook.",
-    "Tenderise: toss the strips with the baking soda and 1 tbsp water, leave 20–30 minutes, then rinse well and pat completely dry. This restaurant trick (velveting) is the secret to soft chilli beef.",
-    "Mix in all the marinade ingredients, adding the cornflour last, so each strip is lightly coated."
+    "Tenderise: toss the strips (400 g) with the baking soda (1/2 tsp) and 1 tbsp water, leave 20–30 minutes, then rinse well and pat completely dry. This restaurant trick (velveting) is the secret to soft chilli beef.",
+    "Mix in all the marinade ingredients (1 tbsp soy sauce, 1/2 tsp black pepper, 1/2 tsp salt, 1 tsp ginger-garlic paste, 1 egg white if using, 3 tbsp cornflour), adding the cornflour last, so each strip is lightly coated."
   ],
   steps: [
-    "Fry the strips: heat about 1 cm oil in a wok on medium-high — a test strip should sizzle at once. Fry in small batches (crowding makes them steam and go soggy), separating the strips as they go in, 2–3 minutes until crisp and golden. Drain on paper. Air fryer option: spray with oil and air fry at 200°C for 8–10 minutes in a single layer, shaking halfway.",
-    "Pour off all but 1 tbsp oil and keep the wok on high. Add garlic, ginger, green chillies and the spring onion whites and stir 30 seconds until fragrant — don't let the garlic brown.",
-    "Add onion and capsicum and stir-fry 1–2 minutes on high — the onion petals should just turn translucent at the edges and the capsicum stay crunchy.",
-    "Pour in the sauce ingredients (except the cornflour slurry) and let it bubble 30 seconds.",
-    "Stir the slurry, add it and cook until the sauce turns glossy and thick, about 30 seconds.",
-    "Toss in the fried beef, black pepper and spring onion greens and coat quickly (about 30 seconds). Taste — soy and chilli sauces are salty, so add salt only if needed. Drizzle the sesame oil if using and serve immediately so it stays crisp."
+    "Fry the strips (400 g): heat about 1 cm oil in a wok on medium-high — a test strip should sizzle at once. Fry in small batches (crowding makes them steam and go soggy), separating the strips as they go in, 2–3 minutes until crisp and golden. Drain on paper. Air fryer option: spray with oil (1 tbsp) and air fry at 200°C for 8–10 minutes in a single layer, shaking halfway.",
+    "Pour off all but 1 tbsp oil and keep the wok on high (if you air-fried the strips, heat 1 tbsp fresh oil instead). Add garlic (1 tbsp), ginger (1 tsp), green chillies (3–4) and the spring onion whites (2) and stir 30 seconds until fragrant — don't let the garlic brown.",
+    "Add onion (1) and capsicum (1) and stir-fry 1–2 minutes on high — the onion petals should just turn translucent at the edges and the capsicum stay crunchy.",
+    "Pour in the sauce ingredients (1.5 tbsp soy sauce, 1.5 tbsp red chilli sauce, 1 tbsp tomato ketchup, 1 tsp vinegar, 1/2 tsp sugar; except the cornflour slurry) and let it bubble 30 seconds.",
+    "Stir the slurry (1 tsp cornflour in 1/4 cup water), add it and cook until the sauce turns glossy and thick, about 30 seconds.",
+    "Toss in the fried beef (400 g), black pepper (1/2 tsp) and spring onion greens (2) and coat quickly (about 30 seconds). Taste — soy and chilli sauces are salty, so add salt only if needed. Drizzle the sesame oil (1/2 tsp) if using and serve immediately so it stays crisp."
   ],
   storage: "Fridge up to 2 days (the coating softens).",
   reheating: "Air fryer 180°C for 4 minutes, or a hot wok for 1–2 minutes.",

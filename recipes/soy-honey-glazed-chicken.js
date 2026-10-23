@@ -35,12 +35,12 @@ window.RECIPES.push({
     "Spring onions or sesame seeds (optional)"
   ],
   preparation: [
-    "Pat the chicken dry with a paper towel — dry chicken browns, wet chicken boils. Toss it with the cornflour and a pinch of salt just before cooking; this thin coat browns well and gives the glaze something to cling to.",
-    "Chop the garlic and stir soy, honey, vinegar and chilli flakes together in a cup so the glaze goes in as one pour."
+    "Pat the chicken (500 g) dry with a paper towel — dry chicken browns, wet chicken boils. Toss it with the cornflour (1.5 tbsp) and a pinch of salt just before cooking; this thin coat browns well and gives the glaze something to cling to.",
+    "Chop the garlic (6 cloves) and stir soy (3 tbsp), honey (2.5 tbsp), vinegar (1 tbsp) and chilli flakes (1/2 tsp) together in a cup so the glaze goes in as one pour."
   ],
   steps: [
-    "Heat oil in a wide pan on high until shimmering. Add chicken in a single layer (in two batches if crowded) and leave it alone 3 minutes to brown, then toss and cook 3–4 more minutes until golden all over and no longer pink inside.",
-    "Drop the heat to medium, push the chicken to the sides, add garlic to the clear centre and stir 30–45 seconds until fragrant — pull back before it browns, burnt garlic sulks.",
+    "Heat oil (1.5 tbsp) in a wide pan on high until shimmering. Add chicken (500 g) in a single layer (in two batches if crowded) and leave it alone 3 minutes to brown, then toss and cook 3–4 more minutes until golden all over and no longer pink inside.",
+    "Drop the heat to medium, push the chicken to the sides, add garlic (6 cloves) to the clear centre and stir 30–45 seconds until fragrant — pull back before it browns, burnt garlic sulks.",
     "Pour in the soy-honey-vinegar mix. It will bubble enthusiastically; keep tossing. Keep the heat on medium, because honey burns fast on high.",
     "Cook 2–3 minutes until the sauce reduces to a glossy, syrupy glaze that coats each piece and the pan bottom looks sticky, not wet. If it gets too thick or starts to catch, add 1–2 tbsp water. Grind over black pepper.",
     "Finish with spring onion or sesame and serve over steamed rice, which exists specifically to catch this glaze."

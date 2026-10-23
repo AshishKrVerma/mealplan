@@ -37,19 +37,19 @@ window.RECIPES.push({
   ],
   preparation: [
     "Sprouts: buy ready sprouts, or sprout your own. Soak 1/2 cup dry matki overnight (8 hours), drain completely, tie in a damp muslin cloth or keep in a closed box, and leave in a warm dark spot 12–24 hours until short white tails show. Sprinkle water on the cloth if it dries out. 1/2 cup dry gives about 2 cups sprouts.",
-    "Rinse the sprouts and pick out any un-sprouted hard beans or loose skins.",
-    "Masala paste: heat 1 tbsp of the usal oil in the kadhai and fry the chopped onion on medium 6–8 minutes until deep golden brown. Add the coconut, garlic and ginger and stir 2 minutes until the coconut smells toasty and is light brown. Cool 5 minutes, then blend with the tomato and a splash of water to a smooth paste."
+    "Rinse the sprouts (2 cups) and pick out any un-sprouted hard beans or loose skins.",
+    "Masala paste: heat 1 tbsp of the usal oil in the kadhai and fry the chopped onion (1 large) on medium 6–8 minutes until deep golden brown. Add the coconut (2 tbsp), garlic (4 cloves) and ginger (1 inch) and stir 2 minutes until the coconut smells toasty and is light brown. Cool 5 minutes, then blend with the tomato (1 large) and a splash of water to a smooth paste."
   ],
   steps: [
-    "Pressure-cook the sprouts with 2 cups water, 1/4 tsp turmeric and 1/2 tsp salt: 1 whistle on medium, then let the pressure drop on its own. They should be tender but still hold their shape. Don't drain: the cooking water goes into the gravy.",
-    "Heat the remaining 2 tbsp oil in the same kadhai on medium. Add mustard seeds; when they crackle, add cumin, curry leaves and hing.",
+    "Pressure-cook the sprouts (2 cups) with 2 cups water, 1/4 tsp turmeric and 1/2 tsp salt: 1 whistle on medium, then let the pressure drop on its own. They should be tender but still hold their shape. Don't drain: the cooking water goes into the gravy.",
+    "Heat the remaining 2 tbsp oil in the same kadhai on medium. Add mustard seeds (3/4 tsp); when they crackle, add cumin (3/4 tsp), curry leaves (1 sprig) and hing (a pinch).",
     "Add the masala paste (careful, it splutters) and cook, stirring often, 6–8 minutes until it thickens, darkens and oil starts to leave the sides.",
-    "Lower the flame. Add the chilli powder, turmeric and misal masala and stir 1 minute. Add a splash of water if it starts to stick; masala powders burn fast.",
-    "Add the cooked sprouts with all their water, the tamarind and jaggery, plus 2 more cups of hot water. The usal should be thin and soupy, not thick like a curry.",
+    "Lower the flame. Add the chilli powder (1 tsp), turmeric (1/2 tsp) and misal masala (2–3 tbsp) and stir 1 minute. Add a splash of water if it starts to stick; masala powders burn fast.",
+    "Add the cooked sprouts (2 cups) with all their water, the tamarind (1 tsp) and jaggery (1 tbsp), plus 2 more cups of hot water. The usal should be thin and soupy, not thick like a curry.",
     "Bring to a boil, then simmer uncovered on medium-low 10 minutes. Done when a red oily layer floats on top. Taste and adjust salt.",
-    "Make the kat: heat 2 tbsp oil in a small pan on low. Switch off the heat, add the hing, Kashmiri chilli powder and 1 tsp misal masala and stir 10 seconds; the oil turns deep red. Immediately add 1.5 cups of the thin gravy from the top of the usal (no sprouts) and simmer 3–4 minutes. This is the extra-spicy kat, or tarri.",
-    "Toast the pav: slit each one almost in half, spread butter inside and out, and toast on a hot tawa 30–60 seconds per side until golden and crisp at the edges.",
-    "Assemble just before eating: ladle usal into a deep bowl, pour 2–3 tbsp kat over it, then top with a big handful of farsan, chopped onion and coriander. Squeeze lemon over and eat straight away with the hot pav, before the farsan goes soggy."
+    "Make the kat: heat 2 tbsp oil in a small pan on low. Switch off the heat, add the hing (a pinch), Kashmiri chilli powder (1.5 tsp) and 1 tsp misal masala and stir 10 seconds; the oil turns deep red. Immediately add 1.5 cups of the thin gravy from the top of the usal (no sprouts) and simmer 3–4 minutes. This is the extra-spicy kat, or tarri.",
+    "Toast the pav (8): slit each one almost in half, spread butter (2 tbsp across all 8) inside and out, and toast on a hot tawa 30–60 seconds per side until golden and crisp at the edges.",
+    "Assemble just before eating: ladle usal into a deep bowl, pour 2–3 tbsp kat over it, then top with a big handful of farsan, chopped onion and coriander, plus a spoon of curd if you like. Squeeze lemon over and eat straight away with the hot pav, before the farsan goes soggy."
   ],
   storage: "Usal and kat (without toppings): fridge up to 4 days, or freeze up to 1 month. Keep the farsan in its packet.",
   reheating: "It thickens in the fridge. Simmer in a pan with a splash of hot water until bubbling. Add the toppings fresh.",

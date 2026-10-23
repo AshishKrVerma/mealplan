@@ -30,15 +30,15 @@ window.RECIPES.push({
     "Parmesan or cheese cubes (optional)"
   ],
   preparation: [
-    "Cut potatoes into even-sized pieces so they cook at the same rate. Leave the skin on.",
-    "Make the finishing butter: melt butter on low, add grated garlic and cook 1 minute (don't brown it), then switch off and stir in the herbs and chilli flakes."
+    "Cut potatoes (500 g) into even-sized pieces so they cook at the same rate. Leave the skin on.",
+    "Make the finishing butter: melt butter (2 tbsp) on low, add grated garlic (3–4 cloves) and cook 1 minute (don't brown it), then switch off and stir in the herbs (1 tsp) and chilli flakes (1/2 tsp)."
   ],
   steps: [
-    "Boil the potatoes in the salty water with baking soda for 8–10 minutes, until a knife goes in easily but they don't fall apart. The salt seasons them all the way through; the baking soda roughs up the surface for extra crunch.",
+    "Boil the potatoes (500 g) in the salty water (1 tbsp salt in a big pot of water) with baking soda (1/4 tsp) for 8–10 minutes, until a knife goes in easily but they don't fall apart. The salt seasons them all the way through; the baking soda roughs up the surface for extra crunch.",
     "Drain well and let them steam dry in the colander for 3–5 minutes.",
-    "Put them back in the dry pot, add the roasting oil and powders, cover and shake hard for 10 seconds. The edges should look fluffy and roughed up — that fluffy coating is what turns crispy.",
+    "Put them back in the dry pot, add the roasting oil (2 tbsp) and powders (1/2 tsp garlic powder, 1/2 tsp onion powder, 1/4 tsp black pepper, 1/2 tsp salt), cover and shake hard for 10 seconds. The edges should look fluffy and roughed up — that fluffy coating is what turns crispy.",
     "Air fry at 200°C for 15 minutes in a single layer, shake, then another 8–10 minutes until deep golden and crisp.",
-    "Tip the hot potatoes into a bowl, pour over the garlic-herb butter, add parsley and cheese, and toss well. Serve immediately."
+    "Tip the hot potatoes (500 g) into a bowl, pour over the garlic-herb butter, add parsley and cheese (2 tbsp), and toss well. Serve immediately."
   ],
   storage: "Fridge up to 2 days, though they lose crispness.",
   reheating: "Air fryer 190°C for 4–5 minutes.",

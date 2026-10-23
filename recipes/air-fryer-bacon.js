@@ -22,11 +22,11 @@ window.RECIPES.push({
     "Strip bacon (200–250 g)"
   ],
   preparation: [
-    "Take the bacon out of the fridge 5 minutes early — cold strips stuck together tear when you separate them.",
+    "Take the bacon (200–250 g) out of the fridge 5 minutes early — cold strips stuck together tear when you separate them.",
     "Put 2 tbsp water or a slice of bread in the bottom of the air fryer drawer (under the basket). It catches the dripping fat and stops it smoking."
   ],
   steps: [
-    "Lay the strips flat in the basket in a single layer without overlapping — overlapped bits stay pale and chewy because the hot air can't reach them. Cut long strips in half to fit; cook in batches if needed.",
+    "Lay the strips (200–250 g) flat in the basket in a single layer without overlapping — overlapped bits stay pale and chewy because the hot air can't reach them. Cut long strips in half to fit; cook in batches if needed.",
     "Do not preheat. Air fry at 180°C for 4–5 minutes.",
     "Flip the strips with tongs (and separate any that have curled onto each other), then cook another 3–5 minutes until deep golden and crisp at the edges, with no soft white fat left. Thin bacon is done in 7–8 minutes total; thick-cut needs 10–12. Check during the last 2 minutes — it goes from crisp to burnt quickly.",
     "Move the bacon to a plate lined with kitchen paper — it crisps up more as it cools.",

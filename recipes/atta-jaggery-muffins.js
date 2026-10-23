@@ -30,15 +30,15 @@ window.RECIPES.push({
     "Silicone or paper muffin cups"
   ],
   preparation: [
-    "Grease or line the muffin cups. Take the curd out of the fridge 20–30 minutes early so it isn't cold.",
-    "Dissolve the jaggery in the warm (not hot) milk, stirring until no lumps remain. Pour it through a tea strainer: jaggery often has tiny bits of grit or cane fibre in it.",
-    "Measure the atta by spooning it into the cup and levelling it off. Scooping straight from the bag packs in extra flour and gives dry, heavy muffins."
+    "Grease or line the muffin cups. Take the curd (1/2 cup) out of the fridge 20–30 minutes early so it isn't cold.",
+    "Dissolve the jaggery (3/4 cup) in the warm (not hot) milk (3/4 cup), stirring until no lumps remain. Pour it through a tea strainer: jaggery often has tiny bits of grit or cane fibre in it.",
+    "Measure the atta (1.5 cups) by spooning it into the cup and levelling it off. Scooping straight from the bag packs in extra flour and gives dry, heavy muffins."
   ],
   steps: [
-    "Whisk the strained jaggery milk with the curd, oil and vanilla until smooth.",
-    "Sieve the atta, baking powder, baking soda, salt and cardamom over the wet mix. Tip any bran left in the sieve back into the bowl. Sieving breaks up lumps of soda so you don't get bitter spots.",
+    "Whisk the strained jaggery milk with the curd (1/2 cup), oil (1/3 cup) and vanilla (1 tsp) until smooth.",
+    "Sieve the atta (1.5 cups), baking powder (1 tsp), baking soda (1/2 tsp), salt (a pinch) and cardamom (1/2 tsp) over the wet mix. Tip any bran left in the sieve back into the bowl. Sieving breaks up lumps of soda so you don't get bitter spots.",
     "Fold gently with a spatula until just combined. The batter should be thick like idli batter: it falls off the spoon in a slow ribbon, not watery and not a stiff dough. Add 1–2 tbsp milk if it's stiff. Don't overmix, or atta muffins turn hard.",
-    "Toss the dates or nuts in 1 tsp atta (so they don't sink) and fold in, if using.",
+    "Toss the dates or nuts (2 tbsp) in 1 tsp atta (so they don't sink) and fold in, if using.",
     "Preheat the air fryer at 160°C for 3 minutes. Fill the cups three-quarters full.",
     "Air fry at 160°C for 13–15 minutes per batch, checking at 12 minutes. Jaggery makes them look dark early, so don't judge by colour. They're done when the top springs back when pressed lightly and a toothpick in the centre comes out clean (if it's sticky, give it 2 more minutes).",
     "Cool 5 minutes in the cups, then on a plate or rack."

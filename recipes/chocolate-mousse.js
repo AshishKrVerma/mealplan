@@ -29,14 +29,14 @@ window.RECIPES.push({
     "Vanilla essence"
   ],
   preparation: [
-    "The cream must be properly cold, and so should the bowl and the beaters. Warm cream simply will not whip, however long you beat it.",
+    "The cream (400 ml) must be properly cold, and so should the bowl and the beaters. Warm cream simply will not whip, however long you beat it.",
     "Check the pack: regular cooking cream will not hold air. You need whipping cream with 30% fat or more.",
-    "Chop the chocolate small so it melts evenly without needing extra heat."
+    "Chop the chocolate (200 g) small so it melts evenly without needing extra heat."
   ],
   steps: [
-    "Melt the chocolate in the microwave in 20-second bursts, stirring between each one. Chocolate scorches fast and burnt chocolate is unusable — stop while a few lumps remain and stir them out in the residual heat.",
+    "Melt the chocolate (200 g) in the microwave in 20-second bursts, stirring between each one. Chocolate scorches fast and burnt chocolate is unusable — stop while a few lumps remain and stir them out in the residual heat.",
     "Cool the melted chocolate for about 10 minutes, until it feels just barely warm on your lip but still pours easily. Too hot and it melts the cream; too cold and it seizes into hard specks when the cold cream hits it. If it thickens, microwave 5 seconds and stir.",
-    "Whip the cream with the icing sugar, vanilla and salt to firm peaks — the cream holds its shape and the peak stands up with just the tip curling over when you lift the beater. Stop right there: a few seconds more and it turns grainy, then buttery.",
+    "Whip the cream (400 ml) with the icing sugar (2 tbsp), vanilla (1/2 tsp) and salt (a pinch) to firm peaks — the cream holds its shape and the peak stands up with just the tip curling over when you lift the beater. Stop right there: a few seconds more and it turns grainy, then buttery.",
     "Fold a third of the whipped cream into the chocolate first to loosen it, then fold that back into the rest. Fold gently with a spatula, cutting down and lifting over, turning the bowl as you go, only until no white streaks remain; stirring knocks all the air out.",
     "Spoon into small cups and chill at least 3 hours (overnight gives the firmest set). Top with grated chocolate before serving."
   ],

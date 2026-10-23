@@ -32,17 +32,17 @@ window.RECIPES.push({
     "Dried oregano (pantry check)"
   ],
   preparation: [
-    "Do not wash mushrooms under a running tap — wipe them with a damp cloth. They are sponges, and a waterlogged mushroom will never brown.",
+    "Do not wash mushrooms (300 g) under a running tap — wipe them with a damp cloth. They are sponges, and a waterlogged mushroom will never brown.",
     "Cut them big. They shrink to about half their size.",
     "Get the pan properly hot before anything goes in. Lukewarm pan means grey, boiled mushrooms."
   ],
   steps: [
-    "Heat the ghee or oil with 1 tbsp butter in a wide pan on high (the ghee or oil stops the butter from burning). Add the mushrooms in one layer — two batches if they don't fit — and leave them for 2 full minutes without stirring.",
+    "Heat the ghee or oil (1 tbsp) with 1 tbsp butter in a wide pan on high (the ghee or oil stops the butter from burning). Add the mushrooms (300 g) in one layer — two batches if they don't fit — and leave them for 2 full minutes without stirring.",
     "They will release water — keep the flame high and let it all cook off, about 4 minutes, before doing anything else.",
-    "Once the pan is dry and the mushrooms are golden brown, add the capsicum and toss 2 minutes on high, until it is bright and just softening at the edges.",
-    "Turn the heat to medium. Add the last 1 tbsp butter and the garlic and toss 1 minute, until the garlic smells fragrant and is pale gold, not brown.",
-    "Add pepper, chilli flakes, oregano and salt. Salt goes in at the end here for the same reason — early salt pulls out water.",
-    "Toss 1 more minute, finish with lemon and herbs, and serve hot."
+    "Once the pan is dry and the mushrooms are golden brown, add the capsicum (1) and toss 2 minutes on high, until it is bright and just softening at the edges.",
+    "Turn the heat to medium. Add the last 1 tbsp butter and the garlic (6 cloves) and toss 1 minute, until the garlic smells fragrant and is pale gold, not brown.",
+    "Add pepper (1 tsp), chilli flakes (1/2 tsp), oregano (1 tsp) and salt. Salt goes in at the end here for the same reason — early salt pulls out water.",
+    "Toss 1 more minute, finish with lemon (a squeeze) and herbs (1 tbsp parsley or coriander), and serve hot."
   ],
   storage: "Fridge up to 2 days in a sealed box.",
   reheating: "Hot pan, 2 minutes. Do not add water — it is meant to be dry.",

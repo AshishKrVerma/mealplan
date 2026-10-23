@@ -34,23 +34,23 @@ window.RECIPES.push({
     "Kashmiri chilli powder, coriander powder, garam masala (pantry check)"
   ],
   preparation: [
-    "Wash the brinjal and wipe it completely dry (wet skin spits on the flame).",
+    "Wash the brinjal (1 large, about 500 g) and wipe it completely dry (wet skin spits on the flame).",
     "With a small knife, make 3–4 deep slits in the brinjal. Push one whole garlic clove deep into three of the slits — they roast along with it. The slits also let steam escape so the brinjal doesn't burst.",
     "Rub 1 tsp oil all over the skin.",
     "Stove prep (makes cleanup easy): remove the burner's pan support if it lifts off, and line the stove top around the burner with aluminium foil to catch the drips. Leave the burner head and its flame holes uncovered, and keep the foil away from the knobs.",
-    "Finely chop the onion, tomatoes, ginger, garlic, green chillies and coriander."
+    "Finely chop the onion (1 large, about 3/4 cup), tomatoes (2 medium, about 1 cup), ginger (1 tsp), garlic (3 cloves), green chillies (1–2) and coriander (2 tbsp)."
   ],
   steps: [
-    "Roast on the flame: turn the burner to medium-high and place the brinjal directly on the flame (or on a wire roasting rack / jali set over the burner). Using tongs, turn it a quarter turn every 2–3 minutes so every side chars, including the stem end and bottom. It takes 12–15 minutes.",
+    "Roast on the flame: turn the burner to medium-high and place the brinjal (1 large, about 500 g) directly on the flame (or on a wire roasting rack / jali set over the burner). Using tongs, turn it a quarter turn every 2–3 minutes so every side chars, including the stem end and bottom. It takes 12–15 minutes.",
     "It's done when the skin is black and blistered all over, the brinjal has collapsed and looks shrivelled, and a knife slides into the thickest part with no resistance. If the middle is still firm, keep roasting a few more minutes.",
     "Lift it with tongs into a bowl and cover with a plate for 5–10 minutes. The trapped steam finishes cooking the centre and loosens the skin.",
     "When cool enough to handle, peel off the charred skin (dip your fingers in water to stop it sticking — don't rinse the brinjal itself, that washes away the smoky flavour). Cut off the stem, pull out the roasted garlic, and mash the flesh and garlic together with a fork or chop them finely. A few black flecks are fine; they add smokiness.",
-    "Heat 2 tbsp mustard oil in a kadhai on high until it just starts to smoke (this removes its raw bite), then lower to medium. Add cumin seeds and let them crackle for a few seconds.",
-    "Add the ginger, chopped garlic and green chillies and stir about 1 minute until fragrant and the garlic starts to turn light golden.",
-    "Add the onion and cook 5–6 minutes until soft and just starting to turn golden.",
-    "Add the tomatoes and salt, and cook 5–6 minutes, mashing with your spatula, until very soft and you see oil at the edges. Lower the flame, add the Kashmiri chilli powder and coriander powder, and stir 30 seconds.",
-    "Add the mashed brinjal and mix well, pressing it into the masala. Cook on low-medium for 8–10 minutes, stirring often — this is where the flavours come together and the bharta turns from watery to thick and glossy.",
-    "Sprinkle the garam masala and coriander, add a squeeze of lemon, and taste for salt and chilli. Switch off. Serve hot."
+    "Heat 2 tbsp mustard oil in a kadhai on high until it just starts to smoke (this removes its raw bite), then lower to medium. Add cumin seeds (1 tsp) and let them crackle for a few seconds.",
+    "Add the ginger (1 tsp), chopped garlic (3 cloves) and green chillies (1–2) and stir about 1 minute until fragrant and the garlic starts to turn light golden.",
+    "Add the onion (1 large, about 3/4 cup) and cook 5–6 minutes until soft and just starting to turn golden.",
+    "Add the tomatoes (2 medium, about 1 cup) and salt (3/4 tsp), and cook 5–6 minutes, mashing with your spatula, until very soft and you see oil at the edges. Lower the flame, add the Kashmiri chilli powder (1/2–1 tsp) and coriander powder (1 tsp), and stir 30 seconds.",
+    "Add the mashed brinjal (1 large, about 500 g) and mix well, pressing it into the masala. Cook on low-medium for 8–10 minutes, stirring often — this is where the flavours come together and the bharta turns from watery to thick and glossy.",
+    "Sprinkle the garam masala (a pinch) and coriander (2 tbsp), add a squeeze of lemon, and taste for salt and chilli. Switch off. Serve hot."
   ],
   storage: "Fridge up to 2 days in a covered box.",
   reheating: "Warm in a pan on low with 1–2 tbsp water, or microwave covered for 1–2 minutes, stirring halfway.",

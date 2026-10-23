@@ -38,18 +38,18 @@ window.RECIPES.push({
   ],
   preparation: [
     "Hang the curd in a muslin cloth for 30 minutes, or use Greek yogurt straight from the tub. Loose curd will split in the pan.",
-    "Crush the peppercorns coarsely in a mortar or under a rolling pin — pre-ground pepper powder tastes flat and dusty here.",
-    "Marinate the chicken in half the hung curd, the ginger-garlic paste, 1 tbsp of the pepper, the lemon juice and salt for at least 20 minutes (up to overnight in the fridge).",
-    "Take the remaining hung curd out of the fridge when you start marinating, so it is at room temperature when it goes in the pan. Cold curd hitting hot ghee is the main reason it splits."
+    "Crush the peppercorns (2 tbsp) coarsely in a mortar or under a rolling pin — pre-ground pepper powder tastes flat and dusty here.",
+    "Marinate the chicken (700 g) in half the hung curd (6 tbsp), the ginger-garlic paste (2 tbsp), 1 tbsp of the pepper, the lemon juice (1 tsp) and salt for at least 20 minutes (up to overnight in the fridge).",
+    "Take the remaining hung curd (6 tbsp) out of the fridge when you start marinating, so it is at room temperature when it goes in the pan. Cold curd hitting hot ghee is the main reason it splits."
   ],
   steps: [
-    "Heat the ghee in a heavy pan on medium. Add cumin, cardamom, cloves, cinnamon and bay leaf and let them crackle for 30–40 seconds, until fragrant. Don't let them go dark.",
-    "Add the marinated chicken and sear on high 5 minutes until the outside turns opaque and catches a little colour.",
-    "Lower the heat to minimum and add the remaining hung curd a spoon at a time, stirring constantly. Rushing this is exactly how the gravy curdles.",
+    "Heat the ghee (3 tbsp) in a heavy pan on medium. Add cumin (1 tsp), cardamom (3), cloves (3), cinnamon (1-inch stick) and bay leaf (1) and let them crackle for 30–40 seconds, until fragrant. Don't let them go dark.",
+    "Add the marinated chicken (700 g) and sear on high 5 minutes until the outside turns opaque and catches a little colour.",
+    "Lower the heat to minimum and add the remaining hung curd (6 tbsp) a spoon at a time, stirring constantly. Rushing this is exactly how the gravy curdles.",
     "Cover and cook 12–15 minutes on low until the chicken is tender and ghee floats at the edges. Add a splash of hot water only if it is catching.",
-    "Add the slit chillies and the rest of the pepper (keep back a pinch for garnish). Adding most of the pepper late keeps it fragrant; long cooking makes it dull and slightly bitter. Simmer 2 minutes.",
-    "Turn the heat to its lowest. Stir in the cream and kasuri methi and warm through for 1–2 minutes without letting it boil. Taste — it should be assertively peppery, not shy.",
-    "Turn off the heat, scatter the reserved pepper and the ginger juliennes, and serve."
+    "Add the slit chillies (2) and the rest of the pepper (1 tbsp; keep back a pinch for garnish). Adding most of the pepper late keeps it fragrant; long cooking makes it dull and slightly bitter. Simmer 2 minutes.",
+    "Turn the heat to its lowest. Stir in the cream (1/3 cup) and kasuri methi (1 tsp) and warm through for 1–2 minutes without letting it boil. Taste — it should be assertively peppery, not shy.",
+    "Turn off the heat, scatter the reserved pepper (a pinch) and the ginger juliennes (1/2 inch ginger), and serve."
   ],
   storage: "Fridge up to 3 days. The pepper mellows and rounds out overnight.",
   reheating: "Low flame, 5 minutes, splash of water. Never boil hard — the curd base will split.",

@@ -37,22 +37,22 @@ window.RECIPES.push({
     "Kasuri methi, dried red chillies, hing, Kashmiri chilli powder (pantry check)"
   ],
   preparation: [
-    "Wash the dal in 3–4 changes of water until it runs mostly clear, then soak 10–15 minutes. Soaking makes it cook creamier and more evenly.",
-    "Wash the rice until the water is clear and soak it for 20 minutes too — soaked rice cooks into long, separate grains.",
-    "Chop the onion, tomatoes, green chilli and coriander, and slice the 2 tadka garlic cloves before you start; the masala and tadka move fast."
+    "Wash the dal (1 cup) in 3–4 changes of water until it runs mostly clear, then soak 10–15 minutes. Soaking makes it cook creamier and more evenly.",
+    "Wash the rice (1 cup) until the water is clear and soak it for 20 minutes too — soaked rice cooks into long, separate grains.",
+    "Chop the onion (1 medium), tomatoes (1–2, about 1 cup), green chilli (1) and coriander, and slice the 2 tadka garlic cloves before you start; the masala and tadka move fast."
   ],
   steps: [
-    "Pressure-cook the dal with 3 cups water, turmeric, salt and 1/2 tsp ghee (the ghee stops it foaming up into the whistle) on medium: 2–3 whistles for moong or masoor, 3–4 for toor. Let the pressure release naturally. Check: a grain should squash completely between your fingers — if not, close the lid and give it one more whistle.",
+    "Pressure-cook the dal (1 cup) with 3 cups water, turmeric (1/2 tsp), salt and 1/2 tsp ghee (the ghee stops it foaming up into the whistle) on medium: 2–3 whistles for moong or masoor, 3–4 for toor. Let the pressure release naturally. Check: a grain should squash completely between your fingers — if not, close the lid and give it one more whistle.",
     "Meanwhile cook the rice: 1 cup soaked basmati to 1.75 cups water (sona masoori needs about 2 cups) with a pinch of salt and a few drops of ghee. Bring to a boil, cover, lowest flame 12 minutes, then switch off and leave covered 10 minutes before fluffing with a fork.",
     "Open the cooker and mash the dal lightly with a whisk or ladle — creamy but with a little texture.",
-    "For the masala, heat 1.5 tbsp ghee/butter on medium. Add cumin; when it crackles and darkens slightly (a few seconds), add the onion and cook 3–4 minutes until soft and light golden.",
-    "Add the ginger-garlic paste and green chilli and fry about 1 minute until the raw smell goes. (Adding it after the onion keeps the garlic from browning and turning bitter.)",
-    "Add the tomatoes, cover and cook 3–4 minutes, then uncover and keep stirring until they are very soft and mashable and the ghee starts to leave the sides of the masala.",
-    "Lower the flame, add Kashmiri chilli powder and coriander powder and stir for 10 seconds only — chilli powder burns fast. A splash of water here protects it.",
-    "Pour in the cooked dal, stir, and simmer 5 minutes so the dal soaks up the masala. Add hot water to get the consistency you like — it thickens as it sits.",
-    "Crush the kasuri methi between your palms over the pot, add the garam masala, stir, and switch off. Taste for salt. Transfer to a serving bowl.",
-    "Final tadka (just before serving): heat 1 tbsp ghee in a small pan on medium. Add the dried red chillies and sliced garlic and fry about 1 minute until the garlic is light golden — not brown, or it turns bitter. Switch off the heat, stir in the hing and 1/4 tsp Kashmiri chilli powder, and immediately pour the sizzling tadka over the dal.",
-    "Finish with chopped coriander and a squeeze of lemon. Serve over the rested rice."
+    "For the masala, heat 1.5 tbsp ghee/butter on medium. Add cumin (1 tsp); when it crackles and darkens slightly (a few seconds), add the onion (1 medium) and cook 3–4 minutes until soft and light golden.",
+    "Add the ginger-garlic paste (1 tsp) and green chilli (1) and fry about 1 minute until the raw smell goes. (Adding it after the onion keeps the garlic from browning and turning bitter.)",
+    "Add the tomatoes (1–2, about 1 cup), cover and cook 3–4 minutes, then uncover and keep stirring until they are very soft and mashable and the ghee starts to leave the sides of the masala.",
+    "Lower the flame, add Kashmiri chilli powder (1 tsp) and coriander powder (1/2 tsp) and stir for 10 seconds only — chilli powder burns fast. A splash of water here protects it.",
+    "Pour in the cooked dal (1 cup), stir, and simmer 5 minutes so the dal soaks up the masala. Add hot water to get the consistency you like — it thickens as it sits.",
+    "Crush the kasuri methi (1 tsp) between your palms over the pot, add the garam masala (1/4 tsp), stir, and switch off. Taste for salt. Transfer to a serving bowl.",
+    "Final tadka (just before serving): heat 1 tbsp ghee in a small pan on medium. Add the dried red chillies (2) and sliced garlic (2 cloves) and fry about 1 minute until the garlic is light golden — not brown, or it turns bitter. Switch off the heat, stir in the hing (a pinch) and 1/4 tsp Kashmiri chilli powder, and immediately pour the sizzling tadka over the dal.",
+    "Finish with chopped coriander and a squeeze of lemon (half a lemon). Serve over the rested rice."
   ],
   storage: "Dal: fridge up to 3 days, freezes well. Rice: fridge up to 1 day. If making ahead, store the dal without the final tadka and make the tadka fresh when serving.",
   reheating: "Dal thickens overnight — simmer with a splash of hot water. Sprinkle water on rice and microwave covered for 1–2 minutes.",

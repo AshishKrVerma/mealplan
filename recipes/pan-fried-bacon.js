@@ -26,7 +26,7 @@ window.RECIPES.push({
     "Keep a plate lined with kitchen paper and a small strainer + glass jar ready."
   ],
   steps: [
-    "Lay the strips in a COLD pan in a single layer. Starting cold lets the fat melt out slowly before the meat tightens, so the strips stay flat and crisp evenly.",
+    "Lay the strips (200–250 g) in a COLD pan in a single layer. Starting cold lets the fat melt out slowly before the meat tightens, so the strips stay flat and crisp evenly.",
     "Pour in about 1/4 cup water — just enough to barely cover the strips. The water keeps the pan gentle while the fat melts out, so the bacon ends up crisp but not brittle, with less splatter.",
     "Turn the heat to medium. The water will simmer and then disappear (about 4–6 minutes). Once it's gone you'll hear the bacon start to sizzle in its own fat — cook 3–4 minutes more until the underside is golden.",
     "Flip with tongs and cook another 3–5 minutes, until both sides are golden-brown and the white fat has turned see-through and crisp. Lower the heat if the fat starts smoking.",

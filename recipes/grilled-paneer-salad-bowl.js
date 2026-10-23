@@ -33,16 +33,16 @@ window.RECIPES.push({
     "Peanuts or almonds"
   ],
   preparation: [
-    "Deseed the tomato — the seeds and jelly are what turn a salad watery within ten minutes.",
-    "For the dressing, blend the mint, green chilli, lemon juice and salt with 1 tbsp of the curd into a smooth paste, then whisk it into the rest of the curd in a bowl. Blending all the curd turns it thin and runny. Keep it in the fridge until the moment of assembly.",
-    "Chill the cucumber and greens. The temperature contrast with hot paneer is most of what makes this bowl work."
+    "Deseed the tomato (1) — the seeds and jelly are what turn a salad watery within ten minutes.",
+    "For the dressing, blend the mint (15 leaves), green chilli (1), lemon juice (1 tsp) and salt with 1 tbsp of the curd into a smooth paste, then whisk it into the rest of the curd (about 7 tbsp) in a bowl. Blending all the curd turns it thin and runny. Keep it in the fridge until the moment of assembly.",
+    "Chill the cucumber (1) and greens (a handful). The temperature contrast with hot paneer is most of what makes this bowl work."
   ],
   steps: [
-    "Pat the paneer cubes dry with a kitchen towel (wet paneer spits and won't brown), then toss them with the chilli powder, cumin powder and salt.",
-    "Heat the oil in a pan on high and sear the paneer 4–5 minutes, turning, until several faces are golden. Do not stir constantly or nothing browns.",
-    "Layer the cold vegetables in a wide bowl — greens at the bottom, cucumber, tomato and onion over them.",
-    "Put the hot paneer straight on top and spoon the mint-curd dressing over it.",
-    "Scatter the crushed nuts, toss once at the table and eat immediately, while the paneer is still warm."
+    "Pat the paneer cubes (250 g) dry with a kitchen towel (wet paneer spits and won't brown), then toss them with the chilli powder (1 tsp), cumin powder (1/2 tsp) and salt.",
+    "Heat the oil (1 tbsp) in a pan on high and sear the paneer (250 g) 4–5 minutes, turning, until several faces are golden. Do not stir constantly or nothing browns.",
+    "Layer the cold vegetables in a wide bowl — greens (a handful) at the bottom, cucumber (1), tomato (1) and onion (1/4) over them.",
+    "Put the hot paneer (250 g) straight on top and spoon the mint-curd dressing over it.",
+    "Scatter the crushed nuts (2 tbsp), toss once at the table and eat immediately, while the paneer is still warm."
   ],
   storage: "Assembled, it does not keep. Store the components separately in the fridge for 2 days and build a fresh bowl each time.",
   reheating: "Warm the paneer alone in a pan for 2 minutes; everything else stays cold.",

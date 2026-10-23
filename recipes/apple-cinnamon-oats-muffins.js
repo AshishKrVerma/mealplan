@@ -17,7 +17,7 @@ window.RECIPES.push({
   ingredients: [
     "1 cup rolled oats",
     "1 cup milk",
-    "1 cup maida or atta",
+    "1 cup maida or atta, plus 1 tsp to toss the apple",
     "1/2 cup brown sugar (or jaggery powder)",
     "1/3 cup oil or melted butter",
     "1 egg (or 1/4 cup curd for eggless)",
@@ -33,15 +33,15 @@ window.RECIPES.push({
     "Silicone or paper muffin cups"
   ],
   preparation: [
-    "Soak the oats in the milk for 10–15 minutes, until they look plump and have soaked up most of the milk. Soaked oats make the muffins soft instead of chewy.",
-    "Grease or line the muffin cups. Chop the apple small (about 1 cm) so it softens in the short bake.",
-    "Measure the flour by spooning it into the cup and levelling it off. Scooping straight from the bag packs in extra flour and gives dry muffins."
+    "Soak the oats (1 cup) in the milk (1 cup) for 10–15 minutes, until they look plump and have soaked up most of the milk. Soaked oats make the muffins soft instead of chewy.",
+    "Grease or line the muffin cups. Chop the apple (1 large) small (about 1 cm) so it softens in the short bake.",
+    "Measure the flour (1 cup) by spooning it into the cup and levelling it off. Scooping straight from the bag packs in extra flour and gives dry muffins."
   ],
   steps: [
-    "In a separate bowl, whisk the flour, baking powder, soda, salt and cinnamon together so the raising agents spread evenly.",
-    "Into the soaked oats, whisk the sugar, oil, egg and vanilla until the sugar has mostly dissolved.",
+    "In a separate bowl, whisk the flour (1 cup), baking powder (1.5 tsp), soda (1/2 tsp), salt (a pinch) and cinnamon (1 tsp) together so the raising agents spread evenly.",
+    "Into the soaked oats, whisk the sugar (1/2 cup), oil (1/3 cup), egg (1) and vanilla (1 tsp) until the sugar has mostly dissolved.",
     "Add the flour mix to the wet bowl and fold with a spatula until only a few dry streaks remain.",
-    "Toss the apple pieces with 1 tsp flour and fold in. Stop as soon as no dry flour shows; a lumpy batter is correct, and overmixing makes them tough.",
+    "Toss the apple pieces (1 large) with 1 tsp flour and fold in. Stop as soon as no dry flour shows; a lumpy batter is correct, and overmixing makes them tough.",
     "Preheat the air fryer at 160°C for 3 minutes. Fill the cups three-quarters full. Optional: sprinkle a few oats and a pinch of sugar on top for crunch.",
     "Air fry at 160°C for 14–16 minutes per batch, checking at 13 minutes. They're done when the tops are golden, spring back when pressed lightly, and a toothpick in the centre comes out clean or with a few moist crumbs (wet batter = 2 more minutes). If the tops brown too fast, cover loosely with foil.",
     "Cool 10 minutes in the cups before removing; they're fragile when hot."

@@ -33,15 +33,15 @@ window.RECIPES.push({
     "Black salt (pantry check)"
   ],
   preparation: [
-    "Deseed the cucumber and the tomato. The seeds carry all the water, and water is what turns this into soup by the time you sit down.",
-    "Crush the peanuts coarsely under a rolling pin. Powdered peanuts go pasty; whole ones are hard to eat with the rest.",
-    "Chop everything to the same small dice so you get all of it in one spoonful."
+    "Deseed the cucumber (2) and the tomato (1). The seeds carry all the water, and water is what turns this into soup by the time you sit down.",
+    "Crush the peanuts (1/3 cup) coarsely under a rolling pin. Powdered peanuts go pasty; whole ones are hard to eat with the rest.",
+    "Chop everything (2 cucumbers, 1 tomato, 1/4 onion if using, 1 green chilli, 2 tbsp coriander, 1 tbsp mint) to the same small dice so you get all of it in one spoonful."
   ],
   steps: [
-    "Toss the cucumber, tomato and onion in a bowl.",
-    "Add the lemon juice, olive oil, cumin powder and pepper, and mix. Hold back the salts for now.",
-    "Fold in the chilli and herbs.",
-    "Right before serving, add the black salt, regular salt and crushed peanuts and toss. Salt pulls water out of cucumber within minutes, and peanuts mixed in early go soft and lose the entire point.",
+    "Toss the cucumber (2), tomato (1) and onion (1/4) in a bowl.",
+    "Add the lemon juice (1 lemon), olive oil (1 tbsp), cumin powder (1/2 tsp) and pepper, and mix. Hold back the salts for now.",
+    "Fold in the chilli (1) and herbs (2 tbsp coriander, 1 tbsp mint).",
+    "Right before serving, add the black salt (1/2 tsp), regular salt and crushed peanuts (1/3 cup) and toss. Salt pulls water out of cucumber within minutes, and peanuts mixed in early go soft and lose the entire point.",
     "Taste and adjust the lemon. It should be sharp enough to make you blink slightly."
   ],
   storage: "Best inside an hour. If you must prep ahead, keep the cut vegetables in the fridge and dress at the table.",

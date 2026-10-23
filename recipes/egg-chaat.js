@@ -35,15 +35,15 @@ window.RECIPES.push({
     "Green chutney or tamarind chutney (optional)"
   ],
   preparation: [
-    "Boil the eggs 10 minutes from boiling water, cool in cold water, peel and quarter them.",
-    "Chop onion, tomato, chilli and coriander while the eggs boil — the whole dish is assembly after that."
+    "Boil the eggs (6) for 10 minutes from boiling water, cool in cold water, peel and quarter them.",
+    "Chop onion (1), tomato (1), chilli (1) and coriander (2 tbsp) while the eggs boil — the whole dish is assembly after that."
   ],
   steps: [
-    "Arrange the quartered eggs on a plate in one layer, yolks facing up like they're posing.",
-    "Scatter the onion, tomato and green chilli evenly over the top.",
-    "Dust with chaat masala, roasted cumin, chilli powder and a little salt — go light on salt, chaat masala already carries some.",
-    "Squeeze the lemon over everything and drizzle the chutneys if using.",
-    "Finish with coriander and a generous handful of sev at the very last second, and eat immediately while the sev still crunches."
+    "Arrange the quartered eggs (6) on a plate in one layer, yolks facing up like they're posing.",
+    "Scatter the onion (1), tomato (1) and green chilli (1) evenly over the top.",
+    "Dust with chaat masala (1 tsp), roasted cumin (1/4 tsp), chilli powder (1/4 tsp) and a little salt — go light on salt, chaat masala already carries some.",
+    "Squeeze the lemon (half a lemon) over everything and drizzle the chutneys (2 tbsp green chutney or a swirl of tamarind chutney) if using.",
+    "Finish with coriander (2 tbsp) and the sev (3–4 tbsp) at the very last second, and eat immediately while the sev still crunches."
   ],
   storage: "Assembled chaat doesn't keep — sev goes soggy in minutes. Boiled eggs alone keep 4 days in the fridge.",
   reheating: "None needed; it's served at room temperature. Just assemble fresh.",

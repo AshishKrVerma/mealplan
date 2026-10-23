@@ -32,16 +32,16 @@ window.RECIPES.push({
     "Sesame seeds (optional)"
   ],
   preparation: [
-    "Freeze the meat 30–40 minutes, then slice thinly ACROSS the grain.",
-    "Toss with baking soda and 1 tbsp water, leave 20–30 minutes, rinse and pat very dry.",
-    "Stir the sugar/honey into the hot water until dissolved (no gritty bits), then stir in the soy sauce(s) and chilli flakes. Keep this sauce ready by the stove.",
-    "About 10 minutes before cooking, toss the strips with salt and cornflour until each one is dusted, then let them sit 5 minutes — the coating sticks better and won't fall off in the pan."
+    "Freeze the meat (400 g) 30–40 minutes, then slice thinly ACROSS the grain.",
+    "Toss with baking soda (1/2 tsp) and 1 tbsp water, leave 20–30 minutes, rinse and pat very dry.",
+    "Stir the sugar/honey (2.5 tbsp) into the hot water (1/3 cup) until dissolved (no gritty bits), then stir in the soy sauces (3 tbsp soy sauce, 1 tsp dark soy sauce) and chilli flakes (1/2 tsp). Keep this sauce ready by the stove.",
+    "About 10 minutes before cooking, toss the strips (400 g) with salt (a pinch) and cornflour (3 tbsp) until each one is dusted, then let them sit 5 minutes — the coating sticks better and won't fall off in the pan."
   ],
   steps: [
-    "Heat 2 tbsp oil in a wide pan on medium-high. Shake off extra cornflour and fry the strips in a single layer, in batches, without moving them for the first 1.5 minutes so a crust forms, then flip and cook 1.5 minutes more until crisp. Don't crowd the pan or they steam instead of crisping. Remove to a plate.",
-    "Wipe out any burnt bits and lower the flame to medium (let the pan cool 30 seconds if it is smoking — garlic burns and turns bitter in a very hot pan). Add 1 tbsp oil and fry the garlic, ginger and spring onion whites for 30 seconds until fragrant.",
+    "Heat 2 tbsp oil in a wide pan on medium-high. Shake off extra cornflour and fry the strips (400 g) in a single layer, in batches, without moving them for the first 1.5 minutes so a crust forms, then flip and cook 1.5 minutes more until crisp. Don't crowd the pan or they steam instead of crisping. Remove to a plate.",
+    "Wipe out any burnt bits and lower the flame to medium (let the pan cool 30 seconds if it is smoking — garlic burns and turns bitter in a very hot pan). Add 1 tbsp oil and fry the garlic (1 tbsp), ginger (1 tbsp) and spring onion whites (4) for 30 seconds until fragrant.",
     "Pour in the sauce. Simmer 2–3 minutes until it reduces to a syrupy glaze that coats the back of a spoon.",
-    "Add the beef and spring onion greens and toss for about 1 minute until every piece is coated and sticky and almost no sauce is left pooling in the pan.",
+    "Add the beef (400 g) and spring onion greens (4) and toss for about 1 minute until every piece is coated and sticky and almost no sauce is left pooling in the pan.",
     "Sprinkle sesame seeds and serve right away with steamed rice."
   ],
   storage: "Fridge up to 2 days.",

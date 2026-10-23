@@ -30,17 +30,17 @@ window.RECIPES.push({
     "Whole black peppercorns"
   ],
   preparation: [
-    "Freeze the meat 30–40 minutes, then slice thinly (3–4 mm) ACROSS the grain.",
-    "Toss with baking soda and 1 tbsp water, leave 20–30 minutes, rinse and pat dry.",
-    "Mix with the soy sauce and cornflour, massaging until the slices feel sticky with no loose liquid, then mix in the oil so the slices don't clump in the pan. Leave it on the counter for 10 minutes while you cut the vegetables (ice-cold meat seizes and toughens in the pan). Crush the peppercorns coarsely in a mortar — freshly crushed pepper is the whole flavour of this dish.",
-    "Mix the sauce ingredients in a cup."
+    "Freeze the meat (400 g) 30–40 minutes, then slice thinly (3–4 mm) ACROSS the grain.",
+    "Toss with baking soda (1/2 tsp) and 1 tbsp water, leave 20–30 minutes, rinse and pat dry.",
+    "Mix with the soy sauce (1 tbsp) and cornflour (1 tbsp), massaging until the slices feel sticky with no loose liquid, then mix in the oil (1 tsp) so the slices don't clump in the pan. Leave it on the counter for 10 minutes (ice-cold meat seizes and toughens in the pan) while you cut the vegetables (1 large onion, 1 green + 1 red capsicum or 2 green). Crush the peppercorns (1.5 tsp) coarsely in a mortar — freshly crushed pepper is the whole flavour of this dish.",
+    "Mix the sauce ingredients (2 tbsp soy sauce, 1 tbsp oyster sauce, 1.5 tsp crushed black pepper, 1/2 tsp sugar, 1 tsp cornflour, 1/3 cup water) in a cup."
   ],
   steps: [
-    "Heat 1.5 tbsp oil in a wok or large pan until very hot. Spread the beef in a single layer and leave it 1 minute to sear, then stir-fry 1 more minute until just browned. Remove to a plate (do two batches if your pan is small — crowding makes it stew and toughen).",
-    "Add the remaining oil, then onion and capsicum on high heat for 2 minutes until slightly charred but crunchy.",
-    "Add garlic for 30 seconds.",
+    "Heat 1.5 tbsp oil in a wok or large pan until very hot. Spread the beef (400 g) in a single layer and leave it 1 minute to sear, then stir-fry 1 more minute until just browned. Remove to a plate (do two batches if your pan is small — crowding makes it stew and toughen).",
+    "Add the remaining oil (1/2 tbsp), then onion (1 large) and capsicum (1 green + 1 red, or 2 green) on high heat for 2 minutes until slightly charred but crunchy.",
+    "Add garlic (4 cloves) for 30 seconds.",
     "Stir the sauce well (the cornflour settles at the bottom) and pour it in; it thickens in about 30 seconds.",
-    "Return the beef, add the butter and toss for 30 seconds until glossy. Serve with rice, noodles or in a sandwich."
+    "Return the beef (400 g), add the butter (1 tbsp) and toss for 30 seconds until glossy. Serve with rice, noodles or in a sandwich."
   ],
   storage: "Fridge up to 2 days.",
   reheating: "Hot pan 1–2 minutes; don't overcook or the meat tightens.",

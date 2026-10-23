@@ -16,7 +16,8 @@ window.RECIPES.push({
   leftoverRating: 5,
   ingredients: [
     "500 g boneless chicken, medium chunks",
-    "Achari whole spices: 1 tsp fennel seeds, 1 tsp mustard seeds, 1/2 tsp nigella seeds (kalonji), 1/4 tsp fenugreek seeds (methi dana), 1/2 tsp cumin seeds",
+    "Achari masala (roasted and crushed): 1.5 tsp fennel seeds, 1/2 tsp cumin seeds, 1/4 tsp mustard seeds, 1/4 tsp fenugreek seeds (methi dana)",
+    "Tempering: 1/2 tsp each fennel seeds, mustard seeds, nigella seeds (kalonji) and cumin seeds",
     "2 medium onions, finely chopped",
     "1 tbsp ginger-garlic paste",
     "2 tomatoes, chopped",
@@ -24,6 +25,7 @@ window.RECIPES.push({
     "1/2 tsp turmeric, 1 tsp Kashmiri chilli powder, 1 tsp coriander powder",
     "2.5 tbsp mustard oil (or regular oil, but mustard oil is the soul here)",
     "2 green chillies, slit; salt to taste",
+    "To finish: 1/2 tsp amchur (or 1 tsp lemon juice), 1/2 inch ginger (julienned), 2 tbsp chopped coriander",
     "1 tsp of oil from a mango pickle jar (optional cheat code)"
   ],
   shoppingList: [
@@ -39,19 +41,19 @@ window.RECIPES.push({
   preparation: [
     "Make the achari masala: put 1.5 tsp fennel, 1/2 tsp cumin, 1/4 tsp methi and 1/4 tsp mustard seeds in a dry pan on low heat. Stir 1–2 minutes until fragrant and the fennel turns a shade darker — don't let the methi go dark brown or it turns bitter. Tip onto a plate to cool.",
     "Crush the cooled seeds coarsely in a zip bag with a rolling pin, or in a mortar and pestle (or pulse in a mixer if you have one). You get about 2.5 tsp.",
-    "Marinate: mix the chicken with 1/2 tsp salt, 1/4 tsp turmeric, 1 tsp of the crushed masala and 1 tsp mustard oil. Rest 15–30 minutes while you do the rest.",
-    "Measure the tempering seeds (fennel, cumin, mustard, kalonji) into one small bowl — they burn fast if you're hunting through the masala box mid-sizzle.",
-    "Whisk the curd until completely smooth and let it come to room temperature; cold curd splits.",
-    "Chop onions and tomatoes; julienne the ginger and chop the coriander for garnish."
+    "Marinate: mix the chicken (500 g) with 1/2 tsp salt, 1/4 tsp turmeric, 1 tsp of the crushed masala and 1 tsp mustard oil, plus 1 tsp mango pickle oil if you have it. Rest 15–30 minutes while you do the rest.",
+    "Measure the tempering seeds (1/2 tsp each fennel, cumin, mustard and kalonji) into one small bowl — they burn fast if you're hunting through the masala box mid-sizzle.",
+    "Whisk the curd (1/2 cup) until completely smooth and let it come to room temperature; cold curd splits.",
+    "Chop onions (2 medium) and tomatoes (2); julienne the ginger (1/2 inch) and chop the coriander (2 tbsp) for garnish."
   ],
   steps: [
-    "Heat mustard oil in a kadhai on high until it just starts to smoke (this mellows its bite), then reduce to medium. Add the tempering seeds; the mustard seeds should pop and the fennel smell like a pickle jar opening — 20–30 seconds only.",
-    "Add onions with a pinch of salt and cook 8–10 minutes, stirring often, until evenly golden. If they stick, splash in 1–2 tbsp water and scrape. Stir in ginger-garlic paste and green chillies for 1 minute until the raw smell goes.",
-    "Lower the heat, add the remaining crushed achari masala with the turmeric, chilli and coriander powders; stir 1 minute (add a splash of water if the pan looks dry). Add tomatoes and cook 4–5 minutes, mashing, until soft and glossy with oil peeking out at the edges.",
-    "Keep the heat on low and add the curd a spoonful at a time, stirring constantly. Then raise to medium and cook 5–7 minutes, stirring, until the masala thickens and oil separates on top.",
-    "Add the marinated chicken and sauté on medium-high 5–6 minutes, until every piece has turned white outside and is coated in masala.",
+    "Heat mustard oil (about 2 tbsp) in a kadhai on high until it just starts to smoke (this mellows its bite), then reduce to medium. Add the tempering seeds (1/2 tsp each fennel, cumin, mustard and kalonji); the mustard seeds should pop and the fennel smell like a pickle jar opening — 20–30 seconds only.",
+    "Add onions (2 medium) with a pinch of salt and cook 8–10 minutes, stirring often, until evenly golden. If they stick, splash in 1–2 tbsp water and scrape. Stir in ginger-garlic paste (1 tbsp) and green chillies (2) for 1 minute until the raw smell goes.",
+    "Lower the heat, add the remaining crushed achari masala with the turmeric (1/4 tsp), chilli powder (1 tsp) and coriander powder (1 tsp); stir 1 minute (add a splash of water if the pan looks dry). Add tomatoes (2) and cook 4–5 minutes, mashing, until soft and glossy with oil peeking out at the edges.",
+    "Keep the heat on low and add the curd (1/2 cup) a spoonful at a time, stirring constantly. Then raise to medium and cook 5–7 minutes, stirring, until the masala thickens and oil separates on top.",
+    "Add the marinated chicken (500 g) and sauté on medium-high 5–6 minutes, until every piece has turned white outside and is coated in masala.",
     "Add 1/2 cup hot water, cover and simmer on low 12–14 minutes, stirring once midway. Done when the biggest piece is white all the way through with clear juices, and the gravy is thick and clings to the chicken. If it's watery, cook uncovered on high 2–3 minutes.",
-    "Turn off the heat. Stir in the amchur (or lemon juice), taste and adjust salt. Top with ginger juliennes and coriander.",
+    "Turn off the heat. Stir in the amchur (1/2 tsp; or 1 tsp lemon juice), taste and adjust salt. Top with ginger juliennes (1/2 inch ginger) and coriander (2 tbsp).",
     "Rest 5 minutes before serving — achari flavours settle into place. Rice or parathas, both correct."
   ],
   storage: "Fridge up to 3 days; like actual pickle, it only gets better — day two is the peak.",

@@ -34,16 +34,16 @@ window.RECIPES.push({
     "Sesame seeds (optional)"
   ],
   preparation: [
-    "Shred the cabbage as thin as you can — thin shreds wilt fast and stay springy; thick chunks release water and go soggy.",
-    "Slice the chicken thin and against the grain, then toss it with 1 tsp soy sauce and the pepper while you chop everything else.",
+    "Shred the cabbage (1/2 medium) as thin as you can — thin shreds wilt fast and stay springy; thick chunks release water and go soggy.",
+    "Slice the chicken (400 g) thin and against the grain, then toss it with 1 tsp soy sauce and the pepper (1 tsp) while you chop everything else.",
     "Have every ingredient chopped and next to the stove before you light it. Stir-frying gives you no time to go hunting for the vinegar."
   ],
   steps: [
-    "Heat 1 tbsp oil in your widest pan on the highest flame until it shimmers. Spread the chicken in one layer (two batches if it doesn't fit) and leave it untouched for 1–2 minutes to brown, then stir-fry 2–3 minutes more until the edges are golden and a cut piece shows no pink. Remove. A crowded pan steams the chicken grey instead of browning it.",
-    "Add the last 1 tbsp oil, then the ginger-garlic and spring onion whites. Thirty seconds, no longer.",
-    "Add the cabbage and capsicum. Don't salt yet, because salt pulls water out of the cabbage and it stews. Toss on high for 3–4 minutes until it has wilted by about half but still has a bite. Keep it moving.",
-    "Return the chicken with its juices, add the remaining 2 tsp soy sauce, the vinegar and the chilli flakes, and toss for 1 minute. Taste and add salt only if needed, since soy sauce is already salty.",
-    "Kill the heat, drizzle the sesame oil, scatter the spring onion greens and sesame seeds, and serve immediately while the cabbage still has snap."
+    "Heat 1 tbsp oil in your widest pan on the highest flame until it shimmers. Spread the chicken (400 g) in one layer (two batches if it doesn't fit) and leave it untouched for 1–2 minutes to brown, then stir-fry 2–3 minutes more until the edges are golden and a cut piece shows no pink. Remove. A crowded pan steams the chicken grey instead of browning it.",
+    "Add the last 1 tbsp oil, then the ginger-garlic (1 tbsp) and spring onion whites (4). Thirty seconds, no longer.",
+    "Add the cabbage (1/2 medium) and capsicum (1). Don't salt yet, because salt pulls water out of the cabbage and it stews. Toss on high for 3–4 minutes until it has wilted by about half but still has a bite. Keep it moving.",
+    "Return the chicken (400 g) with its juices, add the remaining 2 tsp soy sauce, the vinegar (1 tsp) and the chilli flakes (1/2 tsp), and toss for 1 minute. Taste and add salt only if needed, since soy sauce is already salty.",
+    "Kill the heat, drizzle the sesame oil (1 tsp), scatter the spring onion greens (4) and sesame seeds (1 tsp), and serve immediately while the cabbage still has snap."
   ],
   storage: "Fridge up to 2 days, but the cabbage softens. Best eaten the day it is made.",
   reheating: "High flame, 2 minutes, dry pan. Microwaving turns it limp.",

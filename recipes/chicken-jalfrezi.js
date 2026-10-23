@@ -38,16 +38,16 @@ window.RECIPES.push({
     "Kashmiri chilli powder, kasuri methi (pantry check)"
   ],
   preparation: [
-    "Cut everything before lighting the stove: chicken in strips, capsicum and one onion in thick slices (separate the onion layers), the other onion and one tomato chopped fine, last tomato in wedges.",
-    "Rub the chicken with turmeric, lemon juice, pepper and a little salt. Leave 15–20 minutes while you cut the vegetables."
+    "Cut everything before lighting the stove: chicken (500 g) in strips, capsicum (2) and one onion in thick slices (separate the onion layers), the other onion and one tomato chopped fine, last tomato in wedges.",
+    "Rub the chicken (500 g) with turmeric (1/2 tsp), lemon juice (1 tsp), pepper (1/4 tsp) and a little salt. Leave 15–20 minutes while you cut the vegetables."
   ],
   steps: [
-    "Heat 1 tbsp oil in a kadhai on high. Add the green chilli and ginger julienne; when they sizzle (10 seconds), add the thick onion slices and capsicum. Stir-fry 2–3 minutes until blistered but still crunchy. Remove and keep aside.",
-    "Add the remaining oil on medium. Splutter cumin until it darkens a shade, then cook the chopped onion 5–6 minutes until golden.",
-    "Add ginger-garlic paste and stir 1 minute until the raw smell is gone. Lower the flame, add coriander powder, cumin powder and chilli powder with 1 tbsp water so they don't burn, and stir 30 seconds. Add chopped tomato and cook 3–4 minutes on medium into a thick masala with oil showing at the edges.",
-    "Add chicken strips and sear on medium-high 3 minutes until they turn pale all over. Splash in 1/4 cup water (skip it if the chicken has already released a lot of juice), cover, and cook 7–8 minutes until done, stirring once.",
-    "Return the capsicum and onion, add tomato wedges, ketchup, vinegar and kasuri methi crushed between your palms. Toss on high 2 minutes — sauce should cling, vegetables should still have bite.",
-    "Finish with garam masala and coriander, and taste for salt. Serve with chapati or jeera rice."
+    "Heat 1 tbsp oil in a kadhai on high. Add the green chilli (1) and ginger julienne (1 inch); when they sizzle (10 seconds), add the thick onion slices (1 large) and capsicum (2). Stir-fry 2–3 minutes until blistered but still crunchy. Remove and keep aside.",
+    "Add the remaining oil (1 tbsp) on medium. Splutter cumin (1 tsp) until it darkens a shade, then cook the chopped onion (1) 5–6 minutes until golden.",
+    "Add ginger-garlic paste (1 tbsp) and stir 1 minute until the raw smell is gone. Lower the flame, add coriander powder (2 tsp), cumin powder (1/2 tsp) and chilli powder (1 tsp) with 1 tbsp water so they don't burn, and stir 30 seconds. Add chopped tomato (1) and cook 3–4 minutes on medium into a thick masala with oil showing at the edges.",
+    "Add chicken strips (500 g) and sear on medium-high 3 minutes until they turn pale all over. Splash in 1/4 cup water (skip it if the chicken has already released a lot of juice), cover, and cook 7–8 minutes until done, stirring once.",
+    "Return the capsicum (2) and onion (1 large), add tomato wedges (1), ketchup (1 tbsp), vinegar (2 tsp) and kasuri methi (1 tsp) crushed between your palms. Toss on high 2 minutes — sauce should cling, vegetables should still have bite.",
+    "Finish with garam masala (1/2 tsp) and coriander, and taste for salt. Serve with chapati or jeera rice."
   ],
   storage: "Fridge up to 2 days; the capsicum softens but the tang keeps it lively.",
   reheating: "Quick toss in a hot pan, or microwave 2 minutes.",

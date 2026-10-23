@@ -33,15 +33,15 @@ window.RECIPES.push({
   ],
   preparation: [
     "Thick slabs, not cubes. More surface area on the tawa means more browning per piece.",
-    "Dry the paneer with a kitchen towel. Wet paneer will not brown, it will just sit there and sweat.",
-    "Mix the dry spices in a small bowl before you start — this cooks too fast to be measuring mid-way."
+    "Dry the paneer (250 g) with a kitchen towel. Wet paneer will not brown, it will just sit there and sweat.",
+    "Mix the dry spices (1 tsp coriander powder, 1/2 tsp red chilli powder, 1/2 tsp amchur, 1/2 tsp crushed pepper) in a small bowl before you start — this cooks too fast to be measuring mid-way."
   ],
   steps: [
-    "Melt 1 tbsp butter on a tawa on high. Lay the paneer slabs down and let them sit undisturbed for 2 minutes until golden, then flip for 1 more. Remove.",
-    "Add the last 1 tbsp butter, then the cumin. When it sizzles, add the garlic and green chilli. Ten seconds, until the garlic smells sweet but before it browns, then the capsicum strips.",
+    "Melt 1 tbsp butter on a tawa on high. Lay the paneer slabs (250 g) down and let them sit undisturbed for 2 minutes until golden, then flip for 1 more. Remove.",
+    "Add the last 1 tbsp butter, then the cumin (1 tsp). When it sizzles, add the garlic (1 tbsp) and green chilli (1). Ten seconds, until the garlic smells sweet but before it browns, then the capsicum strips (2 capsicums).",
     "Toss the capsicum on high 3 minutes — it should blister and char at the edges but stay crunchy in the middle.",
-    "Lower the heat, add all the dry spices and salt, and toss 30 seconds so they bloom in the butter instead of burning.",
-    "Return the paneer, toss gently 1 minute. Sprinkle the garam masala, crush the kasuri methi over the top, squeeze the lemon, scatter coriander and serve."
+    "Lower the heat, add all the dry spices (1 tsp coriander powder, 1/2 tsp red chilli powder, 1/2 tsp amchur, 1/2 tsp crushed pepper) and salt, and toss 30 seconds so they bloom in the butter instead of burning.",
+    "Return the paneer (250 g), toss gently 1 minute. Sprinkle the garam masala (1/4 tsp), crush the kasuri methi (1 tsp) over the top, squeeze the lemon, scatter coriander and serve."
   ],
   storage: "Fridge up to 2 days, though the capsicum loses its crunch.",
   reheating: "Hot tawa, 2 minutes, 1 tsp butter. Skip the microwave — paneer goes rubbery in it.",

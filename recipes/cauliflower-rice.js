@@ -30,16 +30,16 @@ window.RECIPES.push({
     "Lemon (1)"
   ],
   preparation: [
-    "Grate the cauliflower on the coarse side of a box grater, or pulse florets in the mixie in short bursts. Long grinding gives you paste, not rice.",
-    "Squeeze the grated cauliflower in a clean cloth to get the water out. Skip this and it steams into mush in the pan.",
-    "Soak the whole cauliflower head in salted water for 10 minutes first if you want to be sure nothing is living in it."
+    "Soak the whole cauliflower head (1 medium, about 700 g) in salted water for 10 minutes first if you want to be sure nothing is living in it.",
+    "Grate the cauliflower (1 medium, about 700 g) on the coarse side of a box grater, or pulse florets in the mixie in short bursts. Long grinding gives you paste, not rice.",
+    "Squeeze the grated cauliflower in a clean cloth to get the water out. Skip this and it steams into mush in the pan."
   ],
   steps: [
-    "Heat the ghee in your widest pan on high — width matters here, because a crowded pan steams.",
-    "Splutter the cumin, add the chilli, then tip in all the cauliflower at once.",
+    "Heat the ghee (2 tbsp) in your widest pan on high — width matters here, because a crowded pan steams.",
+    "Splutter the cumin (1 tsp), add the chilli (1), then tip in all the cauliflower (1 medium, about 700 g) at once.",
     "Toss on high for 5–6 minutes, spreading it out and letting it sit for 30 seconds at a time between tosses. A few browned grains are exactly what you want.",
-    "Add the salt only now. Salting early pulls out water and you end up boiling it.",
-    "Taste for texture: it should be tender with a slight bite, never soft. Finish with coriander and lemon."
+    "Add the salt (1/2 tsp) only now. Salting early pulls out water and you end up boiling it.",
+    "Taste for texture: it should be tender with a slight bite, never soft. Finish with coriander (1 tbsp) and lemon (a squeeze)."
   ],
   storage: "Fridge up to 3 days. It keeps far better than actual rice. Raw grated cauliflower freezes for up to 1 month; thaw it, squeeze out the water and cook as above.",
   reheating: "Hot pan, 2 minutes, dry. Or microwave 60 seconds uncovered so the steam escapes.",

@@ -36,13 +36,13 @@ window.RECIPES.push({
   ],
   preparation: [
     "Use a heavy iron tawa (or a cast-iron pan), not non-stick: an iron tawa holds the strong, even heat that makes naan puff and blister. Find a lid big enough to cover it — a large steel plate or kadai lid works.",
-    "Take the curd out of the fridge 20–30 minutes ahead; cold curd slows the dough.",
-    "Finely chop the garlic and coriander and mix them in a small bowl with the kalonji. Melt the 3 tbsp butter and keep it near the stove with a brush or spoon.",
+    "Take the curd (1/2 cup) out of the fridge 20–30 minutes ahead; cold curd slows the dough.",
+    "Finely chop the garlic (5–6 cloves) and coriander (1/4 cup) and mix them in a small bowl with the kalonji (1 tsp). Melt the 3 tbsp butter and keep it near the stove with a brush or spoon.",
     "Keep tongs and a small bowl of water ready."
   ],
   steps: [
-    "In a big bowl mix the maida, baking powder, baking soda, sugar and salt well, so the soda is evenly spread (lumps of soda leave bitter spots).",
-    "Add the curd and 2 tbsp oil and rub them in with your fingers until crumbly. Add warm milk 1–2 tbsp at a time and bring it together into a soft dough — softer than chapati dough, slightly sticky is fine.",
+    "In a big bowl mix the maida (2 cups, about 250 g), baking powder (1/2 tsp), baking soda (1/4 tsp), sugar (1 tsp) and salt (1/2–3/4 tsp) well, so the soda is evenly spread (lumps of soda leave bitter spots).",
+    "Add the curd (1/2 cup) and 2 tbsp oil and rub them in with your fingers until crumbly. Add warm milk (4–6 tbsp), 1–2 tbsp at a time, and bring it together into a soft dough — softer than chapati dough, slightly sticky is fine.",
     "Knead just 2–3 minutes until smooth and soft: it should dent easily when pressed. Don't over-knead; that makes naan tough. Rub a little oil over it, cover with a damp cloth or lid and rest 1–2 hours in a warm spot (minimum 20 minutes if you're in a hurry; longer gives softer naan). It will look a bit puffy.",
     "Knead once briefly, divide into 6 balls and keep them covered so they don't dry out.",
     "Put the tawa on medium-high heat for 3–4 minutes. It's ready when a few drops of water sprinkled on it sizzle and vanish in 2–3 seconds. Not hot enough = no bubbles and a hard naan.",
@@ -51,7 +51,7 @@ window.RECIPES.push({
     "Brush the bottom (plain) side lightly with water and lay the naan, wet side down, on the hot tawa. Within 30–60 seconds bubbles should start puffing up all over the top.",
     "As soon as bubbles appear, cover the tawa with the lid and lower the flame to medium. Cook 1–1.5 minutes: the trapped steam cooks the top. Uncover — the top should look dry and matt instead of shiny-raw, and the bottom should have brown spots (lift an edge with tongs to check).",
     "Flip the naan with tongs (scrape gently with a flat spatula if it's stuck) and cook the garlic side 30–60 seconds, uncovered, until the bubbles have golden-brown spots and the garlic turns light golden — not black. Don't press the naan flat with a spatula; it squeezes out the air and makes it dense.",
-    "Lift off onto a plate, brush generously with melted butter, and stack in a casserole or wrap in a cloth so they stay soft while you make the rest. Wipe any burnt bits of flour or garlic off the tawa with a dry cloth between naan, and adjust the flame if they're browning too fast or too slow.",
+    "Lift off onto a plate, brush generously with melted butter (from the 3 tbsp), and stack in a casserole or wrap in a cloth so they stay soft while you make the rest. Wipe any burnt bits of flour or garlic off the tawa with a dry cloth between naan, and adjust the flame if they're browning too fast or too slow.",
     "Serve hot — naan is best within 15–20 minutes."
   ],
   storage: "Best fresh. Cooked naan: wrapped in foil or a zip bag at room temperature for the day, or fridge 2 days. Leftover dough: fridge 1 day in a covered box — bring to room temperature for 30 minutes before rolling.",

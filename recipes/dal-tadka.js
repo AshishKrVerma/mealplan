@@ -16,7 +16,7 @@ window.RECIPES.push({
   leftoverRating: 5,
   ingredients: [
     "3/4 cup toor dal (or half-half toor and moong), rinsed",
-    "1/2 tsp turmeric, salt",
+    "1/2 tsp turmeric, salt, 1/2 tsp ghee (for cooking the dal)",
     "Masala: 2 tsp ghee or oil, 1/2 tsp cumin seeds",
     "1 small onion, finely chopped; 1 green chilli, chopped",
     "1 tsp ginger-garlic paste (or 3 garlic cloves + 1/2 inch ginger, finely chopped)",
@@ -36,18 +36,18 @@ window.RECIPES.push({
     "Hing, Kashmiri chilli powder, garam masala, kasuri methi (pantry check)"
   ],
   preparation: [
-    "Wash the dal in 3–4 changes of water until it runs mostly clear, then soak 10–15 minutes — it cooks creamier and more evenly. Skip guiltlessly if you're in a rush; give it one extra whistle.",
-    "Chop the onion, tomato, green chilli and coriander, and slice the tadka garlic before you start — the masala and the tadka both move fast."
+    "Wash the dal (3/4 cup) in 3–4 changes of water until it runs mostly clear, then soak 10–15 minutes — it cooks creamier and more evenly. Skip guiltlessly if you're in a rush; give it one extra whistle.",
+    "Chop the onion (1 small), tomato (1), green chilli (1) and coriander, and slice the tadka garlic (3–4 cloves) before you start — the masala and the tadka both move fast."
   ],
   steps: [
-    "Pressure-cook the dal with 2.5 cups water, turmeric, salt and 1/2 tsp ghee (stops it foaming into the whistle): 3–4 whistles on medium for toor (2–3 if half moong), then natural release (unattended — go set the table). Check: a grain should squash completely between your fingers — if not, one more whistle.",
+    "Pressure-cook the dal (3/4 cup) with 2.5 cups water, turmeric (1/2 tsp), salt and 1/2 tsp ghee (stops it foaming into the whistle): 3–4 whistles on medium for toor (2–3 if half moong), then natural release (unattended — go set the table). Check: a grain should squash completely between your fingers — if not, one more whistle.",
     "Open and mash the dal lightly with a whisk or ladle — creamy with a little texture.",
-    "For the masala, heat 2 tsp ghee/oil in a pan on medium. Add cumin; when it crackles, add the onion and green chilli and cook 3–4 minutes until soft and light golden.",
-    "Add the ginger-garlic paste and fry about 1 minute until the raw smell goes. Add the tomato, cover for 2 minutes, then uncover and stir until it's very soft and mashable and the ghee starts to leave the sides.",
-    "Lower the flame, add the 1/2 tsp Kashmiri chilli powder and stir 10 seconds only (a splash of water protects it), then pour in the cooked dal. Add hot water until it's a pourable-soup consistency — it thickens as it sits — and simmer 5 minutes so the dal soaks up the masala.",
-    "Crush the kasuri methi between your palms over the pot, add the garam masala, stir and switch off. Taste for salt and transfer to a serving bowl.",
-    "Final tadka (just before serving): heat 1 tbsp ghee in a small pan on medium. Add cumin (and mustard seeds, if using); when they crackle, add the dried red chillies and sliced garlic and fry about 1 minute until the garlic is light golden — not brown, or it turns bitter. Add the curry leaves if using (stand back, they spit). Switch off the heat, stir in the hing and 1/4 tsp Kashmiri chilli powder (it burns in 5 seconds on the flame).",
-    "Immediately pour the sizzling tadka over the dal — the hiss is mandatory — and finish with coriander and a squeeze of lemon."
+    "For the masala, heat 2 tsp ghee/oil in a pan on medium. Add cumin (1/2 tsp); when it crackles, add the onion (1 small) and green chilli (1) and cook 3–4 minutes until soft and light golden.",
+    "Add the ginger-garlic paste (1 tsp) and fry about 1 minute until the raw smell goes. Add the tomato (1), cover for 2 minutes, then uncover and stir until it's very soft and mashable and the ghee starts to leave the sides.",
+    "Lower the flame, add the 1/2 tsp Kashmiri chilli powder and stir 10 seconds only (a splash of water protects it), then pour in the cooked dal (3/4 cup). Add hot water until it's a pourable-soup consistency — it thickens as it sits — and simmer 5 minutes so the dal soaks up the masala.",
+    "Crush the kasuri methi (1 tsp) between your palms over the pot, add the garam masala (1/4 tsp), stir and switch off. Taste for salt and transfer to a serving bowl.",
+    "Final tadka (just before serving): heat 1 tbsp ghee in a small pan on medium. Add cumin (1/2 tsp; and 1/4 tsp mustard seeds, if using); when they crackle, add the dried red chillies (1–2) and sliced garlic (3–4 cloves) and fry about 1 minute until the garlic is light golden — not brown, or it turns bitter. Add the curry leaves (8, if using; stand back, they spit). Switch off the heat, stir in the hing (a pinch) and 1/4 tsp Kashmiri chilli powder (it burns in 5 seconds on the flame).",
+    "Immediately pour the sizzling tadka over the dal — the hiss is mandatory — and finish with coriander and a squeeze of lemon (half a lemon)."
   ],
   storage: "Fridge up to 3 days; freezes well in flat boxes for a month. If making ahead, store the dal without the final tadka and make the tadka fresh when serving.",
   reheating: "Simmer with a splash of water, or microwave 2–3 minutes; dal always thickens overnight, just loosen it.",

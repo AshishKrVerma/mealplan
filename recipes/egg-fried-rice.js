@@ -35,17 +35,17 @@ window.RECIPES.push({
   ],
   preparation: [
     "No day-old rice? Cook 1 cup rice (1 : 1.6 water), spread it hot on a wide plate and cool completely — 20–30 minutes under a fan or 15 in the fridge — and it fries nearly as well.",
-    "Break the cold rice apart with your fingers so there are no clumps — this is the whole game.",
-    "Chop everything before you light the stove; once the pan is hot there is no chopping time.",
-    "Mix the soy sauce and vinegar in a small cup so they go in together in one pour."
+    "Break the cold rice (3 cups) apart with your fingers so there are no clumps — this is the whole game.",
+    "Chop everything (1 small onion, 1/2 capsicum, 2 spring onions, 1 tbsp garlic, 1 green chilli) before you light the stove; once the pan is hot there is no chopping time.",
+    "Mix the soy sauce (1.5 tbsp) and vinegar (1 tsp) in a small cup so they go in together in one pour."
   ],
   steps: [
-    "Heat 1 tbsp oil in your widest kadhai on high. Pour in the beaten eggs, let them set 20 seconds, then scramble into firm, fluffy chunks. Remove to a plate.",
-    "Add the remaining oil. On high heat, fry garlic and green chilli about 30 seconds until fragrant (not brown), then add onion and spring onion whites for 1 minute — they should sizzle loudly, not sweat.",
-    "Add capsicum, toss 1 minute. It should stay a little crunchy.",
-    "Add the rice and spread it out. Let it sit 30 seconds to catch some heat, then toss. Repeat twice.",
-    "Pour the sauce around the hot edge of the pan (it sizzles and toasts on contact), add the pepper and toss well on the highest flame for 1–2 minutes. Don't keep frying after that — over-fried rice turns hard.",
-    "Return the eggs, toss once more, finish with spring onion greens. Taste — it should be savoury, not salty."
+    "Heat 1 tbsp oil in your widest kadhai on high. Pour in the beaten eggs (3), let them set 20 seconds, then scramble into firm, fluffy chunks. Remove to a plate.",
+    "Add the remaining oil (1 tbsp). On high heat, fry garlic (1 tbsp) and green chilli (1) about 30 seconds until fragrant (not brown), then add onion (1 small) and spring onion whites (2) for 1 minute — they should sizzle loudly, not sweat.",
+    "Add capsicum (1/2), toss 1 minute. It should stay a little crunchy.",
+    "Add the rice (3 cups) and spread it out. Let it sit 30 seconds to catch some heat, then toss. Repeat twice.",
+    "Pour the sauce around the hot edge of the pan (it sizzles and toasts on contact), add the pepper (1/2 tsp) and toss well on the highest flame for 1–2 minutes. Don't keep frying after that — over-fried rice turns hard.",
+    "Return the eggs (3), toss once more, finish with spring onion greens (2). Taste — it should be savoury, not salty."
   ],
   storage: "Fridge up to 2 days in a sealed box.",
   reheating: "Microwave 2 minutes covered, or better: re-toss in a hot pan for 2 minutes.",

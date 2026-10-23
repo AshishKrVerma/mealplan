@@ -35,16 +35,16 @@ window.RECIPES.push({
     "Kashmiri chilli powder (pantry check)"
   ],
   preparation: [
-    "Dry-roast coriander seeds, dried chillies, cumin and peppercorns in the kadai on low for 2–3 minutes, stirring, until the coriander seeds turn a shade darker and smell nutty and the chillies are crisp (not blackened). Tip onto a plate, cool 5 minutes, then crush COARSELY — mortar or one short mixie pulse. Gritty, not powder.",
-    "Chop everything: one onion fine, one in chunks, capsicum in chunks, tomatoes chopped."
+    "Dry-roast coriander seeds (2 tbsp), dried chillies (3), cumin (1 tsp) and peppercorns (1/2 tsp) in the kadai on low for 2–3 minutes, stirring, until the coriander seeds turn a shade darker and smell nutty and the chillies are crisp (not blackened). Tip onto a plate, cool 5 minutes, then crush COARSELY — mortar or one short mixie pulse. Gritty, not powder.",
+    "Chop everything: one onion fine, one in chunks, capsicum (1 large) in chunks, tomatoes (3) chopped."
   ],
   steps: [
-    "Heat 1/2 tbsp oil in the kadhai on high; blister the onion chunks and capsicum 2–3 minutes with charred spots. Remove and set aside.",
-    "Add remaining oil on medium; cook the chopped onion with a pinch of salt 6–7 minutes to golden.",
-    "Add ginger-garlic paste and stir 1 minute until the raw smell is gone, then tomatoes, turmeric, chilli powder and HALF the crushed kadai masala. Cook 5–6 minutes, mashing the tomatoes with the spoon, until they break down and the masala shows oil at the edges.",
-    "Add chicken, sear 4 minutes on medium-high until it turns opaque all over, then add 1/3 cup water, cover, and simmer 10–12 minutes until cooked through. Uncover and cook off any extra liquid so the masala is thick, not runny.",
-    "Return the capsicum and onion, sprinkle the remaining kadai masala, kasuri methi and garam masala. Toss on high 2–3 minutes — the gravy should be thick and rough-textured, hugging the chicken.",
-    "Finish with ginger julienne and coriander. Serve hot with chapati or naan-style parathas."
+    "Heat 1/2 tbsp oil in the kadhai on high; blister the onion chunks (1 onion) and capsicum (1 large) 2–3 minutes with charred spots. Remove and set aside.",
+    "Add remaining oil (2 tbsp) on medium; cook the chopped onion (1) with a pinch of salt 6–7 minutes to golden.",
+    "Add ginger-garlic paste (1 tbsp) and stir 1 minute until the raw smell is gone, then tomatoes (3), turmeric (1/2 tsp), chilli powder (1 tsp) and HALF the crushed kadai masala. Cook 5–6 minutes, mashing the tomatoes with the spoon, until they break down and the masala shows oil at the edges.",
+    "Add chicken (550 g), sear 4 minutes on medium-high until it turns opaque all over, then add 1/3 cup water, cover, and simmer 10–12 minutes until cooked through. Uncover and cook off any extra liquid so the masala is thick, not runny.",
+    "Return the capsicum (1 large) and onion (1), sprinkle the remaining kadai masala, kasuri methi (1 tsp) and garam masala (3/4 tsp). Toss on high 2–3 minutes — the gravy should be thick and rough-textured, hugging the chicken.",
+    "Finish with ginger julienne (1 tsp) and coriander. Serve hot with chapati or naan-style parathas."
   ],
   storage: "Fridge up to 3 days; the crushed spices keep it aromatic on day two.",
   reheating: "Low flame with a splash of water, or microwave 2 minutes.",

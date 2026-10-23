@@ -39,22 +39,22 @@ window.RECIPES.push({
     "Optional: cashews or roasted chana, tamarind paste"
   ],
   preparation: [
-    "Marinate the chicken with the ginger-garlic paste, turmeric, chilli powder, salt and curd/lemon. Cover and set aside 30 minutes (or refrigerate up to overnight) while you make the masala.",
-    "Break the dried chillies in half and shake out most of the seeds if you want less heat (Kashmiri or Byadgi chillies give colour with gentle heat; Guntur chillies are very hot).",
-    "Dry-roast the spices: put the chillies, coriander, fennel, cumin, pepper, cardamom, cinnamon, cloves and star anise in a heavy dry pan. Roast on medium for 1 minute, then lower to low and keep stirring for 4–6 minutes until deeply fragrant, the coriander seeds turn a shade darker and crunchy, and the chillies are crisp. Don't let anything turn black — burnt spices make the curry bitter. Tip onto a plate to cool.",
-    "In the same pan, add the coconut, curry leaves and 1/2 tbsp oil. Roast on medium-low, stirring, 5–7 minutes until the coconut is light golden and smells toasty (the curry leaves will turn crisp). Switch off and let it cool.",
-    "Grind the cooled spices in a dry mixer jar to a fine powder first — this is what keeps the gravy smooth, not gritty. Then add the coconut, curry leaves, cashews (if using) and 1/2 cup cold water and grind to a very smooth, thick paste.",
-    "Chop the onions and tomato and keep the second sprig of curry leaves ready."
+    "Marinate the chicken (500 g) with the ginger-garlic paste (1 tbsp), turmeric (1/4 tsp), chilli powder (1/4 tsp), salt (1/2 tsp) and curd/lemon (1 tbsp). Cover and set aside 30 minutes (or refrigerate up to overnight) while you make the masala.",
+    "Break the dried chillies (4–5) in half and shake out most of the seeds if you want less heat (Kashmiri or Byadgi chillies give colour with gentle heat; Guntur chillies are very hot).",
+    "Dry-roast the spices: put the chillies (4–5), coriander (1 tbsp), fennel (1 tsp), cumin (3/4 tsp), pepper (1 tsp), cardamom (5), cinnamon (1 inch), cloves (4) and star anise (1 small) in a heavy dry pan. Roast on medium for 1 minute, then lower to low and keep stirring for 4–6 minutes until deeply fragrant, the coriander seeds turn a shade darker and crunchy, and the chillies are crisp. Don't let anything turn black — burnt spices make the curry bitter. Tip onto a plate to cool.",
+    "In the same pan, add the coconut (1/4 cup), curry leaves (1 sprig) and 1/2 tbsp oil. Roast on medium-low, stirring, 5–7 minutes until the coconut is light golden and smells toasty (the curry leaves will turn crisp). Switch off and let it cool.",
+    "Grind the cooled spices in a dry mixer jar to a fine powder first — this is what keeps the gravy smooth, not gritty. Then add the coconut (1/4 cup), curry leaves (1 sprig), cashews (8; if using) and 1/2 cup cold water and grind to a very smooth, thick paste.",
+    "Chop the onions (2 medium, about 1 cup) and tomato (1 large, about 3/4 cup) and keep the second sprig of curry leaves ready."
   ],
   steps: [
-    "Heat 3 tbsp oil in a heavy kadhai on medium. Add the bay leaf and half the second sprig of curry leaves (they will splutter — stand back). After 10 seconds add the onions with a pinch of salt.",
+    "Heat 3 tbsp oil in a heavy kadhai on medium. Add the bay leaf (1) and half the second sprig of curry leaves (they will splutter — stand back). After 10 seconds add the onions (2 medium, about 1 cup) with a pinch of salt.",
     "Fry the onions 7–8 minutes, stirring often, until golden. Golden, not pale, onions give the gravy its depth.",
-    "Add the marinated chicken and fry on medium-high 4–5 minutes until every piece turns white outside and lightly seared.",
-    "Add the tomato, Kashmiri chilli powder and a pinch of salt. Cook 4–5 minutes, stirring, until the tomato turns mushy, the raw tomato smell goes and oil starts to show at the edges.",
-    "Add the remaining curry leaves and the masala paste, rinsing the mixer jar with 1/2 cup hot water and adding that too. Stir well — the gravy will turn a rich brown.",
+    "Add the marinated chicken (500 g) and fry on medium-high 4–5 minutes until every piece turns white outside and lightly seared.",
+    "Add the tomato (1 large, about 3/4 cup), Kashmiri chilli powder (1/4–1/2 tsp) and a pinch of salt. Cook 4–5 minutes, stirring, until the tomato turns mushy, the raw tomato smell goes and oil starts to show at the edges.",
+    "Add the remaining curry leaves (half a sprig) and the masala paste, rinsing the mixer jar with 1/2 cup hot water and adding that too. Stir well — the gravy will turn a rich brown.",
     "Cover and simmer on low, stirring every 5 minutes so it doesn't catch: 15–20 minutes for bone-in, 10–12 for boneless. Add hot water a few tablespoons at a time if it gets too thick.",
     "Check doneness: cut the biggest piece — it should be white all the way through with clear juices. The gravy should be thick and coat the chicken, with a little oil floating on top. If it's runny, cook uncovered on medium-high 2–3 minutes.",
-    "Switch off. Stir in the tamarind or lemon (it brightens all that pepper), taste for salt, and garnish with coriander. Rest 5 minutes before serving."
+    "Switch off. Stir in the tamarind (1 tsp) or lemon (1 tbsp; it brightens all that pepper), taste for salt, and garnish with coriander. Rest 5 minutes before serving."
   ],
   storage: "Fridge up to 3 days — the spices deepen overnight, so day two is even better. Freezes well up to 3 months.",
   reheating: "Simmer in a pan with 1–2 tbsp water until steaming, or microwave 2 minutes at medium, stirring halfway.",

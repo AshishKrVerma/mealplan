@@ -25,14 +25,14 @@ window.RECIPES.push({
     "Chaat masala (pantry check)"
   ],
   preparation: [
-    "Nothing to chop — just keep the spices measured and ready by the stove."
+    "Nothing to chop — just keep the spices (1/2 tsp black pepper, 1/2 tsp chaat masala, 1/4 tsp turmeric) measured and ready by the stove."
   ],
   steps: [
     "Heat 1 tbsp ghee in a wide kadhai on LOW heat until just melted.",
-    "Add makhana and roast on LOW, stirring every minute, for 8–10 minutes. Don't raise the heat — the outside browns before the inside crisps.",
+    "Add makhana (4 cups) and roast on LOW, stirring every minute, for 8–10 minutes. Don't raise the heat — the outside browns before the inside crisps.",
     "Test: press a makhana between your fingers — it should break with a crisp snap and crumble, not chew. If it chews, keep going.",
-    "Tip the makhana into a bowl. Add the remaining 1/2 tbsp ghee to the same pan and turn OFF the heat. Add turmeric, pepper, chaat masala and salt and stir for 10 seconds until fragrant (the pan's heat cooks off the raw turmeric taste without burning).",
-    "Return the makhana and toss well until evenly coated.",
+    "Tip the makhana into a bowl. Add the remaining 1/2 tbsp ghee to the same pan and turn OFF the heat. Add turmeric (1/4 tsp), pepper (1/2 tsp), chaat masala (1/2 tsp) and salt and stir for 10 seconds until fragrant (the pan's heat cooks off the raw turmeric taste without burning).",
+    "Return the makhana (4 cups) and toss well until evenly coated.",
     "Cool completely in the open pan, then jar."
   ],
   storage: "Airtight jar, 1 week. Re-roast 2 minutes in a dry pan if they soften.",

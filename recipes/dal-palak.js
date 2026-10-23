@@ -32,15 +32,15 @@ window.RECIPES.push({
     "Hing, dried red chillies, kasuri methi (pantry check)"
   ],
   preparation: [
-    "Wash palak in 2–3 changes of water (grit hides in the leaves) and chop roughly; tender stems are fine.",
-    "Rinse the dal and soak 10–15 minutes if you have time."
+    "Wash palak (1 large bunch, about 200 g) in 2–3 changes of water (grit hides in the leaves) and chop roughly; tender stems are fine.",
+    "Rinse the dal (3/4 cup) and soak 10–15 minutes if you have time."
   ],
   steps: [
-    "Pressure-cook the dal with 2.5 cups water, turmeric and salt: 3 whistles on medium (2 is enough for moong), then natural release. Check: a grain should squash completely between your fingers — if not, one more whistle. Whisk until smooth.",
-    "In a pan, heat 1 tsp of the ghee and fry the ginger-garlic paste for 30 seconds until the raw smell goes. Add tomato, chilli powder and coriander powder and cook 2–3 minutes until soft.",
-    "Add the cooked dal and bring to a simmer, adding hot water if it's thicker than you like. Stir in the chopped palak and simmer uncovered 3–4 minutes — just until the palak wilts and stays bright green. Crush in the kasuri methi (if using), taste for salt and switch off.",
-    "For the tadka, heat the remaining ghee in a small pan on medium. Add cumin; when it crackles, add the sliced garlic and dried red chilli and fry about 1 minute until the garlic is golden — not brown, or it turns bitter. Switch off the heat and stir in the hing (it burns on a hot flame).",
-    "Pour the sizzling tadka over the dal. Let it cool for a minute, then squeeze over the lemon (lemon on boiling dal tastes flat and bitter) and serve with rice or roti."
+    "Pressure-cook the dal (3/4 cup) with 2.5 cups water, turmeric (1/2 tsp) and salt: 3 whistles on medium (2 is enough for moong), then natural release. Check: a grain should squash completely between your fingers — if not, one more whistle. Whisk until smooth.",
+    "In a pan, heat 1 tsp of the ghee and fry the ginger-garlic paste (1 tsp) for 30 seconds until the raw smell goes. Add tomato (1), chilli powder (1/2 tsp) and coriander powder (1 tsp) and cook 2–3 minutes until soft.",
+    "Add the cooked dal (3/4 cup) and bring to a simmer, adding hot water if it's thicker than you like. Stir in the chopped palak (1 large bunch, about 200 g) and simmer uncovered 3–4 minutes — just until the palak wilts and stays bright green. Crush in the kasuri methi (1/2 tsp; if using), taste for salt and switch off.",
+    "For the tadka, heat the remaining ghee (about 1 tbsp) in a small pan on medium. Add cumin (1 tsp); when it crackles, add the sliced garlic (3–4 cloves) and dried red chilli (1) and fry about 1 minute until the garlic is golden — not brown, or it turns bitter. Switch off the heat and stir in the hing (a pinch; it burns on a hot flame).",
+    "Pour the sizzling tadka over the dal. Let it cool for a minute, then squeeze over the lemon (half a lemon; lemon on boiling dal tastes flat and bitter) and serve with rice or roti."
   ],
   storage: "Fridge up to 3 days.",
   reheating: "Microwave 2 minutes or simmer with a splash of water.",

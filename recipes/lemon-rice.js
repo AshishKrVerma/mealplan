@@ -37,16 +37,16 @@ window.RECIPES.push({
   ],
   preparation: [
     "Starting from scratch? Cook 1 cup rice (1 : 1.6 water), then spread it out to cool completely so the grains firm up and separate.",
-    "Soak the chana dal and urad dal in a little water for 10 minutes, then drain and pat dry. Soaked dal stays pleasantly crunchy instead of rock-hard.",
-    "Spread the rice on a plate and break up any clumps with a fork — cold, separate grains take the tempering best.",
-    "Juice the lemon and keep it ready; it goes in off the heat."
+    "Soak the chana dal (1 tbsp) and urad dal (1 tsp) in a little water for 10 minutes, then drain and pat dry. Soaked dal stays pleasantly crunchy instead of rock-hard.",
+    "Spread the rice (3 cups) on a plate and break up any clumps with a fork — cold, separate grains take the tempering best.",
+    "Juice the lemon (1) and keep it ready; it goes in off the heat."
   ],
   steps: [
-    "Heat oil in a kadhai on medium. Fry the peanuts until golden and crackly, about 2 minutes, then lift them out onto a plate so they stay crunchy and don't burn while the rest cooks.",
-    "In the same oil, add mustard seeds; when they pop, add the drained chana dal and urad dal and fry on medium 1–2 minutes until light gold — watch them, they go from gold to burnt in seconds.",
-    "Add curry leaves (pat them dry first or they spit), both chillies and ginger; fry about 30 seconds until the leaves turn crisp and the ginger smells good. Add hing and turmeric, stir for 5 seconds and turn off the heat immediately (turmeric burns fast).",
-    "With the heat still off, add the rice and salt. Toss gently with a flat spatula until every grain turns yellow — the hot pan warms it through without making it mushy.",
-    "Add the lemon juice, the fried peanuts and coriander. Toss, taste, and add more lemon or salt until it makes you sit up slightly. If there's time, let it sit covered 10 minutes so the rice soaks up the flavour."
+    "Heat oil (2 tbsp) in a kadhai on medium. Fry the peanuts (3 tbsp) until golden and crackly, about 2 minutes, then lift them out onto a plate so they stay crunchy and don't burn while the rest cooks.",
+    "In the same oil, add mustard seeds (1 tsp); when they pop, add the drained chana dal (1 tbsp) and urad dal (1 tsp) and fry on medium 1–2 minutes until light gold — watch them, they go from gold to burnt in seconds.",
+    "Add curry leaves (10–12; pat them dry first or they spit), both chillies (2 dried red, 1 green) and ginger (1 tsp); fry about 30 seconds until the leaves turn crisp and the ginger smells good. Add hing (a pinch) and turmeric (1/2 tsp), stir for 5 seconds and turn off the heat immediately (turmeric burns fast).",
+    "With the heat still off, add the rice (3 cups) and salt. Toss gently with a flat spatula until every grain turns yellow — the hot pan warms it through without making it mushy.",
+    "Add the lemon juice (1 lemon, about 2 tbsp), the fried peanuts (3 tbsp) and coriander. Toss, taste, and add more lemon or salt until it makes you sit up slightly. If there's time, let it sit covered 10 minutes so the rice soaks up the flavour."
   ],
   storage: "Fridge up to 2 days; the flavours actually settle in nicely.",
   reheating: "Microwave 90 seconds covered; refresh with a small squeeze of lemon after.",

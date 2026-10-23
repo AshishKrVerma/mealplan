@@ -36,16 +36,16 @@ window.RECIPES.push({
     "Whole spices (clove, cardamom, cinnamon, peppercorns)"
   ],
   preparation: [
-    "Shake the coconut milk pack, pour half into a cup and dilute it with an equal amount of water — that's the simmering liquid. The undiluted half finishes the stew.",
-    "Cut the potatoes chunky; small pieces dissolve and cloud the broth."
+    "Shake the coconut milk pack (200 ml), pour half into a cup and dilute it with an equal amount of water — that's the simmering liquid. The undiluted half finishes the stew.",
+    "Cut the potatoes (2) chunky; small pieces dissolve and cloud the broth."
   ],
   steps: [
-    "Heat coconut oil in the pressure cooker on medium; add the whole spices and one sprig of curry leaves for 30 seconds.",
-    "Add onions, ginger and green chillies with a pinch of salt; cook 4–5 minutes until soft and translucent — no browning, this stew stays pale.",
-    "Add mutton, stir 2 minutes until it loses its raw pink colour, then add 3/4 cup water and salt. Close the lid: 1 whistle on high, then 18–20 minutes on low. Natural release. (Water, not coconut milk, goes under pressure: coconut milk can split or catch at the bottom.)",
-    "Open and check the meat is tender. Add the potatoes, the diluted coconut milk and half the crushed pepper. Bring to a gentle simmer, cover and cook on low for 12–15 minutes, stirring once or twice, until a knife slides easily into the potato.",
-    "On the lowest flame, stir in the thick coconut milk and the second sprig of curry leaves; warm through 2 minutes without letting it boil (boiling splits the milk).",
-    "Finish with the rest of the crushed pepper. Rest covered for 10 minutes before serving so the flavours settle. The heat here comes from pepper and green chilli, and it's gentle."
+    "Heat coconut oil (2 tbsp) in the pressure cooker on medium; add the whole spices (4 cloves, 4 green cardamom, 1 inch cinnamon, 10 black peppercorns) and one sprig of curry leaves for 30 seconds.",
+    "Add onions (2), ginger (1 inch) and green chillies (2) with a pinch of salt; cook 4–5 minutes until soft and translucent — no browning, this stew stays pale.",
+    "Add mutton (500 g), stir 2 minutes until it loses its raw pink colour, then add 3/4 cup water and salt. Close the lid: 1 whistle on high, then 18–20 minutes on low. Natural release. (Water, not coconut milk, goes under pressure: coconut milk can split or catch at the bottom.)",
+    "Open and check the meat is tender. Add the potatoes (2), the diluted coconut milk (100 ml + 100 ml water) and half the crushed pepper (1/2 tsp). Bring to a gentle simmer, cover and cook on low for 12–15 minutes, stirring once or twice, until a knife slides easily into the potato.",
+    "On the lowest flame, stir in the thick coconut milk (100 ml) and the second sprig of curry leaves; warm through 2 minutes without letting it boil (boiling splits the milk).",
+    "Finish with the rest of the crushed pepper (1/2 tsp). Rest covered for 10 minutes before serving so the flavours settle. The heat here comes from pepper and green chilli, and it's gentle."
   ],
   storage: "Fridge 2 days. Coconut milk doesn't love the freezer, so this one is a cook-and-eat-this-week dish.",
   reheating: "Gently, on the stove over low heat — warm it, don't boil it, or the coconut milk splits. It thickens in the fridge, so loosen it with a splash of warm water. Microwave at 50% power, stirring twice.",

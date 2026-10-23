@@ -39,24 +39,24 @@ window.RECIPES.push({
     "Ginger-garlic paste, Kashmiri chilli powder, kasuri methi (pantry check)"
   ],
   preparation: [
-    "Peel and cube the potatoes (about 1-inch pieces). Cut the cauliflower into small florets and soak them in warm salted water for 5 minutes to flush out any worms, then rinse. Chop the carrot.",
-    "Finely chop the onion, capsicum and tomatoes — the finer you chop, the smoother the bhaji. Chop the green chillies and coriander.",
-    "Chop the extra onion for serving and cut the lemons into wedges now, so everything is ready when the bhaji is hot.",
-    "Slit the pav horizontally with a bread knife, leaving one edge attached so each bun opens like a book."
+    "Peel and cube the potatoes (3 medium, about 300 g; about 1-inch pieces). Cut the cauliflower (1 cup) into small florets and soak them in warm salted water for 5 minutes to flush out any worms, then rinse. Chop the carrot (1 small).",
+    "Finely chop the onion (1 large), capsicum (1 medium) and tomatoes (3 medium) — the finer you chop, the smoother the bhaji. Chop the green chillies (1–2) and coriander (2 tbsp, plus some for the pav).",
+    "Chop the extra onion (1) for serving and cut the lemons into wedges now, so everything is ready when the bhaji is hot.",
+    "Slit the pav (8) horizontally with a bread knife, leaving one edge attached so each bun opens like a book."
   ],
   steps: [
-    "Put the potatoes, cauliflower, carrot and peas in the pressure cooker with 1.5 cups water and 1/2 tsp salt. Cook on medium flame for 2–3 whistles, then switch off and let the pressure drop on its own. The potatoes should crush easily with a spoon.",
+    "Put the potatoes (3 medium, about 300 g), cauliflower (1 cup), carrot (1 small) and peas (1/2 cup) in the pressure cooker with 1.5 cups water and 1/2 tsp salt. Cook on medium flame for 2–3 whistles, then switch off and let the pressure drop on its own. The potatoes should crush easily with a spoon.",
     "Open the cooker and mash all the vegetables well with a potato masher right in their cooking water — a few small lumps are fine. Don't drain the water; it goes into the bhaji.",
-    "Heat 2 tbsp butter and 1 tbsp oil in a wide kadhai or heavy pan on medium (the oil stops the butter burning). Add the onion and cook 4–5 minutes, stirring, until soft and translucent.",
-    "Add the ginger-garlic paste and green chillies and stir for about 1 minute until the raw smell goes.",
-    "Add the capsicum and cook 3–4 minutes until it softens.",
-    "Add the tomatoes with 1/2 tsp salt. Cook 5–6 minutes, mashing with the back of your spatula, until the tomatoes completely break down into a mushy masala and you see butter shining at the edges.",
-    "Lower the flame. Add the Kashmiri chilli powder, turmeric and 2 tbsp pav bhaji masala and stir for 1–2 minutes until the raw spice smell is gone. If it starts sticking, add a splash of water.",
-    "Tip in the mashed vegetables with all their cooking water. Mix well and keep mashing right in the pan for 2–3 minutes — this is how street vendors get the smooth texture.",
+    "Heat 2 tbsp butter and 1 tbsp oil in a wide kadhai or heavy pan on medium (the oil stops the butter burning). Add the onion (1 large) and cook 4–5 minutes, stirring, until soft and translucent.",
+    "Add the ginger-garlic paste (1 tbsp) and green chillies (1–2) and stir for about 1 minute until the raw smell goes.",
+    "Add the capsicum (1 medium) and cook 3–4 minutes until it softens.",
+    "Add the tomatoes (3 medium) with 1/2 tsp salt. Cook 5–6 minutes, mashing with the back of your spatula, until the tomatoes completely break down into a mushy masala and you see butter shining at the edges.",
+    "Lower the flame. Add the Kashmiri chilli powder (1.5 tsp), turmeric (1/4 tsp) and 2 tbsp pav bhaji masala and stir for 1–2 minutes until the raw spice smell is gone. If it starts sticking, add a splash of water.",
+    "Tip in the mashed vegetables (3 medium potatoes, 1 cup cauliflower, 1 small carrot, 1/2 cup peas) with all their cooking water. Mix well and keep mashing right in the pan for 2–3 minutes — this is how street vendors get the smooth texture.",
     "Add 1/2 to 3/4 cup hot water to get a thick but spoonable consistency. Simmer on low-medium for 5–8 minutes, stirring every minute or so; it bubbles and splutters, so keep a lid half on. Taste and add salt, and a pinch of sugar if the tomatoes are very sour.",
-    "Crush the kasuri methi between your palms over the pan, add 1 tbsp butter and the chopped coriander, and squeeze in the lemon juice. Stir and switch off. The bhaji thickens as it stands, so loosen it with a little hot water if needed.",
-    "Toast the pav: heat a tawa or flat pan on medium. Melt 1 tsp butter on it, sprinkle a pinch of pav bhaji masala and a little coriander into the butter, then press 2 opened pav onto it, cut side down. Toast about 1 minute until golden and crisp at the edges, flip and warm the outside for 20–30 seconds. Repeat with the rest.",
-    "Serve the bhaji hot in bowls topped with a small knob of butter, chopped onion and coriander, with the toasted pav and lemon wedges on the side."
+    "Crush the kasuri methi (1 tsp) between your palms over the pan, add 1 tbsp butter and the chopped coriander (2 tbsp), and squeeze in the lemon juice (1/2 lemon). Stir and switch off. The bhaji thickens as it stands, so loosen it with a little hot water if needed.",
+    "Toast the pav (8): heat a tawa or flat pan on medium. Melt 1.5 tsp butter on it, sprinkle a pinch of pav bhaji masala and a little coriander into the butter, then press 2 opened pav onto it, cut side down. Toast about 1 minute until golden and crisp at the edges, flip and warm the outside for 20–30 seconds. Repeat with the rest.",
+    "Serve the bhaji hot in bowls topped with a small knob of butter, chopped onion (1) and coriander, with the toasted pav and lemon wedges on the side."
   ],
   storage: "Bhaji: fridge up to 3 days, or freeze up to 1 month. Keep pav separately in its bag (2 days) and toast only when serving.",
   reheating: "Bhaji thickens a lot in the fridge — heat it in a pan with a splash of hot water and a small knob of butter, stirring, until bubbling. Toast pav fresh on the tawa.",

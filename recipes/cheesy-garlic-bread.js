@@ -28,13 +28,13 @@ window.RECIPES.push({
     "Sweet corn, capsicum (optional)"
   ],
   preparation: [
-    "If using plain bread, mash together the garlic butter ingredients. Use fresh garlic grated very fine (jarred paste tastes sour). If your butter is salted, like Amul, skip the added salt.",
+    "If using plain bread, mash together the garlic butter ingredients (3 tbsp butter, 3–4 garlic cloves, 1 tbsp coriander or parsley, pinch of salt, pinch of oregano). Use fresh garlic grated very fine (jarred paste tastes sour). If your butter is salted, like Amul, skip the added salt.",
     "Cut slices about 1 inch thick so they stay soft inside and crisp at the base."
   ],
   steps: [
     "If the bread is plain, spread the garlic butter generously right to the edges.",
     "Optional: air fry the slices alone at 180°C for 1 minute first — this stops the base going soggy under the cheese.",
-    "Top with mozzarella (and any extras), sprinkle oregano and chilli flakes.",
+    "Top with mozzarella (1/2 cup; and any extras), sprinkle oregano and chilli flakes.",
     "Air fry at 180°C for 3–4 minutes until the cheese melts and gets golden spots.",
     "Rest 1 minute before serving so the cheese sets slightly."
   ],

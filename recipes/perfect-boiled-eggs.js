@@ -29,7 +29,7 @@ window.RECIPES.push({
     "Set a real timer. 'Roughly ten minutes' is how rubbery eggs happen."
   ],
   steps: [
-    "Bring the water to a full rolling boil in a saucepan, then lower the eggs in gently, one at a time, with a big spoon. Don't drop them, because that's how shells crack. Starting from boiling (not cold) water is what makes timings reliable and peeling easier.",
+    "Bring the water (to cover by 2–3 cm) to a full rolling boil in a saucepan and add the salt (1/2 tsp) or vinegar (a splash) so a cracked egg seals instead of leaking, then lower the eggs (6–8) in gently, one at a time, with a big spoon. Don't drop them, because that's how shells crack. Starting from boiling (not cold) water is what makes timings reliable and peeling easier.",
     "Once all the eggs are in, reduce to a gentle boil (steady small bubbles, not a violent churn that knocks the eggs together) and start the timer: 6 minutes 30 seconds = soft with runny yolk (ramen-style), 8 minutes = jammy with a fudgy centre (the correct answer for most things), 10–11 minutes = fully hard for curries, chaat and sandwiches.",
     "The moment the timer goes, move the eggs into the ice bath and leave them for at least 5 minutes (10 minutes in plain tap water). This stops the cooking dead, so there's no grey ring around the yolk, and shrinks the egg away from its shell.",
     "To peel: tap all over on the counter until crackled, start from the wide end (there's an air pocket there), and peel under a thin stream of running water. Older eggs peel easier than farm-fresh ones — quick-commerce eggs are perfect.",

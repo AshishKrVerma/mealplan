@@ -32,16 +32,16 @@ window.RECIPES.push({
     "Kashmiri chilli powder, kasuri methi, bay leaf, green cardamom (pantry check)"
   ],
   preparation: [
-    "Blend onions to a coarse paste; blend tomatoes separately to a puree.",
-    "Soak paneer cubes in warm salted water for 15–20 minutes — softest paneer trick in the book.",
-    "Rinse frozen peas in warm water and drain."
+    "Blend onions (2) to a coarse paste; blend tomatoes (2) separately to a puree.",
+    "Soak paneer cubes (300 g) in warm salted water for 15–20 minutes — softest paneer trick in the book.",
+    "Rinse frozen peas (1 cup) in warm water and drain."
   ],
   steps: [
-    "Heat oil in a kadai on medium. Add cumin, bay leaf and cardamom; when the cumin sizzles, add the onion paste with a pinch of salt. Cook 8–10 minutes, stirring often (onion paste sticks), until it loses the raw smell and turns light golden brown.",
-    "Add ginger-garlic paste and stir 1 minute until the raw smell is gone. Turn the flame to low, add turmeric, coriander powder and chilli powder and stir 15 seconds, then pour in the tomato puree right away so the powders don't burn. Cook on medium 6–8 minutes until the masala thickens, darkens a shade and oil beads at the edges.",
-    "Add peas, the slit green chilli and 1 cup hot water, season with salt. Bring to a boil, then simmer partly covered 6–8 minutes until the gravy thickens a little and a thin film of oil shows on top.",
-    "Slide in the drained paneer and simmer uncovered 2–3 minutes, just until it's heated through. Longer than that makes paneer chewy.",
-    "Finish with garam masala, crushed kasuri methi and coriander. Rest 5 minutes before serving — it genuinely tastes better."
+    "Heat oil (2.5 tbsp) in a kadai on medium. Add cumin (1 tsp), bay leaf (1) and cardamom (1); when the cumin sizzles, add the onion paste (2 onions) with a pinch of salt. Cook 8–10 minutes, stirring often (onion paste sticks), until it loses the raw smell and turns light golden brown.",
+    "Add ginger-garlic paste (1 tbsp) and stir 1 minute until the raw smell is gone. Turn the flame to low, add turmeric (1/2 tsp), coriander powder (1.5 tsp) and chilli powder (1 tsp) and stir 15 seconds, then pour in the tomato puree (2 tomatoes) right away so the powders don't burn. Cook on medium 6–8 minutes until the masala thickens, darkens a shade and oil beads at the edges.",
+    "Add peas (1 cup), the slit green chilli (1) and 1 cup hot water, season with salt. Bring to a boil, then simmer partly covered 6–8 minutes until the gravy thickens a little and a thin film of oil shows on top.",
+    "Slide in the drained paneer (300 g) and simmer uncovered 2–3 minutes, just until it's heated through. Longer than that makes paneer chewy.",
+    "Finish with garam masala (1/2 tsp), crushed kasuri methi (1 tsp) and coriander. Rest 5 minutes before serving — it genuinely tastes better."
   ],
   storage: "Fridge up to 3 days; the gravy thickens as it sits.",
   reheating: "Microwave 2 minutes with a splash of hot water, or simmer gently on the stove.",

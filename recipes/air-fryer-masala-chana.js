@@ -28,13 +28,13 @@ window.RECIPES.push({
     "Amchur (pantry check)"
   ],
   preparation: [
-    "The night before: soak chana in plenty of water.",
+    "The night before: soak chana (1.5 cups) in plenty of water.",
     "Next day: boil 10 minutes (or 1 whistle) until just tender, not mushy. Drain well.",
     "CRITICAL: pat completely dry on a kitchen towel and air-dry 15 minutes — dry chana crisps, wet chana steams (and wet chana can pop in the basket).",
-    "Mix all the spices in a small bowl so they're ready."
+    "Mix all the spices (1 tsp chaat masala, 1/2 tsp chilli powder, 1/2 tsp cumin powder, 1/4 tsp turmeric, 1/2 tsp amchur) in a small bowl so they're ready."
   ],
   steps: [
-    "Toss the dried chana with oil and a little salt only (spices burn if added now).",
+    "Toss the dried chana (1.5 cups) with oil (1 tbsp) and a little salt only (spices burn if added now).",
     "Spread in a single layer — cook in 2 batches if needed; a crowded basket steams instead of crisping.",
     "Air fry at 200°C for 12–15 minutes, shaking the basket every 5 minutes, until the chana turns golden but still feels slightly soft when pressed.",
     "Lower to 160°C and air fry 8–10 minutes more, shaking once, until crunchy all the way through — bite one to check; there should be no chewy centre. This low second round dries the inside without burning the outside.",

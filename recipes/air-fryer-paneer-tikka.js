@@ -41,17 +41,17 @@ window.RECIPES.push({
   ],
   preparation: [
     "Hang the curd: if it's runny, tie it in a muslin cloth and let it drip for 1–2 hours (in the fridge in hot weather). It's ready when it's as thick as soft cream cheese. Skip this if you're using Greek yogurt.",
-    "If you're using packaged paneer, soak the cubes in warm salted water for 15–20 minutes (a little longer if frozen). Drain and pat dry so the marinade sticks.",
-    "Roast the besan: dry-roast it in a small pan on low gas, stirring all the time, for 2–3 minutes until it smells nutty and turns a shade darker. Don't let it brown. Tip it onto a plate to cool.",
-    "In a large bowl, whisk the hung curd smooth. Add the cooled besan, mustard oil, ginger-garlic paste, chilli powder, turmeric, coriander powder, garam masala, chaat masala, ajwain, lemon juice and salt. Rub the kasuri methi between your palms as you add it. Taste and adjust the salt. The marinade should be thick enough to cling without dripping.",
-    "Add the onion petals and capsicum, then gently fold in the paneer with a spoon so the cubes don't break. Cover and refrigerate for at least 1 hour, ideally 2. Don't leave it overnight, because the paneer softens and breaks."
+    "If you're using packaged paneer (400 g), soak the cubes in warm salted water for 15–20 minutes (a little longer if frozen). Drain and pat dry so the marinade sticks.",
+    "Roast the besan (2 tbsp): dry-roast it in a small pan on low gas, stirring all the time, for 2–3 minutes until it smells nutty and turns a shade darker. Don't let it brown. Tip it onto a plate to cool.",
+    "In a large bowl, whisk the hung curd (3/4 cup) smooth. Add the cooled besan (2 tbsp), mustard oil (2 tbsp), ginger-garlic paste (1 tbsp), chilli powder (1 tsp), turmeric (1/2 tsp), coriander powder (1 1/2 tsp), garam masala (1 tsp), chaat masala (1 tsp), ajwain (1/4 tsp), lemon juice (1 tbsp) and salt (about 3/4 tsp). Rub the kasuri methi (1 tsp) between your palms as you add it. Taste and adjust the salt. The marinade should be thick enough to cling without dripping.",
+    "Add the onion petals (1 large onion) and capsicum (1), then gently fold in the paneer (400 g) with a spoon so the cubes don't break. Cover and refrigerate for at least 1 hour, ideally 2. Don't leave it overnight, because the paneer softens and breaks."
   ],
   steps: [
     "Preheat the air fryer at 200°C for 3 minutes. Lightly oil the basket.",
-    "Cook in 2 batches. Arrange half the paneer, onion and capsicum in a single layer with small gaps so the hot air can char every side. Keep the leftover marinade in the bowl.",
+    "Cook in 2 batches. Arrange half the paneer (200 g), onion (1/2 large) and capsicum (1/2) in a single layer with small gaps so the hot air can char every side. Keep the leftover marinade in the bowl.",
     "Air fry at 200°C for 6 minutes.",
     "Brush the pieces with the leftover marinade and turn them over. Air fry for another 2–3 minutes, until the edges are charred in spots and the vegetables are slightly blistered. The paneer should still feel soft when pressed. Don't go longer, or it turns rubbery.",
-    "As soon as it comes out, brush with melted butter or mustard oil. Repeat with the second batch.",
+    "As soon as it comes out, brush with melted butter or mustard oil (1 tbsp for both batches). Repeat with the second batch.",
     "Sprinkle with chaat masala and squeeze lemon over it. Serve hot with mint chutney, sliced onions and lemon wedges."
   ],
   storage: "Fridge up to 2 days.",

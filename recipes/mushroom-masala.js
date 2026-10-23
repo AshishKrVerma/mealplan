@@ -32,15 +32,15 @@ window.RECIPES.push({
     "Kashmiri chilli powder, kasuri methi, bay leaf, cardamom, cloves, cinnamon (pantry check)"
   ],
   preparation: [
-    "Wipe mushrooms with a damp cloth or give them the quickest rinse and pat dry — they're sponges, don't soak them.",
-    "Halve the mushrooms; whisk the curd smooth so it doesn't split in the gravy."
+    "Wipe mushrooms (400 g) with a damp cloth or give them the quickest rinse and pat dry — they're sponges, don't soak them.",
+    "Halve the mushrooms (400 g); whisk the curd (3 tbsp) smooth so it doesn't split in the gravy."
   ],
   steps: [
-    "Heat 1 tbsp oil in a kadai on HIGH. Sear mushrooms 4–5 minutes until browned and their water has evaporated; remove and set aside. Don't salt them yet (salt pulls out water and stops the browning). Crowded, wet mushrooms boil — work in two batches if needed.",
-    "Add remaining oil to the same kadai on medium. Add cumin, bay leaf, cardamom, cloves and cinnamon; when the cumin sizzles and the spices smell fragrant (about 20 seconds), add onions with a pinch of salt. Cook 8–10 minutes, stirring often, until deep golden and very soft.",
-    "Add ginger-garlic paste and cook 1 minute until the raw smell goes; if it sticks, splash in 2 tbsp water and scrape the pan. Add turmeric, coriander powder and chilli powder, stir 30 seconds, then the tomato puree. Cook 5–7 minutes until the masala is thick, glossy and oil separates at the edges.",
-    "Lower the flame to the minimum and stir in the whisked curd, stirring constantly for 1 minute so it doesn't split. Return the mushrooms with 1/2 cup hot water and salt. Cover and simmer 5–6 minutes until the mushrooms are tender and the gravy coats them.",
-    "Finish with garam masala, crushed kasuri methi and coriander. Taste: if it's sharp from the tomatoes, a pinch of sugar rounds it out. Serve with chapati, or with rice if the gravy runs loose."
+    "Heat 1 tbsp oil in a kadai on HIGH. Sear mushrooms (400 g) 4–5 minutes until browned and their water has evaporated; remove and set aside. Don't salt them yet (salt pulls out water and stops the browning). Crowded, wet mushrooms boil — work in two batches if needed.",
+    "Add remaining oil (1.5 tbsp) to the same kadai on medium. Add cumin (1 tsp), bay leaf (1), cardamom (2), cloves (2) and cinnamon (1 inch); when the cumin sizzles and the spices smell fragrant (about 20 seconds), add onions (2) with a pinch of salt. Cook 8–10 minutes, stirring often, until deep golden and very soft.",
+    "Add ginger-garlic paste (1 tbsp) and cook 1 minute until the raw smell goes; if it sticks, splash in 2 tbsp water and scrape the pan. Add turmeric (1/2 tsp), coriander powder (1.5 tsp) and chilli powder (1 tsp), stir 30 seconds, then the tomato puree (2 tomatoes). Cook 5–7 minutes until the masala is thick, glossy and oil separates at the edges.",
+    "Lower the flame to the minimum and stir in the whisked curd (3 tbsp), stirring constantly for 1 minute so it doesn't split. Return the mushrooms (400 g) with 1/2 cup hot water and salt. Cover and simmer 5–6 minutes until the mushrooms are tender and the gravy coats them.",
+    "Finish with garam masala (1/2 tsp), crushed kasuri methi (1 tsp) and coriander. Taste: if it's sharp from the tomatoes, a pinch of sugar rounds it out. Serve with chapati, or with rice if the gravy runs loose."
   ],
   storage: "Fridge up to 2 days.",
   reheating: "Microwave 90 seconds or a quick simmer on the stove.",

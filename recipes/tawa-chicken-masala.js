@@ -37,17 +37,17 @@ window.RECIPES.push({
     "Kashmiri chilli powder (pantry check)"
   ],
   preparation: [
-    "Marinate the chicken in ginger-garlic paste, chilli powder, salt and oil for 15 minutes. No curd here: a dry marinade sears on the tawa instead of stewing.",
-    "Tawa masala: dry-roast the whole spices (not the kasuri methi) in a dry pan on low for 2–3 minutes, stirring, until fragrant and a shade darker. Add the kasuri methi for the last 20 seconds. Cool, then crush coarsely in a mixer jar (or with a rolling pin in a zip bag).",
+    "Marinate the chicken (500 g) in ginger-garlic paste (1 tbsp), chilli powder (1 tsp), salt (1/2 tsp) and oil (1 tsp) for 15 minutes. No curd here: a dry marinade sears on the tawa instead of stewing.",
+    "Tawa masala: dry-roast the whole spices (1 tsp cumin seeds, 2 tsp coriander seeds, 10 black peppercorns, 2 cloves, 1/2 inch cinnamon, 1 black cardamom; not the kasuri methi) in a dry pan on low for 2–3 minutes, stirring, until fragrant and a shade darker. Add the kasuri methi (1 tsp) for the last 20 seconds. Cool, then crush coarsely in a mixer jar (or with a rolling pin in a zip bag).",
     "Chop everything before you start — tawa cooking is fast and doesn't wait for knife work."
   ],
   steps: [
-    "Heat oil on a large tawa or wide flat pan over medium-high heat. Spread the marinated chicken out flat in one layer and sear untouched for 2 minutes, then flip and cook 2 minutes more. It should be browned outside but only part-cooked. Lift it onto a plate, leaving the oil behind.",
-    "In the same oil, add the bay leaf, then onions. Cook 4–5 minutes until soft and light golden. Add the butter, green chillies, coriander stems and half the ginger; cook 1 minute.",
-    "Lower the heat, add turmeric, coriander powder and chilli powder and stir 20–30 seconds (don't let them burn). Add tomatoes and a pinch of salt and cook 4–5 minutes on medium-high, mashing with the spatula, until soft but still a little chunky.",
-    "Return the chicken with its juices, add capsicum and 1.5 tsp of the tawa masala, and mix. Spread it out and cook on medium-high 4–5 minutes undisturbed until the underside browns, then toss and cook 4–5 minutes more, scraping the tawa — those browned bits are the whole point. Keep the heat up; low heat makes it watery.",
+    "Heat oil (2 tbsp) on a large tawa or wide flat pan over medium-high heat. Spread the marinated chicken (500 g) out flat in one layer and sear untouched for 2 minutes, then flip and cook 2 minutes more. It should be browned outside but only part-cooked. Lift it onto a plate, leaving the oil behind.",
+    "In the same oil, add the bay leaf (1), then onions (1 large). Cook 4–5 minutes until soft and light golden. Add the butter (1 tbsp), green chillies (1–2), coriander stems and half the ginger (1/2 inch); cook 1 minute.",
+    "Lower the heat, add turmeric (1/2 tsp), coriander powder (1 tsp) and chilli powder (1/2 tsp) and stir 20–30 seconds (don't let them burn). Add tomatoes (2) and a pinch of salt and cook 4–5 minutes on medium-high, mashing with the spatula, until soft but still a little chunky.",
+    "Return the chicken (500 g) with its juices, add capsicum (1 small) and 1.5 tsp of the tawa masala, and mix. Spread it out and cook on medium-high 4–5 minutes undisturbed until the underside browns, then toss and cook 4–5 minutes more, scraping the tawa — those browned bits are the whole point. Keep the heat up; low heat makes it watery.",
     "It's done when the chicken is cooked through and the masala is semi-dry and clinging. Taste, then add up to 1/2 tsp more tawa masala if you want it bolder.",
-    "Finish with the rest of the ginger juliennes, coriander leaves and lemon. Serve straight off the tawa with hot chapatis."
+    "Finish with the rest of the ginger juliennes (1/2 inch), coriander leaves and lemon (a squeeze). Serve straight off the tawa with hot chapatis."
   ],
   storage: "Fridge up to 3 days.",
   reheating: "Back on a hot pan with a teaspoon of water for 2–3 minutes, or microwave 2 minutes.",

@@ -36,11 +36,11 @@ window.RECIPES.push({
     "Use fresh turmeric root when you can find it — better colour, better taste, and it stains everything it touches, so be warned."
   ],
   steps: [
-    "Warm the ghee in a pan and add the turmeric. Fry it for 20 seconds — this small step takes away the raw, dusty taste of turmeric powder.",
-    "Pour in the milk with the pepper, cardamom and cinnamon.",
+    "Warm the ghee (1/2 tsp) in a pan and add the turmeric (1/2 tsp powder or 1 inch fresh). Fry it for 20 seconds — this small step takes away the raw, dusty taste of turmeric powder.",
+    "Pour in the milk (500 ml) with the pepper (1/4 tsp), cardamom (2) and cinnamon (a small piece).",
     "Bring to a gentle boil, then simmer on low for 5 minutes so the spices infuse.",
     "Take it off the heat, cover and let it steep 3 minutes. This pulls more flavour from the whole spices and cools it enough for the honey or jaggery. Honey should never go into boiling milk.",
-    "Strain into cups, dust with nutmeg and drink hot."
+    "Stir in the honey or jaggery (1–2 tsp), strain into cups, dust with nutmeg (a pinch) and drink hot."
   ],
   storage: "Make it fresh. It is an eight-minute job and reheated milk tastes flat.",
   reheating: "Gentle warming only, and add the sweetener afterwards.",

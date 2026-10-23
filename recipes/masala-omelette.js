@@ -32,11 +32,11 @@ window.RECIPES.push({
     "Bread or pav for serving"
   ],
   preparation: [
-    "Chop the onion, chilli and coriander finely — big chunks tear the omelette when you fold it.",
-    "Make one omelette at a time: beat 2 eggs with half the milk, spices, salt and half the chopped mix until slightly frothy, a good 30 seconds of whisking. Keep the other half for the second omelette."
+    "Chop the onion (1 small), chilli (1) and coriander (2 tbsp) finely — big chunks tear the omelette when you fold it.",
+    "Make one omelette at a time: beat 2 eggs with half the milk (1/2 tbsp), spices (1/8 tsp turmeric, 1/8 tsp chilli powder, a small pinch of garam masala), salt, black pepper and half the chopped mix until slightly frothy, a good 30 seconds of whisking. Keep the other half for the second omelette."
   ],
   steps: [
-    "Heat a nonstick pan (20–24 cm) on medium for a full minute, then add the oil and swirl to coat. It's ready when a drop of water sizzles straight away.",
+    "Heat a nonstick pan (20–24 cm) on medium for a full minute, then add the oil (2 tsp) and swirl to coat. It's ready when a drop of water sizzles straight away.",
     "Whisk the egg mix once more (the onion sinks to the bottom), pour it in, and immediately tilt the pan so it spreads into an even round.",
     "Drop the heat to low. Cook 2–3 minutes until the edges lift, the underside is light golden (lift an edge to peek) and the top is nearly set but still glossy. Resist the urge to poke. High heat makes it tough and brown before the middle sets.",
     "Fold in half with a flat spatula, press gently for 20 seconds, and slide onto the plate.",

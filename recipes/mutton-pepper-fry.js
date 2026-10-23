@@ -38,16 +38,16 @@ window.RECIPES.push({
     "Green chillies (1–2), fresh coriander"
   ],
   preparation: [
-    "Dry-roast the peppercorns and fennel seeds in a small dry pan on low for 1–2 minutes, shaking the pan, until they smell toasty and the fennel turns a shade darker. Cool, then crush coarsely in a mortar, under a rolling pin, or with 2–3 short pulses in the mixer. You want cracked bits, not powder; pre-ground pepper gives dust, not bite.",
-    "Slice the onions and keep the curry leaves washed and dry."
+    "Dry-roast the peppercorns (1 tbsp) and fennel seeds (1.5 tsp) in a small dry pan on low for 1–2 minutes, shaking the pan, until they smell toasty and the fennel turns a shade darker. Cool, then crush coarsely in a mortar, under a rolling pin, or with 2–3 short pulses in the mixer. You want cracked bits, not powder; pre-ground pepper gives dust, not bite.",
+    "Slice the onions (2) and keep the curry leaves (2 sprigs) washed and dry."
   ],
   steps: [
-    "Pressure cook the mutton with ginger-garlic paste, turmeric, salt and 1/2 cup water: 1 whistle on high, then 18–20 minutes on low. Natural release — the meat should be tender and sitting in a little stock. Keep both.",
-    "Heat coconut oil in a kadhai on medium-high. Add curry leaves and green chillies (stand back, they spit), then onions with a pinch of salt; fry 7–8 minutes until well browned.",
+    "Pressure cook the mutton (500 g) with ginger-garlic paste (1 tbsp), turmeric (1/2 tsp), salt and 1/2 cup water: 1 whistle on high, then 18–20 minutes on low. Natural release — the meat should be tender and sitting in a little stock. Keep both.",
+    "Heat coconut oil (2 tbsp) in a kadhai on medium-high. Add curry leaves (2 sprigs) and green chillies (1–2; stand back, they spit), then onions (2) with a pinch of salt; fry 7–8 minutes until well browned.",
     "Add 1 tsp ginger-garlic paste and stir 1 minute until the raw smell is gone.",
-    "Add about two-thirds of the crushed pepper-fennel mix, stir 30 seconds, then tip in the mutton with 3–4 tbsp of its stock.",
+    "Add about two-thirds of the crushed pepper-fennel mix, stir 30 seconds, then tip in the mutton (500 g) with 3–4 tbsp of its stock.",
     "Fry on high, stirring often, 6–8 minutes until the liquid vanishes. Then lower the heat to medium-low and keep roasting, stirring every minute, for 5 more minutes: the masala should turn dark brown and cling to every piece, and the oil should show around the edges.",
-    "Off the heat, toss with the rest of the pepper-fennel mix, garam masala and coriander. Dry, glossy, dangerous with rice."
+    "Off the heat, toss with the rest of the pepper-fennel mix, garam masala (1/2 tsp) and coriander (2 tbsp). Dry, glossy, dangerous with rice."
   ],
   storage: "Fridge 3 days — dry dishes like this keep superbly. Freezer 1 month.",
   reheating: "A hot kadhai for 3–4 minutes revives it best; microwave 2 minutes works fine.",

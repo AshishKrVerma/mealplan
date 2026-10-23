@@ -34,16 +34,16 @@ window.RECIPES.push({
     "Kashmiri chilli powder, kasuri methi, bay leaf, hing (pantry check)"
   ],
   preparation: [
-    "Dry roast coriander seeds, cumin, peppercorns and red chillies in the dry kadai on LOW for 3–4 minutes, stirring, until fragrant and a shade darker (not black). Tip onto a plate, cool fully, then crush coarsely in a mixer (a few short pulses) or with a rolling pin — this fresh kadai masala IS the dish.",
-    "Chop all vegetables small and even; microwave cauliflower, beans and carrot with 2 tbsp water for 4 minutes to par-cook (or steam 5 minutes)."
+    "Dry roast coriander seeds (1.5 tbsp), cumin (1 tsp), peppercorns (1/2 tsp) and red chillies (2) in the dry kadai on LOW for 3–4 minutes, stirring, until fragrant and a shade darker (not black). Tip onto a plate, cool fully, then crush coarsely in a mixer (a few short pulses) or with a rolling pin — this fresh kadai masala IS the dish.",
+    "Chop all vegetables small and even; microwave cauliflower, beans and carrot (2.5 cups together) with 2 tbsp water for 4 minutes to par-cook (or steam 5 minutes)."
   ],
   steps: [
-    "Heat 1 tbsp oil in the kadai on medium-high. Sauté the onion squares and capsicum 2–3 minutes until edge-charred but crunchy; remove and keep aside.",
-    "In the same kadai on HIGH, stir-fry the par-cooked cauliflower, beans and carrot with a pinch of salt for 3–4 minutes until they pick up a few golden spots. Remove and keep aside. This gives the 'kadai' roasted flavour instead of boiled-veg taste.",
-    "Add the remaining oil on medium. Add the tempering cumin and bay leaf; when the cumin sizzles, add the hing, then the chopped onion. Cook 5–6 minutes until golden, then ginger-garlic paste for 1 minute until the raw smell is gone.",
-    "Turn the flame to low. Add turmeric, chilli powder and half the crushed kadai masala and stir 20 seconds, then add the tomato puree. Cook on medium 5–6 minutes until the masala thickens and oil separates at the edges.",
-    "Turn the flame to LOW. Add the curd a spoon at a time, stirring constantly so it doesn't split, and cook 1–2 minutes until the oil shows again. Add the stir-fried vegetables, peas, salt and 1/2 cup hot water. Cover and simmer 4–5 minutes until the veg is tender but still has a slight bite.",
-    "Return the capsicum and onion squares, sprinkle the remaining kadai masala, garam masala and kasuri methi (crushed between your palms). Two minutes on the flame, just enough to heat the capsicum through, so it stays crunchy. Coriander on top, done."
+    "Heat 1 tbsp oil in the kadai on medium-high. Sauté the onion squares (1 onion) and capsicum (1) for 2–3 minutes until edge-charred but crunchy; remove and keep aside.",
+    "In the same kadai on HIGH, stir-fry the par-cooked cauliflower, beans and carrot (2.5 cups together) with a pinch of salt for 3–4 minutes until they pick up a few golden spots. Remove and keep aside. This gives the 'kadai' roasted flavour instead of boiled-veg taste.",
+    "Add the remaining oil (1.5 tbsp) on medium. Add the tempering cumin (1/2 tsp) and bay leaf (1); when the cumin sizzles, add the hing (a pinch), then the chopped onion (1). Cook 5–6 minutes until golden, then ginger-garlic paste (1 tbsp) for 1 minute until the raw smell is gone.",
+    "Turn the flame to low. Add turmeric (1/2 tsp), chilli powder (1 tsp) and half the crushed kadai masala and stir 20 seconds, then add the tomato puree (2 tomatoes). Cook on medium 5–6 minutes until the masala thickens and oil separates at the edges.",
+    "Turn the flame to LOW. Add the curd (3 tbsp) a spoon at a time, stirring constantly so it doesn't split, and cook 1–2 minutes until the oil shows again. Add the stir-fried vegetables (2.5 cups), peas (1/2 cup), salt and 1/2 cup hot water. Cover and simmer 4–5 minutes until the veg is tender but still has a slight bite.",
+    "Return the capsicum (1) and onion squares (1 onion), sprinkle the remaining kadai masala, garam masala (1/2 tsp) and kasuri methi (1 tsp; crushed between your palms). Two minutes on the flame, just enough to heat the capsicum through, so it stays crunchy. Coriander on top, done."
   ],
   storage: "Fridge up to 3 days.",
   reheating: "Microwave 2 minutes with a splash of water, or a gentle stove simmer.",

@@ -15,7 +15,7 @@ window.RECIPES.push({
   proteinLevel: "Low",
   leftoverRating: 4,
   ingredients: [
-    "1.5 cups maida, 2 tsp baking powder, 1/4 tsp salt",
+    "1.5 cups maida (plus 1 tsp to toss the fruit), 2 tsp baking powder, 1/4 tsp salt",
     "1/2 cup sugar (powdered mixes in more easily)",
     "1/2 cup curd + 1/2 cup milk",
     "1/3 cup oil or melted butter",
@@ -31,14 +31,14 @@ window.RECIPES.push({
   ],
   preparation: [
     "Grease or line the muffin cups.",
-    "Have the curd, milk and egg at room temperature (take them out 30 minutes early) — cold ingredients make a dense muffin.",
-    "Measure the flour by spooning it into the cup and levelling it off. Scooping straight from the bag packs in extra flour and gives dry muffins."
+    "Have the curd (1/2 cup), milk (1/2 cup) and egg (1) at room temperature (take them out 30 minutes early) — cold ingredients make a dense muffin.",
+    "Measure the flour (1.5 cups) by spooning it into the cup and levelling it off. Scooping straight from the bag packs in extra flour and gives dry muffins."
   ],
   steps: [
-    "Whisk the flour, baking powder and salt in a separate bowl so the baking powder spreads evenly. If making lemon muffins, add the zest here.",
-    "In a big bowl, whisk the sugar, curd, milk, oil, egg and vanilla until smooth and the sugar has mostly dissolved.",
+    "Whisk the flour (1.5 cups), baking powder (2 tsp) and salt (1/4 tsp) in a separate bowl so the baking powder spreads evenly. If making lemon muffins, add the zest (1 lemon) here.",
+    "In a big bowl, whisk the sugar (1/2 cup), curd (1/2 cup), milk (1/2 cup), oil (1/3 cup), egg (1) and vanilla (1.5 tsp) until smooth and the sugar has mostly dissolved.",
     "Add the flour mix to the wet bowl and fold gently with a spatula until just combined. A few lumps and a streak or two of flour are fine. Overmixing gives tough, flat muffins.",
-    "Toss tutti-frutti or blueberries with 1 tsp flour and fold in with 2–3 strokes. If using frozen blueberries, add them straight from the freezer; thawed ones turn the batter purple.",
+    "Toss tutti-frutti or blueberries (1/2 cup) with 1 tsp flour and fold in with 2–3 strokes. If using frozen blueberries, add them straight from the freezer; thawed ones turn the batter purple.",
     "Preheat the air fryer at 180°C for 3 minutes. Fill cups three-quarters full; don't under-fill, or they bake flat.",
     "Air fry at 180°C for 3 minutes (this burst of heat lifts the tops into domes), then lower to 160°C for 9–11 minutes without opening the basket in between. They're done when the tops are light golden, spring back when pressed lightly, and a toothpick comes out clean or with a few moist crumbs.",
     "Cool 5 minutes in the cups, then on a rack."

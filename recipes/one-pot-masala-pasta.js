@@ -38,16 +38,16 @@ window.RECIPES.push({
     "Fresh coriander"
   ],
   preparation: [
-    "Puree the tomatoes; chop onion and capsicum.",
+    "Puree the tomatoes (3); chop onion (1) and capsicum (1).",
     "Boil the kettle — adding hot water keeps the cooking continuous."
   ],
   steps: [
-    "Heat oil in a wide, heavy pot on medium. Add cumin; when it sizzles, add the onion and cook 4–5 minutes until soft and just turning golden. Add ginger-garlic paste (and green chilli) and sauté 1 minute until the raw smell is gone.",
-    "Add capsicum and stir 1 minute. Lower the heat, add turmeric, chilli powder and pav bhaji/garam masala and stir for 20–30 seconds so they bloom without burning.",
-    "Add the tomato puree, ketchup and a pinch of salt. Cook on medium 6–8 minutes, stirring, until the masala thickens, darkens and oil starts to separate at the edges — the raw tomato smell should be gone.",
-    "Add the raw pasta, 3 cups hot water and salt. Stir well, scraping the bottom, and bring to a boil.",
+    "Heat oil (2 tbsp) in a wide, heavy pot on medium. Add cumin (1/2 tsp); when it sizzles, add the onion (1) and cook 4–5 minutes until soft and just turning golden. Add ginger-garlic paste (1 tbsp) and green chilli (1, if using) and sauté 1 minute until the raw smell is gone.",
+    "Add capsicum (1) and stir 1 minute. Lower the heat, add turmeric (1/2 tsp), chilli powder (1 tsp) and pav bhaji/garam masala (1 tsp) and stir for 20–30 seconds so they bloom without burning.",
+    "Add the tomato puree (3 tomatoes, or 1 cup), ketchup (1.5 tbsp) and a pinch of salt. Cook on medium 6–8 minutes, stirring, until the masala thickens, darkens and oil starts to separate at the edges — the raw tomato smell should be gone.",
+    "Add the raw pasta (250 g), 3 cups hot water and salt. Stir well, scraping the bottom, and bring to a boil.",
     "Simmer uncovered on medium 10–12 minutes, stirring every 2 minutes so it doesn't stick, until the pasta is tender with a slight bite and the sauce clings. Add a splash more hot water if it dries early. Turn off while it's still a little saucy — it thickens as it stands.",
-    "Finish with herbs, coriander and a big handful of grated cheese or paneer cubes."
+    "Finish with herbs (1/2 tsp), coriander and a big handful of grated cheese or paneer cubes."
   ],
   storage: "Fridge up to 2 days; the pasta absorbs sauce, so it thickens.",
   reheating: "Microwave with 2–3 tbsp water, covered, 2 minutes; stir halfway.",

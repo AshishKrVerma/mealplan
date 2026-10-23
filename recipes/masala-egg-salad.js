@@ -32,14 +32,14 @@ window.RECIPES.push({
     "Lemon (1)"
   ],
   preparation: [
-    "Boil the eggs the way the Perfect Boiled Eggs recipe describes: cold water, bring to a boil, 9 minutes, then straight into ice water.",
+    "Boil the eggs (6) the way the Perfect Boiled Eggs recipe describes: cold water, bring to a boil, 9 minutes, then straight into ice water.",
     "The ice bath is not optional here — it is what stops the grey ring around the yolk and makes the shells slide off cleanly.",
-    "Chop the eggs while they are properly cold. Warm eggs turn to paste the moment mayo hits them."
+    "Let the boiled eggs (6) get properly cold before you peel and chop them. Warm eggs turn to paste the moment mayo hits them."
   ],
   steps: [
-    "Peel and chop the eggs into rough 1 cm pieces. Leave them chunky; this is a salad, not a spread.",
-    "In a bowl, mix 2 tbsp of the mayonnaise with the mustard, pepper, chilli powder, a pinch of salt and the lemon into a smooth dressing before the eggs go anywhere near it.",
-    "Fold in the eggs, chilli and spring onion gently, with a spatula, in as few strokes as you can manage. Add the last tbsp of mayo only if it looks dry; it is easy to overdo and impossible to take back.",
+    "Peel and chop the eggs (6) into rough 1 cm pieces. Leave them chunky; this is a salad, not a spread.",
+    "In a bowl, mix 2 tbsp of the mayonnaise with the mustard (1 tsp paste or 1/2 tsp powder), pepper (1/2 tsp), chilli powder (1/4 tsp), a pinch of salt and the lemon (a squeeze) into a smooth dressing before the eggs go anywhere near it.",
+    "Fold in the eggs (6), chilli (1), spring onion (2 tbsp) and coriander or dill (1 tbsp) gently, with a spatula, in as few strokes as you can manage. Add the last tbsp of mayo only if it looks dry; it is easy to overdo and impossible to take back.",
     "Taste and adjust salt — boiled eggs soak up more salt than you expect.",
     "Chill 15 minutes before eating. It tastes noticeably better cold and set than straight from the bowl."
   ],

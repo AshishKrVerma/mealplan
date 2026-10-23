@@ -40,15 +40,15 @@ window.RECIPES.push({
   ],
   preparation: [
     "Slice 3 onions thin for the gravy; quarter the other 2 and separate the layers into petals — keep the two piles apart.",
-    "Whisk the curd smooth so it doesn't split."
+    "Whisk the curd (1/2 cup) smooth so it doesn't split."
   ],
   steps: [
-    "Heat 3 tbsp oil in the pressure cooker; crackle cumin, bay, cloves, black cardamom and peppercorns for 30 seconds. Add the sliced onions with a pinch of salt and cook 8–10 minutes to deep golden.",
-    "Add ginger-garlic paste and cook 1 minute until the raw smell goes, then tomatoes and all the powdered spices except garam masala. Cook 5–6 minutes until the tomato is mushy and oil separates.",
-    "Add mutton and bhuno on medium-high 5–6 minutes until the pieces lose their raw pink and the masala clings. Off the flame, stir in the curd a spoonful at a time, then return to low heat and stir 2–3 minutes until it looks smooth, not split.",
+    "Heat 3 tbsp oil in the pressure cooker; crackle cumin (1 tsp), bay (2 leaves), cloves (4), black cardamom (1) and peppercorns (8) for 30 seconds. Add the sliced onions (3) with a pinch of salt and cook 8–10 minutes to deep golden.",
+    "Add ginger-garlic paste (1.5 tbsp) and cook 1 minute until the raw smell goes, then tomatoes (2) and all the powdered spices (2 tsp coriander powder, 1 tsp turmeric, 1.5 tsp Kashmiri chilli powder) except garam masala. Cook 5–6 minutes until the tomato is mushy and oil separates.",
+    "Add mutton (600 g) and bhuno on medium-high 5–6 minutes until the pieces lose their raw pink and the masala clings. Off the flame, stir in the curd (1/2 cup) a spoonful at a time, then return to low heat and stir 2–3 minutes until it looks smooth, not split.",
     "Add 3/4 cup hot water and salt, close the lid: 1 whistle on high, then 20 minutes on low. Natural release.",
-    "While it cooks, heat 2 tsp oil in a small pan on high. Add the torn dry red chillies for a few seconds until they darken slightly, then the onion petals, green chillies and a pinch of salt. Toss 2–3 minutes until the petals are edge-charred but still crunchy.",
-    "Open the cooker and simmer to your thickness. Fold in the petals and simmer together 2–3 minutes so they pick up the gravy but keep their bite. Add kasuri methi (crushed between palms) and garam masala, then coriander on top."
+    "While it cooks, heat 2 tsp oil in a small pan on high. Add the torn dry red chillies (2–3) for a few seconds until they darken slightly, then the onion petals (2 onions), green chillies (2) and a pinch of salt. Toss 2–3 minutes until the petals are edge-charred but still crunchy.",
+    "Open the cooker and simmer to your thickness. Fold in the petals (2 onions) and simmer together 2–3 minutes so they pick up the gravy but keep their bite. Add kasuri methi (1 tsp; crushed between palms) and garam masala (1 tsp), then coriander on top."
   ],
   storage: "Fridge 3 days, freezer 1 month — the petals soften overnight but the flavour deepens.",
   reheating: "Stovetop simmer with a splash of hot water, or microwave 3 minutes, stirring halfway.",

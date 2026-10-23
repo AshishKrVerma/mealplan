@@ -38,13 +38,13 @@ window.RECIPES.push({
     "Small glass jar, and an ice-cube tray for freezing"
   ],
   preparation: [
-    "Cut off the coriander roots and the thick lower stalks (they taste soapy), but keep the tender upper stems; they carry a lot of flavour. Pick the mint leaves off their stalks; mint stalks make the chutney bitter.",
-    "Wash the greens in 2–3 changes of water until no grit settles at the bottom of the bowl. Drain in a colander and shake off as much water as you can.",
+    "Trim the coriander (1 big bunch): cut off the roots and the thick lower stalks (they taste soapy), but keep the tender upper stems; they carry a lot of flavour. Pick the mint leaves (1 cup) off their stalks; mint stalks make the chutney bitter.",
+    "Wash the greens (1 big bunch coriander, 1 cup mint) in 2–3 changes of water until no grit settles at the bottom of the bowl. Drain in a colander and shake off as much water as you can.",
     "Put 2 ice cubes in the freezer earlier if you don't keep them, and chill the mixer jar in the fridge for 10 minutes if your kitchen is hot. Heat from the mixer blade is what turns the chutney dull and dark."
   ],
   steps: [
-    "Put the chillies, ginger, garlic, cumin powder, chaat masala, salt, sugar and lemon juice in the small mixer jar. If making the sandwich version, add the peanuts or roasted chana dal too. Pulse 3–4 times to break everything up; the lemon goes in now, at the start, because the acid is what keeps the leaves green.",
-    "Add the mint, then the coriander, and the ice cubes on top. Blend in short bursts of 5–10 seconds, opening the jar to scrape down the sides in between. Don't run it continuously; a warm jar means a brown chutney.",
+    "Put the chillies (2–3), ginger (1/2 inch), garlic (1–2 cloves), cumin powder (3/4 tsp), chaat masala (1/2 tsp), salt (1/2 tsp), sugar (1/2 tsp) and lemon juice (1 1/2 tbsp) in the small mixer jar. If making the sandwich version, add the peanuts or roasted chana dal (1 1/2 tbsp) too. Pulse 3–4 times to break everything up; the lemon goes in now, at the start, because the acid is what keeps the leaves green.",
+    "Add the mint (1 cup), then the coriander (about 2 cups packed), and the ice cubes (2) on top. Blend in short bursts of 5–10 seconds, opening the jar to scrape down the sides in between. Don't run it continuously; a warm jar means a brown chutney.",
     "Add more ice-cold water 1 tbsp at a time only if the blades are spinning without catching. Stop when you have a smooth, thick paste.",
     "Taste and adjust: more salt or lemon if flat, another chilli if mild, a pinch more sugar if it tastes harsh or bitter.",
     "No-curd version (sandwiches, frankies, chaat): it is ready. It should be thick enough to spread without running.",

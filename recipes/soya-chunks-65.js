@@ -36,16 +36,16 @@ window.RECIPES.push({
     "Lemon (1)"
   ],
   preparation: [
-    "Boil soya chunks in salted water for 5 minutes, until they have doubled in size and are soft right through (press one: no hard core). Drain.",
+    "Boil soya chunks (2 cups) in salted water for 5 minutes, until they have doubled in size and are soft right through (press one: no hard core). Drain.",
     "Rinse them twice in cold water. This washes off the slightly raw 'soya' smell and cools them enough to handle.",
     "SQUEEZE each handful hard, without tearing the chunks — pressing out the water is what lets them absorb marinade and crisp up.",
-    "Mix curd, ginger-garlic paste, spices, chopped curry leaves, cornflour, rice flour, oil and salt into a thick paste; massage into the chunks. Every chunk should be evenly coated with no dry floury spots. If the paste is runny, add a little more rice flour, because a thin coat makes them bland and soft. Rest 15 minutes."
+    "Mix curd (3 tbsp), ginger-garlic paste (1 tbsp), spices (1 tsp Kashmiri chilli powder, 1/2 tsp garam masala, 1/4 tsp turmeric), chopped curry leaves (1 sprig), cornflour (1.5 tbsp), rice flour (1 tbsp), oil (1 tbsp) and salt into a thick paste; massage into the chunks (2 cups). Every chunk should be evenly coated with no dry floury spots. If the paste is runny, add a little more rice flour, because a thin coat makes them bland and soft. Rest 15 minutes."
   ],
   steps: [
     "Preheat air fryer at 190°C for 3 minutes; lightly oil the basket.",
-    "Spread chunks in a single layer (two batches if needed) and air fry at 190°C for 12–15 minutes. At halfway, shake and spray any dry floury spots with a little oil. They're done when the edges are browned and crisp. Check from 10 minutes, because overcooked soya turns hard and leathery.",
-    "Optional tempering: heat a teaspoon of oil in a small pan, add the curry leaves (pat them dry first, as wet leaves splutter) and green chilli and let them crackle for 20–30 seconds until the leaves are crisp. Toss the air-fried chunks through for 30 seconds.",
-    "Finish with a squeeze of lemon."
+    "Spread chunks (2 cups) in a single layer (two batches if needed) and air fry at 190°C for 12–15 minutes. At halfway, shake and spray any dry floury spots with a little oil. They're done when the edges are browned and crisp. Check from 10 minutes, because overcooked soya turns hard and leathery.",
+    "Optional tempering: heat a teaspoon of oil in a small pan, add the curry leaves (8; pat them dry first, as wet leaves splutter) and green chilli (1) and let them crackle for 20–30 seconds until the leaves are crisp. Toss the air-fried chunks (2 cups) through for 30 seconds.",
+    "Finish with a squeeze of lemon (half a lemon)."
   ],
   storage: "Fridge in an airtight box, 3 days.",
   reheating: "3 minutes at 180°C in the air fryer restores the crisp; microwave makes them soft (still tasty).",

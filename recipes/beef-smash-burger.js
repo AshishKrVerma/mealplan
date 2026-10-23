@@ -21,6 +21,7 @@ window.RECIPES.push({
     "4 burger buns, 4 cheese slices",
     "Burger sauce: 3 tbsp mayo, 1 tbsp ketchup, 1 tsp mustard, 1 tbsp finely chopped pickle or gherkin",
     "Toppings: lettuce, tomato slices, thin onion rings",
+    "1 tsp oil for the pan",
     "Butter for the buns"
   ],
   shoppingList: [
@@ -30,14 +31,14 @@ window.RECIPES.push({
     "Mayo, ketchup, mustard, gherkins"
   ],
   preparation: [
-    "Gently mix the mince with the grated cold butter, garlic powder and onion powder — don't knead, or the burgers turn dense. Keep the salt and pepper for the pan.",
+    "Gently mix the mince (500 g) with the grated cold butter (2 tbsp), garlic powder (1/2 tsp) and onion powder (1/2 tsp) — don't knead, or the burgers turn dense. Keep the salt and pepper for the pan.",
     "Divide into 8 balls (2 thin patties per burger). Keep them in the fridge until the pan is ready — cold meat smashes better.",
-    "Mix the burger sauce. Butter and toast the cut sides of the buns in the pan; set aside."
+    "Mix the burger sauce (3 tbsp mayo, 1 tbsp ketchup, 1 tsp mustard, 1 tbsp pickle or gherkin). Butter and toast the cut sides of the buns (4) in the pan; set aside."
   ],
   steps: [
     "Heat a heavy iron tawa or steel pan (not non-stick) on high for 3–4 minutes until a drop of water sizzles away instantly. Wipe on 1 tsp oil with a paper towel.",
     "Place 2 balls in the pan and within the first 30 seconds smash each one flat (about 1 cm) with a sturdy spatula or the base of a steel bowl, pressing hard for 10 seconds. A square of baking paper on top stops sticking. Smash ONCE only — pressing again later squeezes out the juices.",
-    "Season the top with salt and pepper. Cook about 2 minutes without moving, until the edges are deep brown and crispy and the top looks pale with pink spots turning grey.",
+    "Season the top with salt and pepper (1 tsp each across all 8 patties). Cook about 2 minutes without moving, until the edges are deep brown and crispy and the top looks pale with pink spots turning grey.",
     "Scrape firmly under the patty with the edge of the spatula (it will stick — take your time so the crust comes up with it), flip, and put a cheese slice on one of each pair. Cover with a lid for 1–1.5 minutes, until the cheese melts and no pink remains in the middle.",
     "Stack the plain patty on top of the cheesy one. Repeat with the rest.",
     "Build: bun, sauce, lettuce, double patty, tomato, onion, sauce, top bun."

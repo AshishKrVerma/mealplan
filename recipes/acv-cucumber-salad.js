@@ -27,14 +27,14 @@ window.RECIPES.push({
     "Mint (optional)"
   ],
   preparation: [
-    "Chill the cucumbers in the fridge beforehand — cold cucumber tastes crunchier and fresher.",
+    "Chill the cucumbers (2) in the fridge beforehand — cold cucumber tastes crunchier and fresher.",
     "Taste one end; if it is bitter, trim a bit more off and peel."
   ],
   steps: [
-    "Slice the cucumber into thin rounds or half-moons. For a smashed style, lightly whack it with a rolling pin and break into chunks — the cracks soak up more dressing.",
-    "Add salt and apple cider vinegar (and honey/sugar if using) and toss.",
+    "Slice the cucumber (2) into thin rounds or half-moons. For a smashed style, lightly whack it with a rolling pin and break into chunks — the cracks soak up more dressing.",
+    "Add salt (a pinch, about 1/4 tsp) and apple cider vinegar (1–2 tsp; and 1/2 tsp honey or a pinch of sugar if using) and toss.",
     "Leave for 5–10 minutes so the cucumber lightly pickles. Drain any water that collects at the bottom.",
-    "Finish with black pepper or roasted cumin powder and serve cold."
+    "Finish with black pepper or roasted cumin powder, plus any upgrades you like — olive oil (1 tsp), chilli flakes, chopped mint or toasted sesame seeds — and serve cold."
   ],
   storage: "Best eaten within a few hours; it goes watery in the fridge.",
   reheating: "Serve cold — no reheating.",

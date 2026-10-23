@@ -34,16 +34,16 @@ window.RECIPES.push({
     "Garlic (1 bulb)"
   ],
   preparation: [
-    "Marinate the chicken in curd, turmeric and salt for 30 minutes minimum; 2 hours (or overnight) in the fridge is better. Take it out 30 minutes before cooking so it isn't fridge-cold when it hits the pan.",
-    "Dry roast the coriander, cumin, fenugreek and peppercorns on low heat for 2–3 minutes, stirring, until fragrant and a shade darker. Tip onto a plate. Then roast the chillies on low for 1–2 minutes, stirring constantly, until they turn crisp and slightly darker. They burn in seconds, so pull them early — burnt chillies make the whole dish bitter.",
-    "Let everything cool completely, then grind with the garlic and tamarind, adding water one teaspoon at a time, into a thick, smooth paste. A coarse paste means a gritty gravy; too much water means a long wait while it fries off."
+    "Marinate the chicken (700 g) in curd (1/2 cup), turmeric (1/2 tsp) and salt for 30 minutes minimum; 2 hours (or overnight) in the fridge is better. Take it out 30 minutes before cooking so it isn't fridge-cold when it hits the pan.",
+    "Dry roast the coriander (1 tsp), cumin (1 tsp), fenugreek (1/2 tsp) and peppercorns (6) on low heat for 2–3 minutes, stirring, until fragrant and a shade darker. Tip onto a plate. Then roast the chillies (10–12 Kashmiri + 3 hotter) on low for 1–2 minutes, stirring constantly, until they turn crisp and slightly darker. They burn in seconds, so pull them early — burnt chillies make the whole dish bitter.",
+    "Let everything cool completely, then grind with the garlic (8 cloves) and tamarind (1 small ball, about 1 tsp pulp), adding water one teaspoon at a time, into a thick, smooth paste. A coarse paste means a gritty gravy; too much water means a long wait while it fries off."
   ],
   steps: [
-    "Heat 3 tbsp ghee in a kadhai and fry the marinated chicken on high 6–7 minutes until sealed and browned, in two batches if the pan is crowded (crowded chicken stews instead of browning). Take it out and set aside.",
+    "Heat 3 tbsp ghee in a kadhai and fry the marinated chicken (700 g) on high 6–7 minutes until sealed and browned, in two batches if the pan is crowded (crowded chicken stews instead of browning). Take it out and set aside.",
     "Add the remaining 3 tbsp ghee to the same pan, then the ground masala paste. Now be patient: fry it on low for 8–10 minutes, stirring often.",
     "You are waiting for one signal — the paste turns a deep reddish-maroon, the raw garlic smell is gone, and ghee clearly separates around the edges. Under-fried masala tastes raw and sour.",
-    "Return the chicken and any juices, add salt, and mix so every piece is coated. Cover and cook on low 12–15 minutes, stirring occasionally. If the masala starts catching on the bottom, add 2–3 tbsp water. The chicken is done when the meat pulls away from the bone and a cut piece shows no pink.",
-    "Uncover and cook 3–4 minutes more until the masala is dry and glued to the chicken with no watery gravy left. Throw in the curry leaves, toss once, off the heat."
+    "Return the chicken (700 g) and any juices, add salt, and mix so every piece is coated. Cover and cook on low 12–15 minutes, stirring occasionally. If the masala starts catching on the bottom, add 2–3 tbsp water. The chicken is done when the meat pulls away from the bone and a cut piece shows no pink.",
+    "Uncover and cook 3–4 minutes more until the masala is dry and glued to the chicken with no watery gravy left. Throw in the curry leaves (15), toss once, off the heat."
   ],
   storage: "Fridge up to 4 days — it genuinely improves on day two. Freezes 1 month.",
   reheating: "Pan on low with 1 tsp ghee, 4–5 minutes. It is a dry dish, so do not add water.",

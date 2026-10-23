@@ -29,13 +29,13 @@ window.RECIPES.push({
     "Chaat masala (pantry check)"
   ],
   preparation: [
-    "Mix ghee, spices and salt in a large bowl.",
-    "Add nuts and seeds; toss until every piece has a thin sheen. Then lift the almonds and cashews into the basket and leave the seeds in the bowl. Small seeds roast faster and burn if they go in at the start."
+    "Mix ghee (2 tsp), spices (1/2 tsp chilli powder, 1/2 tsp black pepper, 1/2 tsp chaat masala) and salt (a pinch) in a large bowl.",
+    "Add nuts (1 cup almonds, 3/4 cup cashews) and seeds (1/2 cup); toss until every piece has a thin sheen. Then lift the almonds and cashews into the basket and leave the seeds in the bowl. Small seeds roast faster and burn if they go in at the start."
   ],
   steps: [
-    "Air fry the almonds and cashews at 160°C — LOW heat is the trick, nuts burn fast — shaking every 3 minutes. After 5 minutes, add the seeds and give it a shake. Air fry 3–5 minutes more (8–10 minutes in total).",
+    "Air fry the almonds and cashews at 160°C — LOW heat is the trick, nuts burn fast — shaking every 3 minutes. After 5 minutes, add the seeds (1/2 cup) and give it a shake. Air fry 3–5 minutes more (8–10 minutes in total).",
     "They're done when fragrant and one shade darker; they crisp more while cooling.",
-    "If using honey, toss it through in the last 2 minutes only.",
+    "If using honey (1 tsp), toss it through in the last 2 minutes only.",
     "Cool completely on a plate (not in the basket), then jar."
   ],
   storage: "Airtight jar, 2 weeks on the counter; a month in the fridge.",

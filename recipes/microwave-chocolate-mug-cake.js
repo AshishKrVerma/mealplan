@@ -35,12 +35,12 @@ window.RECIPES.push({
   ],
   preparation: [
     "Use a large microwave-safe mug (about 300 ml) — the batter rises to double. If the batter fills more than half the mug, switch to a bigger one, and set a plate under it to catch any overflow.",
-    "Mix dry ingredients in the mug first to avoid cocoa lumps."
+    "Always mix the dry ingredients before any liquid goes in (step 1); cocoa added with the milk forms lumps."
   ],
   steps: [
-    "Whisk flour, cocoa, sugar, baking powder and salt in the mug with a fork.",
-    "Add milk, oil and vanilla; stir until no dry flour is left and the batter is just smooth, scraping the bottom corners of the mug. Don't keep beating — overmixing makes it rubbery.",
-    "Push the chocolate square into the middle.",
+    "Whisk flour (4 tbsp), cocoa (2 tbsp), sugar (3 tbsp), baking powder (1/4 tsp) and salt (a pinch) in the mug with a fork.",
+    "Add milk (3 tbsp), oil (2 tbsp) and vanilla (2–3 drops); stir until no dry flour is left and the batter is just smooth, scraping the bottom corners of the mug. Don't keep beating — overmixing makes it rubbery.",
+    "Push the chocolate square (1) into the middle.",
     "Microwave on high: 60 seconds, check, then in 15-second bursts until the top is set and springs back lightly and the sides start pulling away from the mug, but the very centre still looks slightly damp (usually 75–90 seconds total in an 800–1000 W microwave). Making two? Cook them one at a time for even results.",
     "Wait 1 minute (molten centre is lava). Eat from the mug."
   ],

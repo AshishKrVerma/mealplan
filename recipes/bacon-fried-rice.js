@@ -32,17 +32,17 @@ window.RECIPES.push({
     "Soy sauce, oyster sauce (pantry check)"
   ],
   preparation: [
-    "Break up the cold rice with your fingers so there are no clumps.",
-    "Mix the soy sauce, oyster sauce and pepper in a small bowl so it all goes in at once.",
-    "Chop everything before you start — fried rice cooks in minutes."
+    "Break up the cold rice (3 cups) with your fingers so there are no clumps.",
+    "Mix the soy sauce (1 tbsp), oyster sauce (1 tbsp), pepper (1/2 tsp) and the chilli sauce (1 tsp), if using, in a small bowl so it all goes in at once.",
+    "Chop everything and beat the eggs (2) with a pinch of salt before you start — fried rice cooks in minutes."
   ],
   steps: [
-    "Put the chopped bacon in a cold wok or large pan and turn the heat to medium. Cook 6–7 minutes, stirring, until crisp. Lift the bacon out, leaving about 2 tbsp grease in the pan (pour off extra into your grease jar).",
-    "Pour the beaten eggs into the hot grease, scramble softly until just set but still slightly glossy, and take them out onto a plate (they finish cooking later, so they stay soft).",
-    "Turn the heat to high. Add garlic and spring onion whites and stir 30 seconds until fragrant (don't let the garlic brown). Add the peas/carrot and stir-fry 1–2 minutes, until frozen peas have thawed and any water in the pan has dried up.",
-    "Add the rice. Spread it out and let it sit 1 minute without stirring so it toasts, then toss. Repeat a couple of times.",
-    "Pour the sauce mix around the edge of the pan so it sizzles, then toss for about 1 minute until no wet patches remain. Add the egg and most of the bacon, breaking the egg into pieces as you toss.",
-    "Taste before adding any salt — bacon and soy are both salty. Finish with spring onion greens, sesame oil and the remaining bacon on top."
+    "Put the chopped bacon (150 g) in a cold wok or large pan and turn the heat to medium. Cook 6–7 minutes, stirring, until crisp. Lift the bacon out, leaving about 2 tbsp grease in the pan (pour off extra into your grease jar).",
+    "Pour the beaten eggs (2) into the hot grease, scramble softly until just set but still slightly glossy, and take them out onto a plate (they finish cooking later, so they stay soft).",
+    "Turn the heat to high. Add garlic (3 cloves) and spring onion whites (3) and stir 30 seconds until fragrant (don't let the garlic brown). Add the peas/carrot (1/2 cup) and stir-fry 1–2 minutes, until frozen peas have thawed and any water in the pan has dried up.",
+    "Add the rice (3 cups). Spread it out and let it sit 1 minute without stirring so it toasts, then toss. Repeat a couple of times.",
+    "Pour the sauce mix around the edge of the pan so it sizzles, then toss for about 1 minute until no wet patches remain. Add the egg (2) and most of the bacon, breaking the egg into pieces as you toss.",
+    "Taste before adding any salt — bacon and soy are both salty. Finish with spring onion greens (3), sesame oil (a few drops) and the remaining bacon on top."
   ],
   storage: "Fridge up to 2 days.",
   reheating: "Hot pan with a splash of water, or microwave covered for 2 minutes.",

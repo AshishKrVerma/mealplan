@@ -34,10 +34,10 @@ window.RECIPES.push({
     "Cake tin that fits the air fryer basket (about 7 inch / 18 cm), butter paper"
   ],
   preparation: [
-    "Make one batch of Ladi Pav dough and let it do its first rise (steps 1–4 of that recipe, including the yeast foam check): warm-not-hot milk with sugar and yeast, mix, rest 10 minutes, knead 6–8 minutes (or stretch-and-fold), then 1–1.5 hours until doubled. The overnight fridge rise works here too.",
+    "Make one batch of Ladi Pav dough and let it do its first rise (steps 1–4 of that recipe, including the yeast foam check): warm-not-hot milk (3/4 cup) with sugar (1 tbsp) and yeast (1 tsp); mix it into the maida (2 cups, about 260 g), salt (1/2 tsp) and milk powder (2 tbsp, optional), rest 10 minutes, knead 2 minutes, then knead in the soft butter (2 tbsp) for 4–6 minutes more (or stretch-and-fold), then 1–1.5 hours until doubled. The overnight fridge rise works here too.",
     "Check the tin fits the basket with 1–2 cm gap all round and at least 5 cm of headroom below the element. Grease it with butter and line the base with butter paper.",
-    "Herb garlic butter: melt the 4 tbsp butter in a small pan on low, add the garlic and cook 1 minute, just until it smells sweet and fragrant — it must not colour (browned garlic turns bitter, and it bakes further later). Switch off and stir in the oregano, chilli flakes, coriander and salt. Cooking the garlic briefly takes away the raw sharp bite.",
-    "Grate the cheese now if using."
+    "Herb garlic butter: melt the 4 tbsp butter in a small pan on low, add the garlic (6–8 cloves) and cook 1 minute, just until it smells sweet and fragrant — it must not colour (browned garlic turns bitter, and it bakes further later). Switch off and stir in the oregano (1 tsp), chilli flakes (1/2 tsp), coriander (2 tbsp) and salt (a pinch). Cooking the garlic briefly takes away the raw sharp bite.",
+    "Grate the cheese (1/2 cup, or 2 processed cheese cubes) now if using."
   ],
   steps: [
     "Press the risen dough down gently and divide into 9 equal pieces (about 50 g each).",
@@ -46,7 +46,7 @@ window.RECIPES.push({
     "Place the balls in the tin in 3 rows of 3 with small gaps between them. Cover loosely and let rise 30–45 minutes until puffy, touching each other and about 1.5 times bigger.",
     "Preheat the air fryer at 160°C for 3 minutes (oven equivalent 180°C). Lower the tin in carefully.",
     "Bake at 160°C for 18–22 minutes. Check at 12 minutes: if already golden brown, cover with foil crimped tightly around the rim so the fan can't blow it into the element.",
-    "With cheese: at about 16 minutes, when the rolls are golden and look set, uncover, scatter the cheese over the top and bake 3–4 more minutes until it melts and bubbles in spots.",
+    "With cheese: at about 16 minutes, when the rolls are golden and look set, uncover, scatter the cheese (1/2 cup, or 2 processed cheese cubes) over the top and bake 3–4 more minutes until it melts and bubbles in spots.",
     "Doneness: tops golden brown all over, edges pulling slightly from the tin, and a toothpick pushed into the side of the middle roll comes out clean with no wet dough. If the bottom is pale when you turn it out, bake it upside down in the basket for 2–3 minutes (skip this if you added cheese).",
     "As soon as the rolls come out, spoon the remaining garlic butter, with all the garlic and herbs, over the top so it soaks into the cracks between the rolls.",
     "Rest 10 minutes in the tin, then lift out and serve warm — everyone pulls off their own roll."

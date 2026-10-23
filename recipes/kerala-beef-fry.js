@@ -32,18 +32,18 @@ window.RECIPES.push({
     "Fennel powder (pantry check)"
   ],
   preparation: [
-    "Cut the meat into small 2 cm pieces — small pieces get crustier and more tender.",
-    "Mix with the marinade and rest at least 30 minutes (overnight in the fridge is best). The vinegar helps tenderise buffalo."
+    "Cut the meat (500 g) into small 2 cm pieces — small pieces get crustier and more tender.",
+    "Mix with the marinade (1/2 tsp turmeric, 1.5 tsp Kashmiri chilli powder, 2 tsp coriander powder, 1 tsp garam masala, 1/2 tsp fennel powder, 1 tsp crushed black pepper, 1 tbsp ginger-garlic paste, 1 tsp salt, 1 tbsp vinegar or lemon juice) and rest at least 30 minutes (overnight in the fridge is best). The vinegar helps tenderise buffalo."
   ],
   steps: [
-    "Put the marinated meat in the pressure cooker with 1/2 cup water and 1 sprig curry leaves. Cook 1 whistle on high, then 30–35 minutes on low; let the pressure release naturally. The meat should be fork-tender.",
+    "Put the marinated meat (500 g) in the pressure cooker with 1/2 cup water and 1 sprig curry leaves. Cook 1 whistle on high, then 30–35 minutes on low; let the pressure release naturally. The meat should be fork-tender.",
     "Open the cooker. Lift the meat out with a slotted spoon into a bowl and keep the cooking liquid (stock) separately — it goes back in, a little at a time, during the roast.",
-    "In a wide heavy pan (cast iron is ideal), heat the coconut oil on medium. Fry the coconut slivers 3–4 minutes until golden brown; scoop out and set aside.",
-    "In the same oil, fry the shallots, green chillies, ginger, garlic and remaining curry leaves for 6–8 minutes until golden.",
-    "Add the cooked meat and the coconut and fry on medium for 3–4 minutes until the meat starts sticking to the pan.",
+    "In a wide heavy pan (cast iron is ideal), heat the coconut oil (3 tbsp) on medium. Fry the coconut slivers (1/2 cup) 3–4 minutes until golden brown; scoop out and set aside.",
+    "In the same oil, fry the shallots (1 cup, or 2 onions), green chillies (4), ginger (1 inch), garlic (6 cloves) and remaining curry leaves (2 sprigs) for 6–8 minutes until golden.",
+    "Add the cooked meat (500 g) and the coconut (1/2 cup) and fry on medium for 3–4 minutes until the meat starts sticking to the pan.",
     "Pour in about 1/4 cup of the stock and scrape up the brown bits stuck to the bottom — that's where the flavour is. Keep stirring until the liquid dries up and the meat sticks again. Repeat with 1/4 cup at a time until the stock is used up (about 15–20 minutes in all). Keep the flame at medium — high heat makes the meat tough.",
     "Keep roasting, stirring and scraping every minute or two, until the meat is very dark brown, glossy and coated in the spices, with no liquid pooling but not dry.",
-    "Finish with the crushed pepper, garam masala and fennel powder, roast 2 more minutes and serve."
+    "Finish with the crushed pepper (1 tsp), garam masala (1/2 tsp) and fennel powder (1/2 tsp), roast 2 more minutes and serve."
   ],
   storage: "Fridge up to 5 days — it tastes even better the next day.",
   reheating: "Pan on medium for a few minutes with a few drops of coconut oil.",

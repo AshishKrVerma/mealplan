@@ -29,13 +29,13 @@ window.RECIPES.push({
     "Garlic"
   ],
   preparation: [
-    "If using regular curd: use fresh, chilled curd — sour curd gets even sourer when strained. Tip it into a muslin cloth set in a sieve over a bowl, gather the cloth, squeeze gently and knot it. Put a small weight on top (a bowl works) and leave it in the fridge for 3–4 hours until thick and creamy with no whey running out. Straining in the fridge, not on the counter, stops it turning sour. Greek yogurt skips this entirely.",
+    "If using regular curd (2 cups): use fresh, chilled curd — sour curd gets even sourer when strained. Tip it into a muslin cloth set in a sieve over a bowl, gather the cloth, squeeze gently and knot it. Put a small weight on top (a bowl works) and leave it in the fridge for 3–4 hours until thick and creamy with no whey running out. Straining in the fridge, not on the counter, stops it turning sour. Greek yogurt skips this entirely.",
     "Keep the whey (the liquid that drips out) — use it to knead roti dough or drink it.",
     "Cut veggie sticks; store them in a box of cold water in the fridge — they stay crisp for days."
   ],
   steps: [
-    "Whisk the thick curd smooth.",
-    "Stir in garlic, herbs, cumin, pepper, salt and oil.",
+    "Whisk the thick curd (2 cups, or 1.5 cups Greek yogurt) smooth.",
+    "Stir in garlic (1 small clove), herbs (2 tbsp fresh, or 1 tsp dried), cumin (1/2 tsp), pepper (1/4 tsp), salt and oil (1 tsp).",
     "Taste — it should be punchy, since cold dulls flavour. Adjust.",
     "Box it. Snack = open fridge, dip sticks, feel superior."
   ],

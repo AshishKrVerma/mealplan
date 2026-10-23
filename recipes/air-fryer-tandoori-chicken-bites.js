@@ -38,14 +38,14 @@ window.RECIPES.push({
     "Onion (1) and mint chutney (to serve)"
   ],
   preparation: [
-    "Pat the chicken dry with kitchen paper — dry chicken chars better.",
+    "Pat the chicken (500 g) dry with kitchen paper — dry chicken chars better.",
     "If your curd is watery, hang it in a muslin cloth or tea strainer for 15–20 minutes first. Watery curd makes the chicken mushy instead of charred.",
-    "Mix curd, ginger-garlic paste, all spices (except the basting oil), kasuri methi, oil, lemon juice and salt into a thick marinade. It should cling to a spoon, not drip; taste a tiny bit and adjust salt and heat.",
-    "Coat the chicken well. Cover and marinate in the fridge for at least 1 hour; 6 hours to overnight gives the best flavour (no more than 24 hours). Take it out 20 minutes before cooking."
+    "Mix curd (1/2 cup), ginger-garlic paste (1 tbsp), all spices (1 tbsp tandoori masala or 1 tsp garam masala + 1 tsp coriander powder + 1/2 tsp cumin powder, 1/4 tsp turmeric, 1/4 tsp black pepper, 1 tsp Kashmiri chilli powder; except the basting oil), kasuri methi (1 tsp), oil (1 tbsp), lemon juice (1 tbsp) and salt into a thick marinade. It should cling to a spoon, not drip; taste a tiny bit and adjust salt and heat.",
+    "Coat the chicken (500 g) well. Cover and marinate in the fridge for at least 1 hour; 6 hours to overnight gives the best flavour (no more than 24 hours). Take it out 20 minutes before cooking."
   ],
   steps: [
     "Preheat the air fryer at 200°C for 3 minutes.",
-    "Arrange chicken in a single layer in the basket — do two batches rather than crowding.",
+    "Arrange chicken (500 g) in a single layer in the basket — do two batches rather than crowding.",
     "Air fry at 200°C for 8 minutes, then flip the pieces and brush them with the basting oil (1 tsp oil mixed with 1/2 tsp Kashmiri chilli). This keeps them juicy and gives the deep red colour.",
     "Air fry 5–7 more minutes until the edges are charred and the thickest piece is cooked through (cut one open: white with no pink, and the juices run clear).",
     "Rest 3 minutes, squeeze extra lemon on top and serve with sliced onion and mint chutney."

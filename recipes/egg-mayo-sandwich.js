@@ -37,8 +37,8 @@ window.RECIPES.push({
     "Mustard sauce (optional)"
   ],
   preparation: [
-    "Hard-boil the eggs (lower them into boiling water, 10 minutes), then straight into cold water for 5 minutes — this stops the grey ring round the yolk and makes peeling easier. Peel.",
-    "Mash the eggs roughly with a fork — chunky, not paste. Mix in mayo, curd, mustard, onion, chilli, pepper and chaat masala. Add salt last and lightly — mayo and chaat masala are already salty.",
+    "Hard-boil the eggs (4; lower them into boiling water, 10 minutes), then straight into cold water for 5 minutes — this stops the grey ring round the yolk and makes peeling easier. Peel.",
+    "Mash the eggs (4) roughly with a fork — chunky, not paste. Mix in mayo (2 tbsp), curd (2 tbsp), mustard (1/2 tsp sauce or a pinch of powder), onion (1 small), chilli (1), pepper (1/4 tsp) and chaat masala (1/2 tsp). Add salt last and lightly — mayo and chaat masala are already salty.",
     "Taste the filling and fix it now; you can't season a sealed sandwich."
   ],
   steps: [

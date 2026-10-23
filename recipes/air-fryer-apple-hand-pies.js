@@ -32,17 +32,17 @@ window.RECIPES.push({
     "Butter (100 g)"
   ],
   preparation: [
-    "Thaw the puff pastry in the fridge, not on the counter. Warm pastry goes floppy and will not hold a seal.",
-    "Dice the apples small, about 1 cm. Big chunks stay raw in the middle in the short time these get.",
+    "Thaw the puff pastry (1 sheet) in the fridge, not on the counter. Warm pastry goes floppy and will not hold a seal.",
+    "Dice the apples (3) small, about 1 cm. Big chunks stay raw in the middle in the short time these get.",
     "The filling must be completely cold before it goes near the pastry. Warm filling melts the butter layers and you get flat, greasy pies instead of puffed ones."
   ],
   steps: [
-    "Melt the butter in a pan, add the apples, sugar, cinnamon, nutmeg and lemon. Cook 5–7 minutes on medium until a knife slides into the apple easily but the pieces still hold their shape, and the juices turn into a light syrup.",
-    "Stir in the cornflour slurry and cook 1 minute until the juices thicken and stop being runny. Spread it on a plate and cool completely — 15 minutes in the fridge does it.",
-    "Cut the pastry into 6 rectangles. Put about 1.5 tbsp filling on one half of each, leaving a clear 1 cm border. Don't overfill; overfilled pies split open in the basket.",
+    "Melt the butter (1 tbsp) in a pan, add the apples (3), sugar (3 tbsp), cinnamon (1 tsp), nutmeg (a pinch) and lemon (1 tsp). Cook 5–7 minutes on medium until a knife slides into the apple easily but the pieces still hold their shape, and the juices turn into a light syrup.",
+    "Stir in the cornflour slurry (1 tsp cornflour in 1 tbsp water) and cook 1 minute until the juices thicken and stop being runny. Spread it on a plate and cool completely — 15 minutes in the fridge does it.",
+    "Cut the pastry (1 sheet) into 6 rectangles. Put about 1.5 tbsp filling on one half of each, leaving a clear 1 cm border. Don't overfill; overfilled pies split open in the basket. You'll have filling left over: it keeps 3 days in the fridge and is lovely on oats, curd or toast.",
     "Wet the border with water, fold over, and press the edges down firmly with a fork. Cut two small slits in the top of each pie or they will burst. If the pastry has gone soft and sticky while you worked, put the pies in the fridge for 10 minutes. Cold pastry puffs better.",
     "Preheat the air fryer at 180°C for 3 minutes. Line the basket with a piece of butter paper (or grease it) so the pies don't stick.",
-    "Brush with egg or milk and sprinkle sugar over. Place in a single layer with a gap between pies (work in batches). Air fry at 180°C for 8–12 minutes, checking at 8 minutes, until deep golden, puffed and crisp. If the bottoms are still pale, flip them for the last 2 minutes.",
+    "Brush with egg (1) or milk (2 tbsp) and sprinkle sugar over. Place in a single layer with a gap between pies (work in batches). Air fry at 180°C for 8–12 minutes, checking at 8 minutes, until deep golden, puffed and crisp. If the bottoms are still pale, flip them for the last 2 minutes.",
     "Rest 5 minutes on a plate or rack — that filling is molten and it will burn a mouth."
   ],
   storage: "Airtight box at room temperature for 2 days. Refrigerating makes the pastry go soft.",

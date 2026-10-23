@@ -33,12 +33,12 @@ window.RECIPES.push({
     "Honey"
   ],
   preparation: [
-    "Set the chia the night before: milk, honey, vanilla, chia, stir, wait 5 minutes, stir hard again, then refrigerate at least 4 hours (overnight is best) until it is thick and spoonable. That second stir is what stops it setting in lumps.",
+    "Set the chia the night before: milk (300 ml), honey (2 tbsp), vanilla (1/2 tsp), chia (4 tbsp), stir, wait 5 minutes, stir hard again, then refrigerate at least 4 hours (overnight is best) until it is thick and spoonable. That second stir is what stops it setting in lumps.",
     "Use clear glasses. The whole appeal of a parfait is that you can see the layers.",
     "Chill everything before you assemble. A warm layer will bleed into a cold one and you lose the stripes."
   ],
   steps: [
-    "Whisk the honey into the Greek yogurt until smooth.",
+    "Whisk the honey (1 tbsp) into the Greek yogurt (1 cup) until smooth.",
     "Blend one mango into a thick pulp with no water added. Keep the other one cubed.",
     "Layer into each glass: chia pudding first, then mango pulp, then yogurt, then chia again.",
     "Pour slowly down the inside of the glass with a spoon held against the wall. Pouring straight in from height punches through the layer below.",

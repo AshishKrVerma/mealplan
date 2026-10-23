@@ -33,16 +33,16 @@ window.RECIPES.push({
     "Coriander (1 bunch)"
   ],
   preparation: [
-    "Crumble the paneer with your fingers, not a grater — you want uneven crumbs that catch the masala, not paneer dust.",
-    "Beat the eggs with a pinch of salt and keep them next to the stove; from here the whole thing moves fast.",
-    "If the paneer is shop-bought and firm, soak it in hot water for 15–20 minutes first and squeeze it out gently. It goes noticeably softer."
+    "If the paneer (200 g) is shop-bought and firm, soak it in hot water for 15–20 minutes first and squeeze it out gently. It goes noticeably softer.",
+    "Crumble the paneer (200 g) with your fingers, not a grater — you want uneven crumbs that catch the masala, not paneer dust.",
+    "Beat the eggs (4) with a pinch of salt and keep them next to the stove; from here the whole thing moves fast."
   ],
   steps: [
-    "Melt the butter on medium heat and add the cumin seeds. When they sizzle (a few seconds), add the onion and cook 4–5 minutes until soft and translucent with just-golden edges. Add the ginger, garlic and chilli and cook 1 minute until the raw garlic smell is gone.",
-    "Add the tomato, a small pinch of salt and all the dry spices. Cook 3–4 minutes on medium until the tomato collapses, the raw spice smell is gone and the mixture looks like a thick paste that pulls away from the pan rather than a wet one.",
-    "Add the crumbled paneer and toss for 2 minutes so it takes on the colour of the masala. No longer — overcooked paneer goes rubbery.",
-    "Push everything to one side, pour the beaten eggs into the empty half, and let them set for 20 seconds before you start scrambling.",
-    "Fold the two halves together and cook 2 more minutes — stop while the eggs still look slightly wet, because they keep cooking off the heat. Coriander, and serve."
+    "Melt the butter (2 tbsp) on medium heat and add the cumin seeds (1/2 tsp). When they sizzle (a few seconds), add the onion (1) and cook 4–5 minutes until soft and translucent with just-golden edges. Add the ginger (1 tsp), garlic (2 cloves) and chilli (1) and cook 1 minute until the raw garlic smell is gone.",
+    "Add the tomato (1), a small pinch of salt and all the dry spices (1/2 tsp turmeric, 1/2 tsp red chilli powder, 1/2 tsp garam masala). Cook 3–4 minutes on medium until the tomato collapses, the raw spice smell is gone and the mixture looks like a thick paste that pulls away from the pan rather than a wet one.",
+    "Add the crumbled paneer (200 g) and toss for 2 minutes so it takes on the colour of the masala. No longer — overcooked paneer goes rubbery.",
+    "Push everything to one side, pour the beaten eggs (4) into the empty half, and let them set for 20 seconds before you start scrambling.",
+    "Fold the two halves together and cook 2 more minutes — stop while the eggs still look slightly wet, because they keep cooking off the heat. Coriander (a handful), and serve."
   ],
   storage: "Fridge up to 2 days. Eggs go a bit firm on standing, but the paneer holds up well.",
   reheating: "Low flame with 1 tsp butter, 2–3 minutes. Do not microwave on full power unless you like rubber.",

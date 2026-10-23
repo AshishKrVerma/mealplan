@@ -34,8 +34,8 @@ window.RECIPES.push({
     "Fill the mixie jar no more than halfway. Hot liquid expands and blows the lid off — hold it down with a cloth."
   ],
   steps: [
-    "Make the coffee strong and hot.",
-    "Pour it into the mixie jar with the ghee, coconut oil, cinnamon and salt.",
+    "Make the coffee (250 ml; 1.5 tsp instant) strong and hot.",
+    "Pour it into the mixie jar with the ghee (1 tbsp), coconut oil (1 tsp), cinnamon (a pinch), salt (a pinch) and the cocoa (1 tsp), if using.",
     "Hold the lid down firmly and blend 20–30 seconds. It turns from dark brown and oily to pale, opaque and foamy — that colour change is the signal it is ready.",
     "Pour into a warmed cup, or the foam collapses immediately in a cold one.",
     "Drink within a few minutes, while it is still emulsified."

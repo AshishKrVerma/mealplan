@@ -37,18 +37,18 @@ window.RECIPES.push({
     "Hing, bay leaf, dried red chillies, Kashmiri chilli powder (pantry check)"
   ],
   preparation: [
-    "Rinse rice and dal together until the water runs mostly clear; soak 15 minutes.",
-    "Chop the onion, tomato and vegetables while they soak."
+    "Rinse rice (3/4 cup) and dal (3/4 cup) together until the water runs mostly clear; soak 15 minutes.",
+    "Chop the onion (1), tomato (1) and vegetables (1 cup) while they soak."
   ],
   steps: [
-    "Heat 1 tbsp ghee in the pressure cooker on medium. Add cumin and the bay leaf; when the cumin crackles and darkens slightly, add hing, then onion and green chilli. Cook 4–5 minutes until the onion is soft and light golden.",
-    "Add ginger-garlic paste and fry about 1 minute until the raw smell goes, then add tomato, turmeric and chilli powder. Cook 3–4 minutes until the tomato is mushy and the ghee starts to leave the sides.",
-    "Add the drained rice-dal mix and vegetables; stir gently 2 minutes so the grains get coated in the masala and smell lightly toasted.",
+    "Heat 1 tbsp ghee in the pressure cooker on medium. Add cumin (1 tsp) and the bay leaf (1); when the cumin crackles and darkens slightly, add hing (a pinch), then onion (1) and green chilli (1). Cook 4–5 minutes until the onion is soft and light golden.",
+    "Add ginger-garlic paste (1 tsp) and fry about 1 minute until the raw smell goes, then add tomato (1), turmeric (1/2 tsp) and chilli powder (1/2 tsp). Cook 3–4 minutes until the tomato is mushy and the ghee starts to leave the sides.",
+    "Add the drained rice-dal mix (3/4 cup rice + 3/4 cup dal) and vegetables (1 cup); stir gently 2 minutes so the grains get coated in the masala and smell lightly toasted.",
     "Add 4.5 cups water and salt — khichdi should be loose going in, it thickens a lot. Taste the water for salt.",
     "Close the lid: 3 whistles on medium, then off. Let the pressure release fully on its own.",
     "Open, stir well — it should be soft and spoonable, like a thick porridge. If too thick, add 1/2 cup hot water and simmer 1–2 minutes until bubbling. Taste for salt.",
-    "Final tadka (just before serving): heat the remaining 1 tbsp ghee in a small pan on medium. Add cumin; when it crackles, add the dried red chillies for 10–15 seconds. Switch off, stir in hing and Kashmiri chilli powder, and pour the sizzling tadka over the khichdi.",
-    "Finish with coriander and a squeeze of lemon."
+    "Final tadka (just before serving): heat the remaining 1 tbsp ghee in a small pan on medium. Add cumin (1/2 tsp); when it crackles, add the dried red chillies (1–2) for 10–15 seconds. Switch off, stir in hing (a pinch) and Kashmiri chilli powder (1/4 tsp), and pour the sizzling tadka over the khichdi.",
+    "Finish with coriander and a squeeze of lemon (half a lemon)."
   ],
   storage: "Fridge up to 2 days; it sets solid when cold — that's normal.",
   reheating: "Loosen with water or milk, microwave 2–3 minutes, stir halfway. It happily returns to porridge form.",

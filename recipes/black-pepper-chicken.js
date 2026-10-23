@@ -37,15 +37,15 @@ window.RECIPES.push({
     "Cinnamon, cloves, cardamom, garam masala (pantry check)"
   ],
   preparation: [
-    "Crush peppercorns and fennel together in the mortar (or pulse once in the mixie) — coarse and gritty, not fine powder. This texture is the dish.",
-    "Toss chicken with turmeric, half the crushed pepper-fennel and a little salt; rest 10 minutes."
+    "Crush peppercorns (2 tsp) and fennel (1 tsp) together in the mortar (or pulse once in the mixie) — coarse and gritty, not fine powder. This texture is the dish.",
+    "Toss chicken (500 g) with turmeric (1/2 tsp), half the crushed pepper-fennel and a little salt; rest 10 minutes."
   ],
   steps: [
-    "Heat oil in a kadhai on medium. Add the cinnamon, cloves and cardamom and let them sizzle for 20–30 seconds until fragrant. Add one sprig of curry leaves, then the onions with a pinch of salt; cook on medium-high 7–8 minutes until properly browned at the edges.",
-    "Add ginger-garlic paste and stir 1–2 minutes until the raw smell is gone, then the chicken. Sear on high 3–4 minutes without much stirring so it picks up colour and turns white all over.",
-    "Add coriander powder and garam masala and stir 1 minute. Cover and cook on medium-low 8–10 minutes until the chicken is tender and a cut piece shows no pink. The chicken releases its own juices; add 2–3 tbsp water only if the pan starts to stick.",
+    "Heat oil (2 tbsp) in a kadhai on medium. Add the cinnamon (1 inch), cloves (3) and cardamom (2) and let them sizzle for 20–30 seconds until fragrant. Add one sprig of curry leaves, then the onions (2) with a pinch of salt; cook on medium-high 7–8 minutes until properly browned at the edges.",
+    "Add ginger-garlic paste (1 tbsp) and stir 1–2 minutes until the raw smell is gone, then the chicken (500 g). Sear on high 3–4 minutes without much stirring so it picks up colour and turns white all over.",
+    "Add coriander powder (1 tsp) and garam masala (3/4 tsp) and stir 1 minute. Cover and cook on medium-low 8–10 minutes until the chicken is tender and a cut piece shows no pink. The chicken releases its own juices; add 2–3 tbsp water only if the pan starts to stick.",
     "Uncover, raise the flame and dry off all the liquid, stirring, until the masala clings darkly to each piece — 3–4 minutes.",
-    "Lower the heat, add the remaining pepper-fennel and the second sprig of curry leaves and toss 1 minute until the kitchen smells strongly of pepper. Turn off the heat, add lemon juice and coriander, toss and serve hot."
+    "Lower the heat, add the remaining pepper-fennel and the second sprig of curry leaves and toss 1 minute until the kitchen smells strongly of pepper. Turn off the heat, add lemon juice (1 tsp) and coriander (2 tbsp), toss and serve hot."
   ],
   storage: "Fridge up to 3 days; being a dry dish it packs and travels well.",
   reheating: "A quick toss in a hot pan revives it best; microwave 90 seconds also fine.",

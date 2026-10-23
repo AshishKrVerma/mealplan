@@ -38,16 +38,16 @@ window.RECIPES.push({
     "Mustard oil (small bottle)"
   ],
   preparation: [
-    "Whisk the curd until completely smooth — lumpy curd splits in a hot cooker.",
-    "Mix the Kashmiri chilli, fennel and dry ginger powders with 3 tbsp water into a paste; this stops the chilli from burning and gives the signature red."
+    "Whisk the curd (3/4 cup) until completely smooth — lumpy curd splits in a hot cooker.",
+    "Mix the Kashmiri chilli powder (2 tbsp), fennel powder (1.5 tsp) and dry ginger powder (1/2 tsp) with 3 tbsp water into a paste; this stops the chilli from burning and gives the signature red."
   ],
   steps: [
-    "Heat mustard oil in the pressure cooker until it just smokes, then lower the flame. Add the whole spices; let them crackle for 30 seconds, then add the hing and stir for 5 seconds.",
-    "Add onions with a pinch of salt and cook 8–10 minutes to an even golden brown (not dark, or the gravy turns bitter), then ginger-garlic paste for 1 minute until the raw smell goes.",
-    "Add the mutton and sear on medium-high for 6–8 minutes, stirring only every minute or so, until the pieces are lightly browned on the outside and the raw pink is gone. This browning gives the curry much of its flavour. Lower the flame, stir in the chilli-fennel paste and cook 2 minutes until fragrant and brick red.",
-    "Take the cooker off the heat for a minute, stir in the whisked curd a spoon at a time, then return to low heat and cook until oil beads on the surface.",
+    "Heat mustard oil (3 tbsp) in the pressure cooker until it just smokes, then lower the flame. Add the whole spices (2 bay leaves, 4 green cardamom, 1 black cardamom, 4 cloves, 1 inch cinnamon); let them crackle for 30 seconds, then add the hing (a generous pinch) and stir for 5 seconds.",
+    "Add onions (2) with a pinch of salt and cook 8–10 minutes to an even golden brown (not dark, or the gravy turns bitter), then ginger-garlic paste (1 tbsp) for 1 minute until the raw smell goes.",
+    "Add the mutton (600 g) and sear on medium-high for 6–8 minutes, stirring only every minute or so, until the pieces are lightly browned on the outside and the raw pink is gone. This browning gives the curry much of its flavour. Lower the flame, stir in the chilli-fennel paste and cook 2 minutes until fragrant and brick red.",
+    "Take the cooker off the heat for a minute, stir in the whisked curd (3/4 cup) a spoon at a time, then return to low heat and cook until oil beads on the surface.",
     "Add 3/4 cup hot water and salt, close the lid. One whistle on high, then 20 minutes on low. Let the pressure drop on its own.",
-    "Open, simmer to a glossy, spoon-coating gravy and finish with garam masala. The oil should sit red on top — that's the rogan."
+    "Open, simmer to a glossy, spoon-coating gravy and finish with garam masala (1/2 tsp). The oil should sit red on top — that's the rogan."
   ],
   storage: "Fridge 3 days, freezer 1 month. Like all good mutton curries, day two is the better day.",
   reheating: "Stovetop simmer with a splash of hot water, or microwave 3 minutes, stirring halfway.",

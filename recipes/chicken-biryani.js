@@ -39,21 +39,21 @@ window.RECIPES.push({
     "Optional: saffron, kewra water"
   ],
   preparation: [
-    "Marinate: make 2–3 shallow cuts in each chicken piece. Mix the curd, ginger-garlic paste, turmeric, chilli powder, biryani masala, salt, lemon juice, mint and coriander, add the chicken and coat well. Cover and refrigerate at least 1 hour, up to overnight (overnight = more tender and flavourful). Take it out 20 minutes before cooking.",
-    "Rinse the rice gently in 3 changes of water until the water is mostly clear (this washes off the surface starch that makes rice sticky). Soak it for 30 minutes, then drain well in a colander. Don't soak much longer — over-soaked grains break.",
-    "Slice the onions as thin and even as you can so they brown together instead of some burning while others stay pale.",
-    "Measure the whole spices into one small bowl, and put the layering mint and saffron milk near the stove."
+    "Marinate: make 2–3 shallow cuts in each chicken piece. Mix the curd (1/2 cup), ginger-garlic paste (1 tbsp), turmeric (1/4 tsp), chilli powder (1 tsp), biryani masala (1 tbsp), salt (3/4 tsp), lemon juice (1 tbsp), mint (1/4 cup) and coriander (1/4 cup), add the chicken (500 g) and coat well. Cover and refrigerate at least 1 hour, up to overnight (overnight = more tender and flavourful). Take it out 20 minutes before cooking.",
+    "Rinse the rice (2 cups) gently in 3 changes of water until the water is mostly clear (this washes off the surface starch that makes rice sticky). Soak it for 30 minutes, then drain well in a colander. Don't soak much longer — over-soaked grains break.",
+    "Slice the onions (2 large) as thin and even as you can so they brown together instead of some burning while others stay pale.",
+    "Measure the whole spices (1 bay leaf, 4 green cardamoms, 4 cloves, 1 inch cinnamon, 1 star anise, 3/4 tsp shahi jeera) into one small bowl. If using saffron, soak it (a pinch) in the warm milk (2 tbsp) now, and keep the saffron milk and the layering mint (1/4 cup) near the stove."
   ],
   steps: [
-    "Fried onions (birista): heat the ghee and oil in a 3–5 litre pressure cooker (no lid) on medium. Add the sliced onions with a pinch of salt (it pulls out moisture so they brown faster). Stir every minute or so for 12–15 minutes until evenly deep golden-brown. Watch the last few minutes closely — dark brown tastes bitter. Lift out about half the onions with a slotted spoon onto a plate; they crisp up as they cool. Leave the rest, with the ghee, in the cooker.",
-    "Add the whole spices to the onions in the cooker and stir 30 seconds until fragrant.",
-    "Add the marinated chicken with all its marinade. Fry on medium-high, stirring, for 5 minutes until the chicken turns pale outside.",
+    "Fried onions (birista): heat the ghee (3 tbsp) and oil (1 tbsp) in a 3–5 litre pressure cooker (no lid) on medium. Add the sliced onions (2 large) with a pinch of salt (it pulls out moisture so they brown faster). Stir every minute or so for 12–15 minutes until evenly deep golden-brown. Watch the last few minutes closely — dark brown tastes bitter. Lift out about half the onions with a slotted spoon onto a plate; they crisp up as they cool. Leave the rest, with the ghee, in the cooker.",
+    "Add the whole spices (1 bay leaf, 4 green cardamoms, 4 cloves, 1 inch cinnamon, 1 star anise, 3/4 tsp shahi jeera) to the onions in the cooker and stir 30 seconds until fragrant.",
+    "Add the marinated chicken (500 g) with all its marinade. Fry on medium-high, stirring, for 5 minutes until the chicken turns pale outside.",
     "Cover with a regular lid or plate (not the pressure lid) and cook on low, stirring once or twice: 10–12 minutes for bone-in, 6–8 for boneless, until the chicken is nearly cooked through.",
     "Uncover, raise the heat to medium and cook 2–4 minutes until the watery liquid dries off and you have a thick masala clinging to the chicken with ghee showing at the edges. This matters: extra liquid at the bottom is the number one cause of mushy biryani.",
-    "Stir in the slit green chillies and 1 tsp biryani masala, taste the masala for salt (it should be well seasoned), then spread the chicken in an even, flat layer. Switch off the flame while you boil the water.",
+    "Stir in the slit green chillies (1–2) and 1 tsp biryani masala, taste the masala for salt (it should be well seasoned), then spread the chicken in an even, flat layer. Switch off the flame while you boil the water.",
     "Bring the 3 cups water with 3/4 tsp salt to a rolling boil in a separate pan or kettle. Taste it — it should be slightly salty, like a well-salted soup; the rice absorbs it.",
-    "Spread the drained rice evenly over the chicken. Pour the boiling water gently along the sides of the cooker first, then slowly over the rice. Do not stir. Level the rice with the back of a spoon so it's all just under the water.",
-    "Top with the remaining 1/4 cup mint, a handful of the fried onions, the saffron milk, a few drops of kewra if using, and 1 tsp ghee drizzled over.",
+    "Spread the drained rice (2 cups) evenly over the chicken. Pour the boiling water (3 cups) gently along the sides of the cooker first, then slowly over the rice. Do not stir. Level the rice with the back of a spoon so it's all just under the water.",
+    "Top with the remaining 1/4 cup mint, a handful of the fried onions, the saffron milk (a pinch of saffron in 2 tbsp milk), a few drops of kewra if using, and 1 tsp ghee drizzled over.",
     "Close the pressure lid. Cook on medium-high until 1 whistle, then switch off and immediately move the cooker off the hot burner so it stops cooking.",
     "Let the pressure release completely on its own (about 10–15 minutes). Open and let the steam escape for 5 minutes.",
     "Fluff gently with a fork from the sides, lifting rather than stirring, so the grains don't break. Serve by scooping straight down to the bottom so every plate gets rice and chicken. Top with the remaining fried onions."

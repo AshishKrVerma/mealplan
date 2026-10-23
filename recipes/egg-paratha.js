@@ -32,11 +32,11 @@ window.RECIPES.push({
     "Green chilli, coriander"
   ],
   preparation: [
-    "Beat the eggs with onion, chilli, coriander, tomato (if using), spices and salt in a bowl with a pouring lip until a little frothy — you'll be pouring onto a hot tawa, so make it easy on yourself.",
-    "If using ready parathas, keep them by the stove; if making chapatis, roll them out first."
+    "Beat the eggs (4) with onion (1 small), chilli (1), coriander (2 tbsp), tomato (1 small; if using), spices (1/4 tsp turmeric, 1/4 tsp chilli powder, 1/4 tsp crushed black pepper, pinch of garam masala) and salt in a bowl with a pouring lip until a little frothy — you'll be pouring onto a hot tawa, so make it easy on yourself.",
+    "If using ready parathas (4), keep them by the stove; if making chapatis (4), roll them out first."
   ],
   steps: [
-    "Heat the tawa on medium. Cook each paratha with a few drops of ghee until light golden spots appear on both sides (leftover chapatis just need 30 seconds a side to warm). Stack them on a plate.",
+    "Heat the tawa on medium. Cook each paratha (4) with a few drops of ghee until light golden spots appear on both sides (leftover chapatis just need 30 seconds a side to warm). Stack them on a plate.",
     "Take the tawa off the flame for a minute to cool slightly — a very hot tawa burns the egg before it sets. Back on medium, add 1 tsp ghee or oil.",
     "Stir the egg mix (the onion sinks), pour in a quarter of it (about one egg) and spread it into a round roughly the size of the paratha.",
     "Cook 20–30 seconds, until the bottom has set but the top is still wet and runny — that wet top is the glue. Immediately lay a paratha on it and press all over with the spatula so it sticks.",

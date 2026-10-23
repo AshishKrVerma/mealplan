@@ -32,18 +32,18 @@ window.RECIPES.push({
     "Saffron, mixed nuts, raisins"
   ],
   preparation: [
-    "Use day-old bread. Fresh bread soaks up ghee like a sponge and collapses into mush. Only have fresh bread? Leave the slices out uncovered for a few hours, or dry them in the air fryer at 160°C for 1–2 minutes, then cool.",
-    "Soak the saffron in the 2 tbsp warm milk now, so it has time to release its colour.",
+    "Use day-old bread (8 slices). Fresh bread soaks up ghee like a sponge and collapses into mush. Only have fresh bread? Leave the slices out uncovered for a few hours, or dry them in the air fryer at 160°C for 1–2 minutes, then cool.",
+    "Soak the saffron (15–20 strands) in the 2 tbsp warm milk now, so it has time to release its colour.",
     "Trim the crusts. They stay chewy and refuse to soak up the milk properly.",
     "The three components — fried bread, rabdi, syrup — are made separately and assembled at the end. Rushing them together is how it turns soggy."
   ],
   steps: [
-    "Reduce the milk on low heat for 20 minutes, stirring often, until it thickens to about half. Add the condensed milk and half the saffron milk. That is your rabdi — keep it warm.",
-    "Boil the sugar, water and cardamom into a syrup of one-string consistency: about 5 minutes, and it should feel just sticky between finger and thumb.",
-    "Shallow fry the bread triangles in ghee on medium, in batches, until deep golden and crisp on both sides. Drain on paper. Patience here — pale bread goes soggy later. Watch closely near the end: bread goes from golden to burnt in 30–40 seconds and keeps darkening after it comes out.",
-    "In 1 tbsp of the ghee, fry the cashews and almonds on low until light golden, add the raisins until they plump up, and set aside for the garnish.",
+    "Reduce the milk (750 ml) on low heat for 20 minutes, stirring often, until it thickens to about half. Add the condensed milk (3 tbsp) and half the saffron milk. That is your rabdi — keep it warm.",
+    "Boil the sugar (3/4 cup), water (1/2 cup) and cardamom (3) into a syrup of one-string consistency: about 5 minutes, and it should feel just sticky between finger and thumb.",
+    "Shallow fry the bread triangles (8 slices) in ghee (about 5 tbsp) on medium, in batches, until deep golden and crisp on both sides. Drain on paper. Patience here — pale bread goes soggy later. Watch closely near the end: bread goes from golden to burnt in 30–40 seconds and keeps darkening after it comes out.",
+    "In 1 tbsp of the ghee, fry the cashews and almonds (part of the 1/4 cup mixed nuts) on low until light golden, add the raisins (1 tbsp) until they plump up, and set aside for the garnish.",
     "Dip each fried piece into the warm syrup for 3–4 seconds only, then arrange in a single layer in a wide serving dish. Any longer and it falls apart. Never stack more than two layers, or the top stays dry and the bottom turns mushy.",
-    "Pour the hot rabdi evenly over the bread, then scatter the fried nuts and raisins, the pistachios, cardamom powder and the rest of the saffron milk.",
+    "Pour the hot rabdi evenly over the bread, then scatter the fried nuts (part of the 1/4 cup) and raisins (1 tbsp), the pistachios (rest of the 1/4 cup), cardamom powder (1/2 tsp) and the rest of the saffron milk.",
     "Rest at least 30 minutes before serving so the bread drinks the rabdi. Serve warm or at room temperature."
   ],
   storage: "Fridge up to 4 days, covered. It genuinely improves overnight as it soaks.",

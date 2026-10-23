@@ -32,13 +32,13 @@ window.RECIPES.push({
     "Pav bhaji masala (pantry check)"
   ],
   preparation: [
-    "Chop everything first — total cooking time is under 10 minutes.",
-    "Crack eggs into a bowl with a pinch of salt and the turmeric, and beat with a fork until a little frothy — that gives a fluffier bhurji."
+    "Chop everything (1 onion, 1 tomato, 1 green chilli, 1/2 inch ginger) first — total cooking time is under 10 minutes.",
+    "Crack eggs (5) into a bowl with a pinch of salt and the turmeric (1/4 tsp), and beat with a fork until a little frothy — that gives a fluffier bhurji."
   ],
   steps: [
-    "Heat oil on medium. Add cumin; when it sizzles (10 seconds), add onion, green chilli and ginger. Sauté until soft and lightly golden, 3–4 minutes.",
-    "Add tomato, chilli powder, the masala and a pinch of salt. Cook 2–3 minutes until the tomato is fully mushy and oil shows at the edges. Undercooked tomato makes the bhurji wet and eggy-tasting.",
-    "Lower the heat, pour in the eggs, wait 20 seconds, then scramble gently and continuously.",
+    "Heat oil (1.5 tbsp) on medium. Add cumin (1/2 tsp); when it sizzles (10 seconds), add onion (1), green chilli (1) and ginger (1/2 inch). Sauté until soft and lightly golden, 3–4 minutes.",
+    "Add tomato (1), chilli powder (1/2 tsp), the masala (1/2 tsp) and a pinch of salt. Cook 2–3 minutes until the tomato is fully mushy and oil shows at the edges. Undercooked tomato makes the bhurji wet and eggy-tasting.",
+    "Lower the heat, pour in the eggs (5), wait 20 seconds, then scramble gently and continuously.",
     "Take it off the heat while still slightly glossy — it finishes cooking in the pan.",
     "Taste and adjust salt. Top with coriander. Serve with toasted pav, chapati, or plain bread."
   ],

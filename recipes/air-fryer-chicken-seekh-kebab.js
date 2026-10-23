@@ -39,16 +39,16 @@ window.RECIPES.push({
     "Green chutney (to serve)"
   ],
   preparation: [
-    "Dry-roast the besan in a small pan on low for 2 minutes until it smells nutty; cool. This binds the kebabs and stops sogginess.",
-    "Squeeze the chopped onion hard to remove water — wet onion is the number one cause of kebabs falling apart. Wash the coriander and mint, pat them completely dry, then chop finely for the same reason.",
+    "Dry-roast the besan (2 tbsp) in a small pan on low for 2 minutes until it smells nutty; cool. This binds the kebabs and stops sogginess.",
+    "Squeeze the chopped onion (1 small) hard to remove water — wet onion is the number one cause of kebabs falling apart. Wash the coriander (3 tbsp) and mint (1 tbsp), pat them completely dry, then chop finely for the same reason.",
     "If using wooden skewers, soak them in water for 30 minutes so they don't burn, then wipe dry.",
-    "Knead mince with everything (except oil) for a full 2 minutes until sticky and paste-like. Cover and chill at least 30 minutes (up to 4 hours); a cold mix holds on the skewer far better.",
+    "Knead mince (500 g) with everything except the oil (1 small onion, 3 tbsp coriander, 1 tbsp mint, 1 tbsp ginger-garlic paste, 2 green chillies, 1 tsp each coriander powder, cumin powder and garam masala, 1/2 tsp each Kashmiri chilli powder, crushed pepper and chaat masala, salt, 2 tbsp besan, and 1 tbsp curd if the mix feels dry) for a full 2 minutes until sticky and paste-like. Cover and chill at least 30 minutes (up to 4 hours); a cold mix holds on the skewer far better.",
     "With oiled hands, press the mix around skewers into long kebabs, or roll into finger-thick logs."
   ],
   steps: [
-    "Preheat the air fryer at 190°C for 3 minutes. Lightly brush the basket and the kebabs with oil.",
+    "Preheat the air fryer at 190°C for 3 minutes. Lightly brush the basket and the kebabs with oil (part of the 1 tbsp).",
     "Arrange kebabs with space between them (two batches if needed).",
-    "Air fry 8 minutes, turn each kebab gently with tongs, brush with a little more oil.",
+    "Air fry 8 minutes, turn each kebab gently with tongs, brush with a little more oil (rest of the 1 tbsp).",
     "Air fry 4–6 minutes more until browned with dark spots and firm to the touch; a cut kebab should show no pink.",
     "Rest 2 minutes, then serve hot with lemon, onion rings and green chutney."
   ],

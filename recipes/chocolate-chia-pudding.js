@@ -32,13 +32,13 @@ window.RECIPES.push({
   ],
   preparation: [
     "The ratio is what makes this work: 3 tbsp chia to 1 cup of liquid. Less chia and it stays soupy, more and it sets like cement.",
-    "Whisk the cocoa into a few spoons of milk first to make a paste. Cocoa dropped into full milk floats in dry lumps that never mix in.",
+    "Don't skip the cocoa paste in step 1: cocoa dropped into full milk floats in dry lumps that never mix in.",
     "Set it in individual cups rather than one big bowl — easier to serve, and it sets more evenly."
   ],
   steps: [
-    "Whisk the cocoa, honey, vanilla and salt with 4 tbsp of the milk into a smooth chocolate paste.",
-    "Add the rest of the milk and whisk until uniform.",
-    "Stir in the chia seeds and mix hard for 30 seconds.",
+    "Whisk the cocoa (3 tbsp), honey (3 tbsp), vanilla (1/2 tsp) and salt (a pinch) with 4 tbsp of the milk into a smooth chocolate paste.",
+    "Add the rest of the milk (340 ml) and whisk until uniform.",
+    "Stir in the chia seeds (5 tbsp) and mix hard for 30 seconds.",
     "Now the step everyone skips: wait 5 minutes, then stir hard again. In those five minutes the seeds start gelling and clumping, and this second stir is what breaks the clumps up for good.",
     "Pour into cups, cover, and refrigerate at least 4 hours or overnight. Top with fruit just before serving."
   ],

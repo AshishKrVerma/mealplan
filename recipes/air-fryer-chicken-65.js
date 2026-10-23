@@ -41,17 +41,17 @@ window.RECIPES.push({
     "Kashmiri chilli powder (pantry check)"
   ],
   preparation: [
-    "Cut the chicken into even 1-inch pieces so they all cook at the same rate.",
-    "Mix chicken with curd, ginger-garlic paste, both chilli powders, turmeric, garam masala, lemon juice, the chopped curry leaves and salt. Cover and refrigerate at least 30 minutes; 1 hour to overnight tastes even better.",
-    "Wash the tempering curry leaves and green chillies and pat them completely dry. Wet leaves make hot oil spit.",
-    "Just before cooking, sprinkle the cornflour and rice flour over the marinated chicken and toss until every piece is coated. It should look moist and tacky, not runny and not powdery. If you see dry flour patches, sprinkle 1–2 tsp water and toss again."
+    "Cut the chicken (500 g) into even 1-inch pieces so they all cook at the same rate.",
+    "Mix chicken (500 g) with curd (3 tbsp), ginger-garlic paste (1 tbsp), both chilli powders (1.5 tsp Kashmiri, 1/2 tsp regular), turmeric (1/2 tsp), garam masala (1 tsp), lemon juice (1 tsp), the chopped curry leaves (1 sprig) and salt. Cover and refrigerate at least 30 minutes; 1 hour to overnight tastes even better.",
+    "Wash the tempering curry leaves (2 sprigs) and green chillies (3–4) and pat them completely dry. Wet leaves make hot oil spit.",
+    "Just before cooking, sprinkle the cornflour (3 tbsp) and rice flour (1 tbsp) over the marinated chicken and toss until every piece is coated. It should look moist and tacky, not runny and not powdery. If you see dry flour patches, sprinkle 1–2 tsp water and toss again."
   ],
   steps: [
-    "Preheat the air fryer at 200°C for 3 minutes. Arrange chicken in a single layer (do two batches rather than crowding), brush or spray with oil, especially any spots with white flour showing.",
+    "Preheat the air fryer at 200°C for 3 minutes. Arrange chicken (500 g) in a single layer (do two batches rather than crowding), brush or spray with oil (1 tbsp), especially any spots with white flour showing.",
     "Air fry 8 minutes, shake the basket, then 4–5 minutes more until deep golden, the edges are browned and crisp, and a cut piece is white with no pink inside.",
-    "Meanwhile, heat 1 tbsp oil in a kadhai on medium. Add garlic for 20 seconds (it should sizzle but not brown), then curry leaves and slit green chillies. Stand back; they splutter. Fry until the leaves turn crisp and the chillies blister, about 1 minute.",
+    "Meanwhile, heat 1 tbsp oil in a kadhai on medium. Add garlic (2 cloves) for 20 seconds (it should sizzle but not brown), then curry leaves (2 sprigs) and slit green chillies (3–4). Stand back; they splutter. Fry until the leaves turn crisp and the chillies blister, about 1 minute.",
     "Turn the flame to LOW. Add 2 tbsp curd whisked with 1/2 tsp Kashmiri chilli powder and a pinch of salt. Stir 1–2 minutes until the water cooks off and it becomes a thick, oily red paste. A watery sauce will make the chicken soggy.",
-    "Turn the heat off. Tip in the air-fried chicken (and the pepper, if using) and toss well so every piece picks up curry leaves and glaze. Serve at once with lemon and raw onion rings."
+    "Turn the heat off. Tip in the air-fried chicken (500 g; and 1/4 tsp pepper, if using) and toss well so every piece picks up curry leaves and glaze. Serve at once with lemon and raw onion rings."
   ],
   storage: "Fridge up to 2 days in a closed box, but the crispness is a today thing.",
   reheating: "Air fryer 4 minutes at 180°C brings most of the crunch back; microwave works but makes it soft.",

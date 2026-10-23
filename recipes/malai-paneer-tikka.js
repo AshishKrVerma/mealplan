@@ -36,17 +36,16 @@ window.RECIPES.push({
     "Cardamom powder, kasuri methi, chaat masala (pantry check)"
   ],
   preparation: [
-    "Grate the cheese fine and mix it into the cream first, then add the curd. Doing it the other way round leaves you with lumps of cheese that never disperse.",
+    "Grate the cheese (1/4 cup) fine and mix it into the cream (1/4 cup) first, then add the curd (1/2 cup). Doing it the other way round leaves you with lumps of cheese that never disperse.",
     "The marinade must be thick enough to sit on a spoon without dripping. Thin marinade slides off in the air fryer and burns on the tray.",
-    "Stir the ginger-garlic paste, pepper, cardamom, salt and 1/2 tsp crushed kasuri methi into the creamy base. Taste it: it should be well seasoned, because the paneer itself has no salt.",
-    "Marinate covered in the fridge for at least 30 minutes (1 hour tastes noticeably better), up to 4 hours. No longer — the salt starts drawing water out of the paneer."
+    "Stir the ginger-garlic paste (1 tbsp), pepper (1 tsp), cardamom (1/2 tsp), salt and 1/2 tsp crushed kasuri methi into the creamy base. Taste it: it should be well seasoned, because the paneer itself has no salt.",
+    "Cut the paneer (300 g) into 1.5-inch cubes and, if using, the capsicum and onion (1 each) into squares. Fold them into the marinade gently until fully coated — use a spoon, not your hands, so the cubes stay whole. Marinate covered in the fridge for at least 30 minutes (1 hour tastes noticeably better), up to 4 hours. No longer — the salt starts drawing water out of the paneer."
   ],
   steps: [
-    "Fold the paneer and vegetables into the marinade gently until fully coated. Use a spoon, not your hands, so the cubes stay whole.",
     "Preheat the air fryer to 180°C for 3 minutes.",
-    "Arrange the cubes in a single layer with gaps. Do not tip the leftover marinade in with them — it will pool and steam everything.",
+    "Arrange the cubes (300 g) in a single layer with gaps. Do not tip the leftover marinade in with them — it will pool and steam everything.",
     "Air fry 180°C for 8 minutes. Flip, brush with 1 tbsp of the melted butter, and go 4 more minutes until there are light golden-brown patches. You want pale with freckles, not dark.",
-    "Brush with the rest of the butter, crush the remaining kasuri methi over the top, sprinkle chaat masala, squeeze over lemon and serve hot with mint chutney."
+    "Brush with the rest of the butter (1 tbsp), crush the remaining kasuri methi (1 tsp) over the top, sprinkle chaat masala (1/2 tsp), squeeze over lemon and serve hot with mint chutney."
   ],
   storage: "Fridge up to 2 days. Paneer turns chewy when cold, so warm it before eating.",
   reheating: "Air fryer 170°C for 3 minutes. Adding a teaspoon of cream before reheating brings the softness back.",

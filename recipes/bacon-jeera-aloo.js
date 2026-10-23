@@ -31,15 +31,15 @@ window.RECIPES.push({
     "Amchur, hing (pantry check)"
   ],
   preparation: [
-    "Par-cook the potato cubes: microwave in a covered bowl with 2 tbsp water for 4–5 minutes, until a knife goes in easily but the cubes still hold their shape (or boil 5 minutes). Drain and spread them out to let the steam escape for 5 minutes. Drier potatoes crisp better and don't break.",
-    "Chop the bacon into small pieces."
+    "Par-cook the potato cubes (4 medium potatoes): microwave in a covered bowl with 2 tbsp water for 4–5 minutes, until a knife goes in easily but the cubes still hold their shape (or boil 5 minutes). Drain and spread them out to let the steam escape for 5 minutes. Drier potatoes crisp better and don't break.",
+    "Chop the bacon (4–5 strips) into small pieces."
   ],
   steps: [
-    "Cook the bacon in a cold pan on medium for 6–7 minutes until crisp. Lift out, leaving about 2 tbsp grease.",
-    "Add cumin seeds to the hot grease. When they crackle and darken a shade (10–15 seconds), add the hing, then the green chilli and ginger. Sauté 30–40 seconds, until the raw ginger smell is gone. Don't let the ginger brown, or it turns bitter.",
-    "Add the potatoes and spread them out. Let them sit 2–3 minutes without stirring so they get a golden crust, then turn and repeat.",
-    "Lower the heat, sprinkle turmeric, chilli powder, coriander powder and salt, and toss gently for 1 minute.",
-    "Add the bacon back with amchur or lemon and coriander, toss, and serve."
+    "Cook the bacon (4–5 strips) in a cold pan on medium for 6–7 minutes until crisp. Lift out, leaving about 2 tbsp grease.",
+    "Add cumin seeds (1.5 tsp) to the hot grease. When they crackle and darken a shade (10–15 seconds), add the hing (a pinch), then the green chilli (1) and ginger (1/2 inch). Sauté 30–40 seconds, until the raw ginger smell is gone. Don't let the ginger brown, or it turns bitter.",
+    "Add the potatoes (4 medium) and spread them out. Let them sit 2–3 minutes without stirring so they get a golden crust, then turn and repeat.",
+    "Lower the heat, sprinkle turmeric (1/2 tsp), chilli powder (1/2 tsp), coriander powder (1 tsp) and salt, and toss gently for 1 minute.",
+    "Add the bacon (4–5 strips) back with amchur (1/2 tsp) or lemon (a squeeze) and coriander, toss, and serve."
   ],
   storage: "Fridge up to 3 days.",
   reheating: "Hot pan or air fryer 180°C for 4 minutes to re-crisp.",

@@ -34,14 +34,14 @@ window.RECIPES.push({
   ],
   preparation: [
     "Grease or line the muffin cups.",
-    "Pat the corn dry — wet corn makes soggy pockets in the muffin."
+    "Pat the corn (1/2 cup) dry — wet corn makes soggy pockets in the muffin."
   ],
   steps: [
-    "In a big bowl, whisk the flour, baking powder, soda, salt, oregano, chilli flakes and pepper.",
-    "Stir in the cheese, corn, capsicum and coriander so they are coated in flour (this stops them sinking).",
+    "In a big bowl, whisk the flour (1.5 cups), baking powder (2 tsp), soda (1/4 tsp), salt (1/2 tsp), oregano (1/2 tsp), chilli flakes (1/2 tsp) and pepper (1/4 tsp).",
+    "Stir in the cheese (1 cup minus 2 tbsp), corn (1/2 cup), capsicum (1/4 cup) and coriander (1 tbsp) so they are coated in flour (this stops them sinking).",
     "Preheat the air fryer at 160°C for 3 minutes.",
-    "Whisk the milk, curd, oil and egg separately, then pour into the dry mix and fold with a spatula only 10–15 strokes, just until no dry flour shows. The batter should be thick and lumpy — lumps are fine; over-mixing makes tough, rubbery muffins.",
-    "Fill cups three-quarters full and top with the reserved cheese.",
+    "Whisk the milk (3/4 cup), curd (1/4 cup), oil (1/4 cup) and egg (1) separately, then pour into the dry mix and fold with a spatula only 10–15 strokes, just until no dry flour shows. The batter should be thick and lumpy — lumps are fine; over-mixing makes tough, rubbery muffins.",
+    "Fill cups three-quarters full and top with the reserved cheese (2 tbsp).",
     "Air fry at 160°C for 13–15 minutes per batch, until domed, golden and a toothpick in the centre comes out clean. If the tops are browning before the centre is done, lay a piece of foil loosely over them for the last few minutes.",
     "Cool in the cups for 5 minutes, then lift out onto a rack or plate so the bottoms don't go soggy. Best eaten warm."
   ],

@@ -29,15 +29,15 @@ window.RECIPES.push({
     "Soy sauce, vinegar, chilli flakes"
   ],
   preparation: [
-    "Blanch the florets in boiling salted water for 2 minutes, drain, and pat completely dry — dry florets sear, wet ones steam.",
-    "Mix soy, vinegar and sugar in a small bowl; chop garlic and crush peanuts. Everything within arm's reach — this cooks faster than you can find things."
+    "Blanch the florets (1 large head, about 400 g) in boiling salted water for 2 minutes, drain, and pat completely dry — dry florets sear, wet ones steam.",
+    "Mix soy (1 tbsp), vinegar (1/2 tsp) and sugar (1/4 tsp) in a small bowl; chop garlic (6–8 cloves) and crush peanuts (2 tbsp). Everything within arm's reach — this cooks faster than you can find things."
   ],
   steps: [
-    "Heat oil in your widest pan or kadai on HIGH until it just smokes.",
-    "Add broccoli in a single layer and leave it untouched for 90 seconds to char the edges; toss and repeat once more. Bite a stem piece: it should be tender with a slight crunch.",
-    "Push the broccoli aside, drop garlic and chilli flakes into the oil pocket and stir 30 seconds until golden — not brown, brown garlic is bitter garlic.",
+    "Heat oil (1.5 tbsp) in your widest pan or kadai on HIGH until it just smokes.",
+    "Add broccoli (1 large head, about 400 g) in a single layer and leave it untouched for 90 seconds to char the edges; toss and repeat once more. Bite a stem piece: it should be tender with a slight crunch.",
+    "Push the broccoli aside, drop garlic (6–8 cloves) and chilli flakes (1/2 tsp) into the oil pocket and stir 30 seconds until golden — not brown, brown garlic is bitter garlic.",
     "Pour the soy mix over everything, toss on high for 30 seconds so it coats and evaporates to a glaze.",
-    "Off the heat: crushed peanuts, a crack of pepper, and taste for salt (soy carries some). Serve hot beside dal-rice or noodles."
+    "Off the heat: crushed peanuts (2 tbsp), a crack of pepper, and taste for salt (soy carries some). Serve hot beside dal-rice or noodles."
   ],
   storage: "Fridge up to 2 days.",
   reheating: "1–2 minutes in a hot pan; microwave softens the char but is acceptable at 60 seconds.",

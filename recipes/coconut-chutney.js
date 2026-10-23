@@ -32,15 +32,15 @@ window.RECIPES.push({
     "Curry leaves, mustard seeds, urad dal, dried red chillies (pantry check)"
   ],
   preparation: [
-    "Frozen coconut: take out what you need 20–30 minutes ahead, or microwave it 30 seconds to thaw. Grinding it frozen hard makes a grainy chutney.",
-    "Fresh coconut: use only the white part; scrape lightly so the brown skin doesn't go in.",
+    "Frozen coconut (1 cup, about 100 g): take out what you need 20–30 minutes ahead, or microwave it 30 seconds to thaw. Grinding it frozen hard makes a grainy chutney.",
+    "Fresh coconut (1 cup, about 100 g): use only the white part; scrape lightly so the brown skin doesn't go in.",
     "Check you have roasted chana dal (dalia), not raw chana dal. Dalia is pale yellow, light and crunchy and can be eaten straight from the pack. If you only have raw chana dal, dry-roast 2 tbsp in a pan on low for 4–5 minutes until golden and nutty, and cool it before grinding."
   ],
   steps: [
-    "Put the coconut, roasted chana dal, green chillies, ginger, garlic and salt in the small mixer jar. Add about 1/4 cup water.",
-    "Grind in bursts to a smooth, thick paste, scraping down the sides once or twice. Add more water a little at a time until it is like thick batter: it should drop off a spoon, not run. Roasted chana dal is what makes it smooth and creamy and stops the coconut water separating out.",
-    "Taste. Add the lemon juice or tamarind only if it tastes flat; skip it with dosa or uttapam made from sour batter. Add another chilli if it isn't hot enough. Scrape into a serving bowl.",
-    "Tempering: heat the oil in a small pan on medium. Add mustard seeds; when they crackle (10–20 seconds), add the urad dal and red chilli and stir until the dal turns light golden, about 30 seconds. Add the curry leaves (stand back, they splutter) and the hing, then switch off.",
+    "Put the coconut (1 cup, about 100 g), roasted chana dal (2 tbsp), green chillies (2–3), ginger (1/2 inch), garlic (1 small clove) and salt (1/2 tsp) in the small mixer jar. Add about 1/4 cup water.",
+    "Grind in bursts to a smooth, thick paste, scraping down the sides once or twice. Add more water (about 1/4 cup) a little at a time until it is like thick batter: it should drop off a spoon, not run. Roasted chana dal is what makes it smooth and creamy and stops the coconut water separating out.",
+    "Taste. Add the lemon juice (1 tsp) or tamarind (a small marble) only if it tastes flat; skip it with dosa or uttapam made from sour batter. Add another chilli if it isn't hot enough. Scrape into a serving bowl.",
+    "Tempering: heat the oil (1 tsp) in a small pan on medium. Add mustard seeds (1/2 tsp); when they crackle (10–20 seconds), add the urad dal (1/2 tsp) and red chilli (1) and stir until the dal turns light golden, about 30 seconds. Add the curry leaves (8–10; stand back, they splutter) and the hing (a pinch), then switch off.",
     "Pour the sizzling tempering straight over the chutney. Mix just before serving."
   ],
   storage: "Best the day it's made. Fridge 2–3 days in a sealed box, up to 4–5 days if made with frozen coconut and kept very cold. Don't leave it out for more than 2–3 hours; coconut turns sour fast in Indian heat. Freezing the ground chutney (without the tempering) works for 1 month in small boxes.",

@@ -32,16 +32,16 @@ window.RECIPES.push({
     "Hing (pantry check)"
   ],
   preparation: [
-    "Soak the chana dal in water for 30 minutes while you do everything else — it cooks evenly instead of half-mushy, half-bullet.",
-    "Peel and cube the lauki; taste a raw sliver, and if it's bitter, that lauki goes in the bin, not the cooker."
+    "Soak the chana dal (1/2 cup) in water for 30 minutes while you do everything else — it cooks evenly instead of half-mushy, half-bullet.",
+    "Peel and cube the lauki (1 medium, about 500 g); taste a raw sliver, and if it's bitter, that lauki goes in the bin, not the cooker."
   ],
   steps: [
-    "Heat oil in the open pressure cooker on medium. Splutter cumin and hing, add onion and green chilli, cook 3–4 minutes until soft.",
-    "Add ginger-garlic paste and stir 30–60 seconds until the raw smell is gone. Add tomato, turmeric, coriander powder and chilli powder; cook 3–4 minutes until the tomato is mushy and oil starts to show at the edges.",
-    "Add drained chana dal, lauki, salt and 1.25 cups water. Stir once. Don't add more water: the lauki releases plenty of its own as it cooks.",
+    "Heat oil (2 tbsp) in the open pressure cooker on medium. Splutter cumin (1 tsp) and hing (a pinch), add onion (1) and green chilli (1), cook 3–4 minutes until soft.",
+    "Add ginger-garlic paste (1 tsp) and stir 30–60 seconds until the raw smell is gone. Add tomato (1), turmeric (1/2 tsp), coriander powder (1 tsp) and chilli powder (1/2 tsp); cook 3–4 minutes until the tomato is mushy and oil starts to show at the edges.",
+    "Add drained chana dal (1/2 cup), lauki (1 medium, about 500 g), salt and 1.25 cups water. Stir once. Don't add more water: the lauki releases plenty of its own as it cooks.",
     "Close the lid, pressure cook 3 whistles on medium, then let the pressure release on its own (about 10 minutes, all unattended).",
     "Open and check the dal: a grain should squash easily between your fingers but still hold its shape. If it's still hard, add 1/4 cup water and give it 1 more whistle.",
-    "Mash a few lauki pieces against the side for body. If it's too thick, add a splash of hot water. Simmer 2–3 minutes and finish with garam masala and coriander. Eat with rice or phulka."
+    "Mash a few lauki pieces against the side for body. If it's too thick, add a splash of hot water. Simmer 2–3 minutes and finish with garam masala (1/2 tsp) and coriander. Eat with rice or phulka."
   ],
   storage: "Fridge up to 3 days; thickens overnight like all good dals.",
   reheating: "Microwave 2 minutes with a splash of water, or loosen on the stove.",

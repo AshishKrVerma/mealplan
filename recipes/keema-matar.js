@@ -38,17 +38,17 @@ window.RECIPES.push({
     "Whole spices (bay, cinnamon, clove, green cardamom) (pantry check)"
   ],
   preparation: [
-    "Take keema out of the fridge 20 minutes ahead so it browns instead of steaming.",
-    "Chop onions and tomatoes fine — this is a rustic, minced texture dish."
+    "Take keema (500 g) out of the fridge 20 minutes ahead so it browns instead of steaming.",
+    "Chop onions (2) and tomatoes (2) fine — this is a rustic, minced texture dish."
   ],
   steps: [
-    "Heat oil, add the whole spices and cumin and let them sizzle for 30 seconds until fragrant, then cook onions with a pinch of salt until evenly golden, 7–8 minutes.",
-    "Add ginger-garlic paste and green chilli and cook 1–2 minutes until the raw smell goes. Add tomatoes and powdered spices (not the garam masala) and cook 4–5 minutes until the tomato is mushy and oil separates at the edges.",
-    "Add keema. Mix it thoroughly into the masala, pressing out lumps with the back of the spatula, and cook on medium-high 5 minutes until it changes colour.",
+    "Heat oil (3 tbsp), add the whole spices (1 bay leaf, 1 inch cinnamon, 3 cloves, 2 green cardamom) and cumin (1 tsp) and let them sizzle for 30 seconds until fragrant, then cook onions (2) with a pinch of salt until evenly golden, 7–8 minutes.",
+    "Add ginger-garlic paste (1.5 tbsp) and green chilli (2) and cook 1–2 minutes until the raw smell goes. Add tomatoes (2) and powdered spices (1 tsp turmeric, 2 tsp coriander powder, 1 tsp chilli powder; not the garam masala) and cook 4–5 minutes until the tomato is mushy and oil separates at the edges.",
+    "Add keema (500 g). Mix it thoroughly into the masala, pressing out lumps with the back of the spatula, and cook on medium-high 5 minutes until it changes colour.",
     "Cover and cook on LOW for 5 minutes; the keema releases its juices. Uncover and bhuno on medium for 8–10 minutes, stirring often, until the liquid has dried, the keema looks a shade darker and oil separates again.",
-    "Turn the heat to low and stir in the whisked curd. Cook 2 minutes until it is absorbed.",
-    "Add peas, the remaining salt and 1/2 cup hot water. Cover and simmer 8–10 minutes, stirring twice, until the peas are soft and the keema is tender.",
-    "Dry off extra moisture on high, finish with garam masala, coriander and a squeeze of lemon. Keep covered off the heat for 5 minutes before serving."
+    "Turn the heat to low and stir in the whisked curd (3 tbsp). Cook 2 minutes until it is absorbed.",
+    "Add peas (1 cup), the remaining salt and 1/2 cup hot water. Cover and simmer 8–10 minutes, stirring twice, until the peas are soft and the keema is tender.",
+    "Dry off extra moisture on high, finish with garam masala (1 tsp), coriander and a squeeze of lemon (half a lemon). Keep covered off the heat for 5 minutes before serving."
   ],
   storage: "Fridge 3 days; freezes perfectly for a month in flat packs.",
   reheating: "Microwave 2 minutes or a quick pan toss. Add nothing — it reheats dry and beautiful.",

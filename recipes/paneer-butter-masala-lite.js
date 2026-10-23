@@ -34,17 +34,17 @@ window.RECIPES.push({
     "Kashmiri chilli powder, kasuri methi, bay leaf, cardamom, cloves, cinnamon (pantry check)"
   ],
   preparation: [
-    "Heat 1 tsp of the oil in a pan on medium. Add the whole spices and let them sizzle 20 seconds, then add the onion and cook 3–4 minutes until translucent.",
-    "Add tomatoes, cashews and 1 cup water. Cover and cook on medium for 10–12 minutes until the tomatoes are completely soft and collapsing (the cashews soften here, so no separate soak is needed).",
+    "Heat 1 tsp of the oil in a pan on medium. Add the whole spices (1 bay leaf, 2 green cardamoms, 2 cloves, 1 inch cinnamon) and let them sizzle 20 seconds, then add the onion (1) and cook 3–4 minutes until translucent.",
+    "Add tomatoes (3), cashews (12) and 1 cup water. Cover and cook on medium for 10–12 minutes until the tomatoes are completely soft and collapsing (the cashews soften here, so no separate soak is needed).",
     "Fish out the bay leaf, cinnamon, cloves and cardamom — blended whole spices make the gravy gritty and bitter. Cool for 10 minutes (hot liquid can blow the blender lid), then blend to a completely smooth puree.",
-    "Soak paneer in hot salted water for 15–20 minutes while the gravy comes together, then drain."
+    "Soak paneer (350 g) in hot salted water for 15–20 minutes while the gravy comes together, then drain."
   ],
   steps: [
-    "Heat butter and the remaining oil together in a kadai on low (the oil stops the butter burning). Add ginger-garlic paste and cook 1 minute until the raw smell is gone.",
-    "Add Kashmiri chilli powder, stir for 10 seconds, and immediately pour in the blended puree — this is what gives the classic orange-red colour without food colouring.",
-    "Season with salt and sugar; simmer on medium-low 10–12 minutes, stirring every 3–4 minutes, partially covered because it splatters like it's angry. It's ready when it darkens slightly, turns glossy and shows small dots of fat on the surface, and it's thick but still flowing. Don't skip this simmer: undercooked puree tastes raw and sharp.",
-    "Lower the heat to the minimum, stir in the milk gradually, then add the drained paneer. Cover and warm through for 2–3 minutes only — overcooked paneer goes rubbery.",
-    "Switch off and finish with garam masala and kasuri methi crushed between your palms. Taste and adjust salt and sugar. Rest 5 minutes (it thickens as it sits); serve with chapati or jeera rice."
+    "Heat butter (1 tbsp) and the remaining oil (2 tsp) together in a kadai on low (the oil stops the butter burning). Add ginger-garlic paste (1 tbsp) and cook 1 minute until the raw smell is gone.",
+    "Add Kashmiri chilli powder (1.5 tsp), stir for 10 seconds, and immediately pour in the blended puree — this is what gives the classic orange-red colour without food colouring.",
+    "Season with salt and sugar (1/2 tsp); simmer on medium-low 10–12 minutes, stirring every 3–4 minutes, partially covered because it splatters like it's angry. It's ready when it darkens slightly, turns glossy and shows small dots of fat on the surface, and it's thick but still flowing. Don't skip this simmer: undercooked puree tastes raw and sharp.",
+    "Lower the heat to the minimum, stir in the milk (1/2 cup) gradually, then add the drained paneer (350 g). Cover and warm through for 2–3 minutes only — overcooked paneer goes rubbery.",
+    "Switch off and finish with garam masala (1/2 tsp) and kasuri methi (1 tsp) crushed between your palms. Taste and adjust salt and sugar. Rest 5 minutes (it thickens as it sits); serve with chapati or jeera rice."
   ],
   storage: "Fridge up to 3 days; the gravy freezes well without the paneer.",
   reheating: "Gentle stove reheat with a splash of milk, or microwave 2 minutes at medium power.",

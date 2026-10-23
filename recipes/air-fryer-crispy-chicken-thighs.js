@@ -31,14 +31,14 @@ window.RECIPES.push({
     "Kashmiri chilli powder (pantry check)"
   ],
   preparation: [
-    "Dry the thighs hard — kitchen towel, both sides, under the skin too. Moisture is the enemy of crisp skin.",
+    "Dry the thighs (6) hard — kitchen towel, both sides, under the skin too. Moisture is the enemy of crisp skin.",
     "Turn each thigh skin-side down and make 2 shallow cuts on the meat side, down to the bone. The spice gets into the meat and the thick part near the bone cooks at the same pace as the rest. Leave the skin uncut.",
-    "Mix all the dry spices in a bowl first, rub the oil onto the chicken, then the spice mix over that. It coats evenly this way instead of clumping.",
+    "Mix all the dry spices (1 tsp each chilli powder, garam masala, coriander powder, black pepper, garlic powder and salt; 1/2 tsp turmeric) in a bowl first, rub the oil (2 tbsp) onto the chicken (6 thighs), then the spice mix over that. It coats evenly this way instead of clumping.",
     "They can sit spiced and uncovered in the fridge up to 24 hours, which dries the skin further and makes them even better."
   ],
   steps: [
     "Preheat the air fryer to 200°C for 4 minutes.",
-    "Arrange the thighs skin-side DOWN in one layer with gaps between them. Crowding steams them — do two batches if you must.",
+    "Arrange the thighs (6) skin-side DOWN in one layer with gaps between them. Crowding steams them — do two batches if you must.",
     "Air fry at 200°C for 12 minutes. This renders the fat out from under the skin.",
     "Flip so the skin faces UP and go another 10–12 minutes at 200°C, until the skin is deep brown, puffed and crackling. Finishing skin-up keeps it crisp; skin that ends face-down on the basket goes soft.",
     "Check doneness: cut into the thickest part next to the bone. The juices should run clear and the meat should show no pink. If it is still pink, give it 3 more minutes.",

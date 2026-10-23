@@ -33,14 +33,14 @@ window.RECIPES.push({
   ],
   preparation: [
     "Grease silicone cups or put paper liners inside them (paper alone is too floppy in the air fryer).",
-    "Mash the bananas well with a fork in a big bowl — a few small lumps are fine.",
-    "If using butter, melt it and let it cool for 5 minutes so it doesn't cook the egg. Measure the flour by spooning it into the cup and levelling it off; scooping packs in extra flour and makes dry muffins."
+    "Mash the bananas (3) well with a fork in a big bowl — a few small lumps are fine.",
+    "If using butter (1/3 cup), melt it and let it cool for 5 minutes so it doesn't cook the egg. Measure the flour (1.5 cups) by spooning it into the cup and levelling it off; scooping packs in extra flour and makes dry muffins."
   ],
   steps: [
-    "Into the mashed banana, stir the melted butter, sugar, egg and vanilla until combined.",
-    "Sprinkle the baking soda, salt and cinnamon over and whisk well for 30 seconds, so there are no lumps of soda (they leave bitter spots).",
-    "Add the flour and fold gently with a spatula only until no dry flour shows — overmixing makes muffins tough and full of tunnels.",
-    "Fold in nuts or chocolate chips if using.",
+    "Into the mashed banana, stir the melted butter (1/3 cup), sugar (1/2 cup), egg (1) and vanilla (1 tsp) until combined.",
+    "Sprinkle the baking soda (1 tsp), salt (1/4 tsp) and cinnamon (1/2 tsp) over and whisk well for 30 seconds, so there are no lumps of soda (they leave bitter spots).",
+    "Add the flour (1.5 cups) and fold gently with a spatula only until no dry flour shows — overmixing makes muffins tough and full of tunnels.",
+    "Fold in nuts or chocolate chips (1/3 cup) if using.",
     "Preheat the air fryer at 160°C for 3 minutes. Fill the cups three-quarters full.",
     "Air fry at 160°C for 13–15 minutes per batch (6 at a time), checking at 12 minutes. They're done when the tops are golden brown, spring back when pressed lightly, and a toothpick in the centre comes out clean or with a few moist crumbs. If the tops brown too fast, cover loosely with foil for the last few minutes.",
     "Cool 5 minutes in the cups, then on a rack."

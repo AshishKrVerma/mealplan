@@ -36,12 +36,12 @@ window.RECIPES.push({
     "Kashmiri chilli powder (pantry check)"
   ],
   preparation: [
-    "Pat the chicken strips dry with kitchen paper. Make the tikka marinade: stir the curd, ginger-garlic paste, Kashmiri chilli powder, garam masala, kasuri methi (crushed between your palms), lemon juice, oil and a good pinch of salt into a thick, smooth paste — if it looks runny, the chicken will steam instead of char. Coat the strips and let them sit at least 30 minutes, or overnight in the fridge (skip entirely if using leftover tikka).",
-    "Slice onion and toss with lemon, salt, chaat masala and green chilli if using; let it sit while the chicken cooks so the onion softens and loses its harsh bite. Mix the curd spread. Line everything up assembly-station style."
+    "Pat the chicken strips (400 g) dry with kitchen paper. Make the tikka marinade: stir the curd (1/4 cup), ginger-garlic paste (1 tbsp), Kashmiri chilli powder (1 tsp), garam masala (1/2 tsp), kasuri methi (1/2 tsp; crushed between your palms), lemon juice (1 tsp), oil (1 tsp) and a good pinch of salt into a thick, smooth paste — if it looks runny, the chicken will steam instead of char. Coat the strips and let them sit at least 30 minutes, or overnight in the fridge (skip entirely if using leftover tikka).",
+    "Slice onion (1 large) and toss with lemon (a squeeze), salt (a pinch), chaat masala and green chilli (1) if using; let it sit while the chicken cooks so the onion softens and loses its harsh bite. Mix the curd spread (4 tbsp thick curd + pinch of salt and roasted cumin). Line everything up assembly-station style."
   ],
   steps: [
-    "Preheat the air fryer at 200°C for 3 minutes. Spread the strips in a single layer (two batches if needed) and air fry 10–12 minutes, shaking once halfway, until charred at the edges and cooked through (cut the thickest strip — no pink inside). (No air fryer? A screaming-hot tawa with 1 tsp oil, 3 minutes a side, works.)",
-    "Warm each chapati on a dry tawa on medium until soft and lightly speckled, about 30 seconds a side.",
+    "Preheat the air fryer at 200°C for 3 minutes. Spread the strips (400 g) in a single layer (two batches if needed) and air fry 10–12 minutes, shaking once halfway, until charred at the edges and cooked through (cut the thickest strip — no pink inside). (No air fryer? A screaming-hot tawa with 1 tsp oil, 3 minutes a side, works.)",
+    "Warm each chapati (6) on a dry tawa on medium until soft and lightly speckled, about 30 seconds a side.",
     "Spread a spoon of curd spread down the middle of a chapati, then a stripe of mint chutney.",
     "Pile on chicken, lemony onions and tomato. Do not overstuff — six modest wraps beat four bursting ones.",
     "Roll tightly, tucking one end closed. For a bonus, press the rolled wrap seam-down on the warm tawa for 1 minute until lightly crisp."

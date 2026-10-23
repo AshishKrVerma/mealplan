@@ -34,17 +34,17 @@ window.RECIPES.push({
     "Ketchup or mint chutney"
   ],
   preparation: [
-    "Season the paneer first: toss the cubes gently with ginger-garlic paste, chilli powder, pepper and a pinch of salt. Without this the inside tastes bland under the crust. Coat them within 10–15 minutes; left longer, the salt draws out water and the crust goes soggy.",
-    "Make the slurry: whisk the besan, cornflour, chilli powder, garam masala and salt with about 5 tbsp water until smooth and thick-coating (like dosa batter).",
-    "Season the breadcrumbs with herbs/masala on a plate.",
+    "Season the paneer (250 g) first: toss the cubes gently with ginger-garlic paste (1 tsp), chilli powder (1/4 tsp), pepper (1/4 tsp) and a pinch of salt. Without this the inside tastes bland under the crust. Coat them within 10–15 minutes; left longer, the salt draws out water and the crust goes soggy.",
+    "Make the slurry: whisk the besan (3 tbsp), cornflour (2 tbsp), chilli powder (1/2 tsp), garam masala (1/2 tsp) and salt with about 5 tbsp water until smooth and thick-coating (like dosa batter).",
+    "Season the breadcrumbs (3/4 cup) with herbs/masala (1/2 tsp) on a plate.",
     "Line up: paneer → slurry → crumbs. Dip each cube, let the extra slurry drip off, then roll it in crumbs, pressing them on gently so there are no bare patches.",
     "If you have time, chill the coated cubes in the fridge for 15 minutes. The crumbs set and stay on better in the air fryer."
   ],
   steps: [
     "Preheat air fryer at 190°C for 3 minutes.",
-    "Arrange cubes in a single layer with gaps (crowded cubes steam instead of crisping; do two batches if needed). Spray or brush lightly with oil.",
+    "Arrange cubes (250 g paneer) in a single layer with gaps (crowded cubes steam instead of crisping; do two batches if needed). Spray or brush lightly with oil (from the 2 tsp).",
     "Air fry at 190°C for 5 minutes. Turn the cubes, spray any pale or dry-looking floury spots with a little oil, then air fry 3–5 minutes more until deep golden and crunchy. Don't push much past 10 minutes: the paneer inside turns chewy.",
-    "Hit with chaat masala and serve hot with chutney or ketchup."
+    "Hit with chaat masala (1/2 tsp) and serve hot with chutney or ketchup."
   ],
   storage: "Really a make-and-eat snack. Coated-but-uncooked cubes freeze well for 2 weeks — air fry from frozen, +3 minutes.",
   reheating: "3 minutes at 180°C. Microwave turns the crust soft — avoid.",

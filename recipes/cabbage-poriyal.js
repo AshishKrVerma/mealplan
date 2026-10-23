@@ -30,17 +30,17 @@ window.RECIPES.push({
     "Hing (pantry check)"
   ],
   preparation: [
-    "Shred the cabbage thin and even — thin shreds cook in minutes and stay sweet; chunky pieces steam into sulkiness.",
-    "If you rinse the cabbage after shredding, drain it very well in a colander — wet cabbage stews and turns mushy.",
-    "Keep coconut thawed and everything measured by the stove; the tadka takes 60 seconds."
+    "Shred the cabbage (1/2 medium, about 400 g) thin and even — thin shreds cook in minutes and stay sweet; chunky pieces steam into sulkiness.",
+    "If you rinse the cabbage (1/2 medium, about 400 g) after shredding, drain it very well in a colander — wet cabbage stews and turns mushy.",
+    "Keep coconut (3 tbsp) thawed and everything (1 tsp mustard seeds, 1 tsp urad dal, pinch of hing, 10–12 curry leaves, 2 dried red chillies, 1/4 tsp turmeric, 1.5 tbsp oil) measured by the stove; the tadka takes 60 seconds."
   ],
   steps: [
-    "Heat oil in a wide kadai on medium. Splutter mustard seeds, then add urad dal and stir until it turns biscuit-gold.",
-    "Add curry leaves, red chillies and hing — stand back, they crackle.",
-    "Add the cabbage and turmeric — no salt yet. Raise the flame to medium-high and toss well to coat in the tadka.",
+    "Heat oil (1.5 tbsp) in a wide kadai on medium. Splutter mustard seeds (1 tsp), then add urad dal (1 tsp) and stir until it turns biscuit-gold.",
+    "Add curry leaves (10–12), red chillies (2) and hing (a pinch) — stand back, they crackle.",
+    "Add the cabbage (1/2 medium, about 400 g) and turmeric (1/4 tsp) — no salt yet. Raise the flame to medium-high and toss well to coat in the tadka.",
     "Keep tossing uncovered for 4–5 minutes, until the cabbage has wilted a little, the raw smell is gone and it still has a slight bite — not translucent surrender. (If your cabbage is old and tough, cover on low for 2–3 minutes here.)",
     "Now add the salt and toss 1 more minute on high. Taste and adjust.",
-    "Off the heat, stir in the coconut. Serve with rasam-rice, dal-rice, or curd rice."
+    "Off the heat, stir in the coconut (3 tbsp). Serve with rasam-rice, dal-rice, or curd rice."
   ],
   storage: "Fridge up to 2 days.",
   reheating: "Microwave 60 seconds, or a 2-minute toss in a dry pan.",

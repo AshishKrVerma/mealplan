@@ -32,9 +32,9 @@ window.RECIPES.push({
   ],
   preparation: [
     "Use fresh, fine besan. Taste a pinch first: if it tastes bitter, it has gone rancid and will ruin the chillas.",
-    "In a bowl mix the besan, salt, turmeric, chilli powder and hing. Crush the ajwain between your palms as you add it to release its aroma.",
-    "Add the water a little at a time, whisking after each splash, until you have a smooth batter that is thick but pourable (like dosa batter) with no lumps.",
-    "Stir in the onion, tomato, green chilli, ginger and coriander. Rest 10 minutes. The batter thickens slightly, so loosen it with a splash of water. Batter that is too thick makes a chilla that stays raw inside."
+    "In a bowl mix the besan (1.5 cups), salt, turmeric (1/4 tsp), chilli powder (1/2 tsp) and hing (a pinch). Crush the ajwain (1/2 tsp) between your palms as you add it to release its aroma.",
+    "Add the water (~1.25 cups) a little at a time, whisking after each splash, until you have a smooth batter that is thick but pourable (like dosa batter) with no lumps.",
+    "Stir in the onion (1), tomato (1), green chilli (1), ginger (1 tsp) and coriander (a handful). Rest 10 minutes. The batter thickens slightly, so loosen it with a splash of water. Batter that is too thick makes a chilla that stays raw inside."
   ],
   steps: [
     "Heat a nonstick tawa until hot, rub with a few drops of oil, then turn the flame down to MEDIUM. Hot but not very hot: on high flame the outside browns while the inside stays raw.",

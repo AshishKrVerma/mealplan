@@ -39,14 +39,14 @@ window.RECIPES.push({
     "Tomato (1), green chilli, lemon (1), fresh coriander"
   ],
   preparation: [
-    "Mix sliced onion and chopped green chilli with vinegar, salt and chilli powder; set aside — 15–20 minutes turns them into proper tangy, chilli-hot frankie onions.",
-    "Toss the diced chicken with ginger-garlic paste, all the spices, lemon juice and salt. Leave at least 15 minutes (or a few hours in the fridge for more flavour).",
-    "Mix the frankie masala in a small katori. This tangy sprinkle is the signature Mumbai frankie flavour.",
-    "Beat the eggs and keep chapatis, chutney and a plate ready — rolling goes fast once the tawa is hot."
+    "Mix sliced onion (1) and chopped green chilli (1) with vinegar (1.5 tbsp), salt (1/4 tsp) and chilli powder (a pinch); set aside — 15–20 minutes turns them into proper tangy, chilli-hot frankie onions.",
+    "Toss the diced chicken (400 g) with ginger-garlic paste (1 tbsp), all the spices (1/2 tsp turmeric, 1 tsp Kashmiri chilli powder, 1 tsp coriander powder, 1 tsp garam masala, 1/2 tsp cumin powder), lemon juice (1 tbsp) and salt. Leave at least 15 minutes (or a few hours in the fridge for more flavour).",
+    "Mix the frankie masala (1 tsp chaat masala, 1/2 tsp amchur, 1/2 tsp chilli powder, 1/2 tsp roasted cumin powder) in a small katori. This tangy sprinkle is the signature Mumbai frankie flavour.",
+    "Beat the eggs (2) with a pinch of salt and keep chapatis (4), chutney and a plate ready — rolling goes fast once the tawa is hot."
   ],
   steps: [
-    "Heat 1.5 tbsp oil in a pan on medium-high. Add chopped onion and cook 3–4 minutes until soft and lightly golden. Add the tomato and cook 2–3 minutes until pulpy.",
-    "Add the spiced chicken and stir-fry on high for 3–4 minutes so it sears, then on medium for 4–6 minutes, stirring, until the chicken is done and the masala is dry enough to not leak out of a roll. Don't overcook or the small pieces turn dry. Off the heat, stir in the coriander and a squeeze of lemon. Taste, adjust salt, keep aside.",
+    "Heat 1.5 tbsp oil in a pan on medium-high. Add chopped onion (1) and cook 3–4 minutes until soft and lightly golden. Add the tomato (1) and cook 2–3 minutes until pulpy.",
+    "Add the spiced chicken (400 g) and stir-fry on high for 3–4 minutes so it sears, then on medium for 4–6 minutes, stirring, until the chicken is done and the masala is dry enough to not leak out of a roll. Don't overcook or the small pieces turn dry. Off the heat, stir in the coriander (2 tbsp) and a squeeze of lemon. Taste, adjust salt, keep aside.",
     "Heat a tawa on medium. Warm a chapati with a few drops of oil for about 20 seconds per side until it has light golden spots. Pour a quarter of the beaten egg over the top, spread quickly with the back of the spoon, and once the edges of the egg start to set (15–20 seconds) flip it so the egg side sizzles directly on the tawa for 30–40 seconds and bonds to the chapati.",
     "Move it to a plate egg-side up. Sprinkle a pinch of frankie masala, spoon a line of chicken filling down the middle, top with vinegar onions, a stripe of chutney and another pinch of frankie masala.",
     "Roll it up tight, tucking one end closed; wrap the bottom half in butter paper or foil if you want the full street experience.",

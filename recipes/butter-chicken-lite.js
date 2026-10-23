@@ -41,19 +41,19 @@ window.RECIPES.push({
     "Whole spices — cinnamon, green cardamom, cloves (pantry check)"
   ],
   preparation: [
-    "Pat the chicken dry. Rub it with the lemon juice, chilli powder and salt first and leave 10 minutes; this first coat lets the flavour get inside.",
-    "Add the curd, ginger-garlic paste, turmeric and garam masala and mix well. Marinate at least 20 minutes on the counter while you chop and soak the cashews. If you can plan ahead, 2 hours to overnight in the fridge gives noticeably more tender chicken; take it out 20 minutes before cooking.",
+    "Pat the chicken (500 g) dry. Rub it with the lemon juice (1 tbsp), chilli powder (1 tsp) and salt first and leave 10 minutes; this first coat lets the flavour get inside.",
+    "Add the curd (1/2 cup), ginger-garlic paste (1 tbsp), turmeric (1/2 tsp) and garam masala (1/2 tsp) and mix well. Marinate at least 20 minutes on the counter while you chop and soak the cashews (10–12). If you can plan ahead, 2 hours to overnight in the fridge gives noticeably more tender chicken; take it out 20 minutes before cooking.",
     "Use thick curd. Thin, watery curd makes the chicken bland and splashes in the pan."
   ],
   steps: [
-    "Heat 1 tbsp oil in a kadhai on medium-high. Lay the chicken pieces in with a little space between them, in 2 batches if the pan is small. Cook about 2 minutes per side until the outside is opaque with a few light brown spots; it need not cook through. Don't use full flame, because the yogurt coating burns easily. Remove to a plate and keep any juices.",
-    "In the same kadhai, melt the butter on medium. Add the cinnamon, cardamom and cloves and let them sizzle 20–30 seconds until fragrant. Add the 1/2 tbsp ginger-garlic paste and stir 1 minute until the raw smell is gone.",
-    "Add tomatoes, chilli powder, coriander powder and a pinch of salt. Cook 6–8 minutes until completely mushy.",
-    "Turn off the heat and pick out the cinnamon, cardamom and cloves. Add the soaked cashews with their water and blend everything very smooth with an immersion blender (or cool slightly and use the mixie). Return it to the kadhai.",
-    "Simmer the gravy on low-medium, partly covered, for 8–10 minutes, stirring often because it splutters. It is ready when it is thick and tiny specks of butter float on top. Stir in the sugar.",
-    "Add the chicken and its juices, plus 1/4 cup hot water if the gravy is very thick. Simmer 6–8 minutes on low until the chicken is cooked through: cut the biggest piece and it should be white right to the centre.",
-    "Lower the flame fully. Mix 2–3 spoons of the hot gravy into the milk first, then stir the milk into the kadhai so it doesn't split. Warm through 2 minutes; do not boil hard after this.",
-    "Finish with garam masala and kasuri methi crushed between your palms. Taste and adjust salt. Rest 5 minutes; the gravy thickens as it sits."
+    "Heat 1 tbsp oil in a kadhai on medium-high. Lay the chicken pieces (500 g) in with a little space between them, in 2 batches if the pan is small. Cook about 2 minutes per side until the outside is opaque with a few light brown spots; it need not cook through. Don't use full flame, because the yogurt coating burns easily. Remove to a plate and keep any juices.",
+    "In the same kadhai, melt the butter (1.5 tbsp) on medium. Add the cinnamon (1 inch), cardamom (3) and cloves (3) and let them sizzle 20–30 seconds until fragrant. Add the 1/2 tbsp ginger-garlic paste and stir 1 minute until the raw smell is gone.",
+    "Add tomatoes (3), chilli powder (1 tsp), coriander powder (1 tsp) and a pinch of salt. Cook 6–8 minutes until completely mushy.",
+    "Turn off the heat and pick out the cinnamon, cardamom and cloves. Add the soaked cashews (10–12) with their water (1/4 cup) and blend everything very smooth with an immersion blender (or cool slightly and use the mixie). Return it to the kadhai.",
+    "Simmer the gravy on low-medium, partly covered, for 8–10 minutes, stirring often because it splutters. It is ready when it is thick and tiny specks of butter float on top. Stir in the sugar (1 tsp).",
+    "Add the chicken (500 g) and its juices, plus 1/4 cup hot water if the gravy is very thick. Simmer 6–8 minutes on low until the chicken is cooked through: cut the biggest piece and it should be white right to the centre.",
+    "Lower the flame fully. Mix 2–3 spoons of the hot gravy into the milk (1/2 cup) first, then stir the milk into the kadhai so it doesn't split. Warm through 2 minutes; do not boil hard after this.",
+    "Finish with garam masala (1/2 tsp) and kasuri methi (1 tsp) crushed between your palms. Taste and adjust salt. Rest 5 minutes; the gravy thickens as it sits."
   ],
   storage: "Fridge up to 3 days; freezes well for a month (freeze before adding milk if you plan ahead, but even after is fine).",
   reheating: "Gentle — microwave at 60% power 2 minutes or low flame with a splash of milk. Hard boiling can split the gravy.",

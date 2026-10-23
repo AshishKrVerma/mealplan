@@ -29,17 +29,17 @@ window.RECIPES.push({
   ],
   preparation: [
     "The two halves are made separately and only meet in the cup. That separation is the whole technique — it is why Irani chai tastes different from ordinary chai.",
-    "Reduce the milk properly. A cafe reduces it for an hour; twenty minutes on low with a heavy pan gets you most of the way there.",
+    "Reduce the milk (750 ml) properly. A cafe reduces it for an hour; twenty minutes on low with a heavy pan gets you most of the way there.",
     "Keep both hot on low flame while you serve.",
     "Start the milk first, since it takes longest; make the decoction while it reduces."
   ],
   steps: [
-    "Milk: bring the milk to a boil in a heavy, deep pan, then turn the flame to low. Drop a steel spoon into the pan; it helps stop the milk boiling over. Simmer 20–25 minutes, stirring now and then and scraping the cream from the sides back in, until it has reduced by about a third and turned faintly creamy-beige.",
-    "Decoction (dum): while the milk reduces, put the water, tea leaves and crushed cardamom in a small pan, cover with a lid and bring to a boil. Turn the flame to its lowest, keep the lid on (set a heavy mortar or a full steel tumbler on it so steam can't escape) and simmer 7–8 minutes, until it is very dark and has reduced to about 1 cup. Strain into a jug and keep warm.",
-    "Stir the condensed milk and sugar into the hot milk until dissolved. Taste: it should be noticeably sweet, because the decoction will dilute it.",
+    "Milk: bring the milk (750 ml) to a boil in a heavy, deep pan, then turn the flame to low. Drop a steel spoon into the pan; it helps stop the milk boiling over. Simmer 20–25 minutes, stirring now and then and scraping the cream from the sides back in, until it has reduced by about a third and turned faintly creamy-beige.",
+    "Decoction (dum): while the milk reduces, put the water (1.5 cups), tea leaves (3 tbsp) and crushed cardamom (4) in a small pan, cover with a lid and bring to a boil. Turn the flame to its lowest, keep the lid on (set a heavy mortar or a full steel tumbler on it so steam can't escape) and simmer 7–8 minutes, until it is very dark and has reduced to about 1 cup. Strain into a jug and keep warm.",
+    "Stir the condensed milk (2 tbsp) and sugar into the hot milk until dissolved. Taste: it should be noticeably sweet, because the decoction will dilute it.",
     "For a smooth cup with no cream skin, ladle the milk up and pour it back into the pan from a height 4–5 times just before serving.",
     "To serve: pour about 1 part decoction into the cup, then 2–3 parts hot reduced milk over it, from a little height so they mix. 1:2 gives a stronger cup, 1:3 a milkier one.",
-    "Dust with cardamom powder. Serve with Osmania biscuits if you happen to have them, which is the correct thing to do."
+    "Dust with cardamom powder (a pinch). Serve with Osmania biscuits if you happen to have them, which is the correct thing to do."
   ],
   storage: "Decoction keeps 2 days in the fridge. Reduced milk keeps 2 days too — this is how cafes serve it all day.",
   reheating: "Warm the two components separately and mix fresh in the cup. Never reheat mixed chai.",

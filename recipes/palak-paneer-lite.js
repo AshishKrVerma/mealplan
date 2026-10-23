@@ -32,17 +32,17 @@ window.RECIPES.push({
     "Kasuri methi (pantry check)"
   ],
   preparation: [
-    "Pick the leaves and discard thick, fibrous stems (they make it bitter); tender stems are fine. Wash in a big bowl of water 2–3 times until no grit settles at the bottom.",
-    "Blanch spinach and green chilli in boiling salted water for 90 seconds–2 minutes, just until wilted and bright green, then plunge into ice-cold water — this is the whole secret to staying green, not going army-olive. Drain and squeeze lightly.",
-    "Blend the cooled spinach to a smooth puree. Add 2–3 tbsp cold water only if the blades stall.",
-    "Soak paneer cubes in hot salted water for 15–20 minutes while you cook (keeps store-bought paneer soft), then drain."
+    "Pick the leaves (2 large bunches, about 400 g) and discard thick, fibrous stems (they make it bitter); tender stems are fine. Wash in a big bowl of water 2–3 times until no grit settles at the bottom.",
+    "Blanch spinach (2 large bunches, about 400 g) and green chilli (1–2) in boiling salted water for 90 seconds–2 minutes, just until wilted and bright green, then plunge into ice-cold water — this is the whole secret to staying green, not going army-olive. Drain and squeeze lightly.",
+    "Blend the cooled spinach (2 large bunches, about 400 g) to a smooth puree. Add 2–3 tbsp cold water only if the blades stall.",
+    "Soak paneer cubes (300 g) in hot salted water for 15–20 minutes while you cook (keeps store-bought paneer soft), then drain."
   ],
   steps: [
-    "Heat oil in a kadai on medium. Add cumin; when it sizzles, add onion and cook 5–6 minutes until soft and golden.",
-    "Add ginger-garlic paste and cook 1 minute until the raw smell goes. Add tomato, turmeric and a pinch of salt; cook 3–4 minutes until the tomato turns mushy and the masala looks glossy.",
-    "Lower the heat and pour in the spinach puree with salt. Simmer on LOW, uncovered, just until it starts to bubble, 2–3 minutes — long or hard boiling kills the colour. Loosen with a few tbsp hot water if it's too thick.",
-    "Take the pan off the heat for a minute, stir in the milk slowly, then return to a gentle simmer (this stops it splitting).",
-    "Add drained paneer and kasuri methi (crush it between your palms), simmer 2 minutes, then switch off and stir in the garam masala — keep it light so the spinach stays the star. Serve with chapati or jeera rice."
+    "Heat oil (2 tbsp) in a kadai on medium. Add cumin (1/2 tsp); when it sizzles, add onion (1) and cook 5–6 minutes until soft and golden.",
+    "Add ginger-garlic paste (1 tbsp) and cook 1 minute until the raw smell goes. Add tomato (1 small), turmeric (a pinch) and a pinch of salt; cook 3–4 minutes until the tomato turns mushy and the masala looks glossy.",
+    "Lower the heat and pour in the spinach puree (2 large bunches, about 400 g) with salt. Simmer on LOW, uncovered, just until it starts to bubble, 2–3 minutes — long or hard boiling kills the colour. Loosen with a few tbsp hot water if it's too thick.",
+    "Take the pan off the heat for a minute, stir in the milk (1/2 cup) slowly, then return to a gentle simmer (this stops it splitting).",
+    "Add drained paneer (300 g) and kasuri methi (1 tsp; crush it between your palms), simmer 2 minutes, then switch off and stir in the garam masala (1/2 tsp) — keep it light so the spinach stays the star. Serve with chapati or jeera rice."
   ],
   storage: "Fridge up to 2 days; the colour dulls a little but the taste holds.",
   reheating: "Gentle stove reheat or microwave 90 seconds on medium power — don't boil it. It thickens in the fridge, so loosen with a splash of water or milk.",

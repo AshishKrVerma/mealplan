@@ -32,15 +32,15 @@ window.RECIPES.push({
     "Milk (small packet)"
   ],
   preparation: [
-    "Wash, peel and grate the carrots on the big holes — this is the only real labour in the whole recipe.",
+    "Wash, peel and grate the carrots (about 500 g) on the big holes — this is the only real labour in the whole recipe.",
     "Use a LARGE microwave-safe glass bowl; the milk stage bubbles up more than you'd expect."
   ],
   steps: [
-    "Mix the grated carrot and ghee in the big bowl. Microwave uncovered on high for 5 minutes, stirring once halfway — the carrot softens and smells sweet.",
-    "Stir in the milk. Microwave 5 minutes more, stirring at the halfway mark, until the carrot is fully tender and most of the milk has been absorbed.",
-    "Add sugar and stir — it will turn liquidy again, don't panic, that's the sugar melting. Microwave 3–4 minutes, stirring every 2 minutes, until it thickens back up. Still watery? Keep going in 2-minute bursts, stirring between each, until the liquid has mostly cooked off.",
-    "Stir in the milk powder and cardamom. Microwave a final 2 minutes. It's done when the halwa looks glossy, holds together, and no free liquid pools at the edges. If water seeps out at the edges, give it one or two more 2-minute bursts.",
-    "Rest 5 minutes in the bowl (it thickens further), then top with nuts and raisins. Serve warm, ideally while gloating about the hour of stirring you skipped."
+    "Mix the grated carrot (3 cups) and ghee (3 tbsp) in the big bowl. Microwave uncovered on high for 5 minutes, stirring once halfway — the carrot softens and smells sweet.",
+    "Stir in the milk (1/2 cup). Microwave 5 minutes more, stirring at the halfway mark, until the carrot is fully tender and most of the milk has been absorbed.",
+    "Add sugar (4 tbsp) and stir — it will turn liquidy again, don't panic, that's the sugar melting. Microwave 3–4 minutes, stirring every 2 minutes, until it thickens back up. Still watery? Keep going in 2-minute bursts, stirring between each, until the liquid has mostly cooked off.",
+    "Stir in the milk powder (3 tbsp) and cardamom (1/4 tsp). Microwave a final 2 minutes. It's done when the halwa looks glossy, holds together, and no free liquid pools at the edges. If water seeps out at the edges, give it one or two more 2-minute bursts.",
+    "Rest 5 minutes in the bowl (it thickens further), then top with nuts and raisins (8–10). Serve warm, ideally while gloating about the hour of stirring you skipped."
   ],
   storage: "Fridge up to 3 days in a sealed box — gajar halwa is a distinguished leftover.",
   reheating: "Microwave 45–60 seconds per bowl; a scoop of vanilla ice cream on the warm halwa is the house special.",

@@ -40,17 +40,17 @@ window.RECIPES.push({
   preparation: [
     "Check your tin: put the empty tin in the air fryer basket. There should be a gap of about 1–2 cm on all sides so hot air can flow around it, and at least 5 cm (2 inches) between the top of the tin and the heating element above — the loaf rises and cracks upward.",
     "Ripe-banana check: the peels should be heavily freckled with brown spots or mostly brown/black, and the banana should feel soft and smell strongly sweet. Yellow bananas with only a few spots make a paler, less sweet loaf. Bananas going black on the counter are perfect — don't throw them away.",
-    "Take the eggs and curd out of the fridge 30 minutes early (or put the eggs in warm tap water for 5 minutes). Cold eggs make the melted butter clump.",
-    "Melt the butter (microwave 30–40 seconds) and let it cool for 5 minutes.",
+    "Take the eggs (2) and curd (1/4 cup) out of the fridge 30 minutes early (or put the eggs in warm tap water for 5 minutes). Cold eggs make the melted butter clump.",
+    "Melt the butter (1/4 cup / 55 g; microwave 30–40 seconds) and let it cool for 5 minutes.",
     "Line the tin: cut a piece of butter paper long enough to cover the bottom and the two long sides with a little overhang. Grease the tin lightly, press the paper in, and grease the paper. The overhang lets you lift the loaf out easily.",
-    "Measure the flour by spooning it into the cup and levelling it with a knife — scooping straight from the bag packs in extra flour and gives a dry, heavy loaf."
+    "Measure the flour (1 1/2 cups / 180 g) by spooning it into the cup and levelling it with a knife — scooping straight from the bag packs in extra flour and gives a dry, heavy loaf."
   ],
   steps: [
-    "In a big bowl, mash the bananas well with a fork. A few small lumps are fine — they turn into pockets of banana flavour.",
-    "Add the brown sugar, eggs, curd, melted butter, oil and vanilla to the bananas and whisk with the fork for about 1 minute until well combined and the sugar has mostly dissolved.",
-    "Sprinkle the baking soda, salt and cinnamon evenly over the wet mixture and whisk for 30 seconds, so there are no lumps of soda (they leave bitter, greenish spots).",
-    "Add the flour all at once. Using a spatula or big spoon, fold gently — scoop from the bottom and turn over — only until you can no longer see dry flour. Stop as soon as it comes together; a few small flour streaks and a lumpy, thick batter are exactly right (see notes: why not to overmix).",
-    "Fold in most of the walnuts or chocolate chips, if using, with 4–5 strokes. Keep a few to scatter on top.",
+    "In a big bowl, mash the bananas (3 medium, about 1 1/4 cups mashed) well with a fork. A few small lumps are fine — they turn into pockets of banana flavour.",
+    "Add the brown sugar (2/3 cup), eggs (2), curd (1/4 cup), melted butter (1/4 cup / 55 g), oil (1/4 cup) and vanilla (1 1/2 tsp) to the bananas and whisk with the fork for about 1 minute until well combined and the sugar has mostly dissolved.",
+    "Sprinkle the baking soda (3/4 tsp), salt (1/4 tsp), cinnamon (1 tsp) and nutmeg (a pinch), if using, evenly over the wet mixture and whisk for 30 seconds, so there are no lumps of soda (they leave bitter, greenish spots).",
+    "Add the flour (1 1/2 cups / 180 g) all at once. Using a spatula or big spoon, fold gently — scoop from the bottom and turn over — only until you can no longer see dry flour. Stop as soon as it comes together; a few small flour streaks and a lumpy, thick batter are exactly right (see notes: why not to overmix).",
+    "Fold in most of the walnuts or chocolate chips (1/2 cup total), if using, with 4–5 strokes. Keep a few to scatter on top.",
     "Preheat the air fryer at 160°C for 3–5 minutes.",
     "Pour the batter into the lined tin, filling it no more than three-quarters full (the loaf needs room to rise). Smooth the top and scatter the reserved nuts/chips. If you have extra batter, bake it as 1–2 muffins in silicone cups alongside or afterwards (12–15 minutes).",
     "Place the tin in the basket and bake at 160°C. After 20–25 minutes, look in: once the top is a deep golden brown, cover the tin loosely with a piece of foil (tuck the edges under the tin rim so the fan doesn't blow it off) and keep baking. The middle will still be wet at this point — that's normal.",

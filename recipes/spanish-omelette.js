@@ -30,11 +30,11 @@ window.RECIPES.push({
     "Fresh coriander (optional)"
   ],
   preparation: [
-    "Slice potatoes thin (3–4 mm) and evenly — uneven slices mean crunchy surprises. Rinse them and pat them dry in a kitchen towel; wet potatoes splatter in hot oil. Slice the onion thin too.",
-    "Beat the eggs in a large bowl with a good pinch of salt and pepper."
+    "Slice potatoes (2 medium) thin (3–4 mm) and evenly — uneven slices mean crunchy surprises. Rinse them and pat them dry in a kitchen towel; wet potatoes splatter in hot oil. Slice the onion (1 large) thin too.",
+    "Beat the eggs (6) in a large bowl with a good pinch of salt and pepper, plus the chilli flakes (1/4 tsp) and coriander (a handful) if using."
   ],
   steps: [
-    "Heat 3 tbsp oil in a nonstick pan (20–24 cm — smaller pan, thicker omelette) on medium-low. Add potatoes and onion with salt, cover, and cook 12–14 minutes, turning every few minutes. You want them soft and sweet, not browned — more gentle stew than fry. They're ready when a slice breaks easily when you press it with the spatula.",
+    "Heat 3 tbsp oil in a nonstick pan (20–24 cm — smaller pan, thicker omelette) on medium-low. Add potatoes (2 medium) and onion (1 large) with salt, cover, and cook 12–14 minutes, turning every few minutes. You want them soft and sweet, not browned — more gentle stew than fry. They're ready when a slice breaks easily when you press it with the spatula.",
     "Tip the hot potato-onion mix into the beaten eggs, stir, and lightly press the potatoes so the egg seeps between the slices. Let it sit 5–10 minutes. This soak is what makes it custardy rather than rubbery.",
     "Wipe the pan, add the last 1 tbsp oil on low heat, and pour everything back in. Round the edges with the spatula.",
     "Cover and cook on the lowest flame 8–10 minutes, until the edges are set and the middle jiggles only slightly. Every couple of minutes, give the pan a shake: the omelette should slide freely. If it sticks, run the spatula around the edge and gently underneath. A loose omelette is what makes the next step easy.",

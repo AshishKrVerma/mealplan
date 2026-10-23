@@ -31,10 +31,10 @@ window.RECIPES.push({
     "Cut into evenly sized pieces so they cook at the same rate."
   ],
   steps: [
-    "Microwave the pieces in a covered bowl with 1 tbsp water for 3–4 minutes, until just tender but still firm.",
-    "Pat dry, then toss with oil, cornflour and salt until evenly coated.",
+    "Microwave the pieces (2 medium sweet potatoes, about 500 g) in a covered bowl with 1 tbsp water for 3–4 minutes, until just tender but still firm.",
+    "Pat dry, then toss with oil (1 tbsp), cornflour (1 tsp) and salt (1/2 tsp) until evenly coated.",
     "Air fry at 200°C for 10 minutes in a single layer, shake, then 5–8 minutes more until the edges caramelise and darken and a fork slides into the centre easily. Small cubes finish sooner, so check them at 12 minutes.",
-    "Serve with salt as is, or toss with the chaat masala, cumin, black salt, lemon and coriander while hot."
+    "Serve with salt as is, or toss with the chaat masala (1 tsp), cumin (1/2 tsp), black salt (a pinch), lemon (juice of half a lemon) and coriander while hot."
   ],
   storage: "Fridge up to 2 days.",
   reheating: "Air fryer 180°C for 3–4 minutes.",

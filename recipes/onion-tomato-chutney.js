@@ -36,17 +36,17 @@ window.RECIPES.push({
     "A clean glass jar"
   ],
   preparation: [
-    "Chop the tomatoes, slice the onion, peel the garlic and ginger. Everything is ground at the end, so the cuts don't need to be neat.",
-    "Break the stalks off the dried chillies. For a milder chutney, shake out the seeds; the seeds carry most of the heat, the skins most of the colour."
+    "Chop the tomatoes (3 medium, about 2 cups), slice the onion (1 medium), peel the garlic (3–4 cloves) and ginger (1/2 inch). Everything is ground at the end, so the cuts don't need to be neat.",
+    "Break the stalks off the dried chillies (4–6). For a milder chutney, shake out the seeds; the seeds carry most of the heat, the skins most of the colour."
   ],
   steps: [
-    "Heat 1 1/2 tbsp oil in a kadhai on medium. Add the urad dal, chana dal and red chillies and fry, stirring, for 2–3 minutes until the dals are light golden and smell nutty and the chillies puff up and darken slightly. Don't let them go brown-black; burnt dal and chillies make the chutney bitter.",
-    "Add the cumin, curry leaves, garlic and ginger and stir for 1 minute until fragrant.",
-    "Add the onion and sauté for 4–5 minutes until soft and translucent and the raw smell is gone. If the dal starts to catch, add a splash of water.",
-    "Add the tomatoes, turmeric and salt. Cover and cook 5–7 minutes, stirring once or twice, until the tomatoes collapse into a soft, mushy mass and most of the watery juice has cooked off.",
+    "Heat 1 1/2 tbsp oil in a kadhai on medium. Add the urad dal (1 tbsp), chana dal (1/2 tbsp) and red chillies (4–6) and fry, stirring, for 2–3 minutes until the dals are light golden and smell nutty and the chillies puff up and darken slightly. Don't let them go brown-black; burnt dal and chillies make the chutney bitter.",
+    "Add the cumin (1/2 tsp), curry leaves (8–10), garlic (3–4 cloves) and ginger (1/2 inch) and stir for 1 minute until fragrant.",
+    "Add the onion (1 medium) and sauté for 4–5 minutes until soft and translucent and the raw smell is gone. If the dal starts to catch, add a splash of water.",
+    "Add the tomatoes (3 medium, about 2 cups), turmeric (1/4 tsp) and salt (3/4 tsp). Cover and cook 5–7 minutes, stirring once or twice, until the tomatoes collapse into a soft, mushy mass and most of the watery juice has cooked off.",
     "Switch off and let it cool completely, about 15 minutes. Grinding hot is dangerous, as the mixer lid can blow off.",
-    "Grind to a smooth paste, adding water only if the blades can't move it, 1 tbsp at a time. For a chutney that keeps longer, use as little water as possible. Taste: add the tamarind or lemon if it isn't tangy enough, and more salt if needed. Pour into a bowl or jar.",
-    "Tempering: wipe the pan, heat 1 1/2 tsp oil on medium, add mustard seeds; when they crackle add the urad dal and red chilli and stir until the dal is golden, then the curry leaves (they splutter) and the hing. Pour over the chutney and stir in."
+    "Grind to a smooth paste, adding water only if the blades can't move it, 1 tbsp at a time. For a chutney that keeps longer, use as little water as possible. Taste: add the tamarind (a small marble) or lemon (1 tsp) if it isn't tangy enough, and more salt if needed. Pour into a bowl or jar.",
+    "Tempering: wipe the pan, heat 1 1/2 tsp oil on medium, add mustard seeds (1/2 tsp); when they crackle add the urad dal (1/4 tsp) and red chilli (1) and stir until the dal is golden, then the curry leaves (8–10; they splutter) and the hing (a pinch). Pour over the chutney and stir in."
   ],
   storage: "Fridge 5 days in a clean, dry glass jar; always use a dry spoon. The less water you ground it with, the longer it keeps. Freezes well for up to 3 months in small portions or an ice-cube tray; once thawed, use within 2–3 days.",
   reheating: "Serve at room temperature: take out what you need 15 minutes before eating. Stir in a spoon of warm water if it has thickened. Frozen cubes thaw in the fridge overnight or in the microwave in 20–30 seconds.",

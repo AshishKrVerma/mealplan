@@ -30,13 +30,13 @@ window.RECIPES.push({
     "Cardamom powder (pantry check)"
   ],
   preparation: [
-    "Pit the dates; soak briefly if they're firm, then squeeze dry.",
-    "Optional but worth it (skip if you bought roasted seeds): dry-roast the mixed seeds in a pan on low heat for 2–3 minutes, stirring, until they smell nutty and the sesame starts to pop. Tip onto a plate and cool. Raw seeds taste flat in the balls.",
-    "Pulse peanuts in a mixer until coarsely ground — stop before it becomes butter (unless using peanut butter)."
+    "Pit the dates (1.5 cups); soak briefly if they're firm, then squeeze dry.",
+    "Optional but worth it (skip if you bought roasted seeds): dry-roast the mixed seeds (1/4 cup) in a pan on low heat for 2–3 minutes, stirring, until they smell nutty and the sesame starts to pop. Tip onto a plate and cool. Raw seeds taste flat in the balls.",
+    "Pulse peanuts (1 cup) in a mixer until coarsely ground — stop before it becomes butter (unless using peanut butter)."
   ],
   steps: [
-    "Blitz dates in the mixer until they clump into a sticky mass.",
-    "Add ground peanuts, seeds, cocoa/coconut, salt and cardamom; pulse until it holds together when pinched. A spoon of warm water helps if crumbly.",
+    "Blitz dates (1.5 cups) in the mixer until they clump into a sticky mass.",
+    "Add ground peanuts (1 cup), seeds (1/4 cup), cocoa/coconut (2 tbsp), salt (a pinch) and cardamom (1/4 tsp); pulse until it holds together when pinched. A spoon of warm water helps if crumbly.",
     "Roll into ping-pong-sized balls with lightly greased palms.",
     "Roll in sesame or coconut, and refrigerate 30 minutes to set."
   ],

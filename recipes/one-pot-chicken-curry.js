@@ -37,15 +37,15 @@ window.RECIPES.push({
     "Kashmiri chilli powder (pantry check)"
   ],
   preparation: [
-    "Quick marinade: mix the chicken with the whisked curd, turmeric, chilli powder and 1/2 tsp salt. Rest 15 minutes (or up to a few hours in the fridge) while you slice onions and chop tomatoes. Coating the chicken first stops the curd splitting later.",
+    "Quick marinade: mix the chicken (600 g) with the whisked curd (1/2 cup), turmeric (1 tsp), chilli powder (1 tsp) and 1/2 tsp salt. Rest 15 minutes (or up to a few hours in the fridge) while you slice onions (2 large) and chop tomatoes (2). Coating the chicken first stops the curd splitting later.",
     "Heat 1/2 cup water in a small pan or kettle; hot water keeps the chicken tender."
   ],
   steps: [
-    "Heat oil in the open pressure cooker on medium. Add cumin, bay leaves, cinnamon, cloves and cardamom; when they sizzle (about 30 seconds), add onions and green chilli with a pinch of salt. Cook 7–8 minutes until deep golden, not dark brown.",
-    "Add ginger-garlic paste and cook about 1 minute until the raw smell is gone. Add tomatoes, coriander powder and a little salt; cook 4–5 minutes until the tomatoes are mushy, the masala looks glossy and oil shows at the edges.",
-    "Add the marinated chicken with all its marinade. Stir-fry on high for 3–4 minutes until the chicken turns pale on the outside and the curd coats the masala.",
+    "Heat oil (2 tbsp) in the open pressure cooker on medium. Add cumin (1 tsp), bay leaves (2), cinnamon (1 inch), cloves (3) and cardamom (3); when they sizzle (about 30 seconds), add onions (2 large) and green chilli (1) with a pinch of salt. Cook 7–8 minutes until deep golden, not dark brown.",
+    "Add ginger-garlic paste (1.5 tbsp) and cook about 1 minute until the raw smell is gone. Add tomatoes (2), coriander powder (2 tsp) and a little salt; cook 4–5 minutes until the tomatoes are mushy, the masala looks glossy and oil shows at the edges.",
+    "Add the marinated chicken (600 g) with all its marinade. Stir-fry on high for 3–4 minutes until the chicken turns pale on the outside and the curd coats the masala.",
     "Add the 1/2 cup hot water (the chicken releases its own juice, so don't add more), close the lid and pressure cook on medium: 2 whistles for thigh, 1 whistle for breast, then off.",
-    "Let the pressure drop on its own (about 5–10 minutes). Open, simmer 2–3 minutes to thicken if needed, stir in garam masala and coriander, and keep covered 10 minutes before serving so the flavours settle."
+    "Let the pressure drop on its own (about 5–10 minutes). Open, simmer 2–3 minutes to thicken if needed, stir in garam masala (1 tsp) and coriander, and keep covered 10 minutes before serving so the flavours settle."
   ],
   storage: "Fridge up to 3 days; freezes beautifully for a month in portion boxes.",
   reheating: "Microwave 2–3 minutes with a splash of water, or simmer on the stove.",

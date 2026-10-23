@@ -32,15 +32,15 @@ window.RECIPES.push({
     "Hing (pantry check)"
   ],
   preparation: [
-    "Chop beans and carrots to the same small size so they finish together — this is 90% of the recipe.",
+    "Chop beans (250 g) and carrots (2) to the same small size so they finish together — this is 90% of the recipe.",
     "The chopping is the only real work here; do a double quantity while you're at it and thank yourself midweek."
   ],
   steps: [
-    "Heat oil in a kadai on medium. Add mustard seeds; when they splutter, add urad dal (and chana dal if using) and stir 30–40 seconds until golden.",
-    "Add hing, curry leaves and green chilli and fry a few seconds until the leaves turn crisp. Tip in the beans and carrot with turmeric and salt and stir-fry uncovered for 2 minutes so everything is coated in the tadka.",
+    "Heat oil (1.5 tbsp) in a kadai on medium. Add mustard seeds (1 tsp); when they splutter, add urad dal (1 tsp; and 1 tsp chana dal if using) and stir 30–40 seconds until golden.",
+    "Add hing (a pinch), curry leaves (10) and green chilli (1–2) and fry a few seconds until the leaves turn crisp. Tip in the beans (250 g) and carrot (2) with turmeric (1/4 tsp) and salt and stir-fry uncovered for 2 minutes so everything is coated in the tadka.",
     "Sprinkle 2–3 tbsp water (very fresh, tender beans need less), cover and cook on LOW 6–8 minutes, stirring once midway. The vegetables should steam, not boil — if water pools at the bottom, uncover for the last minute to dry it off.",
     "Check at 8 minutes: the beans should be tender but still bright green with a gentle bite.",
-    "Off the heat, fold in the coconut. Done — plate it next to dal-rice or sambar-rice."
+    "Off the heat, fold in the coconut (3 tbsp). Done — plate it next to dal-rice or sambar-rice."
   ],
   storage: "Fridge up to 3 days in an airtight box — a genuine meal-prep vegetable.",
   reheating: "Microwave 60–90 seconds; add the day's coconut fresh if you're fancy.",

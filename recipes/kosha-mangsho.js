@@ -39,19 +39,19 @@ window.RECIPES.push({
   ],
   preparation: [
     "Dry-roast 1 tsp cumin seeds in a small pan on low for 1–2 minutes until they turn a shade darker and smell toasty. Cool and crush to a powder with a rolling pin or in the small mixer jar.",
-    "Whisk the curd smooth with the roasted cumin powder, then mix in the rest of the marinade ingredients and coat the mutton well. Marinate at least 1 hour, or overnight in the fridge (more tender, more flavour). Take it out 30 minutes before cooking.",
-    "Slice the onions thin and even, and measure out the powdered spices into a small bowl so they're ready when the onions are done."
+    "Whisk the curd (4 tbsp) smooth with the roasted cumin powder (1 tsp), then mix in the rest of the marinade ingredients (1 tbsp ginger-garlic paste, 1/2 tsp turmeric, 1 tsp Kashmiri chilli powder, 1 tsp salt, 1 tbsp mustard oil) and coat the mutton (600 g) well. Marinate at least 1 hour, or overnight in the fridge (more tender, more flavour). Take it out 30 minutes before cooking.",
+    "Slice the onions (3 medium) thin and even, and measure out the powdered spices (1 tsp Kashmiri chilli powder, 1/2 tsp regular red chilli powder, 1/2 tsp turmeric, 2 tsp coriander powder) into a small bowl so they're ready when the onions are done."
   ],
   steps: [
-    "Heat the mustard oil in the pressure cooker on high until it just starts to smoke, then take it off the heat for 1 minute so it cools slightly. Back on medium heat, add the sugar and stir until it melts and turns light caramel brown (about 30 seconds) — this gives kosha mangsho its colour.",
-    "Immediately add the bay leaf, dried red chillies, cloves, cardamom and cinnamon and stir 20–30 seconds until fragrant.",
-    "Add the sliced onions with a pinch of salt and cook 10–12 minutes on medium, stirring often, until deep golden brown. Splash in 1–2 tbsp water if they stick, and scrape.",
-    "Add 1 tsp ginger-garlic paste and stir 1–2 minutes until the raw smell is gone. Lower the heat, add the powdered spices with a splash of water and stir 1 minute.",
-    "Add the mutton with all its marinade. Turn the heat to high and stir continuously for 8–10 minutes until the meat turns brown outside, the curd's liquid dries off and oil starts to separate at the edges.",
+    "Heat the mustard oil (5 tbsp) in the pressure cooker on high until it just starts to smoke, then take it off the heat for 1 minute so it cools slightly. Back on medium heat, add the sugar (1 tsp) and stir until it melts and turns light caramel brown (about 30 seconds) — this gives kosha mangsho its colour.",
+    "Immediately add the bay leaf (1), dried red chillies (2), cloves (5), cardamom (4) and cinnamon (1 inch) and stir 20–30 seconds until fragrant.",
+    "Add the sliced onions (3 medium) with a pinch of salt and cook 10–12 minutes on medium, stirring often, until deep golden brown. Splash in 1–2 tbsp water if they stick, and scrape.",
+    "Add 1 tsp ginger-garlic paste and stir 1–2 minutes until the raw smell is gone. Lower the heat, add the powdered spices (1 tsp Kashmiri chilli powder, 1/2 tsp regular red chilli powder, 1/2 tsp turmeric, 2 tsp coriander powder) with a splash of water and stir 1 minute.",
+    "Add the mutton (600 g) with all its marinade. Turn the heat to high and stir continuously for 8–10 minutes until the meat turns brown outside, the curd's liquid dries off and oil starts to separate at the edges.",
     "Add 1/2 cup hot water — just enough to stop it scorching, because this is a dry dish. Close the lid and cook 1 whistle on high, then 15–18 minutes on low. Switch off and let the pressure drop by itself. The meat should be almost tender — it finishes cooking in the next step.",
     "The kosha: open the cooker and tip everything into a wide kadhai (more surface means faster browning; the open cooker also works). Cook on medium-low for 20–25 minutes, stirring and scraping the bottom every 2–3 minutes. Each time the masala starts to stick, add 2–3 tbsp hot water, scrape up the brown bits, and keep going. That repeated stick-scrape-splash is what builds the flavour.",
     "It's done when the masala has turned a deep reddish-brown, thick and glossy, clings to every piece, and oil pools at the edges. A piece of meat should come off the bone easily. If it's still firm, add 1/4 cup water, cover and cook 5–10 more minutes, then dry it off again.",
-    "Add salt if needed, sprinkle the garam masala, stir in the ghee, and switch off. Cover and rest 10 minutes before serving. It should be semi-dry, with just a little thick gravy at the bottom."
+    "Add salt if needed, sprinkle the garam masala (1/2 tsp), stir in the ghee (1 tsp), and switch off. Cover and rest 10 minutes before serving. It should be semi-dry, with just a little thick gravy at the bottom."
   ],
   storage: "Fridge up to 3 days, freezer 1 month. Like most mutton curries, it is even better the next day.",
   reheating: "Warm in a pan on low with 1–2 tbsp water, stirring, or microwave 2–3 minutes covered.",

@@ -31,12 +31,12 @@ window.RECIPES.push({
     "Mayo, ketchup (pantry check)"
   ],
   preparation: [
-    "Mix the sauce.",
-    "Cook the bacon by your favourite method (Perfect Pan Bacon or Air Fryer Bacon) and keep the grease in the pan."
+    "Mix the sauce (1 tbsp mayo, 1 tsp ketchup, a few drops of chilli sauce).",
+    "Cook the bacon (4 strips) by your favourite method (Perfect Pan Bacon or Air Fryer Bacon) and keep the grease in the pan."
   ],
   steps: [
-    "Butter the bread or buns and toast them in a pan or the air fryer (180°C, 2 minutes) until golden.",
-    "In the bacon grease, cook the eggs on medium: either fried with a slightly runny yolk, or whisked and folded into a square that fits the bread.",
+    "Butter the bread (4 slices) or buns (2) and toast them in a pan or the air fryer (180°C, 2 minutes) until golden.",
+    "In the bacon grease, cook the eggs (2) on medium: either fried with a slightly runny yolk, or whisked and folded into a square that fits the bread. Season with black pepper.",
     "Place a cheese slice on each egg while still in the pan. Splash 1 tsp water into the pan beside (not on) the egg and cover with a lid for 30 seconds — the steam melts the cheese evenly without overcooking the egg.",
     "Spread the sauce on the toast, add the egg and cheese, then 2 bacon strips (break them in half to fit), plus lettuce and tomato if using.",
     "Close the sandwich, press lightly and serve hot."

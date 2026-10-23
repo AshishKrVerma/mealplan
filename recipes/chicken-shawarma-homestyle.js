@@ -39,15 +39,15 @@ window.RECIPES.push({
     "Green chutney or chilli sauce (optional)"
   ],
   preparation: [
-    "Mix all marinade ingredients (with 1/2 tbsp of the oil — it softens the lemon so it doesn't turn the chicken mushy) into the chicken strips. Marinate at least 30 minutes; 3 hours to overnight in the fridge tastes noticeably better.",
-    "Grate garlic into the thick curd with lemon juice and salt for the sauce; slice the salad. Chill both — the sauce tastes better after 20 minutes as the garlic mellows."
+    "Mix all marinade ingredients (3 tbsp curd, 1 tbsp lemon juice, 1 tbsp ginger-garlic paste, 1 tsp each cumin powder, coriander powder and paprika/Kashmiri chilli powder, 1/2 tsp each turmeric, garam masala, black pepper and cardamom powder, a pinch of cinnamon, salt; with 1/2 tbsp of the oil — it softens the lemon so it doesn't turn the chicken mushy) into the chicken strips (500 g). Marinate at least 30 minutes; 3 hours to overnight in the fridge tastes noticeably better.",
+    "Grate garlic (2 cloves) into the thick curd (1/2 cup) with lemon juice (1 tsp) and salt (a pinch) for the sauce; slice the salad (1 onion, 1 tomato, 1 cup cabbage or lettuce). Chill both — the sauce tastes better after 20 minutes as the garlic mellows."
   ],
   steps: [
-    "Heat the remaining 1 tbsp oil on a wide tawa or pan on medium-high until shimmering. Spread the chicken strips out — crowding steams them, so use two batches.",
+    "Heat the remaining 1 tbsp oil on a wide tawa or pan on medium-high until shimmering. Spread the chicken strips (500 g) out — crowding steams them, so use two batches.",
     "Cook undisturbed 3 minutes until charred spots appear, then flip and cook 2–3 minutes more until cooked through (cut a thick strip — no pink, juices clear) with browned edges.",
     "Pile the strips together on the tawa, flame off, and let them rest 3 minutes so the juices settle. Then chop through them roughly with the spatula edge, shawarma-stand style, tossing them in any juices on the tawa.",
-    "Warm chapatis/pitas on a dry tawa, 30 seconds a side.",
-    "Build: garlic sauce first, then chicken, then salad, then more sauce. Roll tight, wrap the bottom half in paper if eating in front of the TV (recommended)."
+    "Warm chapatis/pitas (6 chapatis or 4 pita breads) on a dry tawa, 30 seconds a side.",
+    "Build: garlic sauce first, then chicken, then salad, then more sauce, plus green chutney or chilli sauce if you want heat. Roll tight, wrap the bottom half in paper if eating in front of the TV (recommended)."
   ],
   storage: "Chicken and sauce keep 2 days in the fridge, separately. Don't store built rolls.",
   reheating: "Chicken: 2 minutes on a hot tawa or 1 minute microwave. Sauce is served cold anyway.",

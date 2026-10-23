@@ -39,15 +39,15 @@ window.RECIPES.push({
     "Kashmiri chilli powder (pantry check)"
   ],
   preparation: [
-    "Chop onions, tomatoes and capsicum before starting — keema cooking moves fast.",
-    "Take frozen peas out to thaw on the counter."
+    "Chop onions (2), tomatoes (2) and capsicum (1) before starting — keema cooking moves fast.",
+    "Take frozen peas (3/4 cup) out to thaw on the counter."
   ],
   steps: [
-    "Heat oil in a kadhai on medium. Add all the whole spices; when the cumin sizzles and the cardamom puffs (about 30 seconds), add onions with a pinch of salt and cook 6–7 minutes until golden brown.",
-    "Add ginger-garlic paste and green chillies and stir about 1 minute until the raw garlic smell is gone. Add tomatoes and all powdered spices except garam masala. Cook 4–5 minutes, sprinkling a spoon of water if it sticks, until the tomatoes turn mushy, the raw smell is gone and oil separates at the edges.",
-    "Add the keema on medium-high and break it up relentlessly with the spatula for 3–4 minutes, scraping the bottom — no lumps allowed. It will turn from pink to pale.",
-    "Add peas, capsicum, salt and 1/4 cup water. Cover and simmer 8–10 minutes, stirring once.",
-    "Uncover, dry off any extra liquid on high for 2 minutes, then stir in garam masala and mint and cook 1 minute more. Turn off the heat; add coriander and a good squeeze of lemon."
+    "Heat oil (2 tbsp) in a kadhai on medium. Add all the whole spices (1 tsp cumin seeds, 1 bay leaf, 1 small cinnamon stick, 2 green cardamoms, 3 cloves); when the cumin sizzles and the cardamom puffs (about 30 seconds), add onions (2) with a pinch of salt and cook 6–7 minutes until golden brown.",
+    "Add ginger-garlic paste (1 tbsp) and green chillies (2) and stir about 1 minute until the raw garlic smell is gone. Add tomatoes (2) and all powdered spices (1/2 tsp turmeric, 2 tsp coriander powder, 1 tsp Kashmiri chilli powder) except garam masala. Cook 4–5 minutes, sprinkling a spoon of water if it sticks, until the tomatoes turn mushy, the raw smell is gone and oil separates at the edges.",
+    "Add the keema (500 g) on medium-high and break it up relentlessly with the spatula for 3–4 minutes, scraping the bottom — no lumps allowed. It will turn from pink to pale.",
+    "Add peas (3/4 cup), capsicum (1), salt and 1/4 cup water. Cover and simmer 8–10 minutes, stirring once.",
+    "Uncover, dry off any extra liquid on high for 2 minutes, then stir in garam masala (3/4 tsp) and mint (10–12 leaves) and cook 1 minute more. Turn off the heat; add coriander and a good squeeze of lemon (half a lemon)."
   ],
   storage: "Fridge up to 3 days; freezes perfectly for a month in flat boxes.",
   reheating: "Microwave 2 minutes with a sprinkle of water, or a quick toss in the pan.",

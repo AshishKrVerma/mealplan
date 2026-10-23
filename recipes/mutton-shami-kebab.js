@@ -36,15 +36,15 @@ window.RECIPES.push({
     "Green chilli"
   ],
   preparation: [
-    "Soak the chana dal 30 minutes while you do everything else.",
-    "Chop the onion, herbs and green chilli fine — they go in raw at the end for freshness and crunch."
+    "Soak the chana dal (1/2 cup) 30 minutes while you do everything else.",
+    "Chop the onion (1 small), herbs (2 tbsp coriander and mint) and green chilli (1) fine — they go in raw at the end for freshness and crunch."
   ],
   steps: [
-    "Heat 1 tbsp ghee or oil in the pressure cooker on medium. Add the whole spices and dried red chillies and stir 30 seconds until fragrant and the cumin sizzles. Add garlic and ginger for 30 seconds.",
-    "Add the keema and fry on medium-high for 4–5 minutes, breaking up lumps, until it loses its pink colour and the raw meaty smell is gone. Add drained dal, turmeric, salt and 3/4 cup water. Close the lid: 1 whistle on high, then 15 minutes on low. Natural release.",
+    "Heat 1 tbsp ghee or oil in the pressure cooker on medium. Add the whole spices (1 bay leaf, 1 black cardamom, 3 green cardamom, 4 cloves, 1 inch cinnamon, 1 tsp cumin seeds, 10 black peppercorns) and dried red chillies (2) and stir 30 seconds until fragrant and the cumin sizzles. Add garlic (6 cloves) and ginger (1 inch) for 30 seconds.",
+    "Add the keema (500 g) and fry on medium-high for 4–5 minutes, breaking up lumps, until it loses its pink colour and the raw meaty smell is gone. Add drained dal (1/2 cup), turmeric (1/2 tsp), salt and 3/4 cup water. Close the lid: 1 whistle on high, then 15 minutes on low. Natural release.",
     "Open and check: the dal should mash between two fingers. Now the important part — cook uncovered on medium, stirring, until every drop of water is gone and the mixture looks dry. Wet mixture = kebabs that fall apart.",
     "Cool 10 minutes, fish out the bay leaf and big whole spices (black cardamom, cinnamon) if you can spot them, and grind in short pulses to a smooth, dough-like paste (no water).",
-    "Let the paste cool completely (about 15 minutes) before mixing in the egg, chopped onion, herbs and green chilli; warm mixture partly cooks the egg and wilts the herbs. Shape into 10–12 flat patties about 1.5 cm thick with oiled hands, and roll each one on its edge like a wheel to smooth any cracks, so they don't break in the pan.",
+    "Let the paste cool completely (about 15 minutes) before mixing in the egg (1), chopped onion (1 small), herbs (2 tbsp coriander and mint) and green chilli (1); warm mixture partly cooks the egg and wilts the herbs. Shape into 10–12 flat patties about 1.5 cm thick with oiled hands, and roll each one on its edge like a wheel to smooth any cracks, so they don't break in the pan.",
     "Heat a tawa on medium with 2 tbsp oil. Fry patties 2–3 minutes per side until deep golden brown and crusted — flip only once, gently.",
     "Serve hot with lemon, onion rings and green chutney."
   ],

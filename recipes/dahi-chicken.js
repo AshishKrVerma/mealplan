@@ -38,16 +38,16 @@ window.RECIPES.push({
     "Fresh coriander"
   ],
   preparation: [
-    "Take the curd out of the fridge 30 minutes ahead — cold curd hitting a hot pan is the usual reason it splits. Whisk it with besan and 2 tbsp water until completely smooth — lumps now become curdles later.",
-    "Pat the chicken dry, then marinate it in half this curd with turmeric and salt for at least 15 minutes (up to a few hours in the fridge); keep the rest aside."
+    "Take the curd (1 cup) out of the fridge 30 minutes ahead — cold curd hitting a hot pan is the usual reason it splits. Whisk it with besan (1 tsp) and 2 tbsp water until completely smooth — lumps now become curdles later.",
+    "Pat the chicken (500 g) dry, then marinate it in half this curd (1/2 cup) with turmeric (1/2 tsp) and salt for at least 15 minutes (up to a few hours in the fridge); keep the rest aside."
   ],
   steps: [
-    "Heat oil and ghee in a kadhai on medium. Splutter cumin and all whole spices, then cook the onions with a pinch of salt 7–8 minutes to a light gold (not brown — this curry stays pale).",
-    "Add ginger-garlic paste and slit chillies for 1 minute, then the marinated chicken. Sear gently 4–5 minutes.",
-    "Lower the flame and add coriander powder and pepper; stir 30–60 seconds until fragrant, without letting them scorch.",
-    "Turn the flame OFF for a minute so the pan stops sizzling. Add the remaining curd a spoon at a time, stirring constantly, then turn the flame back on at its lowest and keep stirring 2 minutes until smooth and hot — patience here is the entire recipe.",
+    "Heat oil (2 tbsp) and ghee (1 tsp) in a kadhai on medium. Splutter cumin (1 tsp) and all whole spices (2 green cardamom, 4 cloves, 1 small cinnamon piece, 1 bay leaf), then cook the onions (2) with a pinch of salt 7–8 minutes to a light gold (not brown — this curry stays pale).",
+    "Add ginger-garlic paste (1 tbsp) and slit chillies (2) for 1 minute, then the marinated chicken (500 g). Sear gently 4–5 minutes.",
+    "Lower the flame and add coriander powder (2 tsp) and pepper (1/2 tsp); stir 30–60 seconds until fragrant, without letting them scorch.",
+    "Turn the flame OFF for a minute so the pan stops sizzling. Add the remaining curd (1/2 cup) a spoon at a time, stirring constantly, then turn the flame back on at its lowest and keep stirring 2 minutes until smooth and hot — patience here is the entire recipe.",
     "Cover and simmer on low 15–18 minutes, stirring every 5 minutes, until the chicken is tender, the gravy is creamy and gently thickened, and a thin sheen of oil shows on the surface. Don't add water unless it starts to catch — the chicken releases its own juices.",
-    "Finish with garam masala, kasuri methi (crushed between your palms) and coriander. Rest 5 minutes before serving with rice or phulka."
+    "Finish with garam masala (1/2 tsp), kasuri methi (1 tsp; crushed between your palms) and coriander. Rest 5 minutes before serving with rice or phulka."
   ],
   storage: "Fridge up to 2 days; curd gravies prefer being eaten sooner than later.",
   reheating: "Low flame or 60% microwave power with a splash of water — aggressive reheating can split the gravy.",

@@ -35,17 +35,17 @@ window.RECIPES.push({
     "Ginger-garlic paste, chaat masala, kasuri methi (pantry check)"
   ],
   preparation: [
-    "Pat the chicken cubes dry with a kitchen towel so the marinade clings.",
-    "Dry-roast the besan in a small pan on low for 1–2 minutes, stirring, until it smells nutty and turns a shade darker. Tip it into a bowl so it doesn't keep cooking.",
-    "Blitz coriander, mint, spinach, green chilli and ginger-garlic paste with 1 tbsp curd into a smooth green paste — no water, or the marinade goes runny.",
-    "Mix the paste with the rest of the curd, besan, spices, kasuri methi (crushed between your palms), lemon juice, salt and half the oil. Coat the chicken and marinate at least 30 minutes in the fridge (2 hours if you planned ahead, which, respect)."
+    "Pat the chicken cubes (500 g) dry with a kitchen towel so the marinade clings.",
+    "Dry-roast the besan (1 tbsp) in a small pan on low for 1–2 minutes, stirring, until it smells nutty and turns a shade darker. Tip it into a bowl so it doesn't keep cooking.",
+    "Blitz coriander (1/2 cup), mint (1/4 cup), spinach (8–10 leaves), green chilli (1–2) and ginger-garlic paste (1 tbsp) with 1 tbsp curd into a smooth green paste — no water, or the marinade goes runny.",
+    "Mix the paste with the rest of the curd (about 1/2 cup), besan (1 tbsp), spices (1 tsp garam masala, 1/2 tsp cumin powder, some of the 1/2 tsp chaat masala), kasuri methi (1 tsp; crushed between your palms), lemon juice (half a lemon), salt and half the oil (1/2 tbsp). Coat the chicken (500 g) and marinate at least 30 minutes in the fridge (2 hours if you planned ahead, which, respect)."
   ],
   steps: [
     "Preheat the air fryer to 190°C for 3 minutes.",
     "Shake excess marinade off each piece and arrange in a single layer with a little breathing room — crowding steams, spacing chars.",
-    "Air fry 8 minutes, then flip the pieces and brush the tops with the remaining oil (this is what gives the charred edges). Air fry 4 more minutes.",
+    "Air fry 8 minutes, then flip the pieces and brush the tops with the remaining oil (1/2 tbsp; this is what gives the charred edges). Air fry 4 more minutes.",
     "Turn up to 200°C for the last 2–3 minutes, until the edges have dark green-brown charred spots and the thickest piece is white inside with clear juices when cut.",
-    "Rest 3–5 minutes so the juices settle, then sprinkle chaat masala and a squeeze of lemon. Serve with sliced onions and green chutney."
+    "Rest 3–5 minutes so the juices settle, then sprinkle chaat masala (rest of the 1/2 tsp) and a squeeze of lemon. Serve with sliced onions and green chutney."
   ],
   storage: "Fridge up to 3 days in a covered box.",
   reheating: "Air fryer 3–4 minutes at 170°C, or microwave 60–90 seconds (softer but still good).",

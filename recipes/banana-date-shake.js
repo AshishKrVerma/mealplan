@@ -31,15 +31,15 @@ window.RECIPES.push({
     "Cinnamon powder (pantry check)"
   ],
   preparation: [
-    "Soak the dates in 3 tbsp of warm milk for 10 minutes. Hard dates will not break down properly and you get chewy bits in the shake.",
+    "Soak the dates (6) in 3 tbsp of warm milk for 10 minutes. Hard dates will not break down properly and you get chewy bits in the shake.",
     "Check every date for the stone, twice. Finding one with your teeth is memorable for the wrong reasons.",
-    "Freeze peeled banana chunks whenever bananas start going spotty. Frozen banana makes the shake thick without any ice cream in it."
+    "Freeze peeled banana chunks (2 bananas) whenever bananas start going spotty. Frozen banana makes the shake thick without any ice cream in it."
   ],
   steps: [
-    "Blend the soaked dates with their soaking milk and the nuts for 30 seconds, until you have a smooth brown paste.",
-    "Add the banana, curd, cinnamon and the rest of the milk.",
+    "Blend the soaked dates (6) with their soaking milk (3 tbsp) and the nuts (5 almonds, 5 cashews) for 30 seconds, until you have a smooth brown paste.",
+    "Add the banana (2), curd (2 tbsp), cinnamon (1/2 tsp) and the rest of the milk (about 250 ml).",
     "Blend 30–40 seconds until completely smooth and pale caramel in colour.",
-    "Add the ice, pulse twice, and taste — dates vary a lot, so add one more if it needs sweetening.",
+    "Add the ice (4–5 cubes), pulse twice, and taste — dates vary a lot, so add one more if it needs sweetening.",
     "Pour and dust with a little extra cinnamon."
   ],
   storage: "Fresh only. The banana browns and it separates.",

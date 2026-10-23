@@ -30,16 +30,16 @@ window.RECIPES.push({
     "Kashmiri chilli powder, kasuri methi (pantry check)"
   ],
   preparation: [
-    "Store-bought paneer: soak the block in hot water for 15–20 minutes, then drain. It turns soft and crumbles more easily, and it stays soft in the pan.",
-    "Crumble the paneer by hand into rough scrambled-egg-sized bits — a grater makes it pasty.",
-    "Chop onion, tomato and chilli before the stove goes on; this dish moves fast."
+    "Store-bought paneer (400 g): soak the block in hot water for 15–20 minutes, then drain. It turns soft and crumbles more easily, and it stays soft in the pan.",
+    "Crumble the paneer (400 g) by hand into rough scrambled-egg-sized bits — a grater makes it pasty.",
+    "Chop onion (1 large), tomatoes (2) and chilli (1–2) before the stove goes on; this dish moves fast."
   ],
   steps: [
-    "Heat oil in a wide pan on medium. Add cumin; when it sizzles, add onion and green chilli with a pinch of salt. Cook 4–5 minutes until light golden.",
-    "Add ginger-garlic paste and cook 1 minute until the raw smell is gone, then tomatoes with salt. Cook 3–4 minutes until soft and jammy (cover for a minute if they're slow to break down).",
-    "Stir in turmeric, coriander powder and chilli powder; cook 1–2 minutes until the masala smells roasted, not raw, and starts pulling away from the sides of the pan.",
-    "Fold in the crumbled paneer gently and cook just 2–3 minutes, until it's hot and coated — it should still look soft and crumbly. Any longer and it turns rubbery. A little moisture in the pan is fine; it doesn't need to be bone-dry.",
-    "Turn off the heat. Stir in garam masala, crushed kasuri methi, coriander and a few drops of lemon juice. Serve with pav, chapati or stuffed into a wrap."
+    "Heat oil (2 tbsp) in a wide pan on medium. Add cumin (1/2 tsp); when it sizzles, add onion (1 large) and green chilli (1–2) with a pinch of salt. Cook 4–5 minutes until light golden.",
+    "Add ginger-garlic paste (1 tsp) and cook 1 minute until the raw smell is gone, then tomatoes (2) with salt. Cook 3–4 minutes until soft and jammy (cover for a minute if they're slow to break down).",
+    "Stir in turmeric (1/2 tsp), coriander powder (1 tsp) and chilli powder (1/2 tsp); cook 1–2 minutes until the masala smells roasted, not raw, and starts pulling away from the sides of the pan.",
+    "Fold in the crumbled paneer (400 g) gently and cook just 2–3 minutes, until it's hot and coated — it should still look soft and crumbly. Any longer and it turns rubbery. A little moisture in the pan is fine; it doesn't need to be bone-dry.",
+    "Turn off the heat. Stir in garam masala (1/2 tsp), crushed kasuri methi (1 tsp), coriander and a few drops of lemon juice. Serve with pav, chapati or stuffed into a wrap."
   ],
   storage: "Fridge up to 2 days in an airtight box.",
   reheating: "Microwave 60–90 seconds with a teaspoon of water, or a quick toss in the pan.",

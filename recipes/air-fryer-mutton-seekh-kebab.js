@@ -35,15 +35,15 @@ window.RECIPES.push({
     "Lemon"
   ],
   preparation: [
-    "Squeeze the chopped onion really dry — onion water is why kebabs fall apart.",
-    "Mix keema with everything except the oil, then knead 3–4 minutes until the mixture turns sticky, looks slightly stringy and holds to your palm. If it feels wet or loose, knead in another spoon of roasted besan. Cover and chill 30 minutes (or up to overnight); cold mix holds on the skewer far better.",
+    "Squeeze the chopped onion (1 small) really dry — onion water is why kebabs fall apart.",
+    "Mix keema (500 g) with everything (1 small onion, 3 tbsp coriander + mint, 1 tbsp ginger-garlic paste, 1 green chilli, 1 tsp garam masala, 1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp Kashmiri chilli powder, 1/2 tsp black pepper powder, 2 tbsp roasted besan, salt) except the oil, then knead 3–4 minutes until the mixture turns sticky, looks slightly stringy and holds to your palm. If it feels wet or loose, knead in another spoon of roasted besan. Cover and chill 30 minutes (or up to overnight); cold mix holds on the skewer far better.",
     "Taste test: flatten a coin-sized bit and cook it in a few drops of oil in a pan for a minute or two. Taste, then adjust the salt or chilli in the main mix before shaping.",
     "With oiled hands, press the mixture around skewers (or just shape free-form logs, 2 cm thick — nobody's checking)."
   ],
   steps: [
-    "Preheat the air fryer at 200°C for 3–5 minutes. Lightly brush the basket and the kebabs with oil.",
+    "Preheat the air fryer at 200°C for 3–5 minutes. Lightly brush the basket and the kebabs with oil (part of the 1 tbsp).",
     "Arrange kebabs in a single layer with gaps — cook in two batches rather than crowding.",
-    "Air fry 7 minutes at 200°C, then turn each kebab and brush with oil again.",
+    "Air fry 7 minutes at 200°C, then turn each kebab and brush with oil (rest of the 1 tbsp) again.",
     "Air fry 5–6 minutes more at 200°C until deeply browned at the edges. Cut one open: no pink, juices clear. Thicker kebabs may need 2 minutes more; don't go much longer or they dry out.",
     "Rest 3 minutes before serving with lemon, onion rings and green chutney."
   ],

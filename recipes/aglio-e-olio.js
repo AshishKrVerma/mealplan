@@ -34,18 +34,18 @@ window.RECIPES.push({
     "Parmesan (optional)"
   ],
   preparation: [
-    "Peel the garlic and slice it thinly, all about the same thickness so it browns evenly — thick and thin slices together means some burn while others stay raw.",
-    "Chop the parsley, measure the chilli flakes and keep a mug next to the stove for scooping out pasta water. Everything at the end happens in about 2 minutes, so have it all ready."
+    "Peel the garlic (10–12 small Indian cloves, or 6 large) and slice it thinly, all about the same thickness so it browns evenly — thick and thin slices together means some burn while others stay raw.",
+    "Chop the parsley (3 tbsp), measure the chilli flakes (1/2 tsp) and keep a mug next to the stove for scooping out pasta water. Everything at the end happens in about 2 minutes, so have it all ready."
   ],
   steps: [
-    "Bring 2.5 litres of water to a rolling boil in a big pot and add 1.5 tsp salt; the water should taste lightly salty. Add the spaghetti, stirring for the first 2 minutes so the strands don't stick together.",
+    "Bring 2.5 litres of water to a rolling boil in a big pot and add 1.5 tsp salt; the water should taste lightly salty. Add the spaghetti (250 g), stirring for the first 2 minutes so the strands don't stick together.",
     "Cook for the packet time minus 1 minute (most spaghetti says 10–12 minutes, so cook 9–11). Bite a strand: it should be cooked but still slightly firm in the centre — it finishes cooking in the pan.",
-    "While the pasta boils (start when it has about 8 minutes left), put the olive oil and sliced garlic in a large, wide pan while the pan is still cold. Turn the heat to medium. When the garlic starts to sizzle gently, lower to medium-low and cook 4–6 minutes, stirring now and then, until the slices are pale golden and smell nutty and sweet.",
-    "Watch the garlic closely: light golden is perfect, brown is bitter. If it is colouring too fast, lift the pan off the heat for a minute. As soon as it is pale golden, switch the heat off and stir in the chilli flakes — they sizzle in the hot oil for a few seconds and turn it orange-red.",
+    "While the pasta boils (start when it has about 8 minutes left), put the olive oil (1/4 cup / 4 tbsp) and sliced garlic (10–12 small Indian cloves, or 6 large) in a large, wide pan while the pan is still cold. Turn the heat to medium. When the garlic starts to sizzle gently, lower to medium-low and cook 4–6 minutes, stirring now and then, until the slices are pale golden and smell nutty and sweet.",
+    "Watch the garlic closely: light golden is perfect, brown is bitter. If it is colouring too fast, lift the pan off the heat for a minute. As soon as it is pale golden, switch the heat off and stir in the chilli flakes (1/2 tsp) — they sizzle in the hot oil for a few seconds and turn it orange-red.",
     "Before draining, scoop out 1 cup of the pasta water with the mug and keep it aside — this is the most important step, so don't skip it. Then drain the pasta.",
-    "Turn the pan back on to medium-high. Add the drained pasta, 1/2 cup of the pasta water and 1/4 tsp salt. Toss continuously with tongs or two forks for 1–1.5 minutes, lifting and folding, until you no longer see water and oil pooled in the pan, and every strand is shiny and coated.",
+    "Turn the pan back on to medium-high. Add the drained pasta (250 g), 1/2 cup of the pasta water and 1/4 tsp salt. Toss continuously with tongs or two forks for 1–1.5 minutes, lifting and folding, until you no longer see water and oil pooled in the pan, and every strand is shiny and coated.",
     "If it looks dry or sticky, add more pasta water 2 tbsp at a time and toss again. It should be glossy and slippery, not oily and not dry.",
-    "Toss in the parsley and a little black pepper, taste for salt, and serve straight away with grated parmesan on top."
+    "Toss in the parsley (3 tbsp, or 1 tbsp dried) and a little black pepper, taste for salt, and serve straight away with grated parmesan on top."
   ],
   storage: "Best eaten fresh — it dries out in the fridge. Leftovers keep 1–2 days in the fridge.",
   reheating: "Warm in a pan with 2–3 tbsp water and a few drops of olive oil, tossing until loose again. Microwaving makes it stick together.",

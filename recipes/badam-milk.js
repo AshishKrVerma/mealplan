@@ -31,15 +31,15 @@ window.RECIPES.push({
     "Cardamom powder (pantry check)"
   ],
   preparation: [
-    "Soak the almonds overnight, or in hot water for 30 minutes if you forgot. The skins then slip off between your fingers.",
+    "Soak the almonds (20) overnight, or in hot water for 30 minutes if you forgot. The skins then slip off between your fingers.",
     "Peeling matters. Almond skins make the milk grainy and slightly bitter.",
-    "Soak the saffron in 2 tbsp of warm milk for 10 minutes. Dropped in dry, it gives you neither the colour nor the smell."
+    "Soak the saffron (10–12 strands) in 2 tbsp of warm milk for 10 minutes. Dropped in dry, it gives you neither the colour nor the smell."
   ],
   steps: [
-    "Grind the peeled almonds with 1/2 cup of COLD milk into a completely smooth paste, in short bursts. Cold milk stops the mixie heating the paste. Rub a little between your fingers — if it still feels gritty, grind longer, because gritty paste means gritty milk.",
-    "Bring the rest of the milk to a boil, then lower the heat.",
+    "Grind the peeled almonds (20), plus the pistachios (4) and cashews (4) if using, with 1/2 cup of COLD milk into a completely smooth paste, in short bursts. Cold milk stops the mixie heating the paste. Rub a little between your fingers — if it still feels gritty, grind longer, because gritty paste means gritty milk.",
+    "Bring the rest of the milk (about 600 ml) to a boil, then lower the heat.",
     "Stir in the almond paste and simmer 8–10 minutes, stirring often so it does not catch at the bottom. It thickens noticeably.",
-    "Add the sugar, cardamom, nutmeg and the saffron with its soaking milk. Simmer 2 more minutes.",
+    "Add the sugar (3 tbsp), cardamom (1/2 tsp), nutmeg (a pinch) and the saffron (10–12 strands) with its soaking milk. Simmer 2 more minutes.",
     "Serve hot in winter. For cold badam milk, cover the pan as it cools (this stops a thick malai skin forming), chill for 2 hours, and whisk well before pouring over ice."
   ],
   storage: "Fridge up to 3 days in a covered bottle. It thickens when cold — loosen with a splash of milk.",

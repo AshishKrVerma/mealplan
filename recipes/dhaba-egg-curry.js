@@ -37,18 +37,18 @@ window.RECIPES.push({
     "Fresh coriander"
   ],
   preparation: [
-    "Hard-boil the eggs (10 minutes from boiling water), cool in cold water and peel.",
+    "Hard-boil the eggs (6; 10 minutes from boiling water), cool in cold water and peel.",
     "Prick each peeled egg a few times with a fork so the gravy gets in.",
-    "Chop onions and tomatoes before the stove goes on."
+    "Chop onions (2 large) and tomatoes (2) before the stove goes on."
   ],
   steps: [
-    "In a kadai on medium, heat 1 tsp oil and lightly fry the boiled eggs with a pinch of turmeric and chilli powder until blistered golden, 2 minutes. Set aside.",
-    "Add 2 tbsp oil to the same kadai. Add cumin, bay leaf, cardamom, cloves and cinnamon and let them sizzle 20–30 seconds until fragrant. Then add the onions, green chillies and a pinch of salt and cook on medium for 8–10 minutes until deep golden brown. This colour IS the dhaba flavour, so don't rush it.",
-    "Add ginger-garlic paste and cook 1 minute until the raw smell is gone. Lower the heat, add turmeric, chilli powder and coriander powder with 2 tbsp water, and stir 1 minute so the spices cook without burning.",
-    "Add the tomatoes and cook 5–6 minutes, mashing them, until they melt into a glossy masala and oil peeks out at the edges.",
+    "In a kadai on medium, heat 1 tsp oil and lightly fry the boiled eggs (6) with a pinch of turmeric and chilli powder until blistered golden, 2 minutes. Set aside.",
+    "Add 2 tbsp oil to the same kadai. Add cumin (1 tsp), bay leaf (1), cardamom (2), cloves (2) and cinnamon (1 inch) and let them sizzle 20–30 seconds until fragrant. Then add the onions (2 large), green chillies (1–2) and a pinch of salt and cook on medium for 8–10 minutes until deep golden brown. This colour IS the dhaba flavour, so don't rush it.",
+    "Add ginger-garlic paste (1 tbsp) and cook 1 minute until the raw smell is gone. Lower the heat, add turmeric (about 1/2 tsp), chilli powder (about 1 tsp) and coriander powder (2 tsp) with 2 tbsp water, and stir 1 minute so the spices cook without burning.",
+    "Add the tomatoes (2) and cook 5–6 minutes, mashing them, until they melt into a glossy masala and oil peeks out at the edges.",
     "Pour in 1 cup hot water, season with salt, cover and simmer 5–6 minutes to a medium-thick gravy with a thin layer of oil on top.",
-    "Slide in the eggs, crush the kasuri methi over the top, and simmer 3–4 minutes so they soak up the gravy.",
-    "Finish with garam masala and coriander. Serve with chapati, rice, or jeera rice."
+    "Slide in the eggs (6), crush the kasuri methi (1 tsp) over the top, and simmer 3–4 minutes so they soak up the gravy.",
+    "Finish with garam masala (1 tsp) and coriander. Serve with chapati, rice, or jeera rice."
   ],
   storage: "Fridge up to 3 days — the eggs actually taste better on day two.",
   reheating: "Simmer on the stove with a splash of water, or microwave 2 minutes covered.",

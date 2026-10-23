@@ -36,16 +36,16 @@ window.RECIPES.push({
     "Bay leaf, cinnamon (pantry check)"
   ],
   preparation: [
-    "Crush the peppercorns coarsely, crush half the ginger with the garlic, and julienne the rest of the ginger for the finish.",
-    "Rinse the chicken. Ask the butcher for small pieces so they cook fast and shred easily.",
+    "Crush the peppercorns (1 tsp) coarsely, crush half the ginger (1 inch) with the garlic (6 cloves), and julienne the rest of the ginger (1 inch) for the finish.",
+    "Rinse the chicken (500 g). Ask the butcher for small pieces so they cook fast and shred easily.",
     "Wash the coriander; chop the leaves for the finish and keep a small bunch of stalks whole — they flavour the broth."
   ],
   steps: [
-    "Heat ghee in a deep pot on medium. Sizzle cumin, bay leaf and cinnamon for 10–15 seconds, then the crushed ginger and garlic for 30 seconds — fragrant, not brown.",
-    "Add chicken and stir 2–3 minutes until it turns white on the outside.",
-    "Pour in 1.5 litres water, add onion, carrot, crushed pepper, green chilli, the coriander stalks and salt. Bring just to a boil, then turn to low so it bubbles gently (a hard boil makes the soup cloudy). Skim off the grey foam in the first 5 minutes — that's what keeps the soup clear. Simmer uncovered 30–35 minutes, until the meat pulls easily off the bone.",
+    "Heat ghee (1 tbsp) in a deep pot on medium. Sizzle cumin (1 tsp), bay leaf (1) and cinnamon (1 inch) for 10–15 seconds, then the crushed ginger (1 inch) and garlic (6 cloves) for 30 seconds — fragrant, not brown.",
+    "Add chicken (500 g) and stir 2–3 minutes until it turns white on the outside.",
+    "Pour in 1.5 litres water, add onion (1 small), carrot (1 small), crushed pepper (1 tsp), green chilli (1), the coriander stalks and salt. Bring just to a boil, then turn to low so it bubbles gently (a hard boil makes the soup cloudy). Skim off the grey foam in the first 5 minutes — that's what keeps the soup clear. Simmer uncovered 30–35 minutes, until the meat pulls easily off the bone.",
     "Fish out the bay leaf, cinnamon, coriander stalks and onion quarters. Lift out the chicken, pull the meat off the bones in rough shreds (discard the bones) and return the meat to the pot.",
-    "Turn off the heat, then add the lemon juice (boiling lemon turns it bitter), ginger juliennes and a small mountain of coriander. Taste — it should be peppery, gingery and slightly aggressive, in a healing way."
+    "Turn off the heat, then add the lemon juice (half a lemon; boiling lemon turns it bitter), ginger juliennes (1 inch) and a small mountain of coriander. Taste — it should be peppery, gingery and slightly aggressive, in a healing way."
   ],
   storage: "Fridge up to 3 days; it turns lightly gelatinous when cold, which is a good sign, not a problem.",
   reheating: "Bring to a simmer on the stove, or microwave a mugful for 2 minutes. Add fresh lemon after reheating.",

@@ -31,14 +31,14 @@ window.RECIPES.push({
     "A small glass jar with a lid"
   ],
   preparation: [
-    "Chop the fruit small so it breaks down quickly. Hard fruit like apple needs to be diced finer than berries.",
+    "Chop the fruit (2 cups) small so it breaks down quickly. Hard fruit like apple needs to be diced finer than berries.",
     "Wash and dry the jar thoroughly, then rinse it with boiling water. A wet or dirty jar is how a small batch of jam goes mouldy in three days.",
     "Chia is doing the setting here, so there is no need to boil this for an hour the way traditional jam demands."
   ],
   steps: [
-    "Cook the fruit with the water and a pinch of salt on medium for 6–8 minutes, mashing with the back of a spoon as it softens.",
-    "When it has broken down into a rough pulp, stir in the honey and lemon juice and cook 2 more minutes.",
-    "Take it off the heat and stir in the chia seeds and vanilla.",
+    "Cook the fruit (2 cups) with the water (2 tbsp) and a pinch of salt on medium for 6–8 minutes, mashing with the back of a spoon as it softens.",
+    "When it has broken down into a rough pulp, stir in the honey (3–4 tbsp) and lemon juice (1 tbsp) and cook 2 more minutes.",
+    "Take it off the heat and stir in the chia seeds (3 tbsp) and vanilla (1/2 tsp).",
     "Let it stand 10 minutes. It will look far too runny at this point — that is normal, and the chia is still working.",
     "Stir again and pour into the jar. It sets fully in the fridge over about 2 hours. Too thin once set? Stir in 1 more tsp chia and wait 15 minutes. Too thick? Loosen with a spoonful of water."
   ],

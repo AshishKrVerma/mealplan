@@ -29,14 +29,14 @@ window.RECIPES.push({
     "Garlic, lemon"
   ],
   preparation: [
-    "Wash and dry the beans well — wet beans steam and go dull instead of blistering."
+    "Wash and dry the beans (300 g) well — wet beans steam and go dull instead of blistering."
   ],
   steps: [
-    "Cook the chopped bacon in a cold pan on medium for 6–7 minutes until crisp. Lift out, leaving about 1.5 tbsp grease.",
-    "Turn the heat up to medium-high, add the beans and toss to coat. Cook 3 minutes until bright green with a few blistered spots.",
+    "Cook the chopped bacon (4 strips) in a cold pan on medium for 6–7 minutes until crisp. Lift out, leaving about 1.5 tbsp grease.",
+    "Turn the heat up to medium-high, add the beans (300 g) and toss to coat. Cook 3 minutes until bright green with a few blistered spots.",
     "Add 2 tbsp water and cover for 2–3 minutes so the beans become tender but still crunchy.",
-    "Uncover and let any leftover water bubble away (about 30 seconds). Add garlic and chilli flakes and stir 30–60 seconds, until the garlic smells fragrant and is just turning light golden. Don't let it brown, or it turns bitter.",
-    "Toss the bacon back in, season with pepper (taste before salting), finish with lemon and serve."
+    "Uncover and let any leftover water bubble away (about 30 seconds). Add garlic (4 cloves) and chilli flakes (1/2 tsp) and stir 30–60 seconds, until the garlic smells fragrant and is just turning light golden. Don't let it brown, or it turns bitter.",
+    "Toss the bacon (4 strips) back in, season with pepper, taste, and add the salt (a small pinch) only if it needs it; finish with lemon (a squeeze) and serve."
   ],
   storage: "Fridge up to 2 days.",
   reheating: "Hot pan 2 minutes.",

@@ -31,16 +31,16 @@ window.RECIPES.push({
     "Small-grain or broken basmati rice"
   ],
   preparation: [
-    "Rinse and soak the rice 15 minutes; drain.",
-    "Chop the nuts, and soak the saffron strands in 1 tbsp warm milk if using. Rub 1 tsp ghee on the inside base of the cooker — it helps the milk not stick.",
+    "Rinse and soak the rice (1/4 cup) 15 minutes; drain.",
+    "Chop the nuts (10–12 cashews and almonds), and soak the saffron strands (a few) in 1 tbsp warm milk if using. Rub 1 tsp ghee on the inside base of the cooker — it helps the milk not stick.",
     "Use a big cooker (5 litres or more): the milk should fill it no more than halfway, or it can froth up and spurt out of the whistle."
   ],
   steps: [
-    "Pour the milk into the ghee-rubbed pressure cooker, add the drained rice, and bring to a gentle boil on medium, stirring so nothing sticks.",
+    "Pour the milk (1 litre) into the ghee-rubbed pressure cooker, add the drained rice (1/4 cup), and bring to a gentle boil on medium, stirring so nothing sticks.",
     "Close the lid. 1 whistle on medium, then turn the flame to the lowest the moment it whistles (otherwise milk can spurt through the vent). Cook 8–10 minutes on the lowest flame, then off. Let the pressure release on its own — no peeking.",
     "Open and stir, scraping the milk solids from the sides and bottom back into the kheer. The rice should be completely soft and the milk slightly thickened. Mash a few rice grains against the side for extra creaminess.",
-    "Add sugar and simmer uncovered on low for 5–8 minutes, stirring and scraping the sides, until the sugar dissolves and it is thick but still flowing, like a loose porridge. Taste and add more sugar now if needed. Take it off the heat while it still flows — it thickens a lot as it cools.",
-    "Stir in cardamom, saffron milk, nuts and raisins. Serve warm today, or chilled tomorrow (correct answer: both)."
+    "Add sugar (1/4 cup) and simmer uncovered on low for 5–8 minutes, stirring and scraping the sides, until the sugar dissolves and it is thick but still flowing, like a loose porridge. Taste and add more sugar now if needed. Take it off the heat while it still flows — it thickens a lot as it cools.",
+    "Stir in cardamom (1/2 tsp), saffron milk (1 tbsp), nuts (10–12 cashews and almonds) and raisins (8–10). Serve warm today, or chilled tomorrow (correct answer: both)."
   ],
   storage: "Fridge up to 2 days in a covered bowl.",
   reheating: "Lovely cold as-is. To serve warm: add a splash of milk and microwave 1–2 minutes, stirring halfway.",

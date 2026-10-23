@@ -35,16 +35,16 @@ window.RECIPES.push({
     "Kashmiri chilli powder, fennel seeds (pantry check)"
   ],
   preparation: [
-    "Hard-boil the eggs (10 minutes from boiling water), cool, peel, and score 2–3 shallow slits in each so the masala clings.",
-    "Slice the onions thin and even — they're the gravy, so this is the one knife job that matters."
+    "Hard-boil the eggs (5; 10 minutes from boiling water), cool, peel, and score 2–3 shallow slits in each so the masala clings.",
+    "Slice the onions (3 large) thin and even — they're the gravy, so this is the one knife job that matters."
   ],
   steps: [
-    "Heat coconut oil in a kadai on medium. Add the mustard seeds; when they pop, add fennel seeds for 10 seconds until fragrant, then the curry leaves (stand back, they crackle), then all the onions with a pinch of salt.",
+    "Heat coconut oil (2.5 tbsp) in a kadai on medium. Add the mustard seeds (1/2 tsp); when they pop, add fennel seeds (1/2 tsp) for 10 seconds until fragrant, then the curry leaves (most of the 1 sprig; stand back, they crackle), then all the onions (3 large) with a pinch of salt.",
     "Cook the onions 12–15 minutes, stirring every couple of minutes, until deep golden brown — properly caramelised, the colour of milk toffee. This step IS the dish; pale onions make a sad roast.",
-    "Add the crushed ginger and garlic and stir 1–2 minutes until the raw smell is gone. Lower the heat, add turmeric, chilli powder, coriander powder and black pepper with 1 tbsp water (so they don't burn) and stir 1 minute until the raw spice smell fades.",
-    "Add the tomato and salt. Cook 3–4 minutes, mashing with the spoon, until the tomato melts into a thick, dark, jammy masala and oil shows at the edges.",
+    "Add the crushed ginger (1 inch) and garlic (5 cloves) and stir 1–2 minutes until the raw smell is gone. Lower the heat, add turmeric (1/2 tsp), chilli powder (2 tsp), coriander powder (1 tsp) and black pepper (1/2 tsp) with 1 tbsp water (so they don't burn) and stir 1 minute until the raw spice smell fades.",
+    "Add the tomato (1) and salt. Cook 3–4 minutes, mashing with the spoon, until the tomato melts into a thick, dark, jammy masala and oil shows at the edges.",
     "Splash in 1/4 cup hot water just to loosen it — this is a roast, not a curry; the masala should coat, not flow.",
-    "Add the eggs and a few fresh curry leaves. Cook on low for 6–8 minutes, rolling the eggs every minute, until the water has dried up, the masala clings to them, darkens and smells roasted. Sprinkle garam masala, stir 1 minute and turn off the heat."
+    "Add the eggs (5) and a few fresh curry leaves. Cook on low for 6–8 minutes, rolling the eggs every minute, until the water has dried up, the masala clings to them, darkens and smells roasted. Sprinkle garam masala (1/2 tsp), stir 1 minute and turn off the heat."
   ],
   storage: "Fridge up to 3 days — like most onion-heavy masalas, it improves overnight.",
   reheating: "In a pan on low with a spoon of water, rolling the eggs around, or 90 seconds in the microwave covered.",

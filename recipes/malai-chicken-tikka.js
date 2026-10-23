@@ -42,16 +42,16 @@ window.RECIPES.push({
     "Fresh coriander"
   ],
   preparation: [
-    "First marinade: pat the chicken dry with a paper towel, then toss it with the ginger-garlic paste, lemon juice, salt and pepper. Set aside 15–20 minutes. This seasons the meat itself, so the mild creamy coat doesn't taste flat.",
-    "Second marinade: whisk hung curd, grated cheese, cashew paste, the rest of the ginger-garlic paste, cornflour, cardamom, nutmeg, kasuri methi and oil into a thick white marinade. It should hold to a spoon, not pour. Taste a dot and add salt only if needed.",
-    "Coat the chicken well and marinate covered in the fridge at least 1 hour; 4 hours to overnight makes it melt-in-the-mouth.",
+    "First marinade: pat the chicken (500 g) dry with a paper towel, then toss it with the ginger-garlic paste (1/2 tbsp), lemon juice (half a lemon), salt (1/2 tsp) and pepper (1/4 tsp). Set aside 15–20 minutes. This seasons the meat itself, so the mild creamy coat doesn't taste flat.",
+    "Second marinade: whisk hung curd (1/2 cup), grated cheese (2 tbsp), cashew paste (8 cashews), the rest of the ginger-garlic paste (1/2 tbsp), cornflour (1 tbsp), pepper (1/4 tsp), cardamom (1/2 tsp), nutmeg (1/4 tsp), kasuri methi (1/2 tsp) and oil (1 tbsp) into a thick white marinade. It should hold to a spoon, not pour. Taste a dot and add salt only if needed.",
+    "Coat the chicken (500 g) well and marinate covered in the fridge at least 1 hour; 4 hours to overnight makes it melt-in-the-mouth.",
     "Take it out of the fridge 15 minutes before cooking so the centre isn't ice-cold."
   ],
   steps: [
     "Preheat the air fryer to 180°C for 3 minutes.",
-    "Arrange chicken in a single layer with gaps (on skewers if you have short ones; soak wooden ones 30 minutes first). Shake off excess marinade but keep a thick coat. Malai tikka wants gentle heat — too hot and the creamy coat scorches before the inside cooks.",
-    "Air fry 8 minutes. Turn each piece and brush with the melted butter or ghee, then air fry 5–6 more minutes until pale gold with a few darker spots.",
-    "Brush once more with butter and cook 1–2 minutes at 200°C for light char spots. Cut the thickest piece: it should be white right through with clear juices, no pink.",
+    "Arrange chicken (500 g) in a single layer with gaps (on skewers if you have short ones; soak wooden ones 30 minutes first). Shake off excess marinade but keep a thick coat. Malai tikka wants gentle heat — too hot and the creamy coat scorches before the inside cooks.",
+    "Air fry 8 minutes. Turn each piece and brush with the melted butter or ghee (part of the 1 tbsp), then air fry 5–6 more minutes until pale gold with a few darker spots.",
+    "Brush once more with butter (rest of the 1 tbsp) and cook 1–2 minutes at 200°C for light char spots. Cut the thickest piece: it should be white right through with clear juices, no pink.",
     "Rest 2 minutes, sprinkle chaat masala and coriander, and serve with lemon wedges and sliced onion. Mint chutney on the side for the heat-seekers."
   ],
   storage: "Fridge up to 2 days, covered.",

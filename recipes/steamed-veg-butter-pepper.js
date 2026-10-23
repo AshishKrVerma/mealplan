@@ -31,16 +31,16 @@ window.RECIPES.push({
     "Lemon (1)"
   ],
   preparation: [
-    "Cut everything to roughly the same size so it all finishes together. Beans and carrots take longer than broccoli, so cut them smaller.",
-    "Soak the broccoli in salted water for 10 minutes and rinse — it is worth it with broccoli specifically.",
-    "Have the butter out and softening while the vegetables steam."
+    "Cut everything (1 small broccoli, 150 g French beans, 1 carrot) to roughly the same size so it all finishes together. Beans and carrots take longer than broccoli, so cut them smaller.",
+    "Soak the broccoli (1 small) in salted water for 10 minutes and rinse — it is worth it with broccoli specifically.",
+    "Have the butter (2 tbsp) out and softening while the vegetables steam."
   ],
   steps: [
-    "Put the vegetables in a microwave-safe bowl with 3 tbsp water and cover with a plate.",
+    "Put the vegetables (1 small broccoli, 150 g French beans, 1 carrot) in a microwave-safe bowl with 3 tbsp water and cover with a plate.",
     "Microwave on high for 4 minutes, stir, then 2–3 minutes more depending on your microwave.",
     "Test with a fork: it should go in with slight resistance. Soft vegetables mean you went too far, and there is no coming back from that.",
     "Drain every drop of water. Any left in the bowl waters down the butter and you get a puddle instead of a glaze.",
-    "Toss hot with butter, pepper, chilli flakes, garlic powder and salt until glossy. Lemon last, off the heat."
+    "Toss hot with butter (2 tbsp), pepper (1 tsp), chilli flakes (1/2 tsp), garlic powder (1/2 tsp) and salt until glossy. Lemon (a good squeeze) last, off the heat."
   ],
   storage: "Fridge up to 2 days. Colours dull but the taste holds.",
   reheating: "Pan on high for 2 minutes with a little extra butter. Reheating in the microwave overcooks it further.",

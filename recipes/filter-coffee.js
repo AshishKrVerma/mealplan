@@ -27,13 +27,13 @@ window.RECIPES.push({
   ],
   preparation: [
     "Set the decoction the night before, or at least an hour ahead. Filter coffee does not work in a hurry.",
-    "Put the coffee powder in the upper chamber, level it with the back of a spoon and press the disc down — firm, but not compacted. Press too hard and nothing drips through; too loose and the decoction is weak.",
-    "Use water that has just come off the boil, not water that is still boiling."
+    "Put the coffee powder (4 tbsp) in the upper chamber, level it with the back of a spoon and press the disc down — firm, but not compacted. Press too hard and nothing drips through; too loose and the decoction is weak.",
+    "Use water (1 cup) that has just come off the boil, not water that is still boiling."
   ],
   steps: [
-    "Pour the hot water into the upper chamber, put the lid on, and leave it. It drips for 20–30 minutes, or overnight.",
-    "Boil the milk properly — filter coffee needs boiling milk, not warm milk.",
-    "Into each tumbler put 3–4 tbsp of decoction, stir in the sugar so it dissolves, then top up with the boiling milk. The usual ratio is 1 part decoction to 3 parts milk. Don't boil the decoction with the milk — it turns bitter.",
+    "Pour the hot water (1 cup) into the upper chamber, put the lid on, and leave it. It drips for 20–30 minutes, or overnight.",
+    "Boil the milk (1.5 cups) properly — filter coffee needs boiling milk, not warm milk.",
+    "Into each tumbler put 3–4 tbsp of decoction, stir in the sugar (1–1.5 tsp) so it dissolves, then top up with the boiling milk. The usual ratio is 1 part decoction to 3 parts milk. Don't boil the decoction with the milk — it turns bitter.",
     "Now pull it: pour back and forth between the tumbler and the davara from as much height as you dare. Stop once there is a thick froth on top (3–5 pulls) — keep going and it goes lukewarm.",
     "Drink it hot, straight away."
   ],

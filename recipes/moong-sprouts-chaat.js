@@ -32,12 +32,12 @@ window.RECIPES.push({
   ],
   preparation: [
     "Home sprouting (once, lasts the week): soak whole moong overnight, drain, leave covered in a colander 24–36 hours, rinsing twice a day, until tails appear. Refrigerate.",
-    "Chop onion, tomato, chilli, coriander."
+    "Chop onion (1 small), tomato (1 small), chilli (1), coriander."
   ],
   steps: [
-    "Steam or boil the sprouts with a pinch of salt for 4–5 minutes — they should be tender but still hold their shape, with a slight bite and no raw, beany taste. (Microwave: 3 minutes covered with a splash of water.)",
+    "Steam or boil the sprouts (2 cups) with a pinch of salt for 4–5 minutes — they should be tender but still hold their shape, with a slight bite and no raw, beany taste. (Microwave: 3 minutes covered with a splash of water.)",
     "Drain well and cool slightly. Extra water makes the chaat soggy.",
-    "Just before eating, toss with onion, tomato, chilli, chaat masala, cumin, salt and lemon. Taste and add more lemon or chaat masala if it's flat. Salt and lemon pull water out of the tomato, so don't mix ahead.",
+    "Just before eating, toss with onion (1 small), tomato (1 small), chilli (1), chaat masala (1 tsp), cumin (1/4 tsp), salt and lemon (juice of half a lemon). Taste and add more lemon or chaat masala if it's flat. Salt and lemon pull water out of the tomato, so don't mix ahead.",
     "Top with coriander and whatever toppings you fancy, adding sev last so it stays crunchy. Eat immediately."
   ],
   storage: "Steamed plain sprouts keep 3 days in the fridge — assemble the chaat fresh in 2 minutes whenever hunger hits.",

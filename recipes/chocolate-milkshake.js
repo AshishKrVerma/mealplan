@@ -29,13 +29,13 @@ window.RECIPES.push({
     "A chocolate bar, to grate"
   ],
   preparation: [
-    "Take the ice cream out 5 minutes early. Rock-hard ice cream makes the mixie scream and the shake ends up thin from over-blending.",
-    "If you are using cocoa powder, whisk it into 3 tbsp of warm milk first. Cocoa thrown into cold milk floats in dry clumps and refuses to mix.",
+    "Take the ice cream (4 scoops) out 5 minutes early. Rock-hard ice cream makes the mixie scream and the shake ends up thin from over-blending.",
+    "If you are using cocoa powder (2 tbsp), whisk it into 3 tbsp of warm milk first. Cocoa thrown into cold milk floats in dry clumps and refuses to mix.",
     "Chill the glasses in the freezer while you work. It genuinely makes a difference."
   ],
   steps: [
-    "Put the cold milk into the mixie jar, then the cocoa paste or syrup, sugar and salt.",
-    "Add the ice cream last, on top.",
+    "Put the cold milk (rest of the 250 ml) into the mixie jar, then the cocoa paste (from 2 tbsp cocoa) or chocolate syrup (3 tbsp), the sugar (1 tbsp) only if you used cocoa, and salt (a pinch).",
+    "Add the ice cream (4 scoops) last, on top.",
     "Blend in short bursts — 10 seconds, stop, 10 seconds. Running it continuously melts the ice cream and you lose the thickness entirely.",
     "Check it: it should be thick enough that a straw stands up briefly before leaning.",
     "Drizzle syrup around the inside of the chilled glasses, pour, top with grated chocolate and serve immediately."

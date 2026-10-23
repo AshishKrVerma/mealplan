@@ -27,16 +27,16 @@ window.RECIPES.push({
     "Silicone or paper muffin cups"
   ],
   preparation: [
-    "Grease or line the muffin cups. Take the egg out of the fridge 20–30 minutes early; cold egg and milk make the melted butter clump.",
-    "Mix the milk with the lemon juice and leave 5 minutes — this homemade buttermilk makes them soft.",
-    "Measure the flour by spooning it into the cup and levelling it off. Scooping straight from the bag packs in extra flour and gives dry muffins."
+    "Grease or line the muffin cups. Take the egg (1) out of the fridge 20–30 minutes early; cold egg and milk make the melted butter clump.",
+    "Mix the milk (3/4 cup) with the lemon juice (1 tsp) and leave 5 minutes — this homemade buttermilk makes them soft.",
+    "Measure the flour (2 cups) by spooning it into the cup and levelling it off. Scooping straight from the bag packs in extra flour and gives dry muffins."
   ],
   steps: [
-    "Whisk all the dry ingredients in one bowl. Toss in the chocolate chips (minus the 2 tbsp for the tops) so they get coated in flour, which stops them sinking.",
-    "Whisk the wet ingredients (including the soured milk) in another. If using butter, let it cool 5 minutes after melting first.",
+    "Whisk all the dry ingredients (2 cups maida, 2/3 cup sugar, 2 tsp baking powder, 1/4 tsp baking soda, 1/4 tsp salt) in one bowl. For double chocolate, swap 1/4 cup of the maida for cocoa powder. Toss in the chocolate chips (3/4 cup minus the 2 tbsp for the tops) so they get coated in flour, which stops them sinking.",
+    "Whisk the wet ingredients (the soured milk, 1/2 cup oil or melted butter, 1 egg, 1 tsp vanilla essence) in another. If using butter, let it cool 5 minutes after melting first.",
     "Pour wet into dry and fold gently with a spatula until just combined — a thick, lumpy batter is correct. It should hold a soft mound on the spoon. A thin, runny batter bakes flat.",
     "Let the batter rest 15 minutes on the counter. The flour soaks up the liquid and the batter thickens, which gives taller domes. Don't stir it again after resting.",
-    "Near the end of the rest, preheat the air fryer at 180°C for 3 minutes. Fill cups three-quarters full (in an oven you can fill almost to the top for bakery-style domes, but in the air fryer tall domes get too close to the heating element). Press the reserved chips on top.",
+    "Near the end of the rest, preheat the air fryer at 180°C for 3 minutes. Fill cups three-quarters full (in an oven you can fill almost to the top for bakery-style domes, but in the air fryer tall domes get too close to the heating element). Press the reserved chips (2 tbsp) on top.",
     "Air fry at 180°C for 3 minutes (this quick burst of high heat makes the domes rise), then lower to 160°C for 10–12 minutes without opening the basket in between. Check at 12 minutes total. They're done when the tops are golden and spring back when pressed lightly, and a toothpick comes out with no wet batter (melted chocolate is fine). If the tops darken too fast, cover loosely with foil.",
     "Cool 5 minutes in the cups, then on a rack."
   ],

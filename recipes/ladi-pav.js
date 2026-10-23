@@ -35,24 +35,24 @@ window.RECIPES.push({
   preparation: [
     "Check the tin fits: it should sit flat in the basket with at least 1–2 cm of gap all round for air to flow, and its rim should be at least 5 cm below the heating element, because the pav rise another 2–3 cm while baking. A 7-inch (18 cm) square or round tin fits most 4.5–6 litre baskets; a 6-inch tin suits 3.5–4 litre ones (see notes). If the tin is too tall, use a shallower one.",
     "Grease the tin with butter and line the base with a square of butter paper so the pav slide out.",
-    "Warm the milk until it feels comfortably warm on the inside of your wrist, like a baby's bottle — not hot. Too hot kills the yeast; cold milk makes a slow, dense rise.",
-    "Yeast check (10 minutes that can save 2 hours): stir the sugar and yeast into the warm milk and leave it for 5–10 minutes. It should turn foamy on top. If nothing happens, the yeast is dead — buy fresh and don't continue.",
-    "Take the butter out of the fridge so it's soft enough to squish with a finger."
+    "Warm the milk (3/4 cup / 180 ml) until it feels comfortably warm on the inside of your wrist, like a baby's bottle — not hot. Too hot kills the yeast; cold milk makes a slow, dense rise.",
+    "Yeast check (10 minutes that can save 2 hours): stir the sugar (1 tbsp) and yeast (1 tsp) into the warm milk and leave it for 5–10 minutes. It should turn foamy on top. If nothing happens, the yeast is dead — buy fresh and don't continue.",
+    "Take the butter (2 tbsp) out of the fridge so it's soft enough to squish with a finger."
   ],
   steps: [
-    "In a big bowl mix the maida, salt and milk powder. Pour in the foamy yeast milk and stir with a spoon, then your hand, into a rough, shaggy, sticky dough. Cover and leave 10 minutes — the flour soaks up the milk and starts building gluten on its own, which is why a short knead is enough.",
+    "In a big bowl mix the maida (2 cups / about 260 g), salt (1/2 tsp) and milk powder (2 tbsp). Pour in the foamy yeast milk and stir with a spoon, then your hand, into a rough, shaggy, sticky dough. Cover and leave 10 minutes — the flour soaks up the milk and starts building gluten on its own, which is why a short knead is enough.",
     "Knead 2 minutes on the counter: push the dough away with the heel of your hand, fold it back, turn it a quarter, repeat. It will be sticky — oil or wet your hands instead of adding lots of flour (extra flour = dense pav). Add 1 tbsp milk only if it feels stiff and dry.",
     "Add the 2 tbsp soft butter and knead it in for another 4–6 minutes. It turns slippery and messy first, then comes together. Done when the dough is smooth, soft, slightly tacky but not gluing to your hands, and slowly springs back when you poke it. (No-knead option: see the stretch-and-fold note.)",
     "First rise: shape into a ball, put it in a lightly greased bowl, cover with a plate or cling wrap and leave somewhere warm for 1–1.5 hours (about 45 minutes on a hot day) until doubled. Check: poke a floured finger 1 cm in — the hole should stay or fill back very slowly. If it springs right back, give it 15 more minutes. (Overnight option: see notes.)",
     "Press the dough down gently to release the air and divide into 9 equal pieces (about 50 g each if you have a scale — even sizes bake evenly).",
     "Shape each piece into a ball: flatten it slightly, pull the edges into the middle and pinch them together, flip it pinched-side down, then cup your hand over it and roll it in small circles on an unfloured counter for a few seconds until the top is smooth and tight. Perfection isn't needed — they press into squares as they rise.",
-    "Place the balls in the tin in 3 rows of 3, with small gaps between them. Brush the tops very gently with milk (it gives the golden colour).",
+    "Place the balls in the tin in 3 rows of 3, with small gaps between them. Brush the tops very gently with milk (1 tbsp; it gives the golden colour).",
     "Second rise: cover loosely and leave 30–45 minutes until the balls are puffy, about 1.5 times bigger and touching each other. A gentle poke should spring back slowly and leave a slight dent.",
     "Preheat the air fryer at 160°C for 3 minutes (an oven would be 180°C; the air fryer's fan and close element brown things faster, hence 20°C lower). Carefully lower the tin into the basket.",
     "Bake at 160°C for 18–22 minutes. Check at 12 minutes: if the tops are already golden brown, cover the tin with a piece of foil and crimp it tightly around the rim — loose foil can get blown into the heating element.",
     "Doneness (no thermometer needed): the tops are deep golden all over, including the middle pav; the edges pull slightly away from the sides of the tin; and a toothpick or thin skewer pushed into the side of the middle pav comes out clean with no wet dough. If unsure, bake 3 more minutes — slightly over is much better than raw inside.",
     "Lift the tin out with tongs or a cloth and let it sit 5 minutes, then turn the pav out in one slab. Tap the base — it should sound hollow. If the bottom is pale or feels damp, put the slab upside down straight into the basket and air fry 2–3 minutes at 160°C.",
-    "Turn it right side up and immediately rub the tops with butter. Cover with a clean kitchen towel for 10 minutes — the trapped steam keeps the crust soft and squishy.",
+    "Turn it right side up and immediately rub the tops with butter (1 tbsp). Cover with a clean kitchen towel for 10 minutes — the trapped steam keeps the crust soft and squishy.",
     "Cool at least 15 more minutes before pulling apart; cutting or tearing very hot bread makes the inside gummy. Slit and toast on a buttered tawa to serve with bhaji."
   ],
   storage: "Room temperature in a closed box or zip bag 2 days; fridge 4–5 days (they firm up); freezer 1 month, wrapped well.",

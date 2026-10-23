@@ -35,15 +35,15 @@ window.RECIPES.push({
   ],
   preparation: [
     "Cooking fresh? Rinse 2/3 cup rice and boil it with extra water (about 1 : 3) and a pinch of salt until properly soft — for curd rice, mushy is correct, not a mistake. (Or pressure-cook with 1 : 3 water for 3 whistles.)",
-    "While the rice is still hot, mash it with the back of a ladle and stir in the milk until soft and slightly creamy — hot rice mashes easily, and unmashed grains turn hard once the curd goes in. Leftover rice: warm it with a splash of water first, then mash.",
+    "While the rice (2 cups cooked) is still hot, mash it with the back of a ladle and stir in the milk (1/4 cup) until soft and slightly creamy — hot rice mashes easily, and unmashed grains turn hard once the curd goes in. Leftover rice: warm it with a splash of water first, then mash.",
     "Let the rice cool completely to room temperature (spread it on a plate to speed it up) before the curd goes in — warm rice splits the curd and makes it watery."
   ],
   steps: [
     "Check the mashed rice is fully cool; it should be soft and porridge-like.",
-    "Fold in the whisked curd and salt. It should be looser than you want — it thickens as it sits.",
-    "Heat oil in a small tadka pan on medium. Add mustard seeds; when they pop, add urad dal, chana dal and the dried red chilli and fry until the dals are golden, about 30–40 seconds.",
-    "Add curry leaves, green chilli and ginger — stand back, it will splutter — and fry until the leaves turn crisp, a few seconds. Add the hing, switch off, then pour the whole tempering over the rice.",
-    "Mix, top with coriander and pomegranate, and serve at room temperature or lightly chilled. Pickle on the side is law."
+    "Fold in the whisked curd (1.5 cups) and salt. It should be looser than you want — it thickens as it sits.",
+    "Heat oil (1 tbsp) in a small tadka pan on medium. Add mustard seeds (1 tsp); when they pop, add urad dal (1 tsp), chana dal (1 tsp) and the dried red chilli (1) and fry until the dals are golden, about 30–40 seconds.",
+    "Add curry leaves (8–10), green chilli (1) and ginger (1 tsp) — stand back, it will splutter — and fry until the leaves turn crisp, a few seconds. Add the hing (a pinch), switch off, then pour the whole tempering over the rice.",
+    "Mix, top with coriander and pomegranate (2 tbsp), and serve at room temperature or lightly chilled. Pickle on the side is law."
   ],
   storage: "Fridge up to 1 day; it gets tangier as it sits, which some of us consider a feature.",
   reheating: "Don't. Serve cool or at room temperature; loosen with a splash of milk if it has thickened.",

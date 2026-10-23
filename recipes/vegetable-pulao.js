@@ -36,15 +36,15 @@ window.RECIPES.push({
     "Green chilli"
   ],
   preparation: [
-    "Rinse rice until the water runs clear; soak 20 minutes and drain completely in a colander — extra water makes pulao mushy.",
-    "Chop vegetables small and evenly so everything cooks together. Slice the onion thin; chop the mint."
+    "Rinse rice (1.5 cups) until the water runs clear; soak 20 minutes and drain completely in a colander — extra water makes pulao mushy.",
+    "Chop vegetables (2 cups) small and evenly so everything cooks together. Slice the onion (1) thin; chop the mint (1/4 cup)."
   ],
   steps: [
-    "Heat ghee in the pressure cooker on medium. When it's hot, add cumin and the whole spices; let them sizzle about 30 seconds until fragrant.",
-    "Add onion and green chilli; cook 5–6 minutes, stirring, until the onion is golden at the edges — this is the base flavour, so don't rush it. Add ginger-garlic paste and sauté 30–60 seconds until the raw smell is gone.",
-    "Add vegetables (and tomato) and the mint; sauté 2–3 minutes until the mint smells strong. (Frozen veg can skip this sauté — just add them with the water.)",
-    "Add 2.5 cups water and the salt. Taste the water: it should taste slightly salty. Bring it to a rolling boil on high.",
-    "Add the drained rice and stir gently once to spread it out — don't fry soaked rice, it breaks. Close the lid.",
+    "Heat ghee (2 tbsp) in the pressure cooker on medium. When it's hot, add cumin (1 tsp, or 3/4 tsp shahi jeera) and the whole spices (4 cloves, 1 bay leaf, 1.5 inch cinnamon, 3 green cardamom, 1 star anise if using); let them sizzle about 30 seconds until fragrant.",
+    "Add onion (1) and green chilli (1–2); cook 5–6 minutes, stirring, until the onion is golden at the edges — this is the base flavour, so don't rush it. Add ginger-garlic paste (1 tbsp) and sauté 30–60 seconds until the raw smell is gone.",
+    "Add vegetables (2 cups; and 1 tomato) and the mint (1/4 cup); sauté 2–3 minutes until the mint smells strong. (Frozen veg can skip this sauté — just add them with the water.)",
+    "Add 2.5 cups water and the salt (about 3/4 tsp). Taste the water: it should taste slightly salty. Bring it to a rolling boil on high.",
+    "Add the drained rice (1.5 cups) and stir gently once to spread it out — don't fry soaked rice, it breaks. Close the lid.",
     "1 whistle on medium-high, then off. Let the pressure release naturally, then rest 5 minutes with the lid on, fluff gently with a fork and top with coriander and a little fresh mint."
   ],
   storage: "Fridge up to 2 days in a sealed box.",

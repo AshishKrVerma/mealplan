@@ -31,15 +31,15 @@ window.RECIPES.push({
   ],
   preparation: [
     "Pick a steel container that fits in the cooker with room around it, and check the lid seals or can be covered tightly with foil.",
-    "Bring the eggs and milk to room temperature. Cold eggs into warm milk is how you end up with scrambled bits in the custard.",
+    "Bring the eggs (3) and milk (400 ml) to room temperature. Cold eggs into warm milk is how you end up with scrambled bits in the custard.",
     "Strain the custard mixture before pouring. This is the single step that separates a silky custard from a slightly lumpy one, and it takes ten seconds."
   ],
   steps: [
-    "Make the caramel: melt the sugar with the water in a heavy pan on medium, without stirring, until it turns deep amber. Swirl the pan, do not stir. Pour it straight into the mould and tilt to coat the base — it sets hard in seconds, which is fine.",
-    "Warm the milk until just hot, not boiling. Dissolve the 4 tbsp sugar in it and let it cool to lukewarm.",
+    "Make the caramel: melt the sugar (4 tbsp) with the water (1 tbsp) in a heavy pan on medium, without stirring, until it turns deep amber. Swirl the pan, do not stir. Pour it straight into the mould and tilt to coat the base — it sets hard in seconds, which is fine.",
+    "Warm the milk (400 ml) until just hot, not boiling. Dissolve the 4 tbsp sugar in it and let it cool to lukewarm.",
     "Meanwhile, put the trivet in the cooker with 2 inches of water and start heating it on medium, so the water is already steaming when the mould goes in.",
-    "Beat the eggs lightly with the salt — lightly, with a fork or whisk, because beating air in gives you a bubbly, pockmarked custard.",
-    "Pour the lukewarm milk into the eggs in a thin stream, whisking. Add the vanilla and cardamom, then strain the whole thing over the set caramel.",
+    "Beat the eggs (3) lightly with the salt (a pinch) — lightly, with a fork or whisk, because beating air in gives you a bubbly, pockmarked custard.",
+    "Pour the lukewarm milk (400 ml) into the eggs in a thin stream, whisking. Add the vanilla (1 tsp) and cardamom (a pinch), then strain the whole thing over the set caramel.",
     "Cover the mould tightly with foil so no water drips in. Stand it on the trivet in the steaming water, close the lid and REMOVE THE WEIGHT (no whistle). Steam on low for 25–30 minutes; the water should simmer gently, not boil hard.",
     "Test with a knife in the centre: it should come out clean, the edges should be set and the centre should wobble slightly as one piece, like jelly. If the knife comes out milky, steam 5 minutes more and test again.",
     "Turn off the heat and leave the mould in the cooker for 10 minutes, then lift it out. Cool completely, then chill at least 4 hours (overnight is best).",

@@ -33,13 +33,13 @@ window.RECIPES.push({
     "Eno fruit salt (optional)"
   ],
   preparation: [
-    "Whisk the rava, curd and 1/2 cup water in a bowl until smooth with no dry pockets. Cover and rest 20–30 minutes. The rava drinks up the liquid and softens.",
-    "While it rests, chop the onion, tomato, capsicum, chillies, coriander and curry leaves very finely and mix them in a small bowl. Small pieces stick to the batter better.",
-    "After resting, the batter will be thick. Add water 1 tbsp at a time until it is thick but pourable, like thick idli batter: it should fall off the ladle in a slow ribbon, not run. Stir in the salt."
+    "Whisk the rava (1 cup), curd (1/2 cup) and 1/2 cup water in a bowl until smooth with no dry pockets. Cover and rest 20–30 minutes. The rava drinks up the liquid and softens.",
+    "While it rests, chop the onion (1 small), tomato (1 small), capsicum (2 tbsp), chillies (1–2), coriander (2 tbsp) and curry leaves (a few) very finely and mix them in a small bowl with the grated carrot (2 tbsp), if using. Small pieces stick to the batter better.",
+    "After resting, the batter will be thick. Add water (2–3 tbsp) 1 tbsp at a time until it is thick but pourable, like thick idli batter: it should fall off the ladle in a slow ribbon, not run. Stir in the salt (1/2 tsp)."
   ],
   steps: [
     "Heat a tawa (cast iron or non-stick) on medium-high. Add a few drops of oil and wipe it around with a folded paper towel so only a thin film is left. Test: a few drops of water should sizzle and vanish at once. A cold tawa makes the batter stick.",
-    "If using Eno, stir it into the batter now (it froths up) and start cooking straight away; it stops working after a few minutes. Baking soda works the same way.",
+    "If using Eno (1/4 tsp), stir it into the batter now (it froths up) and start cooking straight away; it stops working after a few minutes. Baking soda (a pinch) works the same way.",
     "Lower the flame to medium. Pour about 1/3 cup batter into the centre and spread it gently with the back of the ladle into a thick 5–6 inch circle, about 1/2 cm thick. Don't spread thin like a dosa.",
     "Immediately scatter 2 tbsp of the topping mix over it and press down lightly with a spatula so the vegetables sink in a little and don't fall off when you flip.",
     "Drizzle 1/2 tsp oil around the edges and a few drops on top. Cover with a lid and cook 2–3 minutes, until the top looks set (not wet) and the edges lift easily and the bottom is golden.",

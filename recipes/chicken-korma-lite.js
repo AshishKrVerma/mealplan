@@ -38,16 +38,16 @@ window.RECIPES.push({
     "Milk (optional splash)"
   ],
   preparation: [
-    "Whisk the curd until completely smooth — lumps split, smooth doesn't.",
-    "Marinate: mix the chicken with 1/4 cup of the curd, the ginger-garlic paste, turmeric, Kashmiri chilli powder and 1/2 tsp salt. Rest 20 minutes while you cook the onions (or overnight in the fridge).",
-    "Soak the cashews in warm water. Slice onions and keep whole spices measured out in one small bowl."
+    "Whisk the curd (1/2 cup) until completely smooth — lumps split, smooth doesn't.",
+    "Marinate: mix the chicken (500 g) with 1/4 cup of the curd, the ginger-garlic paste (1 tbsp), turmeric (1/2 tsp), Kashmiri chilli powder (1/2 tsp) and 1/2 tsp salt. Rest 20 minutes while you cook the onions (or overnight in the fridge).",
+    "Soak the cashews (12) in warm water (1/4 cup). Slice onions (2 medium) and keep whole spices (2 green cardamoms, 1 small cinnamon stick, 2 cloves, 1 bay leaf, 4–5 black peppercorns) measured out in one small bowl."
   ],
   steps: [
-    "Heat oil in a kadhai on medium. Add the whole spices; when the cardamom puffs (about 30 seconds), add onions with a pinch of salt and cook 8–10 minutes, stirring often, until evenly golden brown. Don't let them go dark brown — burnt bits make the gravy bitter.",
-    "Lift the onions out with a slotted spoon, leaving the oil and whole spices in the pan. Cool them 5 minutes, then blend with the soaked cashews, their soaking water and the remaining 1/4 cup curd into a completely smooth paste.",
-    "Put the pan back on medium-high. Add the marinated chicken (and slit green chilli, if using) and sauté 5–6 minutes until the chicken turns opaque and the raw ginger-garlic smell is gone.",
-    "Lower the heat to LOW. Stir in the coriander powder for 30 seconds, then add the onion-cashew paste and 1/2 cup hot water. Low heat here is the anti-splitting move for the curd.",
-    "Cover and simmer on low 12–15 minutes, stirring every few minutes so the cashew paste doesn't catch, until the chicken is tender, the gravy is pale gold and coats the back of a spoon, and fine traces of oil float on top. Too thick? Add a splash of hot water. Finish with garam masala and the kewra water or splash of milk, if using.",
+    "Heat oil (2 tbsp) in a kadhai on medium. Add the whole spices (2 green cardamoms, 1 small cinnamon stick, 2 cloves, 1 bay leaf, 4–5 black peppercorns); when the cardamom puffs (about 30 seconds), add onions (2 medium) with a pinch of salt and cook 8–10 minutes, stirring often, until evenly golden brown. Don't let them go dark brown — burnt bits make the gravy bitter.",
+    "Lift the onions out with a slotted spoon, leaving the oil and whole spices in the pan. Cool them 5 minutes, then blend with the soaked cashews (12), their soaking water (1/4 cup) and the remaining 1/4 cup curd into a completely smooth paste.",
+    "Put the pan back on medium-high. Add the marinated chicken (500 g; and 1 slit green chilli, if using) and sauté 5–6 minutes until the chicken turns opaque and the raw ginger-garlic smell is gone.",
+    "Lower the heat to LOW. Stir in the coriander powder (1 tsp) for 30 seconds, then add the onion-cashew paste and 1/2 cup hot water. Low heat here is the anti-splitting move for the curd.",
+    "Cover and simmer on low 12–15 minutes, stirring every few minutes so the cashew paste doesn't catch, until the chicken is tender, the gravy is pale gold and coats the back of a spoon, and fine traces of oil float on top. Too thick? Add a splash of hot water. Finish with garam masala (1/2 tsp) and the kewra water (a few drops) or splash of milk, if using.",
     "Rest 5 minutes off the heat before serving with chapati, rice or (ideal scenario) hot parathas."
   ],
   storage: "Fridge up to 3 days; the gravy thickens overnight — thin with a splash of water or milk.",

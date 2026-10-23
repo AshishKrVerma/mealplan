@@ -31,14 +31,14 @@ window.RECIPES.push({
   ],
   preparation: [
     "Pick sweet, non-fibrous mangoes: Alphonso, Kesar, Banganapalli or Badami. Stringy or sour mangoes make a grainy shake that needs a lot of sugar.",
-    "Chill the mangoes properly before cutting. Everything about this drink is better cold.",
+    "Chill the mangoes (2) properly before cutting. Everything about this drink is better cold.",
     "Cube over a bowl and tip the caught juice in as well.",
-    "Blend the mango on its own first and taste it. Banganapalli in season needs no sugar at all; a supermarket mango in October usually does."
+    "Taste a piece of the mango first. Banganapalli in season needs no sugar at all; a supermarket mango in October usually does."
   ],
   steps: [
-    "Blend the mango cubes alone for 20 seconds into a smooth pulp.",
-    "Add the milk, cardamom and sugar if needed. Blend 20 seconds more.",
-    "Add the ice cream (and the ice, if using) and pulse 3–4 times only — enough to fold it in without whipping the shake thin.",
+    "Blend the mango cubes (about 2 cups) alone for 20 seconds into a smooth pulp.",
+    "Add the milk (300 ml), cardamom (a pinch) and sugar (1–2 tbsp) if needed. Blend 20 seconds more.",
+    "Add the ice cream (2 scoops; and 2–3 ice cubes, if using) and pulse 3–4 times only — enough to fold it in without whipping the shake thin.",
     "Pour into chilled glasses.",
     "Top with chopped nuts and drink immediately."
   ],

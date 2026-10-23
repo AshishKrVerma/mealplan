@@ -30,14 +30,14 @@ window.RECIPES.push({
     "Green chilli"
   ],
   preparation: [
-    "Rinse the rice until the water runs clear — this removes surface starch and is the difference between fluffy and sticky.",
+    "Rinse the rice (1.5 cups) until the water runs clear — this removes surface starch and is the difference between fluffy and sticky.",
     "Soak 20 minutes, then drain fully in a colander — extra water clinging to the rice makes it mushy.",
     "Heat the 2.5 cups water in a kettle or pan so it's hot when it goes in."
   ],
   steps: [
-    "Heat ghee in the pressure cooker on low-medium. Add cumin, bay leaf, cloves and cardamom; let them sizzle 1–2 minutes until the cumin darkens a shade and smells nutty. Toasting the cumin properly is where all the flavour comes from — but pull back if it starts to go black.",
-    "Add the green chilli and the drained rice. Turn the heat to medium-high and fry 2 minutes, stirring only 3–4 times with a light hand so every grain gets a ghee coat — wet rice breaks easily.",
-    "Add the hot water and salt. Taste the water: it should taste slightly salty. Let it come to a boil.",
+    "Heat ghee (1.5 tbsp) in the pressure cooker on low-medium. Add cumin (1.5 tsp), bay leaf (1), cloves (3) and cardamom (3); let them sizzle 1–2 minutes until the cumin darkens a shade and smells nutty. Toasting the cumin properly is where all the flavour comes from — but pull back if it starts to go black.",
+    "Add the green chilli (1) and the drained rice (1.5 cups). Turn the heat to medium-high and fry 2 minutes, stirring only 3–4 times with a light hand so every grain gets a ghee coat — wet rice breaks easily.",
+    "Add the hot water (2.5 cups) and salt. Taste the water: it should taste slightly salty. Let it come to a boil.",
     "Close the lid. 1 whistle on medium, then off. Let the pressure drop on its own.",
     "Rest 5 minutes with the lid off, then fluff with a fork, not a spoon. Scatter coriander on top."
   ],

@@ -39,21 +39,21 @@ window.RECIPES.push({
     "Kashmiri chilli powder, cumin powder, garam masala, kasuri methi, hing (pantry check)"
   ],
   preparation: [
-    "The night before: put the urad dal and rajma in a large bowl and rinse them, rubbing between your hands, in 3–4 changes of water until the water is much less cloudy.",
+    "The night before: put the urad dal (3/4 cup) and rajma (1/4 cup) in a large bowl and rinse them, rubbing between your hands, in 3–4 changes of water until the water is much less cloudy.",
     "Cover with 4 cups of water and soak overnight, at least 8 hours (10–12 is even better). The rajma should swell to about double its size — unsoaked rajma never gets soft.",
     "Next day, drain the soaking water, rinse once more and drain again.",
-    "Blend the tomatoes into a smooth purée. Finely chop the onion, and the ginger and garlic for the cooker."
+    "Blend the tomatoes (2–3 medium) into a smooth purée. Finely chop the onion (1 medium), and the ginger (1 tsp) and garlic (1 tsp) for the cooker."
   ],
   steps: [
-    "Put the soaked dal and rajma in the pressure cooker with 4 cups fresh water, 1 tsp salt and the chopped ginger and garlic. Close the lid and cook on high until the first whistle, then turn the flame to low and cook 35–40 minutes (or about 8–10 whistles on medium). Switch off and let the pressure drop on its own.",
+    "Put the soaked dal (3/4 cup) and rajma (1/4 cup) in the pressure cooker with 4 cups fresh water, 1 tsp salt and the chopped ginger (1 tsp) and garlic (1 tsp). Close the lid and cook on high until the first whistle, then turn the flame to low and cook 35–40 minutes (or about 8–10 whistles on medium). Switch off and let the pressure drop on its own.",
     "Check that it's done: press a few urad grains and a rajma bean between your fingers — both should squash completely with no hard centre. If not, add 1/2 cup hot water and cook another 3–4 whistles. Using a ladle, lightly mash about a third of the dal against the side of the cooker; this is what makes it creamy.",
-    "In a heavy-bottomed pot, heat 1 tbsp ghee and 1 tbsp butter on medium. Add the bay leaf, cardamoms and cumin seeds and let them sizzle for 20–30 seconds until fragrant.",
-    "Add the onion and cook 6–7 minutes, stirring, until golden. Add the ginger-garlic paste and stir 1 minute until the raw smell goes.",
-    "Pour in the tomato purée and cook 3–4 minutes. Add the Kashmiri chilli powder, cumin powder and 1/2 tsp garam masala and keep cooking, stirring, 4–5 minutes until the masala turns thick and darker and the ghee starts to separate at the edges.",
+    "In a heavy-bottomed pot, heat 1 tbsp ghee and 1 tbsp butter on medium. Add the bay leaf (1), cardamoms (2) and cumin seeds (1 tsp) and let them sizzle for 20–30 seconds until fragrant.",
+    "Add the onion (1 medium) and cook 6–7 minutes, stirring, until golden. Add the ginger-garlic paste (1 tbsp) and stir 1 minute until the raw smell goes.",
+    "Pour in the tomato purée (1 cup) and cook 3–4 minutes. Add the Kashmiri chilli powder (1 tsp), cumin powder (1/2 tsp) and 1/2 tsp garam masala and keep cooking, stirring, 4–5 minutes until the masala turns thick and darker and the ghee starts to separate at the edges.",
     "Pour in the cooked dal along with all its cooking liquid, plus 1 cup hot water. Stir well, scraping the bottom, and bring to a boil.",
     "Now the slow part: turn the flame to the lowest setting, cover with the lid slightly open (it splutters), and simmer for 45–60 minutes. Stir every 5–10 minutes, scraping the bottom so it doesn't stick. Whenever it gets too thick, add 1/4 to 1/2 cup hot water. It's ready when the dal looks dark, glossy and creamy, with the grains blending into the gravy.",
-    "Crush the kasuri methi between your palms over the pot. Stir in the cream (or milk), the remaining 1/4 tsp garam masala and 1 tbsp butter, and simmer 5 more minutes. Taste for salt. It should be thick but pourable — it thickens a lot as it stands.",
-    "Optional final tadka: heat 1 tbsp ghee in a small pan, switch off the flame, add the hing and 1/2 tsp Kashmiri chilli powder, and pour the sizzling tadka over the dal right away.",
+    "Crush the kasuri methi (1 tsp) between your palms over the pot. Stir in the cream (2–3 tbsp, or 1/4 cup milk), the remaining 1/4 tsp garam masala and 1 tbsp butter, and simmer 5 more minutes. Taste for salt. It should be thick but pourable — it thickens a lot as it stands.",
+    "Optional final tadka: heat 1 tbsp ghee in a small pan, switch off the flame, add the hing (a pinch) and 1/2 tsp Kashmiri chilli powder, and pour the sizzling tadka over the dal right away.",
     "Garnish with coriander and a swirl of cream if you like. Serve hot."
   ],
   storage: "Fridge up to 4 days; it tastes even better the next day. Freezes well for up to 2 months (freeze before adding cream if making ahead).",

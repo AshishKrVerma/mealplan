@@ -33,17 +33,17 @@ window.RECIPES.push({
     "Green chillies"
   ],
   preparation: [
-    "Put poha in a colander and rinse it quickly under running water, turning it with your fingers, just until all of it is wet (about 20 seconds). Drain well. Never soak it in standing water.",
+    "Put poha (2 cups) in a colander and rinse it quickly under running water, turning it with your fingers, just until all of it is wet (about 20 seconds). Drain well. Never soak it in standing water.",
     "Cover and let it sit 5–10 minutes. Test: press a flake between thumb and finger. It should be soft and break easily, not hard and not mushy. Still hard? Sprinkle a little water, cover and wait 2–3 more minutes.",
-    "Sprinkle the salt and sugar over the softened poha and toss gently with your fingers, breaking up any lumps."
+    "Sprinkle the sugar (1 tsp) and salt over the softened poha and toss gently with your fingers, breaking up any lumps."
   ],
   steps: [
-    "Heat oil in a kadhai and fry the peanuts on medium until golden and crunchy, 2–3 minutes. Lift them out and keep aside so they stay crunchy.",
-    "In the same oil add mustard seeds; when they crackle add cumin, then hing, curry leaves and green chilli (stand back, the leaves splutter). Add the onion and sauté 2–3 minutes until soft and translucent, not brown.",
-    "If using potato, add it now with a pinch of salt, cover and cook on LOW 5–6 minutes until a knife goes through easily. Sprinkle 1 tbsp water if it sticks.",
-    "Add turmeric and stir 30 seconds. Add the poha and fold gently with a light hand until evenly yellow.",
+    "Heat oil (2 tbsp) in a kadhai and fry the peanuts (2 tbsp) on medium until golden and crunchy, 2–3 minutes. Lift them out and keep aside so they stay crunchy.",
+    "In the same oil add mustard seeds (3/4 tsp); when they crackle add cumin (1/2 tsp), then hing (a pinch), curry leaves (8–10) and green chilli (1–2; stand back, the leaves splutter). Add the onion (1 large) and sauté 2–3 minutes until soft and translucent, not brown.",
+    "If using potato (1), add it now with a pinch of salt, cover and cook on LOW 5–6 minutes until a knife goes through easily. Sprinkle 1 tbsp water if it sticks.",
+    "Add turmeric (1/2 tsp) and stir 30 seconds. Add the poha (2 cups) and fold gently with a light hand until evenly yellow.",
     "Cover and cook on very low for 2–3 minutes, until the poha is hot all the way through. If it looks dry, sprinkle 1–2 tbsp water first.",
-    "Off the heat: taste for salt, then add lemon juice, coriander and the fried peanuts. Top with sev and serve hot."
+    "Off the heat: taste for salt, then add lemon juice (half a lemon), coriander and the fried peanuts (2 tbsp). Top with sev and serve hot."
   ],
   storage: "Best fresh; keeps a few hours covered on the counter.",
   reheating: "Sprinkle 1 tsp water, microwave 45–60 seconds covered — comes back surprisingly well.",

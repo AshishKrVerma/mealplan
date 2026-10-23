@@ -35,17 +35,17 @@ window.RECIPES.push({
     "Pav bhaji masala (optional)"
   ],
   preparation: [
-    "Chop the onions, tomatoes and chillies; keep one small onion aside, finely chopped, for serving."
+    "Chop the onions (2), tomatoes (2) and chillies (2); keep one small onion aside, finely chopped, for serving."
   ],
   steps: [
-    "Heat oil and ghee in the open pressure cooker on medium. Add cumin, bay leaf, cinnamon, cloves and cardamom; when the cumin sizzles and the spices smell fragrant (about 30 seconds), add the onions. Cook 7–8 minutes, stirring, until evenly golden.",
-    "Add ginger-garlic paste and green chillies; sauté about 1 minute until the raw smell of garlic is gone.",
-    "Add the keema on high heat. Break up every lump with the back of the spoon and cook 6–8 minutes until it changes colour and the water dries.",
-    "Lower to medium. Add turmeric, chilli powder, coriander powder, pav bhaji masala (if using), salt and half the mint. Bhuno (stir-fry) 3–4 minutes until the spices smell toasted and the keema looks dry and separate.",
-    "Add tomatoes and cook 5–6 minutes, mashing them in, until they turn mushy, the raw tomato smell is gone and oil appears at the sides.",
-    "Add peas and 3/4 cup hot water. Close the lid: 2 whistles, then let the pressure drop naturally. (No pressure cooker: cover and simmer 25 minutes, stirring often.)",
-    "Open and cook uncovered 3–5 minutes to your preferred consistency — slightly moist is ideal for pav. Taste for salt. Stir in garam masala, the remaining mint, coriander and a squeeze of lemon. Cover and rest 5 minutes off the heat.",
-    "Slit the pav, toast in butter on a tawa until golden and crisp at the edges, and serve with the keema, chopped onion and lemon."
+    "Heat oil (3 tbsp) and ghee (1 tbsp) in the open pressure cooker on medium. Add cumin (1 tsp), bay leaf (1), cinnamon (1 inch), cloves (3) and cardamom (2); when the cumin sizzles and the spices smell fragrant (about 30 seconds), add the onions (2). Cook 7–8 minutes, stirring, until evenly golden.",
+    "Add ginger-garlic paste (1 tbsp) and green chillies (2); sauté about 1 minute until the raw smell of garlic is gone.",
+    "Add the keema (500 g) on high heat. Break up every lump with the back of the spoon and cook 6–8 minutes until it changes colour and the water dries.",
+    "Lower to medium. Add turmeric (1/2 tsp), chilli powder (1.5 tsp), coriander powder (2 tsp), pav bhaji masala (1 tsp; if using), salt and half the mint (half a small handful). Bhuno (stir-fry) 3–4 minutes until the spices smell toasted and the keema looks dry and separate.",
+    "Add tomatoes (2) and cook 5–6 minutes, mashing them in, until they turn mushy, the raw tomato smell is gone and oil appears at the sides.",
+    "Add peas (1/2 cup) and 3/4 cup hot water. Close the lid: 2 whistles, then let the pressure drop naturally. (No pressure cooker: cover and simmer 25 minutes, stirring often.)",
+    "Open and cook uncovered 3–5 minutes to your preferred consistency — slightly moist is ideal for pav. Taste for salt. Stir in garam masala (1 tsp), the remaining mint (half a small handful), coriander (3 tbsp) and a squeeze of lemon. Cover and rest 5 minutes off the heat.",
+    "Slit the pav (8), toast in butter on a tawa until golden and crisp at the edges, and serve with the keema, chopped onion and lemon."
   ],
   storage: "Fridge up to 3 days; freezes well for 2 months.",
   reheating: "Pan with a splash of water, or microwave 2 minutes.",

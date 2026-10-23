@@ -32,15 +32,15 @@ window.RECIPES.push({
     "Charoli seeds (optional)"
   ],
   preparation: [
-    "Crush the saffron strands between your fingers, then soak them in the warm milk for 10 minutes until the milk turns golden. Crushing releases far more colour and aroma.",
-    "Use full-fat yogurt that isn't sour. If your Greek yogurt has any visible whey, tip it off — thicker in means silkier out. If it looks loose rather than thick like cream cheese, tie it in a muslin cloth and let it drain in a strainer in the fridge for 1 hour first; leftover whey makes shrikhand runny. (Regular curd needs to hang overnight in the fridge; Greek yogurt is the entire shortcut.)"
+    "Crush the saffron strands (a generous pinch) between your fingers, then soak them in the warm milk (1 tbsp) for 10 minutes until the milk turns golden. Crushing releases far more colour and aroma.",
+    "Use full-fat yogurt that isn't sour. If your Greek yogurt (400 g) has any visible whey, tip it off — thicker in means silkier out. If it looks loose rather than thick like cream cheese, tie it in a muslin cloth and let it drain in a strainer in the fridge for 1 hour first; leftover whey makes shrikhand runny. (Regular curd needs to hang overnight in the fridge; Greek yogurt is the entire shortcut.)"
   ],
   steps: [
-    "Put the Greek yogurt in a bowl and whisk 1–2 minutes until completely smooth and glossy.",
-    "Whisk in the powdered sugar 2 tbsp at a time, tasting as you go — brands vary in tang.",
-    "Add cardamom and the saffron milk (strands and all); fold until the colour is an even pale gold.",
+    "Put the Greek yogurt (400 g) in a bowl and whisk 1–2 minutes until completely smooth and glossy.",
+    "Whisk in the powdered sugar (5–6 tbsp) 2 tbsp at a time, tasting as you go — brands vary in tang.",
+    "Add cardamom (1/2 tsp) and the saffron milk (strands and all); fold until the colour is an even pale gold.",
     "Chill at least 1 hour — shrikhand served fridge-cold is the whole point.",
-    "Spoon into small bowls and top with slivered nuts. Serve with hot pooris if it's a Sunday, or a spoon if it's not."
+    "Spoon into small bowls and top with slivered nuts (8–10 pistachios and almonds) and a few charoli seeds, if using. Serve with hot pooris if it's a Sunday, or a spoon if it's not."
   ],
   storage: "Fridge up to 3 days, covered. It arguably improves on day two as the saffron deepens.",
   reheating: "Never. This is a strictly cold operation.",

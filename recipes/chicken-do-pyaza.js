@@ -40,18 +40,18 @@ window.RECIPES.push({
     "Lemon (1), green chillies"
   ],
   preparation: [
-    "Marinate: mix the chicken with 1/2 tbsp ginger-garlic paste, lemon juice, 1/2 tsp chilli powder and 1/2 tsp salt. Leave 30 minutes while you prep (or 1–2 hours in the fridge for more tender chicken).",
+    "Marinate: mix the chicken (500 g) with 1/2 tbsp ginger-garlic paste, lemon juice (1 tbsp), 1/2 tsp chilli powder and 1/2 tsp salt. Leave 30 minutes while you prep (or 1–2 hours in the fridge for more tender chicken).",
     "Slice 2 onions thin; quarter the other 2 and separate into petals. Keep the two piles apart — they have different jobs.",
-    "Whisk the curd smooth with the turmeric, coriander powder and the 1 tsp chilli powder. Spices mixed into curd can't burn in the pan, and smooth curd goes in without splitting."
+    "Whisk the curd (1/4 cup) smooth with the turmeric (1 tsp), coriander powder (2 tsp) and the 1 tsp chilli powder. Spices mixed into curd can't burn in the pan, and smooth curd goes in without splitting."
   ],
   steps: [
-    "Heat oil in a kadhai on medium. Splutter cumin, bay leaf, cardamom, cloves and cinnamon for about 30 seconds, then add the sliced onions with a pinch of salt. Cook 8–10 minutes until deep golden — this is the flavour base, don't rush it, but don't let it blacken or it turns bitter.",
-    "Add the remaining 1 tbsp ginger-garlic paste and stir 1 minute until the raw smell is gone. Add tomatoes and cook 4–5 minutes, mashing, until soft and pulpy with oil beading at the edges.",
-    "Flame low; stir in the spiced curd a spoon at a time. Keep stirring 2–3 minutes until the masala is thick, glossy and shows tiny oil bubbles at the edges.",
-    "Add the chicken with its marinade, coat well, and cook uncovered 5–6 minutes on medium until the pieces turn opaque and release their juices.",
+    "Heat oil (2 tbsp) in a kadhai on medium. Splutter cumin (1 tsp), bay leaf (1), cardamom (3), cloves (2) and cinnamon (1 small piece) for about 30 seconds, then add the sliced onions (2) with a pinch of salt. Cook 8–10 minutes until deep golden — this is the flavour base, don't rush it, but don't let it blacken or it turns bitter.",
+    "Add the remaining 1 tbsp ginger-garlic paste and stir 1 minute until the raw smell is gone. Add tomatoes (2) and cook 4–5 minutes, mashing, until soft and pulpy with oil beading at the edges.",
+    "Flame low; stir in the spiced curd (1/4 cup) a spoon at a time. Keep stirring 2–3 minutes until the masala is thick, glossy and shows tiny oil bubbles at the edges.",
+    "Add the chicken (500 g) with its marinade, coat well, and cook uncovered 5–6 minutes on medium until the pieces turn opaque and release their juices.",
     "Cover and simmer on low 8–10 minutes until the chicken is nearly done, stirring once or twice. Add 1/4–1/2 cup water only if the masala starts to stick; the chicken's own juices usually do the job.",
-    "Raise the flame to medium-high. Add the onion petals, green chillies and kasuri methi (crushed between your palms), stir, and cook uncovered 4–5 minutes — the petals should turn silky at the edges but keep a slight crunch.",
-    "Finish with garam masala and coriander and taste for salt. The gravy should be thick and clinging, not soupy. Rest covered 10 minutes before serving so the flavours settle."
+    "Raise the flame to medium-high. Add the onion petals (2 onions), green chillies (2) and kasuri methi (1 tsp; crushed between your palms), stir, and cook uncovered 4–5 minutes — the petals should turn silky at the edges but keep a slight crunch.",
+    "Finish with garam masala (3/4 tsp) and coriander and taste for salt. The gravy should be thick and clinging, not soupy. Rest covered 10 minutes before serving so the flavours settle."
   ],
   storage: "Fridge up to 3 days. The late onions soften by day two but the flavour deepens nicely.",
   reheating: "Microwave 2 minutes or a quick simmer with a splash of water.",

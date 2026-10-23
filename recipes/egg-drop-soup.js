@@ -34,16 +34,16 @@ window.RECIPES.push({
     "Soy sauce, vinegar, cornflour"
   ],
   preparation: [
-    "Blitz half the corn in the mixer with 2–3 tbsp water to a coarse paste; keep the rest whole. The paste gives the soup its body and creamy corn flavour, and the whole kernels give it bite.",
-    "Beat the eggs in a cup with a pouring lip until evenly yellow with no streaks of white. You'll be drizzling them in a thin stream.",
-    "Mix the cornflour slurry and keep it next to the stove; it settles, so give it a stir before using."
+    "Blitz half the corn (6 tbsp) in the mixer with 2–3 tbsp water to a coarse paste; keep the rest whole. The paste gives the soup its body and creamy corn flavour, and the whole kernels give it bite.",
+    "Beat the eggs (3) in a cup with a pouring lip until evenly yellow with no streaks of white. You'll be drizzling them in a thin stream.",
+    "Mix the cornflour slurry (2 tbsp cornflour, 1/4 cup cold water) and keep it next to the stove; it settles, so give it a stir before using."
   ],
   steps: [
-    "Heat oil in a saucepan on medium. Sizzle ginger, garlic and spring onion whites for 30 seconds — just fragrant, not brown.",
-    "Add water, the corn paste and whole corn, soy sauce, half the pepper, salt and the sugar if using. Bring to a proper rolling boil, then simmer 3–4 minutes.",
+    "Heat oil (1 tsp) in a saucepan on medium. Sizzle ginger (1 tsp), garlic (2 cloves) and spring onion whites (from 1 spring onion) for 30 seconds — just fragrant, not brown.",
+    "Add water (4 cups), the corn paste and whole corn (6 tbsp), soy sauce (1 tbsp), half the pepper (1/4 tsp), salt and the sugar (a pinch) if using. Bring to a proper rolling boil, then simmer 3–4 minutes.",
     "Stir the slurry and pour it in while stirring; simmer 1–2 minutes until the soup turns glossy and lightly thick — it should coat the ladle.",
-    "Now the trick: turn the heat to low so the soup barely simmers (a hard boil makes the egg rubbery). Stir slowly in one direction, hold the cup just above the surface and drizzle the beaten egg in a thin stream, moving in a circle. Wait 15 seconds before stirring again — that's what makes ribbons instead of cloudiness.",
-    "Off the heat, add the vinegar, spring onion greens and the rest of the pepper. Taste and adjust. This soup runs on pepper."
+    "Now the trick: turn the heat to low so the soup barely simmers (a hard boil makes the egg rubbery). Stir slowly in one direction, hold the cup just above the surface and drizzle the beaten egg (3) in a thin stream, moving in a circle. Wait 15 seconds before stirring again — that's what makes ribbons instead of cloudiness.",
+    "Off the heat, add the vinegar (a few drops), spring onion greens (from 1 spring onion) and the rest of the pepper (1/4 tsp). Taste and adjust. This soup runs on pepper."
   ],
   storage: "Fridge up to 2 days. It thickens as it sits; thin with water when reheating.",
   reheating: "Gently on the stove or 2 minutes in the microwave. Don't boil hard — the egg ribbons toughen.",

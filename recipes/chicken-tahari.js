@@ -38,18 +38,18 @@ window.RECIPES.push({
     "Kashmiri chilli powder (pantry check)"
   ],
   preparation: [
-    "Mix chicken with curd, ginger-garlic paste, chilli powder, turmeric and salt; let it sit while you slice onions — 15 minutes helps, 30 minutes is better.",
-    "Chop the mint and coriander leaves.",
-    "Rinse and soak the rice 20 minutes, then drain."
+    "Mix chicken (500 g) with curd (1/2 cup), ginger-garlic paste (1.5 tbsp), chilli powder (1 tsp), turmeric (1/2 tsp) and salt; let it sit while you slice onions (2) — 15 minutes helps, 30 minutes is better.",
+    "Chop the mint and coriander leaves (a handful).",
+    "Rinse and soak the rice (1.5 cups) 20 minutes, then drain."
   ],
   steps: [
-    "Heat oil in the pressure cooker on medium-high. Add the whole spices; when they sizzle, add onions with a pinch of salt and fry 8–10 minutes until properly golden-brown — pale onions make pale tahari.",
-    "Add green chillies and tomato; cook 3–4 minutes until the tomato is mushy and oil starts to leave the sides.",
-    "Add the marinated chicken with all its marinade. Sauté on medium-high for 4–5 minutes until the chicken turns white and the masala looks glossy.",
-    "Add half the garam masala and half the mint-coriander and sauté 1–2 minutes more, until the herbs wilt and smell fragrant.",
-    "Add the drained rice and stir very gently for 1 minute so the grains get coated without breaking.",
+    "Heat oil (3 tbsp) in the pressure cooker on medium-high. Add the whole spices (1 bay leaf, 1 inch cinnamon, 3 cardamom, 3 cloves, 5 black peppercorns, 1 tsp shahi jeera); when they sizzle, add onions (2) with a pinch of salt and fry 8–10 minutes until properly golden-brown — pale onions make pale tahari.",
+    "Add green chillies (2) and tomato (1); cook 3–4 minutes until the tomato is mushy and oil starts to leave the sides.",
+    "Add the marinated chicken (500 g) with all its marinade. Sauté on medium-high for 4–5 minutes until the chicken turns white and the masala looks glossy.",
+    "Add half the garam masala (1/2 tsp) and half the mint-coriander (half a handful) and sauté 1–2 minutes more, until the herbs wilt and smell fragrant.",
+    "Add the drained rice (1.5 cups) and stir very gently for 1 minute so the grains get coated without breaking.",
     "Add 2.25 cups water (the curd counts as liquid, so slightly less than usual). Taste — the water should be a touch saltier than you'd like. Close the lid.",
-    "1 whistle on medium, then off. Let pressure release naturally, rest 5–10 minutes more with the lid on, then open, squeeze the lemon over, sprinkle the remaining garam masala and herbs, and fluff gently from the sides with a fork. Check: break a chicken piece — it should be white right through."
+    "1 whistle on medium, then off. Let pressure release naturally, rest 5–10 minutes more with the lid on, then open, squeeze the lemon (half a lemon) over, sprinkle the remaining garam masala (1/2 tsp) and herbs (half a handful), and fluff gently from the sides with a fork. Check: break a chicken piece — it should be white right through."
   ],
   storage: "Fridge up to 2 days in a sealed box.",
   reheating: "Microwave covered with a sprinkle of water, 2–3 minutes.",

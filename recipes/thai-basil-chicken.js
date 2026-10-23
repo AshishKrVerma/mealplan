@@ -35,18 +35,18 @@ window.RECIPES.push({
   ],
   preparation: [
     "Cook the rice first so it's ready — this dish is done in minutes and must be eaten hot.",
-    "Cut the chicken into small bite-size pieces (about 1.5 cm). Small pieces cook through in the 2 minutes they get.",
-    "Mix all the sauce ingredients in a small bowl and stir until the sugar dissolves.",
-    "Finely chop the garlic (chopped, not crushed or jarred — paste burns and spits in a very hot pan). Chop the chillies; remove the seeds for less heat.",
-    "Pick the basil leaves off the stems. Line everything up next to the stove: oil, garlic and chilli, spring onion whites, chicken, sauce, spring onion greens and basil."
+    "Cut the chicken (300 g) into small bite-size pieces (about 1.5 cm). Small pieces cook through in the 2 minutes they get.",
+    "Mix all the sauce ingredients (1 tbsp oyster sauce, 1 tsp light soy sauce, 1 tsp dark soy sauce, 1 tsp sugar, 3 tbsp water) in a small bowl and stir until the sugar dissolves.",
+    "Finely chop the garlic (3 large cloves; chopped, not crushed or jarred — paste burns and spits in a very hot pan). Chop the chillies (1–2 bird's eye or 2 green); remove the seeds for less heat.",
+    "Pick the basil leaves (1 cup) off the stems. Line everything up next to the stove: oil, garlic and chilli, spring onion whites, chicken, sauce, spring onion greens and basil."
   ],
   steps: [
     "Crispy fried eggs (do these first): heat 3 tbsp oil in a small pan on medium-high until very hot. Crack in one egg — it should puff and sizzle loudly. Spoon hot oil over the white for 1–2 minutes until the edges are brown and lacy and the yolk is still runny. Lift out onto a plate and repeat with the second egg.",
     "Heat 1.5 tbsp oil in a kadhai or wok on high until it shimmers.",
-    "Add the garlic and chilli and stir 10 seconds only, until fragrant — don't lean over the pan, the chilli fumes make you cough.",
-    "Add the spring onion whites and the chicken. Stir-fry 2–3 minutes until the chicken is white all over and just cooked through.",
+    "Add the garlic (3 large cloves) and chilli (1–2 bird's eye or 2 green) and stir 10 seconds only, until fragrant — don't lean over the pan, the chilli fumes make you cough.",
+    "Add the spring onion whites (1) and the chicken (300 g). Stir-fry 2–3 minutes until the chicken is white all over and just cooked through.",
     "Pour in the sauce and toss for about 1 minute until the water cooks down into a thick, glossy sauce coating the chicken.",
-    "Switch off the flame. Add the spring onion greens and basil and toss for 15–20 seconds until the basil just wilts (tulsi leaves are tougher — give them 30–40 seconds on the flame first).",
+    "Switch off the flame. Add the spring onion greens (1) and basil (1 cup) and toss for 15–20 seconds until the basil just wilts (tulsi leaves are tougher — give them 30–40 seconds on the flame first).",
     "Serve immediately over rice, topped with the crispy fried egg and a few slices of plain cucumber on the side."
   ],
   storage: "Best eaten fresh — the basil darkens and loses its aroma. Leftovers keep in the fridge 1 day.",

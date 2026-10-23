@@ -33,14 +33,14 @@ window.RECIPES.push({
     "Saffron (optional)"
   ],
   preparation: [
-    "Chill everything — mangoes, yogurt, milk, even the glasses. A lukewarm lassi is a tragedy that is entirely preventable.",
-    "Cube the mangoes over a bowl to catch the juice; the juice goes in too."
+    "Chill everything — mangoes (2), yogurt (1 cup), milk (1/2 cup), even the glasses. A lukewarm lassi is a tragedy that is entirely preventable.",
+    "Cube the mangoes (2) over a bowl to catch the juice; the juice goes in too."
   ],
   steps: [
-    "Blend the mango cubes alone first for 20 seconds into a smooth pulp — taste it now and decide if sugar is even needed.",
-    "Add Greek yogurt, milk, cardamom and ice. Blend 30–40 seconds until thick, smooth and pale gold.",
+    "Blend the mango cubes (2 mangoes, about 2 cups) alone first for 20 seconds into a smooth pulp and taste it. Only if the mangoes underdeliver, add the sugar or honey (1–2 tbsp).",
+    "Add Greek yogurt (1 cup), milk (1/2 cup), cardamom (a pinch) and ice (4–5 cubes). Blend 30–40 seconds until thick, smooth and pale gold.",
     "Check the texture: it should fall off a spoon slowly. Too thick, add milk; too thin, add mango or yogurt.",
-    "Pour into chilled glasses, top with pistachios and saffron, and serve immediately with a fat straw or a spoon (it earns the spoon)."
+    "Pour into chilled glasses, top with pistachios and saffron (a few strands), and serve immediately with a fat straw or a spoon (it earns the spoon)."
   ],
   storage: "Fridge up to 1 day in a sealed bottle; shake or re-blend before pouring.",
   reheating: "Not applicable — cold is the entire identity of this drink.",

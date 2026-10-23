@@ -37,17 +37,17 @@ window.RECIPES.push({
     "Milk (optional splash)"
   ],
   preparation: [
-    "Chop onions and tomatoes; whisk the curd smooth so it doesn't split.",
-    "Crush the kasuri methi between your palms. Whisk 2 tbsp of it into the curd; keep the last tablespoon for the finish.",
-    "Season the chicken with a pinch of salt and keep it ready. Put 1/2 cup water on to heat; hot water keeps the chicken tender, cold water tightens it."
+    "Chop onions (2 medium) and tomatoes (2); whisk the curd (1/4 cup) smooth so it doesn't split.",
+    "Crush the kasuri methi (3 tbsp) between your palms. Whisk 2 tbsp of it into the curd; keep the last tablespoon for the finish.",
+    "Season the chicken (500 g) with a pinch of salt and keep it ready. Put 1/2 cup water on to heat; hot water keeps the chicken tender, cold water tightens it."
   ],
   steps: [
-    "Heat oil in a kadhai on medium. Add cumin, bay leaf and cardamom; when the cumin sizzles (about 30 seconds), add onions with a pinch of salt. Cook 8–10 minutes until properly golden — pale onions make a sad gravy.",
-    "Add ginger-garlic paste and green chillies, and cook about 1 minute until the raw smell is gone. Add tomatoes and all the powdered spices except garam masala. Cook 4–5 minutes until the tomatoes are mushy, the masala turns glossy and oil shows at the edges.",
-    "Add the chicken and stir-fry on medium for 3–4 minutes until the outside turns white all over.",
+    "Heat oil (2 tbsp) in a kadhai on medium. Add cumin (1 tsp), bay leaf (1) and cardamom (2); when the cumin sizzles (about 30 seconds), add onions (2 medium) with a pinch of salt. Cook 8–10 minutes until properly golden — pale onions make a sad gravy.",
+    "Add ginger-garlic paste (1 tbsp) and green chillies (1–2), and cook about 1 minute until the raw smell is gone. Add tomatoes (2) and all the powdered spices (1/2 tsp turmeric, 1.5 tsp coriander powder, 1 tsp Kashmiri chilli powder) except garam masala. Cook 4–5 minutes until the tomatoes are mushy, the masala turns glossy and oil shows at the edges.",
+    "Add the chicken (500 g) and stir-fry on medium for 3–4 minutes until the outside turns white all over.",
     "Add the hot water, cover and cook on low for 8–10 minutes, stirring once or twice, until the chicken is nearly cooked (cut a piece: just a faint pink line in the centre).",
     "Turn the flame to its lowest. Add the curd-methi mix a spoonful at a time, stirring constantly for 2–3 minutes so it doesn't split. Then raise to medium and cook uncovered 4–5 minutes until the chicken is cooked through and the gravy is clinging rather than watery, with tiny oil bubbles at the edges.",
-    "Finish with the last tablespoon of kasuri methi, garam masala and the splash of milk. Rest 5 minutes with the lid on before serving — the methi blooms."
+    "Finish with the last tablespoon of kasuri methi, garam masala (1/2 tsp) and the splash of milk. Rest 5 minutes with the lid on before serving — the methi blooms."
   ],
   storage: "Fridge up to 3 days; the methi flavour actually deepens overnight.",
   reheating: "Microwave 2 minutes with a spoon of water, or a gentle simmer on the stove.",

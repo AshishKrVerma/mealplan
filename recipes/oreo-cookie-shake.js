@@ -29,12 +29,12 @@ window.RECIPES.push({
   preparation: [
     "Keep the cream filling in. It is the sugar in this shake — that is why no extra sugar is needed anywhere.",
     "Crush the two extra biscuits coarsely by hand and set them aside. These are for texture, and they must not go into the mixie.",
-    "Soften the ice cream for 5 minutes on the counter."
+    "Soften the ice cream (4 scoops) for 5 minutes on the counter."
   ],
   steps: [
-    "Blend the 8 whole biscuits with the milk for 20 seconds until the mixture goes grey and speckled.",
-    "Add the ice cream and pulse in short bursts until just combined. Do not over-blend or it goes thin and sad.",
-    "Fold the coarsely crushed biscuits in with a spoon.",
+    "Blend the 8 whole biscuits with the milk (250 ml) for 20 seconds until the mixture goes grey and speckled.",
+    "Add the ice cream (4 scoops) and pulse in short bursts until just combined. Do not over-blend or it goes thin and sad.",
+    "Fold the coarsely crushed biscuits (most of the 2) in with a spoon.",
     "Smear a little of the crushed biscuit around the inside rim of the glasses, then pour.",
     "Top with whipped cream and a whole biscuit stuck in the top. Serve with a fat straw and a spoon."
   ],

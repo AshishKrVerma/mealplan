@@ -34,20 +34,20 @@ window.RECIPES.push({
     "Urad dal, chana dal, mustard seeds, hing (pantry check)"
   ],
   preparation: [
-    "Soak the urad dal and chana dal in a little hot water for 10 minutes, then drain and pat dry. They still go crunchy in the tempering but won't be rock-hard.",
-    "Chop the onion, chillies, ginger, curry leaves and vegetables before you start. Once the water boils, things move fast.",
+    "Soak the urad dal (1 tsp) and chana dal (1.5 tsp) in a little hot water for 10 minutes, then drain and pat dry. They still go crunchy in the tempering but won't be rock-hard.",
+    "Chop the onion (1 small), chillies (1–2), ginger (1/2 inch), curry leaves (1 sprig) and vegetables (1/2 cup) before you start. Once the water boils, things move fast.",
     "Measure the 3 cups of water into a jug and keep it next to the stove."
   ],
   steps: [
-    "Roast the rava: put it in a dry kadhai on low-medium and stir constantly for 5–6 minutes, until it smells nutty and the grains look dry and separate. It should stay pale cream, NOT brown. Tip it into a plate. (Packet says 'roasted rava'? 1 minute is enough.)",
-    "Wipe the kadhai, heat the oil on medium and add the mustard seeds. When they crackle, add the urad dal and chana dal and stir until light golden, about 1 minute. Add the cashews (and peanuts) and fry until golden.",
-    "Add the hing, green chilli, ginger and curry leaves (stand back, they splutter) and stir 30 seconds. Add the onion and cook 3–4 minutes until soft and translucent.",
-    "If using vegetables, add them now, cover and cook on low 3–4 minutes until just tender.",
-    "Pour in the 3 cups water and the salt. Taste the water: it should taste slightly salty, like the sea. Turn the flame up and bring it to a full, rolling boil.",
-    "Turn the flame to LOW. Holding the plate in one hand and a spatula in the other, pour the rava in a slow, thin stream while stirring non-stop. Careful: it bubbles and splashes, so keep your hand back.",
+    "Roast the rava (1 cup): put it in a dry kadhai on low-medium and stir constantly for 5–6 minutes, until it smells nutty and the grains look dry and separate. It should stay pale cream, NOT brown. Tip it into a plate. (Packet says 'roasted rava'? 1 minute is enough.)",
+    "Wipe the kadhai, heat the oil (2–2.5 tbsp) on medium and add the mustard seeds (1/2 tsp). When they crackle, add the urad dal (1 tsp) and chana dal (1.5 tsp) and stir until light golden, about 1 minute. Add the cashews (8–10) and peanuts (2 tbsp, if using) and fry until golden.",
+    "Add the hing (a pinch), green chilli (1–2), ginger (1/2 inch) and curry leaves (1 sprig; stand back, they splutter) and stir 30 seconds. Add the onion (1 small) and cook 3–4 minutes until soft and translucent.",
+    "If using vegetables (1/2 cup), add them now, cover and cook on low 3–4 minutes until just tender.",
+    "Pour in the 3 cups water and the salt (3/4 tsp). Taste the water: it should taste slightly salty, like the sea. Turn the flame up and bring it to a full, rolling boil.",
+    "Turn the flame to LOW. Holding the plate in one hand and a spatula in the other, pour the rava (1 cup) in a slow, thin stream while stirring non-stop. Careful: it bubbles and splashes, so keep your hand back.",
     "Once all the rava is in, stir hard for 30 seconds, pressing out any lumps against the side of the pan.",
-    "Cover and cook on the lowest flame for 2–3 minutes, until all the water is absorbed. Stir once, dot with the ghee, switch off and leave covered 5 minutes.",
-    "Fluff it up with a fork, squeeze over the lemon, scatter coriander and serve hot."
+    "Cover and cook on the lowest flame for 2–3 minutes, until all the water is absorbed. Stir once, dot with the ghee (1–2 tsp), switch off and leave covered 5 minutes.",
+    "Fluff it up with a fork, squeeze over the lemon (half a lemon), scatter coriander and serve hot."
   ],
   storage: "Best fresh. Fridge up to 1 day in a covered box.",
   reheating: "Sprinkle 1–2 tbsp water, break up the lumps with a spoon, cover and microwave 1–1.5 minutes. Or warm in a pan with a splash of water.",

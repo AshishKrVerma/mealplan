@@ -41,22 +41,22 @@ window.RECIPES.push({
     "Fresh coriander"
   ],
   preparation: [
-    "Marinate the mutton: mix it with the ginger-garlic paste, curd, 1 tsp mustard oil, turmeric and salt. Leave it at least 30 minutes; 3 hours or overnight in the fridge makes it more tender. Take it out of the fridge 30 minutes before cooking.",
-    "Make the railway masala: put the peppercorns, coriander seeds, fennel, cumin, cardamoms and cinnamon in a dry pan on low heat. Stir 2–3 minutes until fragrant and the coriander seeds turn a shade darker. Cool on a plate, then grind to a fine powder in the small mixer jar. You get about 2 tbsp.",
-    "Peel the potatoes, halve them, and toss with a pinch of turmeric and salt.",
-    "Slice the onions thin and even, and purée the tomatoes in the mixer. Chop the coriander stems finely and keep the leaves separate."
+    "Marinate the mutton (600 g): mix it with the ginger-garlic paste (1 tbsp), curd (2 tbsp), 1 tsp mustard oil, turmeric (1/2 tsp) and salt (1/2 tsp). Leave it at least 30 minutes; 3 hours or overnight in the fridge makes it more tender. Take it out of the fridge 30 minutes before cooking.",
+    "Make the railway masala: put the peppercorns (1 tbsp), coriander seeds (2 tsp), fennel (1 tsp), cumin (1/2 tsp), cardamoms (1 black, 2 green) and cinnamon (1/2 inch) in a dry pan on low heat. Stir 2–3 minutes until fragrant and the coriander seeds turn a shade darker. Cool on a plate, then grind to a fine powder in the small mixer jar. You get about 2 tbsp, and this curry uses 1 tbsp of it (2 tsp in step 5, 1 tsp in step 9). Store the rest in an airtight jar for the next batch; it keeps its punch for about a month.",
+    "Peel the potatoes (3 medium), halve them, and toss with a pinch of turmeric and salt.",
+    "Slice the onions (3 medium) thin and even, and purée the tomatoes (2) in the mixer. Chop the coriander stems (1 tbsp) finely and keep the leaves separate."
   ],
   steps: [
-    "Heat 2 tbsp mustard oil in the pressure cooker on high until it just starts to smoke (this takes away its raw bite), then turn the heat to medium. Add the potatoes and fry 5–6 minutes, turning, until light golden on all sides. They should be only half cooked — a knife meets resistance in the middle. Lift them out onto a plate.",
-    "Add the remaining 3 tbsp mustard oil to the cooker. When it is hot, add the bay leaf, black cardamom and green cardamom and stir 20–30 seconds until they puff and smell fragrant.",
-    "Add the sliced onions with a pinch of salt and cook 10–12 minutes on medium, stirring often, until deep golden brown. Don't rush this; the browned onions give the gravy its colour and sweetness. If they start sticking, splash in 1–2 tbsp water and scrape.",
-    "Turn the heat up to medium-high and add the marinated mutton with all its marinade. Stir and sear 6–8 minutes until the meat turns from pink to brown on the outside and the juices it releases have mostly dried off.",
-    "Lower the heat, add the coriander powder, turmeric, Kashmiri chilli powder and 2 tsp of the railway masala. Stir 1 minute (add a splash of water if it looks dry, so the spices don't burn).",
-    "Add the tomato purée and cook 6–7 minutes on medium, stirring, until it thickens, darkens and you can see oil separating at the edges of the masala.",
-    "Add 1.5 cups hot water, the tamarind paste and salt (go easy, the marinade had some). Bring to a boil, close the lid and cook 1 whistle on high, then 20–25 minutes on low (boneless: 15–18 minutes). Switch off and let the pressure drop by itself.",
+    "Heat 2 tbsp mustard oil in the pressure cooker on high until it just starts to smoke (this takes away its raw bite), then turn the heat to medium. Add the potatoes (3 medium) and fry 5–6 minutes, turning, until light golden on all sides. They should be only half cooked — a knife meets resistance in the middle. Lift them out onto a plate.",
+    "Add the remaining 3 tbsp mustard oil to the cooker. When it is hot, add the bay leaf (1), black cardamom (1) and green cardamom (2) and stir 20–30 seconds until they puff and smell fragrant.",
+    "Add the sliced onions (3 medium) with a pinch of salt and cook 10–12 minutes on medium, stirring often, until deep golden brown. Don't rush this; the browned onions give the gravy its colour and sweetness. If they start sticking, splash in 1–2 tbsp water and scrape.",
+    "Turn the heat up to medium-high and add the marinated mutton (600 g) with all its marinade. Stir and sear 6–8 minutes until the meat turns from pink to brown on the outside and the juices it releases have mostly dried off.",
+    "Lower the heat, add the coriander powder (1 tbsp), turmeric (1/2 tsp), Kashmiri chilli powder (1 tsp) and 2 tsp of the railway masala. Stir 1 minute (add a splash of water if it looks dry, so the spices don't burn).",
+    "Add the tomato purée (2 tomatoes, about 2/3 cup) and cook 6–7 minutes on medium, stirring, until it thickens, darkens and you can see oil separating at the edges of the masala.",
+    "Add 1.5 cups hot water, the tamarind paste (1 tsp) and salt (go easy, the marinade had some). Bring to a boil, close the lid and cook 1 whistle on high, then 20–25 minutes on low (boneless: 15–18 minutes). Switch off and let the pressure drop by itself.",
     "Open and check a piece of mutton: it should be fork-tender and pull away from the bone easily. If not, close and give it 1 more whistle.",
-    "Add the fried potatoes, the coriander stems and the remaining 1 tsp railway masala. Cover and simmer on low 8–10 minutes until a knife slides easily through the potatoes and the gravy has thickened to a medium curry — it should coat the back of a spoon but still pour. Add a splash of hot water if it gets too thick.",
-    "Taste for salt and pepper, switch off, garnish with coriander leaves and rest 10 minutes covered before serving."
+    "Add the fried potatoes (3 medium), the coriander stems (1 tbsp) and 1 more tsp of the railway masala. Cover and simmer on low 8–10 minutes until a knife slides easily through the potatoes and the gravy has thickened to a medium curry — it should coat the back of a spoon but still pour. Add a splash of hot water if it gets too thick.",
+    "Taste for salt, add a pinch more railway masala if you want it more peppery, switch off, garnish with coriander leaves and rest 10 minutes covered before serving."
   ],
   storage: "Fridge up to 3 days, freezer 1 month (the potatoes go slightly grainy after freezing, but the curry is fine). Tastes even better the next day.",
   reheating: "Simmer on the stove with a splash of hot water, or microwave 3 minutes, stirring halfway.",

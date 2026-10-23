@@ -33,16 +33,16 @@ window.RECIPES.push({
     "Kashmiri chilli powder, coriander powder, amchur, kasuri methi, bay leaf, cloves, cinnamon, black cardamom (pantry check)"
   ],
   preparation: [
-    "Soak chana overnight in 4 cups water; drain before cooking. Forgot? Boiling-water soak for 2 hours and add 2 extra whistles.",
-    "Puree the tomatoes; chop the onions fine so they melt into the gravy."
+    "Soak chana (1 cup) overnight in 4 cups water; drain before cooking. Forgot? Boiling-water soak for 2 hours and add 2 extra whistles.",
+    "Puree the tomatoes (2); chop the onions (2) fine so they melt into the gravy."
   ],
   steps: [
-    "Cook the chana first: put the drained chana in the pressure cooker with 2.5 cups fresh water and 1/2 tsp salt. 5–6 whistles on medium, then let the pressure release naturally (unattended — this is your rice window). Check: a chana should squash completely between thumb and finger; if not, give it 1–2 more whistles. Tip the chana WITH its cooking water into a bowl — that water is flavour and body for the gravy.",
-    "Wipe the cooker dry and use it open (no lid) as a pot. Heat oil on medium, add the whole spices and let them sizzle about 30 seconds until fragrant. Add the onions and cook 8–9 minutes, stirring often, until evenly golden brown — colour here is flavour later.",
-    "Add ginger-garlic paste and green chilli and fry about 1 minute until the raw smell goes. Add the tomato puree and cook 5–6 minutes, stirring, until thick and the oil starts to leave the sides.",
-    "Lower the flame. Add turmeric, chilli powder, coriander powder and chole masala with a splash of water, and stir 1–2 minutes until it smells aromatic — the water stops the powders burning.",
-    "Add the chana with all its cooking water (plus a little hot water if it doesn't quite cover them). Taste for salt. Cover and simmer on low 10–15 minutes, stirring now and then and crushing a few chana against the side for a thicker gravy. It thickens more as it cools.",
-    "Crush the kasuri methi between your palms over the pot, stir in the amchur and coriander, and switch off. Serve with rice, jeera rice or phulka, topped with ginger juliennes, raw onion and lemon."
+    "Cook the chana (1 cup) first: put the drained chana in the pressure cooker with 2.5 cups fresh water and 1/2 tsp salt. 5–6 whistles on medium, then let the pressure release naturally (unattended — this is your rice window). Check: a chana should squash completely between thumb and finger; if not, give it 1–2 more whistles. Tip the chana WITH its cooking water into a bowl — that water is flavour and body for the gravy.",
+    "Wipe the cooker dry and use it open (no lid) as a pot. Heat oil (2 tbsp) on medium, add the whole spices (1 tsp cumin seeds, 1 bay leaf, 2 cloves, 1 inch cinnamon, 1 black cardamom) and let them sizzle about 30 seconds until fragrant. Add the onions (2) and cook 8–9 minutes, stirring often, until evenly golden brown — colour here is flavour later.",
+    "Add ginger-garlic paste (1 tbsp) and green chilli (1) and fry about 1 minute until the raw smell goes. Add the tomato puree (2 tomatoes) and cook 5–6 minutes, stirring, until thick and the oil starts to leave the sides.",
+    "Lower the flame. Add turmeric (1/4 tsp), chilli powder (1 tsp), coriander powder (1 tsp) and chole masala (2 tsp) with a splash of water, and stir 1–2 minutes until it smells aromatic — the water stops the powders burning.",
+    "Add the chana (1 cup) with all its cooking water (plus a little hot water if it doesn't quite cover them). Taste for salt. Cover and simmer on low 10–15 minutes, stirring now and then and crushing a few chana against the side for a thicker gravy. It thickens more as it cools.",
+    "Crush the kasuri methi (1 tsp) between your palms over the pot, stir in the amchur (1/2 tsp) and coriander, and switch off. Serve with rice, jeera rice or phulka, topped with ginger juliennes, raw onion and lemon."
   ],
   storage: "Fridge up to 3 days, freezer a month; the masala deepens overnight.",
   reheating: "Simmer with a splash of water or microwave 2–3 minutes.",

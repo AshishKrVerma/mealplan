@@ -35,16 +35,16 @@ window.RECIPES.push({
     "Maida (pantry check)"
   ],
   preparation: [
-    "Chop all vegetables small so they cook in minutes.",
-    "Keep the milk out of the fridge — cold milk into hot roux is how lumps are born."
+    "Chop all vegetables (1.5 cups) small so they cook in minutes.",
+    "Keep the milk (2.5 cups) out of the fridge — cold milk into hot roux is how lumps are born."
   ],
   steps: [
-    "Boil the pasta in plenty of well-salted water (about 1 tsp salt per litre; it should taste mildly salty) at a rolling boil, for the packet time minus 1 minute — firm and chewy, not soft. Before draining, save 1 cup of the pasta water. Drain, don't rinse.",
-    "In the same pot, heat 1 tsp oil on medium-high and sauté the vegetables with a pinch of salt for 3–4 minutes until just tender but still crunchy. Tip them onto a plate.",
-    "Lower to medium, melt the butter and fry the garlic for 30 seconds without browning. Add the maida and stir constantly for 1–2 minutes until the raw-flour smell turns biscuity but it hasn't coloured. It may look dry and clumpy — that's fine.",
-    "Turn the heat OFF and whisk in about 1/2 cup of the milk until completely smooth and lump-free. Turn the heat to low and add the rest in two additions, whisking hard after each. Simmer, stirring and scraping the sides, 3–4 minutes until it coats the back of a spoon and a finger drawn through it leaves a clean line. Keep it slightly thinner than you want — it thickens as it sits.",
-    "Season with salt, pepper, chilli flakes and herbs. Add the vegetables and pasta and toss; loosen with splashes of the saved pasta water until it's creamy, not gluey.",
-    "Off the heat, stir in the cheese if using. Serve immediately — white sauce waits for no one."
+    "Boil the pasta (250 g) in plenty of well-salted water (about 1 tsp salt per litre; it should taste mildly salty) at a rolling boil, for the packet time minus 1 minute — firm and chewy, not soft. Before draining, save 1 cup of the pasta water. Drain, don't rinse.",
+    "In the same pot, heat 1 tsp oil on medium-high and sauté the vegetables (1.5 cups) with a pinch of salt for 3–4 minutes until just tender but still crunchy. Tip them onto a plate.",
+    "Lower to medium, melt the butter (2 tbsp) and fry the garlic (3 cloves) for 30 seconds without browning. Add the maida (2.5 tbsp) and stir constantly for 1–2 minutes until the raw-flour smell turns biscuity but it hasn't coloured. It may look dry and clumpy — that's fine.",
+    "Turn the heat OFF and whisk in about 1/2 cup of the milk until completely smooth and lump-free. Turn the heat to low and add the rest (about 2 cups) in two additions, whisking hard after each. Simmer, stirring and scraping the sides, 3–4 minutes until it coats the back of a spoon and a finger drawn through it leaves a clean line. Keep it slightly thinner than you want — it thickens as it sits.",
+    "Season with salt, pepper (1/2 tsp), chilli flakes (1/2 tsp) and herbs (1 tsp). Add the vegetables (1.5 cups) and pasta (250 g) and toss; loosen with splashes of the saved pasta water until it's creamy, not gluey.",
+    "Off the heat, stir in the cheese (2 tbsp) if using. Serve immediately — white sauce waits for no one."
   ],
   storage: "Fridge up to 1 day; the sauce thickens into a single unit overnight.",
   reheating: "Add a good splash of milk, microwave 2 minutes, stir, repeat 1 minute. It revives better than expected.",

@@ -32,15 +32,15 @@ window.RECIPES.push({
     "Honey"
   ],
   preparation: [
-    "Soak the chia in 1/2 cup of the water for 15 minutes, stirring after the first 2 minutes so they separate.",
+    "Soak the chia (2 tbsp) in 1/2 cup of the water for 15 minutes, stirring after the first 2 minutes so they separate.",
     "The seeds are ready when each one has a clear gel coat and they no longer clump together.",
-    "Roll the lemons firmly on the counter before cutting, and squeeze gently. Squeezing hard pulls bitterness out of the white pith and seeds.",
-    "Crush the mint between your palms instead of chopping it — bruising releases the oil, chopping just makes it black at the edges."
+    "Roll the lemons (2) firmly on the counter before cutting, and squeeze gently. Squeezing hard pulls bitterness out of the white pith and seeds.",
+    "Crush the mint (8–10 leaves) between your palms instead of chopping it — bruising releases the oil, chopping just makes it black at the edges."
   ],
   steps: [
-    "In a jug, mix the remaining water with the lemon juice, honey, both salts and the cumin powder.",
+    "In a jug, mix the remaining water (about 375 ml) with the lemon juice (2 lemons), honey (2 tbsp), both salts (1/2 tsp black salt, 1/4 tsp regular salt) and the cumin powder (1/2 tsp).",
     "Stir until the honey has fully dissolved. Taste it now, before the chia goes in — it should be a little sharper than you want, since the ice will soften it.",
-    "Stir in the soaked chia and the mint.",
+    "Stir in the soaked chia (2 tbsp) and the mint (8–10 leaves).",
     "Chill 10 minutes, or add ice directly.",
     "Stir well before every pour — the chia settles to the bottom within a couple of minutes."
   ],

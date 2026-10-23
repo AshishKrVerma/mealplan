@@ -36,15 +36,15 @@ window.RECIPES.push({
     "Spring onions (1 small bunch)"
   ],
   preparation: [
-    "Mix the chicken with the marinade ingredients. Add the cornflour and maida and mix, then add egg white or water a spoon at a time, only until each piece is coated in a thin, sticky layer. Too wet and it won't crisp. Rest 15 minutes (or overnight in the fridge).",
-    "Mix all sauce ingredients in one bowl and taste: it should be salty-tangy-sweet-hot and pourable, neither runny nor thick. Keep the slurry ready in another bowl.",
-    "Chop all vegetables before starting — this cooks fast. Keep spring onion whites and greens separate."
+    "Mix the chicken (500 g) with the marinade ingredients (1 tbsp soy sauce, 1 tsp red chilli sauce, 1/2 tsp black pepper, 1/4 tsp Kashmiri chilli powder, a pinch of salt). Add the cornflour (3 tbsp) and maida (1 tbsp) and mix, then add egg white (1) or water (1–2 tbsp) a spoon at a time, only until each piece is coated in a thin, sticky layer. Too wet and it won't crisp. Rest 15 minutes (or overnight in the fridge).",
+    "Mix all sauce ingredients (2 tbsp soy sauce, 1 tbsp tomato ketchup, 1 tbsp red chilli sauce, 1/2 tsp Kashmiri chilli powder, 1 tsp vinegar, 1 tsp sugar, 3 tbsp water) in one bowl and taste: it should be salty-tangy-sweet-hot and pourable, neither runny nor thick. Keep the slurry (1 tsp cornflour in 1/4 cup water) ready in another bowl.",
+    "Chop all vegetables (1 capsicum, 1 onion, 4 garlic cloves, 1 inch ginger, 2 green chillies) before starting — this cooks fast. Keep spring onion whites and greens separate."
   ],
   steps: [
-    "Heat 2 tbsp oil in your widest pan on medium-high until it shimmers. Add the chicken one piece at a time in a single layer (two batches if needed). Leave undisturbed 2 minutes until the bottom is crisp and golden, then turn and cook 3–4 minutes more, turning now and then, until golden all over and cooked through (cut one — no pink). Don't overdo it — overcooked pieces turn dry. Remove to a plate.",
-    "Add the remaining 1 tbsp oil and turn the heat to HIGH. Stir-fry garlic, ginger and green chilli for 30–60 seconds, until the garlic smells fragrant but hasn't browned.",
-    "Add onion, capsicum and spring onion whites; stir-fry 1–2 minutes — they should stay crunchy, just losing their raw edge.",
-    "Pour in the sauce mix and let it bubble 30–60 seconds until it thickens slightly. Return the chicken and toss on high heat 1 minute until every piece is coated.",
+    "Heat 2 tbsp oil in your widest pan on medium-high until it shimmers. Add the chicken (500 g) one piece at a time in a single layer (two batches if needed). Leave undisturbed 2 minutes until the bottom is crisp and golden, then turn and cook 3–4 minutes more, turning now and then, until golden all over and cooked through (cut one — no pink). Don't overdo it — overcooked pieces turn dry. Remove to a plate.",
+    "Add the remaining 1 tbsp oil and turn the heat to HIGH. Stir-fry garlic (4 cloves), ginger (1 inch) and green chilli (2) for 30–60 seconds, until the garlic smells fragrant but hasn't browned.",
+    "Add onion (1), capsicum (1) and spring onion whites; stir-fry 1–2 minutes — they should stay crunchy, just losing their raw edge.",
+    "Pour in the sauce mix and let it bubble 30–60 seconds until it thickens slightly. Return the chicken (500 g) and toss on high heat 1 minute until every piece is coated.",
     "If the sauce is still thin, stir the slurry and add it, tossing until glossy. Sprinkle 1/4 tsp black pepper and the spring onion greens, and serve hot with fried rice or noodles."
   ],
   storage: "Fridge up to 2 days. The capsicum softens, so it's best fresh.",

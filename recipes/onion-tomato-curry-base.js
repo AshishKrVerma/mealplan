@@ -30,14 +30,14 @@ window.RECIPES.push({
     "Kashmiri chilli powder (pantry check)"
   ],
   preparation: [
-    "Slice all onions first; puree all tomatoes. This is a batch job — put on some music.",
+    "Slice all onions (6) first; puree all tomatoes (6). This is a batch job — put on some music.",
     "Keep 3–4 small freezer boxes ready."
   ],
   steps: [
-    "Heat oil in your biggest kadhai. Splutter cumin, add onions with 1 tsp salt (it draws out their water so they soften faster). Cook on medium 15–20 minutes, stirring every few minutes, until deep golden. If they catch on the bottom, sprinkle 1–2 tbsp water and scrape. The colour of the base decides the colour of every future curry, and 10 minutes of onion gives a noticeably flatter taste.",
-    "Add ginger-garlic paste; cook 2 minutes until the raw smell goes.",
-    "Turn the flame to low. Add the powdered spices with 2–3 tbsp water and stir 30 seconds. The water stops them burning; burnt spices make the whole batch bitter.",
-    "Add tomato puree and the rest of the salt. Cook on medium 15–20 minutes, stirring often (it splutters, so half-cover), until the masala turns a deeper red, thickens into a paste that leaves the sides of the pan, and oil visibly separates at the edges. Fresh tomato puree that is undercooked tastes sour in every curry you make with it.",
+    "Heat oil (1/2 cup) in your biggest kadhai. Splutter cumin (1 tsp), add onions (6) with 1 tsp salt (it draws out their water so they soften faster). Cook on medium 15–20 minutes, stirring every few minutes, until deep golden. If they catch on the bottom, sprinkle 1–2 tbsp water and scrape. The colour of the base decides the colour of every future curry, and 10 minutes of onion gives a noticeably flatter taste.",
+    "Add ginger-garlic paste (3 tbsp); cook 2 minutes until the raw smell goes.",
+    "Turn the flame to low. Add the powdered spices (1 tbsp coriander powder, 2 tsp turmeric, 2 tsp Kashmiri chilli powder) with 2–3 tbsp water and stir 30 seconds. The water stops them burning; burnt spices make the whole batch bitter.",
+    "Add tomato puree (6 tomatoes) and the rest of the salt. Cook on medium 15–20 minutes, stirring often (it splutters, so half-cover), until the masala turns a deeper red, thickens into a paste that leaves the sides of the pan, and oil visibly separates at the edges. Fresh tomato puree that is undercooked tastes sour in every curry you make with it.",
     "Cool completely. For a smooth restaurant-style base, blend it once cool; leave it as is for dals and chana. Portion into boxes (about 3/4 cup each) or silicone ice-cube trays, and refrigerate or freeze."
   ],
   storage: "Fridge 5 days, freezer 2 months. Label with the date.",

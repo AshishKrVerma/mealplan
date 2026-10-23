@@ -31,12 +31,12 @@ window.RECIPES.push({
     "Vanilla or cardamom powder (pantry check)"
   ],
   preparation: [
-    "Whisk yogurt with honey and vanilla/cardamom until smooth and creamy.",
-    "Chop the fruit just before assembling."
+    "Whisk yogurt (2 cups) with honey (1–2 tbsp) and vanilla/cardamom (1/4 tsp) until smooth and creamy.",
+    "Chop the fruit (1.5 cups) just before assembling."
   ],
   steps: [
-    "In two glasses, layer: yogurt → fruit → granola.",
-    "Repeat the layers, ending with fruit and nuts on top.",
+    "In two glasses, layer: yogurt (part of the 2 cups) → fruit (part of the 1.5 cups) → granola (part of the 1/2 cup).",
+    "Repeat the layers, ending with fruit (rest of the 1.5 cups) and nuts on top.",
     "Chill 10 minutes if you can wait, or eat immediately."
   ],
   storage: "Yogurt mix alone keeps 2 days in the fridge. Assemble fresh — granola goes soft once layered.",

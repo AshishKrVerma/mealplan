@@ -31,14 +31,14 @@ window.RECIPES.push({
     "Sugar or honey"
   ],
   preparation: [
-    "Roll the lemons hard on the counter before cutting — you get noticeably more juice out of them.",
+    "Roll the lemons (3) hard on the counter before cutting — you get noticeably more juice out of them.",
     "Do not squeeze right down to the white pith. That is where the bitterness lives, and once it is in you cannot take it out.",
-    "Dissolve the sugar and salts in a little warm water first if you are in a hurry; in cold water they take a while and you end up over-sweetening."
+    "Dissolve the sugar (3 tbsp) and salts (1/2 tsp black salt, 1/4 tsp regular salt) in a little warm water first if you are in a hurry; in cold water they take a while and you end up over-sweetening."
   ],
   steps: [
-    "In a jug, mix the sugar, both salts, cumin powder and pepper with about 100 ml of the water until fully dissolved.",
-    "Add the lemon juice and the rest of the cold water.",
-    "Crush the mint between your palms and drop it in.",
+    "In a jug, mix the sugar (3 tbsp), both salts (1/2 tsp black salt, 1/4 tsp regular salt), cumin powder (1/2 tsp) and pepper (a pinch) with about 100 ml of the water until fully dissolved.",
+    "Add the lemon juice (3 lemons) and the rest of the cold water (about 600 ml).",
+    "Crush the mint (10 leaves) between your palms and drop it in.",
     "Taste and balance: it wants to be sharp first, then salty, then sweet, in that order. Adjust with lemon or sugar accordingly.",
     "Pour over ice with a slice of lemon in the glass."
   ],

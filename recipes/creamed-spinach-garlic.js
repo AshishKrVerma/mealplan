@@ -33,16 +33,16 @@ window.RECIPES.push({
     "Nutmeg (optional)"
   ],
   preparation: [
-    "Wash the palak in three changes of water. Spinach hides grit and there is nothing worse than finding it later.",
+    "Wash the palak (2 large bunches, about 500 g) in three changes of water. Spinach hides grit and there is nothing worse than finding it later.",
     "Use the leaves and the tender stalks; discard the thick woody ones.",
-    "Chop the garlic into slices rather than mincing it — slices go sweet and nutty, mince tends to burn."
+    "Chop the garlic (10 cloves) into slices rather than mincing it — slices go sweet and nutty, mince tends to burn."
   ],
   steps: [
-    "Melt the butter in a wide pan and fry the garlic slices on low for 2–3 minutes until pale gold and fragrant. Low heat, or they turn bitter.",
-    "Add the green chilli, then the palak in handfuls, letting each lot wilt before adding the next.",
+    "Melt the butter (2 tbsp) in a wide pan and fry the garlic slices (10 cloves) on low for 2–3 minutes until pale gold and fragrant. Low heat, or they turn bitter.",
+    "Add the green chilli (1), then the palak (2 large bunches, about 500 g) in handfuls, letting each lot wilt before adding the next.",
     "Cook uncovered on medium 6–8 minutes. The spinach releases a lot of water and you want all of it gone — keep going until the pan is dry.",
-    "Turn the heat to low and stir in the cream, pepper and nutmeg. Let it bubble gently for 2 minutes — small lazy bubbles only. A hard boil can split the cream.",
-    "Stir in the cheese and cook 1–2 minutes more, stirring, until it melts and everything thickens into a spoonable, glossy mass that clings to the spoon. Taste and salt only now, because cheese brings its own."
+    "Turn the heat to low and stir in the cream (1/3 cup), pepper (1/2 tsp) and nutmeg (a pinch). Let it bubble gently for 2 minutes — small lazy bubbles only. A hard boil can split the cream.",
+    "Stir in the cheese (1/4 cup) and cook 1–2 minutes more, stirring, until it melts and everything thickens into a spoonable, glossy mass that clings to the spoon. Taste and salt only now, because cheese brings its own."
   ],
   storage: "Fridge up to 3 days. It thickens further when cold.",
   reheating: "Low flame with 1 tbsp cream or water, 3 minutes. High heat will split the cream.",

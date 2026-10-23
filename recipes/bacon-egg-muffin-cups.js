@@ -30,12 +30,12 @@ window.RECIPES.push({
   ],
   preparation: [
     "Grease the silicone cups well, including the sides.",
-    "Par-cook the bacon: air fry the strips flat at 180°C for 3 minutes. Half-cooked bacon is still bendy but won't stay raw and floppy under the egg."
+    "Par-cook the bacon (6 strips): air fry the strips flat at 180°C for 3 minutes. Half-cooked bacon is still bendy but won't stay raw and floppy under the egg."
   ],
   steps: [
     "Curl one par-cooked strip around the inside wall of each cup, forming a ring.",
-    "Sprinkle a little cheese and capsicum into each ring.",
-    "Crack one egg into each cup (for scrambled-style, whisk the eggs first and pour in until two-thirds full). Top with pepper and the remaining cheese.",
+    "Sprinkle a little cheese (from the 1/4 cup) and capsicum (from the 2 tbsp) into each ring.",
+    "Crack one egg into each cup (for scrambled-style, whisk the eggs first and pour in until two-thirds full). Top with pepper, the salt (a small pinch across all 6 — the bacon is already salty) and the remaining cheese (rest of the 1/4 cup).",
     "Air fry at 165°C: 10–12 minutes for a jammy yolk, 13–14 minutes for fully set. Start checking at 10 minutes, because air fryers vary. The whites should be fully white and firm with no clear, wobbly jelly near the yolk. For the whisked version, a toothpick pushed into the centre should come out clean.",
     "Rest 2 minutes, then run a knife around the edge and pop them out."
   ],

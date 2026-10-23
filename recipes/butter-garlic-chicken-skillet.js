@@ -34,16 +34,16 @@ window.RECIPES.push({
     "Coriander (1 bunch)"
   ],
   preparation: [
-    "Pat the chicken completely dry with a kitchen towel — wet chicken steams instead of browning, and browning is the whole point.",
-    "Salt the chicken and leave it 10 minutes while you crush the garlic.",
+    "Pat the chicken (600 g) completely dry with a kitchen towel — wet chicken steams instead of browning, and browning is the whole point.",
+    "Salt the chicken (600 g) and leave it 10 minutes while you crush the garlic (12–15 cloves).",
     "Thigh, not breast. On a keto plate the fat in thigh meat is a feature, not a compromise."
   ],
   steps: [
-    "Heat the ghee or oil in a wide pan on medium-high until it shimmers. Lay the chicken in a single layer (two batches if it won't fit) and leave it alone for 3–4 minutes, until a deep golden crust forms and the pieces lift off the pan easily. Ghee rather than butter here, because butter burns at searing heat.",
+    "Heat the ghee or oil (1 tbsp) in a wide pan on medium-high until it shimmers. Lay the chicken (600 g) in a single layer (two batches if it won't fit) and leave it alone for 3–4 minutes, until a deep golden crust forms and the pieces lift off the pan easily. Ghee rather than butter here, because butter burns at searing heat.",
     "Flip, cook another 3 minutes, then push the chicken to one side of the pan.",
-    "Turn the heat to medium. Drop the 2 tbsp butter into the empty side with the garlic. Fry 1–2 minutes until the butter foams and the garlic is pale gold — take it past gold and it turns bitter.",
-    "Mix everything together and add pepper, chilli flakes and oregano. Pour in 1/4 cup hot water and scrape up the brown bits stuck to the pan with your spatula; that is where the flavour is. Simmer 4–5 minutes until the water has mostly reduced and the chicken is done (cut the thickest piece: no pink, juices run clear).",
-    "Turn the heat to low, stir in the cream and simmer 2 minutes until it clings to the chicken. Finish with lemon and coriander off the heat."
+    "Turn the heat to medium. Drop the 2 tbsp butter into the empty side with the garlic (12–15 cloves). Fry 1–2 minutes until the butter foams and the garlic is pale gold — take it past gold and it turns bitter.",
+    "Mix everything together and add pepper (1 tsp), chilli flakes (1 tsp) and oregano (1 tsp). Pour in 1/4 cup hot water and scrape up the brown bits stuck to the pan with your spatula; that is where the flavour is. Simmer 4–5 minutes until the water has mostly reduced and the chicken is done (cut the thickest piece: no pink, juices run clear).",
+    "Turn the heat to low, stir in the cream (1/4 cup) and simmer 2 minutes until it clings to the chicken. Finish with lemon (half a lemon) and coriander (2 tbsp) off the heat."
   ],
   storage: "Fridge up to 3 days in a sealed box. The garlic butter sets solid when cold — that is normal.",
   reheating: "Low flame with a splash of water or cream, 3–4 minutes. Microwaving splits the cream, so use the pan.",

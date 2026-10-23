@@ -30,13 +30,13 @@ window.RECIPES.push({
     "Sprinkles or desiccated coconut (optional)"
   ],
   preparation: [
-    "Push a stick halfway into the cut end of each banana half. Lay them on a plate lined with butter paper and freeze 1 hour — dipping a warm banana melts the chocolate off.",
-    "Crush the peanuts and spread them on a small plate, ready for rolling."
+    "Push a stick halfway into the cut end of each banana half (3 bananas). Lay them on a plate lined with butter paper and freeze 1 hour — dipping a warm banana melts the chocolate off.",
+    "Crush the peanuts (1/3 cup) and spread them on a small plate, ready for rolling."
   ],
   steps: [
-    "Melt the chocolate with the oil in a tall microwave-safe glass: 30 seconds, stir, then 15-second bursts until just smooth. Chocolate burns quietly — stop early and let stirring finish the job.",
+    "Melt the chocolate (150 g) with the oil (1 tsp) in a tall microwave-safe glass: 30 seconds, stir, then 15-second bursts until just smooth. Chocolate burns quietly — stop early and let stirring finish the job.",
     "Working one at a time, dip each frozen banana into the glass, tilt and rotate to coat, and let the extra drip off for 5 seconds.",
-    "The chocolate sets almost instantly on the cold banana — immediately roll or press on the peanuts before it hardens.",
+    "The chocolate sets almost instantly on the cold banana — immediately roll or press on the peanuts (1/3 cup) before it hardens.",
     "Return each finished pop to the lined plate. Freeze 30 minutes more until completely firm.",
     "Eat straight from the freezer, or wait 2 minutes for a slightly softer bite."
   ],

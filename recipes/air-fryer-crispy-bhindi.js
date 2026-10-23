@@ -31,15 +31,15 @@ window.RECIPES.push({
     "Amchur powder, chaat masala (pantry check)"
   ],
   preparation: [
-    "Wash bhindi and dry it COMPLETELY with a cloth — moisture is what makes it slimy.",
+    "Wash bhindi (300 g) and dry it COMPLETELY with a cloth — moisture is what makes it slimy.",
     "Trim ends and cut each bhindi lengthwise into 4 thin strips (fat ones into 6). Thinner strips crisp better; if the okra is very seedy, scrape out some seeds.",
-    "Do the coating right before air frying, not ahead: salt pulls water out of bhindi and turns the coating pasty. Toss with oil first, then with the flours, spices and salt until every strip is lightly dusted. Shake off any loose flour."
+    "Do the coating right before air frying, not ahead: salt pulls water out of bhindi and turns the coating pasty. Toss with oil (1 tbsp) first, then with the flours (1 tbsp besan, 1 tbsp rice flour), spices (1/2 tsp turmeric, 1 tsp chilli powder, 1 tsp amchur, about 1/2 tsp chaat masala) and salt until every strip is lightly dusted. Shake off any loose flour."
   ],
   steps: [
     "Preheat air fryer at 190°C for 3 minutes.",
-    "Spread bhindi in the basket in a loose single layer (two batches if needed).",
+    "Spread bhindi (300 g) in the basket in a loose single layer (two batches if needed).",
     "Air fry 12–15 minutes at 190°C, shaking the basket every 5 minutes. Start checking at 10 minutes (air fryers vary): it's done when the strips are deep golden, sound rustly when shaken and no longer bend.",
-    "Finish with a pinch of chaat masala and a squeeze of lemon. Serve immediately."
+    "Finish with a pinch of chaat masala and a squeeze of lemon (1/2). Serve immediately."
   ],
   storage: "Loses crispness within hours — make only what you'll eat.",
   reheating: "3 minutes at 180°C in the air fryer revives it reasonably; microwave makes it soggy.",

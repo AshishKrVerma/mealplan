@@ -37,14 +37,14 @@ window.RECIPES.push({
     "Kashmiri chilli powder (pantry check)"
   ],
   preparation: [
-    "Pat the chicken pieces dry with kitchen paper so the marinade clings instead of sliding off.",
-    "Make the marinade: stir the curd, ginger-garlic paste, Kashmiri chilli powder, garam masala, roasted cumin, turmeric, kasuri methi (crushed between your palms), lemon juice and salt together into a smooth, lump-free paste. Mix it into the chicken and let it sit at least 20 minutes (up to overnight in the fridge).",
-    "Slice onion and tomato thin, soften the butter, and line up bread and chutney assembly-line style."
+    "Pat the chicken pieces (350 g) dry with kitchen paper so the marinade clings instead of sliding off.",
+    "Make the marinade: stir the curd (3 tbsp), ginger-garlic paste (1 tsp), Kashmiri chilli powder (1/2 tsp), garam masala (1/2 tsp), roasted cumin (1/2 tsp), turmeric (1/4 tsp), kasuri methi (1/2 tsp; crushed between your palms), lemon juice (1 tsp) and salt together into a smooth, lump-free paste. Mix it into the chicken (350 g) and let it sit at least 20 minutes (up to overnight in the fridge).",
+    "Slice onion (1 small) and tomato (1) thin, soften the butter (2 tbsp), and line up bread (6–8 slices) and chutney (3–4 tbsp) assembly-line style."
   ],
   steps: [
-    "Heat 1 tsp of the butter on a tawa over medium-high. Spread the chicken out and cook 6–8 minutes, tossing now and then, until the marinade dries into charred-edged coating and the pieces are cooked through (cut the biggest piece — no pink inside). Sprinkle chaat masala, take it off, and wipe the tawa. Let the chicken cool 5 minutes so its steam doesn't make the bread soggy.",
+    "Heat 1 tsp of the butter on a tawa over medium-high. Spread the chicken (350 g) out and cook 6–8 minutes, tossing now and then, until the marinade dries into charred-edged coating and the pieces are cooked through (cut the biggest piece — no pink inside). Sprinkle chaat masala (1/2 tsp), take it off, and wipe the tawa. Let the chicken cool 5 minutes so its steam doesn't make the bread soggy.",
     "Build each sandwich: chutney on both slices, a solid layer of chicken, then onion, tomato and cheese if using.",
-    "Butter the outside of each sandwich lightly on both faces.",
+    "Butter the outside of each sandwich lightly on both faces with the remaining butter (about 1.5 tbsp).",
     "Toast on the tawa over medium heat, 2–3 minutes per side, pressing gently with a spatula, until golden-brown and crisp and the cheese has surrendered.",
     "Cut diagonally (this is legally required), and serve with extra chutney or ketchup."
   ],

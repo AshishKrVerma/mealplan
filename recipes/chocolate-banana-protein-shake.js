@@ -30,16 +30,16 @@ window.RECIPES.push({
     "Cocoa powder (pantry check)"
   ],
   preparation: [
-    "Freeze peeled banana pieces in a box. Frozen banana is what makes the shake thick and cold without watering it down with ice.",
-    "Liquids into the mixie jar first, then powder, then the fruit and ice on top. Loading it this way stops powder sticking under the blades.",
-    "Chill the milk properly. A room-temperature shake is a much worse drink."
+    "Freeze peeled banana pieces (1 banana) in a box. Frozen banana is what makes the shake thick and cold without watering it down with ice.",
+    "Liquids (300 ml milk) into the mixie jar first, then powder (1 scoop whey, 1 tsp cocoa, a pinch of cinnamon), then the fruit (1 banana) and ice (5–6 cubes) on top. Loading it this way stops powder sticking under the blades.",
+    "Chill the milk (300 ml) properly. A room-temperature shake is a much worse drink."
   ],
   steps: [
-    "Pour the milk into the mixie jar.",
-    "Add the whey, cocoa and cinnamon.",
-    "Add the banana and ice last.",
+    "Pour the milk (300 ml) into the mixie jar.",
+    "Add the whey (1 scoop), cocoa (1 tsp) and cinnamon (a pinch).",
+    "Add the banana (1) and ice (5–6 cubes) last.",
     "Blend 30–40 seconds until completely smooth. Do not run the mixie longer than that — the motor heats the drink and the froth collapses.",
-    "Taste, add honey only if it needs it, pulse once and pour."
+    "Taste, add honey (1 tsp) only if it needs it, pulse once and pour."
   ],
   storage: "Drink immediately. It separates within about 20 minutes and the banana browns.",
   reheating: "Not applicable — cold only.",

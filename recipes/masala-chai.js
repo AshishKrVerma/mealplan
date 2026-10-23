@@ -32,14 +32,14 @@ window.RECIPES.push({
     "Cloves and cinnamon (pantry check)"
   ],
   preparation: [
-    "Crush the ginger and cardamom in a mortar rather than chopping. Crushing splits the fibres and the flavour comes out in the boil; neat slices just sit there.",
+    "Crush the ginger (1 inch) and cardamom (3) in a mortar rather than chopping. Crushing splits the fibres and the flavour comes out in the boil; neat slices just sit there.",
     "Use CTC tea. Long-leaf tea cannot stand up to milk and turns into brown water.",
     "The ratio that matters: 1.5 parts water to 1 part milk. More milk and it goes flat, less and it is not chai."
   ],
   steps: [
-    "Boil the water with the ginger and whole spices for 2 minutes. This is the step most people skip, and it is the one that makes chai taste like chai.",
-    "Add the tea leaves and sugar and boil on medium for 2–3 minutes, until the water goes a deep, dark reddish-brown. Don't rush this: milk poured into pale tea gives a weak, milky cup.",
-    "Pour in the milk and bring it back to a boil on medium heat.",
+    "Boil the water (1.5 cups) with the ginger (1 inch), whole spices (3 green cardamoms; 1 clove, a tiny piece of cinnamon and 2 black peppercorns if using) and tulsi leaves (2, optional) for 2 minutes. This is the step most people skip, and it is the one that makes chai taste like chai.",
+    "Add the tea leaves (2.5 tsp) and sugar (2 tsp) and boil on medium for 2–3 minutes, until the water goes a deep, dark reddish-brown. Don't rush this: milk poured into pale tea gives a weak, milky cup.",
+    "Pour in the milk (1 cup) and bring it back to a boil on medium heat.",
     "Let it rise up the pan and pull it off the flame just as it climbs. Do this three times (about 2 minutes in all) — each rise deepens the colour and the strength. It's ready when it is a rich tan colour, a thin skin of cream forms on top and the raw-milk smell is gone.",
     "Strain into cups from a height, which gives it a little froth on top. Serve immediately; chai left standing turns bitter."
   ],

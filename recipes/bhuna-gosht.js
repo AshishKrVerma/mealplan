@@ -37,16 +37,16 @@ window.RECIPES.push({
     "Fresh coriander"
   ],
   preparation: [
-    "Slice onions thin and even; chop tomatoes fine — big chunks won't melt into a clinging masala.",
-    "Whisk the curd and keep a cup of hot water by the stove for the bhuno splashes.",
-    "Finishing masala (do it while the cooker runs, if you like): dry-roast the cumin, peppercorns, black cardamom seeds and cloves in a small pan on low for 1–2 minutes until fragrant and a shade darker. Cool, then grind in the mixer or crush with a rolling pin."
+    "Slice onions (3) thin and even; chop tomatoes (2) fine — big chunks won't melt into a clinging masala.",
+    "Whisk the curd (1/4 cup) and keep a cup of hot water by the stove for the bhuno splashes.",
+    "Finishing masala (do it while the cooker runs, if you like): dry-roast the cumin (1/2 tsp), peppercorns (10), black cardamom seeds (from 1 pod) and cloves (2) in a small pan on low for 1–2 minutes until fragrant and a shade darker. Cool, then grind in the mixer or crush with a rolling pin."
   ],
   steps: [
-    "Heat oil in the pressure cooker; crackle the whole spices for 30 seconds, then add the slit green chillies and onions with a pinch of salt. Cook on medium, stirring only now and then (constant stirring steams them), 10–12 minutes to deep golden brown. This browning is where most of the flavour comes from.",
-    "Add ginger-garlic paste and cook 1 minute until the raw smell goes. Add tomatoes, turmeric, coriander powder and chilli powder. Cook until the tomato melts, the masala is thick and oil separates, 5–6 minutes.",
-    "Add mutton and bhuno hard: medium-high heat, stirring every minute, adding a splash of hot water whenever the masala catches. 8–10 minutes — the meat should look browned, sizzle loudly and the masala turn dark.",
+    "Heat oil (3 tbsp) in the pressure cooker; crackle the whole spices (2 bay leaves, 1 black cardamom, 4 cloves, 1 inch cinnamon, 1 tsp cumin seeds) for 30 seconds, then add the slit green chillies (2) and onions (3) with a pinch of salt. Cook on medium, stirring only now and then (constant stirring steams them), 10–12 minutes to deep golden brown. This browning is where most of the flavour comes from.",
+    "Add ginger-garlic paste (2 tbsp) and cook 1 minute until the raw smell goes. Add tomatoes (2), turmeric (1 tsp), coriander powder (2 tsp) and chilli powder (1.5 tsp). Cook until the tomato melts, the masala is thick and oil separates, 5–6 minutes.",
+    "Add mutton (600 g) and bhuno hard: medium-high heat, stirring every minute, adding a splash of hot water whenever the masala catches. 8–10 minutes — the meat should look browned, sizzle loudly and the masala turn dark.",
     "Add just 1/2 cup hot water and salt, close the lid: 1 whistle on high, 20 minutes on low, natural release. The meat should be nearly done (tender, but still holding its shape); the final bhuno finishes it.",
-    "Open and here's the second bhuno: turn the heat to LOW and stir in the whisked curd a spoonful at a time, so it doesn't split. Then cook on medium-high, stirring, 8–10 minutes until all free liquid is gone, the curd is absorbed and the masala coats the meat like a jacket. Oil at the edges and a glossy look mean done.",
+    "Open and here's the second bhuno: turn the heat to LOW and stir in the whisked curd (1/4 cup) a spoonful at a time, so it doesn't split. Then cook on medium-high, stirring, 8–10 minutes until all free liquid is gone, the curd is absorbed and the masala coats the meat like a jacket. Oil at the edges and a glossy look mean done.",
     "Sprinkle the finishing masala and stir 1 minute. Turn off the heat, add ginger juliennes and coriander, and keep covered 5 minutes before serving."
   ],
   storage: "Fridge 3 days, freezer 1 month. A dry masala dish that reheats better than most curries travel.",

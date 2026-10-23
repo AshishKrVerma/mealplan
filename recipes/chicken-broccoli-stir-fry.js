@@ -33,17 +33,17 @@ window.RECIPES.push({
     "Spring onions"
   ],
   preparation: [
-    "Toss chicken strips with soy, cornflour and pepper; rest while you chop.",
-    "Stir the cornflour into the soy sauce first until there are no lumps, then add the rest of the sauce ingredients. Mix it in a katori now — once the wok is hot there is no time to measure.",
-    "Blanch broccoli florets in salted boiling water for 90 seconds (or microwave them in a covered bowl with 2 tbsp water for 2 minutes). Drain very well and let them steam-dry in the colander; wet broccoli waters down the sauce and won't char. (Skip if you like it with real bite.)",
-    "Chop the garlic with a knife rather than using paste; paste is wet and burns before it turns golden."
+    "Toss chicken strips (500 g) with soy (1 tbsp), cornflour (1 tsp) and pepper (1/2 tsp); rest while you chop.",
+    "Stir the cornflour (2 tsp) into the soy sauce (2 tbsp) first until there are no lumps, then add the rest of the sauce ingredients (1 tbsp vinegar, 1 tbsp ketchup, 1 tsp sugar, 1/2 cup water). Mix it in a katori now — once the wok is hot there is no time to measure.",
+    "Blanch broccoli florets (1 medium head, ~300 g) in salted boiling water for 90 seconds (or microwave them in a covered bowl with 2 tbsp water for 2 minutes). Drain very well and let them steam-dry in the colander; wet broccoli waters down the sauce and won't char. (Skip if you like it with real bite.)",
+    "Chop the garlic (1 tbsp) with a knife rather than using paste; paste is wet and burns before it turns golden."
   ],
   steps: [
-    "Heat 1 tbsp oil in a kadhai or wok on the highest flame until it just smokes. Add chicken in a single layer (in 2 batches if it doesn't fit; a crowded pan stews instead of searing). Let it sear 2 minutes without stirring, then stir-fry 2 more until golden and no longer pink inside. Remove.",
-    "Add the second tbsp oil, then garlic, ginger and spring onion whites — 30 seconds, keep it moving.",
-    "Add broccoli and stir-fry 2 minutes on high; the florets should char slightly at the tips.",
-    "Return the chicken. Re-stir the sauce (the cornflour settles at the bottom), pour it around the edge of the pan, and toss 1–2 minutes until it turns from cloudy to glossy, thickens and coats everything. Taste before adding any salt; the soy is already salty.",
-    "Finish with spring onion greens and chilli flakes. Serve immediately, ideally over plain rice."
+    "Heat 1 tbsp oil in a kadhai or wok on the highest flame until it just smokes. Add chicken (500 g) in a single layer (in 2 batches if it doesn't fit; a crowded pan stews instead of searing). Let it sear 2 minutes without stirring, then stir-fry 2 more until golden and no longer pink inside. Remove.",
+    "Add the second tbsp oil, then garlic (1 tbsp), ginger (1 tbsp) and spring onion whites (2) — 30 seconds, keep it moving.",
+    "Add broccoli (1 medium head, ~300 g) and stir-fry 2 minutes on high; the florets should char slightly at the tips.",
+    "Return the chicken (500 g). Re-stir the sauce (the cornflour settles at the bottom), pour it around the edge of the pan, and toss 1–2 minutes until it turns from cloudy to glossy, thickens and coats everything. Taste before adding any salt; the soy is already salty.",
+    "Finish with spring onion greens (2) and chilli flakes (1/2 tsp). Serve immediately, ideally over plain rice."
   ],
   storage: "Fridge up to 2 days; broccoli softens but the flavour holds.",
   reheating: "Hot pan for 2 minutes beats the microwave (which steams the crunch away).",

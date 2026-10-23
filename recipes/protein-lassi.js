@@ -31,15 +31,15 @@ window.RECIPES.push({
   ],
   preparation: [
     "Use set curd that is properly cold and not sour. Sour curd plus vanilla whey is a bad combination.",
-    "Whisk the curd smooth on its own before anything else goes in. Lumpy curd stays lumpy.",
+    "Whisk the curd (1 cup) smooth on its own before anything else goes in. Lumpy curd stays lumpy.",
     "Water, not milk. The whole point of this version is that it is lighter."
   ],
   steps: [
-    "Whisk or blend the curd with the water until completely smooth and slightly frothy.",
-    "Add the whey, honey and cardamom.",
+    "Whisk or blend the curd (1 cup) with the water (150 ml) until completely smooth and slightly frothy.",
+    "Add the whey (1 scoop), honey (1 tsp) and cardamom (a pinch).",
     "Blend a further 20 seconds. Keep it short — curd blended too long goes thin and starts to taste buttery.",
-    "Add the ice, pulse twice, and pour.",
-    "Top with pistachios if you are being fancy about it."
+    "Add the ice (5–6 cubes), pulse twice, and pour.",
+    "Top with pistachios (a few) if you are being fancy about it."
   ],
   storage: "Best fresh. It holds in the fridge for a couple of hours if covered — whisk again before drinking.",
   reheating: "Not applicable.",

@@ -37,17 +37,17 @@ window.RECIPES.push({
     "Black salt (kala namak), hing"
   ],
   preparation: [
-    "Peel the onions: trim the top, make a shallow nick and pull off the outer papery layer. Leave the root end on so the onion holds together.",
+    "Peel the onions (250 g, about 15–20): trim the top, make a shallow nick and pull off the outer papery layer. Leave the root end on so the onion holds together.",
     "Wash the peeled onions well under running water. Peeling releases a milky juice that carries the harsh smell — rinsing it off makes the onions milder.",
     "Cut a cross on top of each onion, only about halfway down. Too deep and it falls apart. This lets the vinegar and beetroot colour soak right to the centre. Tip: keep the onion standing on its root end and cut downward from the top — it's steadier and safer than cutting toward your hand.",
-    "Peel the lemon with a peeler, taking only the yellow skin (the white pith is bitter). Keep the lemon itself for another dish."
+    "Peel the lemon (1/2) with a peeler, taking only the yellow skin (the white pith is bitter). Keep the lemon itself for another dish."
   ],
   steps: [
-    "In a glass jar or bowl, mix the vinegar, water, salt and sugar until fully dissolved.",
-    "Add the bay leaves, peppercorns, cinnamon, lemon peel and beetroot pieces. Stir.",
-    "Add the onions, garlic and slit green chillies. Press down so everything is under the brine. If anything sticks out, top up with a little more vinegar and water in equal amounts.",
+    "In a glass jar or bowl, mix the vinegar (1/2 cup), water (1/2 cup), salt (1 tsp) and sugar (1 tsp) until fully dissolved.",
+    "Add the bay leaves (1–2), peppercorns (1/2 tsp), cinnamon (a tiny piece, about 1 cm), lemon peel (1/2 lemon) and beetroot pieces (1/4 small beetroot). Stir.",
+    "Add the onions (250 g), garlic (4–5 cloves) and slit green chillies (1–2). Press down so everything is under the brine. If anything sticks out, top up with a little more vinegar and water in equal amounts.",
     "Close the lid. Leave at room temperature or in the fridge for at least 12 hours. 24–48 hours is best — the onions turn fully pink right through and lose their raw smell.",
-    "Make the mint masala: mix the crushed dried mint, black salt and hing. Store it in a small dry jar.",
+    "Make the mint masala: mix the crushed dried mint (1 tbsp), black salt (1/2 tsp) and hing (1/4 tsp). Store it in a small dry jar.",
     "To serve: lift out the onions (and a chilli or two), sprinkle a little mint masala on top and serve. This masala is the restaurant 'secret' — don't skip it."
   ],
   storage: "Keeps up to 1 month in the fridge in a glass jar, fully covered in brine. Always use a dry spoon. When the onions run out, the brine can be reused 2–3 times: add a splash of fresh vinegar and a new batch of onions.",

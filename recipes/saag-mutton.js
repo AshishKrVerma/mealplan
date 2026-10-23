@@ -38,17 +38,17 @@ window.RECIPES.push({
     "Kashmiri chilli powder (pantry check)"
   ],
   preparation: [
-    "Marinate the mutton in the curd, 1/2 tbsp of the ginger-garlic paste and 1/2 tsp salt. 30 minutes while you prep is enough; 2 hours or overnight in the fridge makes it more tender.",
-    "Wash the palak in two changes of water — grit hides in the leaves.",
-    "Chop onions and tomato so the cooker never waits for you."
+    "Marinate the mutton (500 g) in the curd (1/4 cup), 1/2 tbsp of the ginger-garlic paste and 1/2 tsp salt. 30 minutes while you prep is enough; 2 hours or overnight in the fridge makes it more tender.",
+    "Wash the palak (300 g / 1 large bunch) in two changes of water — grit hides in the leaves.",
+    "Chop onions (2) and tomato (1) so the cooker never waits for you."
   ],
   steps: [
-    "Heat oil in the pressure cooker on medium; add cumin, bay leaves, cinnamon, cardamom and cloves and stir 30 seconds until the cumin crackles and the spices smell fragrant. Add onions with a pinch of salt and cook 8–10 minutes to deep golden, stirring only now and then.",
-    "Add the remaining ginger-garlic paste (1 minute, until the raw smell is gone), then tomato and the powdered spices except garam masala; cook 5–6 minutes until the tomato is mushy and the oil separates.",
-    "Turn the heat to low, add the mutton with its marinade and stir well so the curd doesn't split. Raise to medium-high and bhuno 6–7 minutes, until the meat changes colour and the masala clings to it. Add 3/4 cup hot water and salt (go easy, the marinade had some). Close the lid: 1 whistle on high, 20 minutes on low, natural release.",
-    "While the cooker works: drop palak and green chillies into a pan of boiling water for 90 seconds, lift into a colander, run cold water over it, and blitz to a coarse puree.",
+    "Heat oil (3 tbsp) in the pressure cooker on medium; add cumin (1 tsp), bay leaves (2), cinnamon (1 inch), cardamom (3) and cloves (4) and stir 30 seconds until the cumin crackles and the spices smell fragrant. Add onions (2) with a pinch of salt and cook 8–10 minutes to deep golden, stirring only now and then.",
+    "Add the remaining ginger-garlic paste (1 tbsp; 1 minute, until the raw smell is gone), then tomato (1) and the powdered spices (2 tsp coriander powder, 1/2 tsp turmeric, 1 tsp Kashmiri chilli powder) except garam masala; cook 5–6 minutes until the tomato is mushy and the oil separates.",
+    "Turn the heat to low, add the mutton (500 g) with its marinade and stir well so the curd doesn't split. Raise to medium-high and bhuno 6–7 minutes, until the meat changes colour and the masala clings to it. Add 3/4 cup hot water and salt (go easy, the marinade had some). Close the lid: 1 whistle on high, 20 minutes on low, natural release.",
+    "While the cooker works: drop palak (300 g / 1 large bunch) and green chillies (1–2) into a pan of boiling water for 90 seconds, lift into a colander, run cold water over it, and blitz to a coarse puree.",
     "Open the cooker and check the meat is tender. Stir in the palak puree and simmer uncovered 5–6 minutes, stirring now and then, so the spinach loses its raw edge but keeps its green; the gravy goes from dull to glossy with a little oil sheen on top.",
-    "Finish with crushed kasuri methi, garam masala and the teaspoon of ghee. Rest covered 10 minutes before serving."
+    "Finish with crushed kasuri methi (1 tsp), garam masala (1/2 tsp) and the teaspoon of ghee. Rest covered 10 minutes before serving."
   ],
   storage: "Fridge 3 days, freezer 1 month. The green darkens a shade overnight; the taste only improves.",
   reheating: "Stovetop on medium with a splash of hot water — avoid long boiling, which dulls the spinach.",
